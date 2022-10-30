@@ -11,7 +11,7 @@ get_driver.install()
 wrapper = wrap.seleniumDriverWrapper()
 wrapper.begin(webdriver)
 cardrush = cardrush.cardrushCsvBot()
-hareruya2 = cardrush.hareruya2CsvBot()
+hareruya2 = hareruya2.hareruya2CsvBot()
 
 dataDir = './data/marcket/s12_072_098'
 #cardrush.download(wrapper, 'カイリュー', '072/098', dataDir)
