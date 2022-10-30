@@ -36,8 +36,3 @@ jobs:
         git add csv
         git add data
         git diff-index --quiet HEAD || git commit -m "[BOT] test"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ steps.extract_branch.outputs.branch }}
