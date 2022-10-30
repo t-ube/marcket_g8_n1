@@ -2,6 +2,7 @@ import requests
 import urllib.request
 from concurrent import futures
 from bs4 import BeautifulSoup
+from pathlib import Path
 import pandas as pd
 import os
 import time
@@ -151,7 +152,8 @@ class cardrushSearchCsv():
 class cardrushCsvBot():
     def download(self, drvWrapper, keyword, collection_num, out_dir):
         # カード一覧へ移動
-        csv = cardrushSearchCsv(out_dir)
+        Path(out_dir).mkdir(parents=True, exist_ok=True)
+        searchCsv = cardrushSearchCsv(out_dir)
 
         new_key = keyword.replace('　',' ').replace('（',' ').replace('）',' ')
         self.getResultPageNormal(drvWrapper.getDriver(), new_key+' '+collection_num)
@@ -161,9 +163,9 @@ class cardrushCsvBot():
         parser = cardrushListParser(listHtml)
         l = parser.getItemList(keyword)
         for item in l:
-            csv.add(item)
+            searchCsv.add(item)
             print(item)
-        csv.save()
+        searchCsv.save()
         
     def getResultPageNormal(self, driver, keyword):
         url = 'https://www.cardrush-pokemon.jp/product-list?num=100&img=120&order=rank&keyword='+keyword
