@@ -153,7 +153,7 @@ class cardrushCsvBot():
 
         new_key = keyword.replace('　',' ').replace('（',' ').replace('）',' ')
         self.getResultPageNormal(drvWrapper.getDriver(), new_key+' '+collection_num)
-        drvWrapper.getWait().until(EC.visibility_of_all_elements_located)
+        drvWrapper.getWait().until(EC.visibility_of_all_elements_located(By.CLASS_NAME 'itemlist_box'))
         #time.sleep(3)
         listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
         parser = cardrushListParser(listHtml)
@@ -168,18 +168,3 @@ class cardrushCsvBot():
         url += '&Submit=%E6%A4%9C%E7%B4%A2'
         print(url)
         driver.get(url)
-
-'''
-driverWrapper = seleniumDriverWrapper()
-driverWrapper.begin()
-cardrush = cardrushCsvBot()
-os.makedirs('../data_lake/marcket/41212', exist_ok=True)
-cardrush.download(driverWrapper, 'かがやくゲッコウガ', '026/067', '../data_lake/marcket/41212')
-driverWrapper.end()
-
-#os.makedirs('../data_lake/marcket/38785', exist_ok=True)
-#cardrush.download('メタモンV', '140/190', '../data_lake/marcket/38785')
-
-#os.makedirs('../data_lake/marcket/41015', exist_ok=True)
-#cardrush.download('マリィのプライド', '419/414', '../data_lake/marcket/41015')
-'''
