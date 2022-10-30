@@ -2,25 +2,19 @@ import requests
 import urllib.request
 from concurrent import futures
 from bs4 import BeautifulSoup
+from pathlib import Path
 import pandas as pd
-import os
 import time
 import csv
 import json
-import re
 import os
 import math
 import sys
 import datetime
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
+import re
+from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.options import Options
-
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-
-from utils.seleniumDriverWrapper import seleniumDriverWrapper
+from selenium.webdriver.common.by import By
 
 class magiListParser():
     def __init__(self, _html):
@@ -310,6 +304,7 @@ class magiCsvBot():
         nextLoop = True
         page_number = first_page - 1
 
+        Path(out_dir).mkdir(parents=True, exist_ok=True)
         csv = magiSearchCsv(out_dir)
 
         while nextLoop:
@@ -329,23 +324,7 @@ class magiCsvBot():
             for item in l:
                 csv.add(item)
                 print(item)
-            '''
-            drvWrapper.getDriver().switch_to.window(drvWrapper.getDriver().window_handles[0])
-            writeList = list()
-            for item in l:
-                if item["link"] != None:
-                    print(item["link"])
-                    self.getDetailPage(drvWrapper.getDriver(), item["link"])
-                    drvWrapper.getWait().until(EC.visibility_of_all_elements_located)
-                    time.sleep(0.5)
-                    detailHtml = drvWrapper.getDriver().page_source.encode('utf-8')
-                    parser2 = magiDetailParser(detailHtml)
-                    data = parser2.parse()
-                    csv.add(item,data)
-            drvWrapper.getDriver().switch_to.window(drvWrapper.getDriver().window_handles[1])
-            '''
         csv.save()
-        
 
     def getCardFileName(self, data_src):
         basename_without_ext = os.path.splitext(os.path.basename(data_src))[0]
@@ -403,18 +382,3 @@ class magiCsvBot():
         else:
             newkey = urllib.parse.quote(temp+'　'+collection_num)
         return newkey
-
-'''
-driverWrapper = seleniumDriverWrapper()
-driverWrapper.begin()
-magi = magiCsvBot()
-os.makedirs('../data_lake/marcket/41212', exist_ok=True)
-magi.download(driverWrapper, 1, 'かがやくゲッコウガ', '026/067', '../data_lake/marcket/41212')
-driverWrapper.end()
-
-#os.makedirs('../data_lake/marcket/38785', exist_ok=True)
-#magi.download(1, 'メタモンV', '140/190', '../data_lake/marcket/38785')
-
-#os.makedirs('../data_lake/marcket/41015', exist_ok=True)
-#magi.download(1, 'マリィのプライド', '419/414', '../data_lake/marcket/41015')
-'''

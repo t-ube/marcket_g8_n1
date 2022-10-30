@@ -3,6 +3,7 @@ from selenium import webdriver
 from scripts import seleniumDriverWrapper as wrap
 from scripts import cardrush
 from scripts import hareruya2
+from scripts import magi
 import socket
 
 get_driver = GetChromeDriver()
@@ -12,10 +13,12 @@ wrapper = wrap.seleniumDriverWrapper()
 wrapper.begin(webdriver)
 cardrush = cardrush.cardrushCsvBot()
 hareruya2 = hareruya2.hareruya2CsvBot()
+magi = magi.magiCsvBot()
 
 dataDir = './data/marcket/s12_072_098'
 #cardrush.download(wrapper, 'カイリュー', '072/098', dataDir)
-hareruya2.download(wrapper, 'カイリュー', '072/098', dataDir)
+#hareruya2.download(wrapper, 'カイリュー', '072/098', dataDir)
+magi.download(wrapper, 1, 'カイリュー', '072/098', dataDir)
 wrapper.end()
 
 ip = socket.gethostbyname(socket.gethostname())

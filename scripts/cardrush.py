@@ -4,7 +4,6 @@ from concurrent import futures
 from bs4 import BeautifulSoup
 from pathlib import Path
 import pandas as pd
-import os
 import time
 import csv
 import json
