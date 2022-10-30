@@ -2,8 +2,8 @@ import requests
 import urllib.request
 from concurrent import futures
 from bs4 import BeautifulSoup
+from pathlib import Path
 import pandas as pd
-import os
 import time
 import csv
 import json
@@ -11,15 +11,9 @@ import os
 import sys
 import datetime
 import re
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
+from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.options import Options
-
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-
-from utils.seleniumDriverWrapper import seleniumDriverWrapper
+from selenium.webdriver.common.by import By
 
 class torecoloListParser():
     def __init__(self, _html):
@@ -142,10 +136,11 @@ class torecoloSearchCsv():
 class torecoloCsvBot():
     def download(self, drvWrapper, keyword, collection_num, out_dir):
         # カード一覧へ移動
+        Path(out_dir).mkdir(parents=True, exist_ok=True)
         csv = torecoloSearchCsv(out_dir)
 
         self.getResultPageNormal(drvWrapper.getDriver(), self.getNewKey(keyword,collection_num))
-        drvWrapper.getWait().until(EC.visibility_of_all_elements_located)
+        drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'block-thumbnail-t')))
         #time.sleep(3)
         listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
         parser = torecoloListParser(listHtml)
@@ -165,18 +160,3 @@ class torecoloCsvBot():
         keyword = keyword.replace('V-UNION','Ｖ－ＵＮＩＯＮ')
         newkey = keyword+'+'+collection_num
         return newkey
-
-'''
-driverWrapper = seleniumDriverWrapper()
-driverWrapper.begin()
-torecolo = torecoloCsvBot()
-os.makedirs('../data_lake/marcket/41212', exist_ok=True)
-torecolo.download(driverWrapper, 'かがやくゲッコウガ', '026/067', '../data_lake/marcket/41212')
-driverWrapper.end()
-'''
-
-#os.makedirs('../data_lake/marcket/38785', exist_ok=True)
-#torecolo.download('メタモンV', '140/190', '../data_lake/marcket/38785')
-
-#os.makedirs('../data_lake/marcket/41015', exist_ok=True)
-#torecolo.download('マリィのプライド', '419/414', '../data_lake/marcket/41015')
