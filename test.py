@@ -1,5 +1,6 @@
 from get_chrome_driver import GetChromeDriver
 from selenium import webdriver
+import time
 
 get_driver = GetChromeDriver()
 get_driver.install()
