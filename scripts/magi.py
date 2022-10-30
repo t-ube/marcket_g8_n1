@@ -314,7 +314,7 @@ class magiCsvBot():
             print('---------------')
             new_key = self.getNewKey(keyword,collection_num)
             self.getResultPageB(drvWrapper.getDriver(), new_key, page_number)
-            drvWrapper.getWait().until(EC.visibility_of_all_elements_located)
+            drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'item-list__container')))
             #time.sleep(1)
             listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
             parser = magiListParser(listHtml)
