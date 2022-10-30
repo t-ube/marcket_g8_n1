@@ -12,6 +12,8 @@ import sys
 import datetime
 import re
 from . import seleniumDriverWrapper as wrap
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 class cardrushListParser():
     def __init__(self, _html):
