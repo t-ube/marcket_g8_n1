@@ -33,6 +33,5 @@ jobs:
       run: |
         git config --local user.email "ube@coder.okinawa.jp"
         git config --local user.name "Tomoyuki UBE"
-        git add csv
         git add data
         git diff-index --quiet HEAD || git commit -m "[BOT] test"
