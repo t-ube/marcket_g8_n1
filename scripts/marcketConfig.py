@@ -28,10 +28,6 @@ class marcketConfigIO():
                     "hareruya2": {
                         "updated_at": None
                     }
-                },
-                "calc": {
-                    "latest_date": None,
-                    "updated_at": None
                 }
             }
 
