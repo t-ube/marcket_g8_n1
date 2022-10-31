@@ -1,5 +1,7 @@
 def getList():
     expansionList = [
+        'SLD',
+        'SLL',
         'S10a',
         'S10b',
         'SPZ',
