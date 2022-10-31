@@ -1,5 +1,6 @@
 def getList():
     expansionList = [
+        'SI',
         'S9',
         'S9a',
         'SLD',
