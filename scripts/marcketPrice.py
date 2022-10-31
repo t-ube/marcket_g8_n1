@@ -241,10 +241,11 @@ class backupPriceRawCSV():
     def delete(self, spanDays:int):
         current = jst.now().replace(microsecond=0)
         tdelta = datetime.timedelta(days=spanDays)
-        files = os.listdir(self.__raw_dir)
-        files_file = [f for f in files if os.path.isfile(os.path.join(self.__raw_dir, f)) and '.csv' in f]
-        for item in files_file:
-            if self.getFileDate(item) is None:
-                self.removeFile(item)
-            if current > self.getFileDate(item) + tdelta:
-                self.removeFile(item)
+        if os.path.isdir(self.__raw_dir) is True:
+            files = os.listdir(self.__raw_dir)
+            files_file = [f for f in files if os.path.isfile(os.path.join(self.__raw_dir, f)) and '.csv' in f]
+            for item in files_file:
+                if self.getFileDate(item) is None:
+                    self.removeFile(item)
+                if current > self.getFileDate(item) + tdelta:
+                    self.removeFile(item)
