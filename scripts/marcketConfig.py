@@ -1,6 +1,7 @@
 import os
 import json
 import datetime
+from pathlib import Path
 
 # 設定読み書き
 class marcketConfigIO():
@@ -73,6 +74,6 @@ class marcketConfigIO():
         self.data['marcket'][marcket]['updated_at'] = str(dt)
 
     def save(self):
+        Path(self.__out_dir).mkdir(parents=True, exist_ok=True)
         with open(self.__file, 'w') as f:
             json.dump(self.data, f, indent=4)
-
