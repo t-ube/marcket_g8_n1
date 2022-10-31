@@ -51,6 +51,7 @@ else:
         halfYearDf,
         halfYearDf.diff())
     backup.backup(1)
+    backup.delete(7)
 
 ip = socket.gethostbyname(socket.gethostname())
 print(ip)

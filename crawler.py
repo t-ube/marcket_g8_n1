@@ -9,6 +9,7 @@ from scripts import hareruya2
 from scripts import magi
 from scripts import torecolo
 from scripts import marcketConfig
+from . import expansion
 
 get_driver = GetChromeDriver()
 get_driver.install()
@@ -20,14 +21,13 @@ hareruya2Bot = hareruya2.hareruya2CsvBot()
 magiBot = magi.magiCsvBot()
 torecoloBot = torecolo.torecoloCsvBot()
 
-expansionList = [
-    'S12'
-]
+ip = socket.gethostbyname(socket.gethostname())
+print(ip)
 
 start = time.time()
 
-for expansion in expansionList:
-    dfExp = pd.read_csv('./data/card/'+expansion+'.csv', header=0, encoding='utf_8_sig')
+for exp in expansion.getList():
+    dfExp = pd.read_csv('./data/card/'+exp+'.csv', header=0, encoding='utf_8_sig')
     if time.time() - start > 480:
         break
     for index, row in dfExp.iterrows():
@@ -62,6 +62,3 @@ for expansion in expansionList:
             conf.save()
 
 wrapper.end()
-
-ip = socket.gethostbyname(socket.gethostname())
-print(ip)

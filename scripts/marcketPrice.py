@@ -5,6 +5,7 @@ import pandas as pd
 import datetime
 import shutil
 import re
+from . import jst
 
 # 価格データ
 class priceDaily():
@@ -101,7 +102,7 @@ class priceIO():
             self.data = json.load(f)
 
     def checkUpdate(self, spanHours):
-        current = datetime.datetime.now().replace(microsecond=0)
+        current = jst.now().replace(microsecond=0)
         if 'calc' not in self.data:
             return True
         if 'updated_at' not in self.data['calc']:
@@ -142,7 +143,7 @@ class priceIO():
         self.data['price'][span]['diff']['data'].append(price.data)
 
     def save(self):
-        self.data['calc']['updated_at'] = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        self.data['calc']['updated_at'] = jst.now().strftime('%Y-%m-%d %H:%M:%S')
         #print(self.data)
         with open(self.__file, 'w') as f:
             json.dump(self.data, f, indent=4)
@@ -223,8 +224,11 @@ class backupPriceRawCSV():
         shutil.move(self.__data_dir + '/' + file,
         self.__raw_dir+ '/' + file)
 
+    def removeFile(self, file:str):
+        os.remove(self.__raw_dir + '/' + file)
+
     def backup(self, spanDays:int):
-        current = datetime.datetime.now().replace(microsecond=0)
+        current = jst.now().replace(microsecond=0)
         tdelta = datetime.timedelta(days=spanDays)
         files = os.listdir(self.__data_dir)
         files_file = [f for f in files if os.path.isfile(os.path.join(self.__data_dir, f)) and '.csv' in f]
@@ -233,4 +237,14 @@ class backupPriceRawCSV():
                 continue
             if current > self.getFileDate(item) + tdelta:
                 self.moveFile(item)
-        
+
+    def delete(self, spanDays:int):
+        current = jst.now().replace(microsecond=0)
+        tdelta = datetime.timedelta(days=spanDays)
+        files = os.listdir(self.__raw_dir)
+        files_file = [f for f in files if os.path.isfile(os.path.join(self.__raw_dir, f)) and '.csv' in f]
+        for item in files_file:
+            if self.getFileDate(item) is None:
+                self.removeFile(item)
+            if current > self.getFileDate(item) + tdelta:
+                self.removeFile(item)
