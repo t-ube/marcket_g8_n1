@@ -5,6 +5,8 @@ def getList():
         'SLL',
         'S10a',
         'S10b',
+        'S10P',
+        'S10D',
         'SPZ',
         'SPD',
         'S11',
