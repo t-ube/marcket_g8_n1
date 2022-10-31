@@ -2,25 +2,19 @@ import requests
 import urllib.request
 from concurrent import futures
 from bs4 import BeautifulSoup
+from pathlib import Path
 import pandas as pd
-import os
 import time
 import csv
 import json
-import re
 import os
 import sys
 import math
 import datetime
-from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
+import re
+from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-
-from utils.seleniumDriverWrapper import seleniumDriverWrapper
 
 class mercariListParser():
     def __init__(self, _html):
@@ -181,6 +175,7 @@ class mercariCsvBot():
     def download(self, drvWrapper, card_name, regulation, collection_num, out_dir):
         nextLoop = True
         page_number = 0
+        Path(out_dir).mkdir(parents=True, exist_ok=True)
         csv = mercariSearchCsv(out_dir)
         while nextLoop:
             page_number += 1
@@ -189,7 +184,7 @@ class mercariCsvBot():
             print('---------------')
             if page_number == 1:
                 self.getResultPageNormal(drvWrapper.getDriver(), regulation, collection_num)
-            drvWrapper.getWait().until(EC.visibility_of_all_elements_located)
+            drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.ID,'item-grid')))
             time.sleep(5)
             listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
             parser = mercariListParser(listHtml)
@@ -213,18 +208,3 @@ class mercariCsvBot():
         url += regulation + ' ' + collection_num + ' -処分 -まとめ -ほか -他'
         url += '&order=desc&sort=created_time&status=on_sale&category_id=1289'
         driver.get(url)
-
-'''
-driverWrapper = seleniumDriverWrapper()
-driverWrapper.begin()
-mercari = mercariCsvBot()
-os.makedirs('../data_lake/marcket/test', exist_ok=True)
-mercari.download(driverWrapper, 'かがやくルチャブル','S9a','043/067', '../data_lake/marcket/test')
-driverWrapper.end()
-'''
-
-#os.makedirs('../data_lake/marcket/38785', exist_ok=True)
-#mercari.download('メタモンV', '140/190', '../data_lake/marcket/38785')
-
-#os.makedirs('../data_lake/marcket/41015', exist_ok=True)
-#mercari.download('マリィのプライド', '419/414', '../data_lake/marcket/41015')
