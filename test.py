@@ -33,18 +33,26 @@ for expansion in expansionList:
         if row['is_mirror'] == 'TRUE':
             print('skip:'+row['name'])
             continue
-        
+
         dataDir = './data/marcket/'+row['master_id']
         conf = marcketConfig.marcketConfigIO(dataDir)
         conf.load()
 
-        #cardrushBot.download(wrapper, 'カイリュー', '072/098', dataDir)
-        #hareruya2Bot.download(wrapper, 'カイリュー', '072/098', dataDir)
-        #magiBot.download(wrapper, 1, 'カイリュー', '072/098', dataDir)
-
         if conf.checkUpdate('torecolo', 24):
             torecoloBot.download(wrapper, row['name'], row['cn'], dataDir)
             conf.update('torecolo')
+            conf.save()
+        if conf.checkUpdate('cardrush', 24):
+            cardrushBot.download(wrapper, row['name'], row['cn'], dataDir)
+            conf.update('cardrush')
+            conf.save()
+        if conf.checkUpdate('hareruya2', 24):
+            hareruya2Bot.download(wrapper, row['name'], row['cn'], dataDir)
+            conf.update('hareruya2')
+            conf.save()
+        if conf.checkUpdate('magi', 24):
+            magiBot.download(wrapper, 1, row['name'], row['cn'], dataDir)
+            conf.update('magi')
             conf.save()
 
 wrapper.end()
