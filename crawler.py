@@ -3,13 +3,13 @@ from selenium import webdriver
 import socket
 import time
 import pandas as pd
+import expansion
 from scripts import seleniumDriverWrapper as wrap
 from scripts import cardrush
 from scripts import hareruya2
 from scripts import magi
 from scripts import torecolo
 from scripts import marcketConfig
-from . import expansion
 
 get_driver = GetChromeDriver()
 get_driver.install()
