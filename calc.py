@@ -1,7 +1,7 @@
 import socket
-import datetime
 import pandas as pd
 from pathlib import Path
+from scripts import jst
 from scripts import marcketCalc
 from scripts import marcketPrice
 
@@ -14,7 +14,9 @@ def getHalfYearData(ioCsv):
     print(formatDf)
     return formatDf
 
-currentDT = datetime.datetime.now()
+currentDT = jst.now()
+print(currentDT)
+
 Path('./dist').mkdir(parents=True, exist_ok=True)
 
 dataDir = './data/marcket/s12_072_098'

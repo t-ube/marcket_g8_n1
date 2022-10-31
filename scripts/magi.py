@@ -12,6 +12,7 @@ import math
 import sys
 import datetime
 import re
+from . import jst
 from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -259,7 +260,7 @@ class magiCsv():
 
 class magiSearchCsv():
     def __init__(self,_out_dir):
-        dt = datetime.datetime.now().replace(microsecond=0)
+        dt = jst.now().replace(microsecond=0)
         self.__out_dir = _out_dir
         self.__list = list()
         self.__date = str(dt.date())

@@ -2,6 +2,7 @@ import os
 import json
 import datetime
 from pathlib import Path
+from . import jst
 
 # 設定読み書き
 class marcketConfigIO():
@@ -47,7 +48,7 @@ class marcketConfigIO():
                 }
 
     def checkUpdate(self, marcket, spanHours):
-        current = datetime.datetime.now().replace(microsecond=0)
+        current = jst.now().replace(microsecond=0)
         if 'marcket' not in self.data:
             return False
         if marcket not in self.data['marcket']:
@@ -66,7 +67,7 @@ class marcketConfigIO():
         return False
 
     def update(self, marcket):
-        dt = datetime.datetime.now().replace(microsecond=0)
+        dt = jst.now().replace(microsecond=0)
         self.data['marcket'][marcket]['updated_at'] = str(dt)
 
     def save(self):
