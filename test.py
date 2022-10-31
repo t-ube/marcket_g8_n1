@@ -1,6 +1,7 @@
 from get_chrome_driver import GetChromeDriver
 from selenium import webdriver
 import socket
+import time
 import pandas as pd
 from scripts import seleniumDriverWrapper as wrap
 from scripts import cardrush
@@ -23,10 +24,15 @@ expansionList = [
     'S12'
 ]
 
+start = time.time()
+
 for expansion in expansionList:
     dfExp = pd.read_csv('./data/card/'+expansion+'.csv', header=0, encoding='utf_8_sig')
-
+    if time.time() - start > 120:
+        break
     for index, row in dfExp.iterrows():
+        if time.time() - start > 120:
+            break
         if pd.isnull(row['master_id']):
             print('skip:'+row['name'])
             continue
