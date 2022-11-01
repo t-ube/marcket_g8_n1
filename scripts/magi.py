@@ -16,6 +16,8 @@ from . import jst
 from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
+import traceback
 
 class magiListParser():
     def __init__(self, _html):
@@ -315,16 +317,23 @@ class magiCsvBot():
             print('---------------')
             new_key = self.getNewKey(keyword,collection_num)
             self.getResultPageB(drvWrapper.getDriver(), new_key, page_number)
-            drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'item-list__container')))
-            #time.sleep(1)
-            listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
-            parser = magiListParser(listHtml)
-            l = parser.getItemList(keyword)
-            if len(l) == 0:
-                break
-            for item in l:
-                csv.add(item)
-                print(item)
+
+            try:
+                drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'item-list__container')))
+                #time.sleep(1)
+                listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
+                parser = magiListParser(listHtml)
+                l = parser.getItemList(keyword)
+                if len(l) == 0:
+                    break
+                for item in l:
+                    csv.add(item)
+                    print(item)
+            except TimeoutException as e:
+                print("TimeoutException")
+            except Exception as e:
+                print(traceback.format_exc())
+
         csv.save()
 
     def getCardFileName(self, data_src):

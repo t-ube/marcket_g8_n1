@@ -9,6 +9,8 @@ from . import jst
 from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
+import traceback
 
 class cardrushListParser():
     def __init__(self, _html):
@@ -151,15 +153,21 @@ class cardrushCsvBot():
 
         new_key = keyword.replace('　',' ').replace('（',' ').replace('）',' ')
         self.getResultPageNormal(drvWrapper.getDriver(), new_key+' '+collection_num)
-        drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'itemlist_box')))
-        #time.sleep(3)
-        listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
-        parser = cardrushListParser(listHtml)
-        l = parser.getItemList(keyword)
-        for item in l:
-            searchCsv.add(item)
-            print(item)
-        searchCsv.save()
+
+        try:
+            drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'itemlist_box')))
+            #time.sleep(3)
+            listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
+            parser = cardrushListParser(listHtml)
+            l = parser.getItemList(keyword)
+            for item in l:
+                searchCsv.add(item)
+                print(item)
+            searchCsv.save()
+        except TimeoutException as e:
+            print("TimeoutException")
+        except Exception as e:
+            print(traceback.format_exc())
         
     def getResultPageNormal(self, driver, keyword):
         url = 'https://www.cardrush-pokemon.jp/product-list?num=100&img=120&order=rank&keyword='+keyword
