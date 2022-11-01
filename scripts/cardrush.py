@@ -9,7 +9,7 @@ from . import jst
 from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException
 import traceback
 
 class cardrushListParser():
@@ -173,4 +173,9 @@ class cardrushCsvBot():
         url = 'https://www.cardrush-pokemon.jp/product-list?num=100&img=120&order=rank&keyword='+keyword
         url += '&Submit=%E6%A4%9C%E7%B4%A2'
         print(url)
-        driver.get(url)
+        try:
+            driver.get(url)
+        except WebDriverException as e:
+            print("WebDriverException")
+        except Exception as e:
+            print(traceback.format_exc())

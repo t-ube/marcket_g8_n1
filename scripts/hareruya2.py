@@ -15,7 +15,7 @@ from . import jst
 from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException
 import traceback
 
 class hareruya2ListParser():
@@ -162,7 +162,12 @@ class hareruya2CsvBot():
         url = 'https://www.hareruya2.com/product-list?keyword='+keyword
         url += '&Submit='
         print(url)
-        driver.get(url)
+        try:
+            driver.get(url)
+        except WebDriverException as e:
+            print("WebDriverException")
+        except Exception as e:
+            print(traceback.format_exc())
 
     def getNewKey(self, keyword, collection_num):
         if 'V-UNION' in keyword and 'モルペコ' in keyword:

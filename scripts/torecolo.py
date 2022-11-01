@@ -15,7 +15,7 @@ from . import jst
 from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException
 import traceback
 
 class torecoloListParser():
@@ -163,7 +163,12 @@ class torecoloCsvBot():
         url = 'https://www.torecolo.jp/shop/goods/search.aspx?ct2=1074&search=x&keyword='+keyword
         url += '&search=search'
         print(url)
-        driver.get(url)
+        try:
+            driver.get(url)
+        except WebDriverException as e:
+            print("WebDriverException")
+        except Exception as e:
+            print(traceback.format_exc())
 
     def getNewKey(self, keyword, collection_num):
         keyword = keyword.replace('V-UNION','Ｖ－ＵＮＩＯＮ')

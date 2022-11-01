@@ -16,7 +16,7 @@ from . import jst
 from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException
 import traceback
 
 class magiListParser():
@@ -360,7 +360,12 @@ class magiCsvBot():
         url += '&forms_search_items%5Bpage%5D='+ str(page_number)
         url += '&commit=検索する'
         print(url)
-        driver.get(url)
+        try:
+            driver.get(url)
+        except WebDriverException as e:
+            print("WebDriverException")
+        except Exception as e:
+            print(traceback.format_exc())
 
     def getResultPageB(self, driver, keyword, page_number):
         url = 'https://magi.camp/items/search?'
@@ -376,11 +381,21 @@ class magiCsvBot():
         url += '&item%5Bcustom_attributes%5D%5B0%5D%5Bvalues%5D%5B%5D='
         url += '&page='+ str(page_number)
         print(url)
-        driver.get(url)
+        try:
+            driver.get(url)
+        except WebDriverException as e:
+            print("WebDriverException")
+        except Exception as e:
+            print(traceback.format_exc())
 
     def getDetailPage(self, driver, link):
         url = 'https://magi.camp'+link
-        driver.get(url)
+        try:
+            driver.get(url)
+        except WebDriverException as e:
+            print("WebDriverException")
+        except Exception as e:
+            print(traceback.format_exc())
 
     def getNewKey(self, keyword, collection_num):
         temp = keyword.replace('　',' ').replace('（',' ').replace('）',' ')
