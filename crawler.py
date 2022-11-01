@@ -28,10 +28,10 @@ start = time.time()
 
 for exp in expansion.getList():
     dfExp = pd.read_csv('./data/card/'+exp+'.csv', header=0, encoding='utf_8_sig')
-    if time.time() - start > 3300:
+    if time.time() - start > 480:
         break
     for index, row in dfExp.iterrows():
-        if time.time() - start > 3300:
+        if time.time() - start > 480:
             break
         if pd.isnull(row['master_id']):
             print('skip:'+row['name'])
