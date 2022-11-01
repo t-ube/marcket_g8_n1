@@ -26,6 +26,7 @@ class seleniumDriverWrapper():
         return self.__driver
 
     def getWait(self):
+        self.__wait = WebDriverWait(driver=self.__driver, timeout=5)
         return self.__wait
 
     def end(self):

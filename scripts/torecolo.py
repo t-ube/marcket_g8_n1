@@ -15,6 +15,8 @@ from . import jst
 from . import seleniumDriverWrapper as wrap
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
+import traceback
 
 class torecoloListParser():
     def __init__(self, _html):
@@ -141,15 +143,21 @@ class torecoloCsvBot():
         csv = torecoloSearchCsv(out_dir)
 
         self.getResultPageNormal(drvWrapper.getDriver(), self.getNewKey(keyword,collection_num))
-        drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'block-thumbnail-t')))
-        #time.sleep(3)
-        listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
-        parser = torecoloListParser(listHtml)
-        l = parser.getItemList(keyword)
-        for item in l:
-            csv.add(item)
-            print(item)
-        csv.save()
+
+        try:
+            drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'block-thumbnail-t')))
+            #time.sleep(3)
+            listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
+            parser = torecoloListParser(listHtml)
+            l = parser.getItemList(keyword)
+            for item in l:
+                csv.add(item)
+                print(item)
+            csv.save()
+        except TimeoutException as e:
+            print("TimeoutException")
+        except Exception as e:
+            print(traceback.format_exc())
     
     def getResultPageNormal(self, driver, keyword):
         url = 'https://www.torecolo.jp/shop/goods/search.aspx?ct2=1074&search=x&keyword='+keyword
