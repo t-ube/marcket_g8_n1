@@ -14,6 +14,7 @@ def getList():
         'S11',
         'SP6',
         'S11a',
-        'S12'
+        'S12',
+        'S-P'
     ]
     return expansionList
