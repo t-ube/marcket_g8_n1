@@ -1,35 +1,34 @@
 {
     "price": {
-        "current": null,
+        "current": {
+            "datetime": "2022-11-02 00:00:00",
+            "count": 3.0,
+            "mean": 1980.0,
+            "std": 0.0,
+            "min": 1980.0,
+            "25%": 1980.0,
+            "50%": 1980.0,
+            "75%": 1980.0,
+            "max": 1980.0
+        },
         "summary7Days": {
-            "datetime": "2022-11-01 00:00:00",
-            "count": 0.0,
-            "mean": null,
-            "std": null,
-            "min": null,
-            "25%": null,
-            "50%": null,
-            "75%": null,
-            "max": null
+            "datetime": "2022-11-02 00:00:00",
+            "count": 3.0,
+            "mean": 0.0,
+            "std": 0.0,
+            "min": 0.0,
+            "25%": 0.0,
+            "50%": 0.0,
+            "75%": 0.0,
+            "max": 0.0
         },
         "weekly": {
             "archive": {
                 "count": 7,
                 "data": [
                     {
-                        "datetime": "2022-10-26 00:00:00",
-                        "count": 0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
-                    },
-                    {
                         "datetime": "2022-10-27 00:00:00",
-                        "count": 0,
+                        "count": 0.0,
                         "mean": null,
                         "std": null,
                         "min": null,
@@ -40,7 +39,7 @@
                     },
                     {
                         "datetime": "2022-10-28 00:00:00",
-                        "count": 0,
+                        "count": 0.0,
                         "mean": null,
                         "std": null,
                         "min": null,
@@ -51,7 +50,7 @@
                     },
                     {
                         "datetime": "2022-10-29 00:00:00",
-                        "count": 0,
+                        "count": 0.0,
                         "mean": null,
                         "std": null,
                         "min": null,
@@ -62,7 +61,7 @@
                     },
                     {
                         "datetime": "2022-10-30 00:00:00",
-                        "count": 0,
+                        "count": 0.0,
                         "mean": null,
                         "std": null,
                         "min": null,
@@ -73,7 +72,7 @@
                     },
                     {
                         "datetime": "2022-10-31 00:00:00",
-                        "count": 0,
+                        "count": 0.0,
                         "mean": null,
                         "std": null,
                         "min": null,
@@ -84,7 +83,7 @@
                     },
                     {
                         "datetime": "2022-11-01 00:00:00",
-                        "count": 0,
+                        "count": 0.0,
                         "mean": null,
                         "std": null,
                         "min": null,
@@ -92,6 +91,17 @@
                         "50%": null,
                         "75%": null,
                         "max": null
+                    },
+                    {
+                        "datetime": "2022-11-02 00:00:00",
+                        "count": 3.0,
+                        "mean": 1980.0,
+                        "std": 0.0,
+                        "min": 1980.0,
+                        "25%": 1980.0,
+                        "50%": 1980.0,
+                        "75%": 1980.0,
+                        "max": 1980.0
                     }
                 ]
             },
@@ -99,7 +109,7 @@
                 "count": 7,
                 "data": [
                     {
-                        "datetime": "2022-10-26 00:00:00",
+                        "datetime": "2022-10-27 00:00:00",
                         "count": null,
                         "mean": null,
                         "std": null,
@@ -110,70 +120,70 @@
                         "max": null
                     },
                     {
-                        "datetime": "2022-10-27 00:00:00",
-                        "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
-                    },
-                    {
                         "datetime": "2022-10-28 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
                     },
                     {
                         "datetime": "2022-10-29 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
                     },
                     {
                         "datetime": "2022-10-30 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
                     },
                     {
                         "datetime": "2022-10-31 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
                     },
                     {
                         "datetime": "2022-11-01 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
+                    },
+                    {
+                        "datetime": "2022-11-02 00:00:00",
+                        "count": 3.0,
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
                     }
                 ]
             }
@@ -185,35 +195,35 @@
                     {
                         "datetime": "2022-10-03 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 1980.0,
+                        "std": 0.0,
+                        "min": 1980.0,
+                        "25%": 1980.0,
+                        "50%": 1980.0,
+                        "75%": 1980.0,
+                        "max": 1980.0
                     },
                     {
                         "datetime": "2022-10-17 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 1980.0,
+                        "std": 0.0,
+                        "min": 1980.0,
+                        "25%": 1980.0,
+                        "50%": 1980.0,
+                        "75%": 1980.0,
+                        "max": 1980.0
                     },
                     {
                         "datetime": "2022-10-31 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 1980.0,
+                        "std": 0.0,
+                        "min": 1980.0,
+                        "25%": 1980.0,
+                        "50%": 1980.0,
+                        "75%": 1980.0,
+                        "max": 1980.0
                     }
                 ]
             },
@@ -234,24 +244,24 @@
                     {
                         "datetime": "2022-10-17 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
                     },
                     {
                         "datetime": "2022-10-31 00:00:00",
                         "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
                     }
                 ]
             }
@@ -268,7 +278,7 @@
         }
     },
     "calc": {
-        "latest_date": null,
-        "updated_at": "2022-11-01 20:09:32"
+        "latest_date": "2022-11-02 00:00:00",
+        "updated_at": "2022-11-02 20:10:23"
     }
 }
