@@ -15,6 +15,7 @@ def getList():
         'SP6',
         'S11a',
         'S12',
+        'S12a',
         'SO',
         'S-P'
     ]
