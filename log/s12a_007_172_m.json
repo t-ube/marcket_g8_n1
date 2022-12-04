@@ -2,11 +2,35 @@
     "items": [
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26201",
+            "price": 100,
+            "name": "ハヤシガメ:ミラー(",
+            "date": "2022-12-04",
+            "stock": 11
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26030",
             "price": 50,
             "name": "ハヤシガメ(CP){",
-            "date": "2022-12-03",
+            "date": "2022-12-04",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38262",
+            "price": 80,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-04",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-04",
+            "stock": 158
         },
         {
             "market": "hareruya2",
@@ -17,12 +41,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38091",
-            "price": 30,
-            "name": "ハヤシガメ007/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26030",
+            "price": 50,
+            "name": "ハヤシガメ(CP){",
             "date": "2022-12-03",
-            "stock": 159
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -33,12 +57,12 @@
             "stock": 44
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26030",
-            "price": 50,
-            "name": "ハヤシガメ(CP){",
-            "date": "2022-12-02",
-            "stock": 40
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-03",
+            "stock": 159
         },
         {
             "market": "hareruya2",
@@ -49,12 +73,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38091",
-            "price": 30,
-            "name": "ハヤシガメ007/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26030",
+            "price": 50,
+            "name": "ハヤシガメ(CP){",
             "date": "2022-12-02",
-            "stock": 159
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -63,6 +87,14 @@
             "name": "ハヤシガメ007/1",
             "date": "2022-12-02",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-02",
+            "stock": 159
         }
     ]
 }

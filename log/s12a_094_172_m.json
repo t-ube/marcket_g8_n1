@@ -2,11 +2,35 @@
     "items": [
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26237",
+            "price": 100,
+            "name": "コイル:ミラー(CP",
+            "date": "2022-12-04",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26117",
             "price": 50,
             "name": "コイル(CP){鋼}",
-            "date": "2022-12-03",
+            "date": "2022-12-04",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38298",
+            "price": 50,
+            "name": "コイル094/172",
+            "date": "2022-12-04",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38178",
+            "price": 30,
+            "name": "コイル094/172",
+            "date": "2022-12-04",
+            "stock": 154
         },
         {
             "market": "hareruya2",
@@ -17,12 +41,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38298",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26117",
             "price": 50,
-            "name": "コイル094/172",
+            "name": "コイル(CP){鋼}",
             "date": "2022-12-03",
-            "stock": 41
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -33,12 +57,12 @@
             "stock": 158
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26117",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38298",
             "price": 50,
-            "name": "コイル(CP){鋼}",
-            "date": "2022-12-02",
-            "stock": 40
+            "name": "コイル094/172",
+            "date": "2022-12-03",
+            "stock": 41
         },
         {
             "market": "hareruya2",
@@ -49,12 +73,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38178",
-            "price": 30,
-            "name": "コイル094/172",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26117",
+            "price": 50,
+            "name": "コイル(CP){鋼}",
             "date": "2022-12-02",
-            "stock": 159
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -63,6 +87,14 @@
             "name": "コイル094/172",
             "date": "2022-12-02",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38178",
+            "price": 30,
+            "name": "コイル094/172",
+            "date": "2022-12-02",
+            "stock": 159
         }
     ]
 }

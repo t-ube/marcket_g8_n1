@@ -2,11 +2,35 @@
     "items": [
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26238",
+            "price": 100,
+            "name": "レアコイル:ミラー(",
+            "date": "2022-12-04",
+            "stock": 20
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26118",
             "price": 50,
             "name": "レアコイル(CP){",
-            "date": "2022-12-03",
+            "date": "2022-12-04",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38299",
+            "price": 50,
+            "name": "レアコイル095/1",
+            "date": "2022-12-04",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38179",
+            "price": 30,
+            "name": "レアコイル095/1",
+            "date": "2022-12-04",
+            "stock": 158
         },
         {
             "market": "hareruya2",
@@ -17,12 +41,12 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38299",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26118",
             "price": 50,
-            "name": "レアコイル095/1",
+            "name": "レアコイル(CP){",
             "date": "2022-12-03",
-            "stock": 48
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -33,12 +57,12 @@
             "stock": 159
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26118",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38299",
             "price": 50,
-            "name": "レアコイル(CP){",
-            "date": "2022-12-02",
-            "stock": 40
+            "name": "レアコイル095/1",
+            "date": "2022-12-03",
+            "stock": 48
         },
         {
             "market": "hareruya2",
@@ -49,12 +73,12 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38179",
-            "price": 30,
-            "name": "レアコイル095/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26118",
+            "price": 50,
+            "name": "レアコイル(CP){",
             "date": "2022-12-02",
-            "stock": 159
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -63,6 +87,14 @@
             "name": "レアコイル095/1",
             "date": "2022-12-02",
             "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38179",
+            "price": 30,
+            "name": "レアコイル095/1",
+            "date": "2022-12-02",
+            "stock": 159
         }
     ]
 }

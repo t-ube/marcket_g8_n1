@@ -2,6 +2,38 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1110927821",
+            "price": 23800,
+            "name": "ポケモンカード カナ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1531809092",
+            "price": 11340,
+            "name": "〔状態A-〕カナザワ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30927",
+            "price": 23800,
+            "name": "カナザワのピカチュウ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30925",
+            "price": 10800,
+            "name": "カナザワのピカチュウ",
+            "date": "2022-12-04",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/1531809092",
             "price": 11340,
             "name": "〔状態A-〕カナザワ",
@@ -218,17 +250,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1531809092",
-            "price": 11340,
-            "name": "〔状態A-〕カナザワ",
+            "link": "/items/1110927821",
+            "price": 23800,
+            "name": "ポケモンカード カナ",
             "date": "2022-11-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1110927821",
-            "price": 23800,
-            "name": "ポケモンカード カナ",
+            "link": "/items/1531809092",
+            "price": 11340,
+            "name": "〔状態A-〕カナザワ",
             "date": "2022-11-27",
             "stock": 1
         },
@@ -242,11 +274,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30925",
-            "price": 10800,
+            "link": "https://www.cardrush-pokemon.jp/product/30927",
+            "price": 23800,
             "name": "カナザワのピカチュウ",
             "date": "2022-11-27",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -258,11 +290,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30927",
-            "price": 23800,
+            "link": "https://www.cardrush-pokemon.jp/product/30925",
+            "price": 10800,
             "name": "カナザワのピカチュウ",
             "date": "2022-11-27",
-            "stock": 1
+            "stock": 4
         }
     ]
 }

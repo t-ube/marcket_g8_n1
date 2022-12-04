@@ -2,11 +2,35 @@
     "items": [
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26197",
+            "price": 100,
+            "name": "パラセクト:ミラー(",
+            "date": "2022-12-04",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26025",
             "price": 50,
             "name": "パラセクト(CP){",
-            "date": "2022-12-03",
+            "date": "2022-12-04",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38258",
+            "price": 50,
+            "name": "パラセクト002/1",
+            "date": "2022-12-04",
+            "stock": 44
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38086",
+            "price": 30,
+            "name": "パラセクト002/1",
+            "date": "2022-12-04",
+            "stock": 154
         },
         {
             "market": "hareruya2",
@@ -17,12 +41,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38086",
-            "price": 30,
-            "name": "パラセクト002/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26025",
+            "price": 50,
+            "name": "パラセクト(CP){",
             "date": "2022-12-03",
-            "stock": 155
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -33,12 +57,12 @@
             "stock": 43
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26025",
-            "price": 50,
-            "name": "パラセクト(CP){",
-            "date": "2022-12-02",
-            "stock": 40
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38086",
+            "price": 30,
+            "name": "パラセクト002/1",
+            "date": "2022-12-03",
+            "stock": 155
         },
         {
             "market": "hareruya2",
@@ -49,12 +73,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38086",
-            "price": 30,
-            "name": "パラセクト002/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26025",
+            "price": 50,
+            "name": "パラセクト(CP){",
             "date": "2022-12-02",
-            "stock": 155
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -63,6 +87,14 @@
             "name": "パラセクト002/1",
             "date": "2022-12-02",
             "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38086",
+            "price": 30,
+            "name": "パラセクト002/1",
+            "date": "2022-12-02",
+            "stock": 155
         }
     ]
 }

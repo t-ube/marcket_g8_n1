@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/22344",
             "price": 900,
             "name": "フライゴンV(SR)",
+            "date": "2022-12-04",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24449",
+            "price": 680,
+            "name": "フライゴンV110/",
+            "date": "2022-12-04",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24422",
+            "price": 780,
+            "name": "フライゴンV110/",
+            "date": "2022-12-04",
+            "stock": 106
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22344",
+            "price": 900,
+            "name": "フライゴンV(SR)",
             "date": "2022-12-03",
             "stock": 5
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24422",
-            "price": 780,
-            "name": "フライゴンV110/",
-            "date": "2022-12-01",
-            "stock": 126
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24449",
             "price": 680,
             "name": "フライゴンV110/",
             "date": "2022-12-01",
             "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24422",
+            "price": 780,
+            "name": "フライゴンV110/",
+            "date": "2022-12-01",
+            "stock": 126
         },
         {
             "market": "cardrush",
@@ -90,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24476",
-            "price": 480,
-            "name": "フライゴンV110/",
-            "date": "2022-11-30",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24422",
             "price": 780,
             "name": "フライゴンV110/",
             "date": "2022-11-30",
             "stock": 126
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24476",
+            "price": 480,
+            "name": "フライゴンV110/",
+            "date": "2022-11-30",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -154,11 +178,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24422",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/24476",
+            "price": 480,
             "name": "フライゴンV110/",
             "date": "2022-11-28",
-            "stock": 128
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -170,11 +194,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24476",
-            "price": 480,
+            "link": "https://www.cardrush-pokemon.jp/product/24422",
+            "price": 780,
             "name": "フライゴンV110/",
             "date": "2022-11-28",
-            "stock": 7
+            "stock": 128
         },
         {
             "market": "hareruya2",
@@ -183,6 +207,14 @@
             "name": "フライゴンV(SR)",
             "date": "2022-11-27",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24422",
+            "price": 780,
+            "name": "フライゴンV110/",
+            "date": "2022-11-27",
+            "stock": 128
         },
         {
             "market": "cardrush",
@@ -199,14 +231,6 @@
             "name": "フライゴンV110/",
             "date": "2022-11-27",
             "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24422",
-            "price": 780,
-            "name": "フライゴンV110/",
-            "date": "2022-11-27",
-            "stock": 128
         }
     ]
 }

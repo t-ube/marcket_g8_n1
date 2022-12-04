@@ -2,11 +2,35 @@
     "items": [
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26204",
+            "price": 100,
+            "name": "ブーバー:ミラー(C",
+            "date": "2022-12-04",
+            "stock": 20
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26039",
             "price": 50,
             "name": "ブーバー(CP){炎",
-            "date": "2022-12-03",
+            "date": "2022-12-04",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38265",
+            "price": 50,
+            "name": "ブーバー016/17",
+            "date": "2022-12-04",
+            "stock": 47
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-04",
+            "stock": 158
         },
         {
             "market": "hareruya2",
@@ -17,12 +41,12 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38100",
-            "price": 30,
-            "name": "ブーバー016/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26039",
+            "price": 50,
+            "name": "ブーバー(CP){炎",
             "date": "2022-12-03",
-            "stock": 158
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -33,12 +57,12 @@
             "stock": 44
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26039",
-            "price": 50,
-            "name": "ブーバー(CP){炎",
-            "date": "2022-12-02",
-            "stock": 40
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-03",
+            "stock": 158
         },
         {
             "market": "hareruya2",
@@ -49,12 +73,12 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38100",
-            "price": 30,
-            "name": "ブーバー016/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26039",
+            "price": 50,
+            "name": "ブーバー(CP){炎",
             "date": "2022-12-02",
-            "stock": 158
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -63,6 +87,14 @@
             "name": "ブーバー016/17",
             "date": "2022-12-02",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-02",
+            "stock": 158
         }
     ]
 }

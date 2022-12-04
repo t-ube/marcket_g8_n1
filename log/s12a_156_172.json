@@ -1,12 +1,44 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/930663463",
+            "price": 40,
+            "name": "1枚40円 s12a",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26270",
+            "price": 100,
+            "name": "チェレンの気くばり:",
+            "date": "2022-12-04",
+            "stock": 20
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26179",
             "price": 50,
             "name": "チェレンの気くばり(",
-            "date": "2022-12-03",
-            "stock": 33
+            "date": "2022-12-04",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38331",
+            "price": 80,
+            "name": "チェレンの気くばり1",
+            "date": "2022-12-04",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38240",
+            "price": 50,
+            "name": "チェレンの気くばり1",
+            "date": "2022-12-04",
+            "stock": 410
         },
         {
             "market": "hareruya2",
@@ -17,12 +49,12 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
-            "name": "チェレンの気くばり1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26179",
+            "price": 50,
+            "name": "チェレンの気くばり(",
             "date": "2022-12-03",
-            "stock": 39
+            "stock": 33
         },
         {
             "market": "cardrush",
@@ -33,12 +65,12 @@
             "stock": 416
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
-            "name": "チェレンの気くばり:",
-            "date": "2022-12-02",
-            "stock": 20
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38331",
+            "price": 80,
+            "name": "チェレンの気くばり1",
+            "date": "2022-12-03",
+            "stock": 39
         },
         {
             "market": "hareruya2",
@@ -49,12 +81,12 @@
             "stock": 34
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
-            "name": "チェレンの気くばり1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26270",
+            "price": 100,
+            "name": "チェレンの気くばり:",
             "date": "2022-12-02",
-            "stock": 39
+            "stock": 20
         },
         {
             "market": "cardrush",
@@ -63,6 +95,14 @@
             "name": "チェレンの気くばり1",
             "date": "2022-12-02",
             "stock": 420
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38331",
+            "price": 80,
+            "name": "チェレンの気くばり1",
+            "date": "2022-12-02",
+            "stock": 39
         }
     ]
 }

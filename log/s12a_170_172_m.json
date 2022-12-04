@@ -1,12 +1,52 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/223892187",
+            "price": 50,
+            "name": "1枚50円 s12a",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2009887276",
+            "price": 100,
+            "name": "マグマの滝壺 170",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26282",
+            "price": 100,
+            "name": "マグマの滝壺:ミラー",
+            "date": "2022-12-04",
+            "stock": 20
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26193",
             "price": 50,
             "name": "マグマの滝壺(CP)",
-            "date": "2022-12-03",
-            "stock": 32
+            "date": "2022-12-04",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38343",
+            "price": 80,
+            "name": "マグマの滝壺170/",
+            "date": "2022-12-04",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38254",
+            "price": 50,
+            "name": "マグマの滝壺170/",
+            "date": "2022-12-04",
+            "stock": 401
         },
         {
             "market": "hareruya2",
@@ -17,12 +57,12 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38343",
-            "price": 80,
-            "name": "マグマの滝壺170/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26193",
+            "price": 50,
+            "name": "マグマの滝壺(CP)",
             "date": "2022-12-03",
-            "stock": 39
+            "stock": 32
         },
         {
             "market": "cardrush",
@@ -33,12 +73,12 @@
             "stock": 414
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26282",
-            "price": 100,
-            "name": "マグマの滝壺:ミラー",
-            "date": "2022-12-02",
-            "stock": 20
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38343",
+            "price": 80,
+            "name": "マグマの滝壺170/",
+            "date": "2022-12-03",
+            "stock": 39
         },
         {
             "market": "hareruya2",
@@ -49,12 +89,12 @@
             "stock": 32
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38343",
-            "price": 80,
-            "name": "マグマの滝壺170/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26282",
+            "price": 100,
+            "name": "マグマの滝壺:ミラー",
             "date": "2022-12-02",
-            "stock": 40
+            "stock": 20
         },
         {
             "market": "cardrush",
@@ -63,6 +103,14 @@
             "name": "マグマの滝壺170/",
             "date": "2022-12-02",
             "stock": 424
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38343",
+            "price": 80,
+            "name": "マグマの滝壺170/",
+            "date": "2022-12-02",
+            "stock": 40
         }
     ]
 }

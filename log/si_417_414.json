@@ -1,6 +1,46 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1729486992",
+            "price": 650,
+            "name": "ザマゼンタV(SR仕",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2003205973",
+            "price": 650,
+            "name": "ザマゼンタV(SR仕",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22016",
+            "price": 1000,
+            "name": "ザマゼンタV【SR仕",
+            "date": "2022-12-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23767",
+            "price": 680,
+            "name": "ザマゼンタV417/",
+            "date": "2022-12-04",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23758",
+            "price": 780,
+            "name": "ザマゼンタV417/",
+            "date": "2022-12-04",
+            "stock": 63
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22016",
             "price": 1000,
@@ -130,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23758",
-            "price": 780,
-            "name": "ザマゼンタV417/",
-            "date": "2022-11-28",
-            "stock": 61
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23767",
             "price": 680,
             "name": "ザマゼンタV417/",
             "date": "2022-11-28",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23758",
+            "price": 780,
+            "name": "ザマゼンタV417/",
+            "date": "2022-11-28",
+            "stock": 61
         },
         {
             "market": "hareruya2",
@@ -154,19 +194,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23758",
-            "price": 780,
-            "name": "ザマゼンタV417/",
-            "date": "2022-11-27",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23767",
             "price": 680,
             "name": "ザマゼンタV417/",
             "date": "2022-11-27",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23758",
+            "price": 780,
+            "name": "ザマゼンタV417/",
+            "date": "2022-11-27",
+            "stock": 62
         }
     ]
 }

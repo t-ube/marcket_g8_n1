@@ -2,16 +2,80 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2131791997",
+            "price": 582,
+            "name": "ヒードランV(SR)",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1888183737",
             "price": 674,
             "name": "ヒードランV(SR)",
-            "date": "2022-12-03",
+            "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/8686853",
             "price": 591,
+            "name": "ヒードランV(SR)",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378700622",
+            "price": 680,
+            "name": "ヒードランV SR ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23105",
+            "price": 700,
+            "name": "ヒードランV(SR)",
+            "date": "2022-12-04",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34941",
+            "price": 480,
+            "name": "ヒードランV072/",
+            "date": "2022-12-04",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34851",
+            "price": 680,
+            "name": "ヒードランV072/",
+            "date": "2022-12-04",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34761",
+            "price": 780,
+            "name": "ヒードランV072/",
+            "date": "2022-12-04",
+            "stock": 147
+        },
+        {
+            "market": "magi",
+            "link": "/items/8686853",
+            "price": 591,
+            "name": "ヒードランV(SR)",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1888183737",
+            "price": 674,
             "name": "ヒードランV(SR)",
             "date": "2022-12-03",
             "stock": 1
@@ -66,8 +130,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/8686853",
-            "price": 591,
+            "link": "/items/378700622",
+            "price": 680,
+            "name": "ヒードランV SR ",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1888183737",
+            "price": 674,
             "name": "ヒードランV(SR)",
             "date": "2022-12-02",
             "stock": 1
@@ -82,17 +154,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1888183737",
-            "price": 674,
+            "link": "/items/8686853",
+            "price": 591,
             "name": "ヒードランV(SR)",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/378700622",
-            "price": 680,
-            "name": "ヒードランV SR ",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -106,6 +170,22 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34851",
+            "price": 680,
+            "name": "ヒードランV072/",
+            "date": "2022-12-02",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34941",
+            "price": 480,
+            "name": "ヒードランV072/",
+            "date": "2022-12-02",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34761",
             "price": 780,
             "name": "ヒードランV072/",
@@ -113,25 +193,17 @@
             "stock": 179
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34941",
-            "price": 480,
-            "name": "ヒードランV072/",
-            "date": "2022-12-02",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34851",
-            "price": 680,
-            "name": "ヒードランV072/",
-            "date": "2022-12-02",
-            "stock": 29
+            "market": "magi",
+            "link": "/items/1888183737",
+            "price": 674,
+            "name": "ヒードランV(SR)",
+            "date": "2022-12-01",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2131791997",
-            "price": 582,
+            "link": "/items/8686853",
+            "price": 591,
             "name": "ヒードランV(SR)",
             "date": "2022-12-01",
             "stock": 1
@@ -146,16 +218,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/8686853",
-            "price": 591,
-            "name": "ヒードランV(SR)",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1888183737",
-            "price": 674,
+            "link": "/items/2131791997",
+            "price": 582,
             "name": "ヒードランV(SR)",
             "date": "2022-12-01",
             "stock": 1
@@ -202,9 +266,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/378700622",
-            "price": 680,
-            "name": "ヒードランV SR ",
+            "link": "/items/1888183737",
+            "price": 674,
+            "name": "ヒードランV(SR)",
             "date": "2022-11-30",
             "stock": 1
         },
@@ -218,9 +282,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1888183737",
-            "price": 674,
-            "name": "ヒードランV(SR)",
+            "link": "/items/378700622",
+            "price": 680,
+            "name": "ヒードランV SR ",
             "date": "2022-11-30",
             "stock": 1
         },
@@ -234,11 +298,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34761",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/34851",
+            "price": 680,
             "name": "ヒードランV072/",
             "date": "2022-11-30",
-            "stock": 200
+            "stock": 29
         },
         {
             "market": "cardrush",
@@ -250,16 +314,24 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34851",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/34761",
+            "price": 780,
             "name": "ヒードランV072/",
             "date": "2022-11-30",
-            "stock": 29
+            "stock": 200
         },
         {
             "market": "magi",
-            "link": "/items/2131791997",
-            "price": 582,
+            "link": "/items/378700622",
+            "price": 680,
+            "name": "ヒードランV SR ",
+            "date": "2022-11-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/8686853",
+            "price": 591,
             "name": "ヒードランV(SR)",
             "date": "2022-11-29",
             "stock": 1
@@ -274,17 +346,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/8686853",
-            "price": 591,
+            "link": "/items/2131791997",
+            "price": 582,
             "name": "ヒードランV(SR)",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/378700622",
-            "price": 680,
-            "name": "ヒードランV SR ",
             "date": "2022-11-29",
             "stock": 1
         },
@@ -370,19 +434,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34851",
-            "price": 680,
-            "name": "ヒードランV072/",
-            "date": "2022-11-28",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34761",
             "price": 780,
             "name": "ヒードランV072/",
             "date": "2022-11-28",
             "stock": 190
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34851",
+            "price": 680,
+            "name": "ヒードランV072/",
+            "date": "2022-11-28",
+            "stock": 29
         },
         {
             "market": "magi",
@@ -426,19 +490,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34941",
-            "price": 480,
-            "name": "ヒードランV072/",
-            "date": "2022-11-27",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34761",
             "price": 780,
             "name": "ヒードランV072/",
             "date": "2022-11-27",
             "stock": 190
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34941",
+            "price": 480,
+            "name": "ヒードランV072/",
+            "date": "2022-11-27",
+            "stock": 5
         },
         {
             "market": "cardrush",
