@@ -3,10 +3,34 @@
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26144",
-            "price": 50,
+            "price": 100,
             "name": "ビッパ(CP){無}",
-            "date": "2022-12-04",
+            "date": "2022-12-05",
+            "stock": 43
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26248",
+            "price": 100,
+            "name": "ビッパ:ミラー(CP",
+            "date": "2022-12-05",
             "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38309",
+            "price": 180,
+            "name": "ビッパ121/172",
+            "date": "2022-12-05",
+            "stock": 118
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38205",
+            "price": 80,
+            "name": "ビッパ121/172",
+            "date": "2022-12-05",
+            "stock": 397
         },
         {
             "market": "hareruya2",
@@ -17,12 +41,12 @@
             "stock": 24
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38205",
-            "price": 80,
-            "name": "ビッパ121/172",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26144",
+            "price": 50,
+            "name": "ビッパ(CP){無}",
             "date": "2022-12-04",
-            "stock": 238
+            "stock": 20
         },
         {
             "market": "cardrush",
@@ -33,12 +57,12 @@
             "stock": 126
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26144",
-            "price": 50,
-            "name": "ビッパ(CP){無}",
-            "date": "2022-12-03",
-            "stock": 20
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38205",
+            "price": 80,
+            "name": "ビッパ121/172",
+            "date": "2022-12-04",
+            "stock": 238
         },
         {
             "market": "hareruya2",
@@ -53,8 +77,8 @@
             "link": "https://www.hareruya2.com/product/26144",
             "price": 50,
             "name": "ビッパ(CP){無}",
-            "date": "2022-12-02",
-            "stock": 23
+            "date": "2022-12-03",
+            "stock": 20
         },
         {
             "market": "hareruya2",
@@ -65,12 +89,12 @@
             "stock": 33
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38205",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26144",
             "price": 50,
-            "name": "ビッパ121/172",
+            "name": "ビッパ(CP){無}",
             "date": "2022-12-02",
-            "stock": 3
+            "stock": 23
         },
         {
             "market": "cardrush",
@@ -79,6 +103,14 @@
             "name": "ビッパ121/172",
             "date": "2022-12-02",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38205",
+            "price": 50,
+            "name": "ビッパ121/172",
+            "date": "2022-12-02",
+            "stock": 3
         }
     ]
 }

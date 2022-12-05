@@ -2,6 +2,14 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23413",
+            "price": 1380,
+            "name": "エーフィVMAX17",
+            "date": "2022-12-05",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33161",
             "price": 1290,
             "name": "エーフィVMAX17",
@@ -26,19 +34,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33161",
-            "price": 1290,
-            "name": "エーフィVMAX17",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23413",
             "price": 1380,
             "name": "エーフィVMAX17",
             "date": "2022-12-03",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33161",
+            "price": 1290,
+            "name": "エーフィVMAX17",
+            "date": "2022-12-03",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -118,22 +126,6 @@
             "price": 1380,
             "name": "エーフィVMAX17",
             "date": "2022-11-28",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21776",
-            "price": 1400,
-            "name": "エーフィVMAX(D",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23413",
-            "price": 1380,
-            "name": "エーフィVMAX17",
-            "date": "2022-11-27",
             "stock": 19
         }
     ]
