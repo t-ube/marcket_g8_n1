@@ -5,7 +5,15 @@
             "link": "/items/2140462661",
             "price": 200,
             "name": "ナタネの活気 158",
-            "date": "2022-12-04",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 75,
+            "name": "1枚75円 s12a",
+            "date": "2022-12-05",
             "stock": 1
         },
         {
@@ -13,12 +21,68 @@
             "link": "/items/1960561738",
             "price": 75,
             "name": "1枚75円 s12a",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/758490266",
+            "price": 5480,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26181",
+            "price": 50,
+            "name": "ナタネの活気(CP)",
+            "date": "2022-12-05",
+            "stock": 34
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26272",
+            "price": 100,
+            "name": "ナタネの活気:ミラー",
+            "date": "2022-12-05",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38333",
+            "price": 80,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-05",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38242",
+            "price": 50,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-05",
+            "stock": 399
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 75,
+            "name": "1枚75円 s12a",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/788794739",
+            "link": "/items/2140462661",
+            "price": 200,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1960561738",
             "price": 75,
             "name": "1枚75円 s12a",
             "date": "2022-12-04",
@@ -34,19 +98,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26272",
-            "price": 100,
-            "name": "ナタネの活気:ミラー",
-            "date": "2022-12-04",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26181",
             "price": 50,
             "name": "ナタネの活気(CP)",
             "date": "2022-12-04",
             "stock": 34
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26272",
+            "price": 100,
+            "name": "ナタネの活気:ミラー",
+            "date": "2022-12-04",
+            "stock": 19
         },
         {
             "market": "cardrush",
@@ -130,19 +194,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38333",
-            "price": 80,
-            "name": "ナタネの活気158/",
-            "date": "2022-12-02",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38242",
             "price": 50,
             "name": "ナタネの活気158/",
             "date": "2022-12-02",
             "stock": 414
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38333",
+            "price": 80,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-02",
+            "stock": 28
         }
     ]
 }
