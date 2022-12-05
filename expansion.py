@@ -2,6 +2,7 @@ def getList():
     expansionList = [
         'SI',
         'S9',
+        'SK',
         'S9a',
         'SLD',
         'SLL',
