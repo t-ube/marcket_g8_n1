@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23101",
+            "price": 700,
+            "name": "スピアーV(SR){",
+            "date": "2022-12-06",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34847",
+            "price": 680,
+            "name": "スピアーV068/0",
+            "date": "2022-12-06",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34757",
+            "price": 780,
+            "name": "スピアーV068/0",
+            "date": "2022-12-06",
+            "stock": 86
+        },
+        {
             "market": "magi",
             "link": "/items/46039999",
             "price": 420,
@@ -74,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34847",
-            "price": 680,
-            "name": "スピアーV068/0",
-            "date": "2022-12-03",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34757",
             "price": 780,
             "name": "スピアーV068/0",
             "date": "2022-12-03",
             "stock": 101
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34847",
+            "price": 680,
+            "name": "スピアーV068/0",
+            "date": "2022-12-03",
+            "stock": 23
         },
         {
             "market": "hareruya2",
@@ -98,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34847",
-            "price": 680,
-            "name": "スピアーV068/0",
-            "date": "2022-12-02",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34757",
             "price": 780,
             "name": "スピアーV068/0",
             "date": "2022-12-02",
             "stock": 101
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34847",
+            "price": 680,
+            "name": "スピアーV068/0",
+            "date": "2022-12-02",
+            "stock": 23
         },
         {
             "market": "hareruya2",
@@ -167,6 +191,14 @@
             "name": "スピアーV(SR){",
             "date": "2022-11-29",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34847",
+            "price": 680,
+            "name": "スピアーV068/0",
+            "date": "2022-11-29",
+            "stock": 19
         },
         {
             "market": "cardrush",
@@ -175,38 +207,6 @@
             "name": "スピアーV068/0",
             "date": "2022-11-29",
             "stock": 104
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34847",
-            "price": 680,
-            "name": "スピアーV068/0",
-            "date": "2022-11-29",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23101",
-            "price": 700,
-            "name": "スピアーV(SR){",
-            "date": "2022-11-28",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34847",
-            "price": 680,
-            "name": "スピアーV068/0",
-            "date": "2022-11-28",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34757",
-            "price": 780,
-            "name": "スピアーV068/0",
-            "date": "2022-11-28",
-            "stock": 114
         }
     ]
 }

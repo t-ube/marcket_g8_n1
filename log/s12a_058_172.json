@@ -2,6 +2,38 @@
     "items": [
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26221",
+            "price": 100,
+            "name": "サマヨール:ミラー(",
+            "date": "2022-12-06",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26081",
+            "price": 50,
+            "name": "サマヨール(CP){",
+            "date": "2022-12-06",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38282",
+            "price": 50,
+            "name": "サマヨール058/1",
+            "date": "2022-12-06",
+            "stock": 44
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38142",
+            "price": 30,
+            "name": "サマヨール058/1",
+            "date": "2022-12-06",
+            "stock": 158
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26081",
             "price": 50,
             "name": "サマヨール(CP){",
@@ -34,6 +66,14 @@
         },
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26081",
+            "price": 50,
+            "name": "サマヨール(CP){",
+            "date": "2022-12-04",
+            "stock": 40
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26221",
             "price": 100,
             "name": "サマヨール:ミラー(",
@@ -41,12 +81,12 @@
             "stock": 19
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26081",
-            "price": 50,
-            "name": "サマヨール(CP){",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38142",
+            "price": 30,
+            "name": "サマヨール058/1",
             "date": "2022-12-04",
-            "stock": 40
+            "stock": 159
         },
         {
             "market": "cardrush",
@@ -61,7 +101,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/38142",
             "price": 30,
             "name": "サマヨール058/1",
-            "date": "2022-12-04",
+            "date": "2022-12-03",
             "stock": 159
         },
         {
@@ -73,12 +113,12 @@
             "stock": 42
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38142",
-            "price": 30,
-            "name": "サマヨール058/1",
-            "date": "2022-12-03",
-            "stock": 159
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26081",
+            "price": 50,
+            "name": "サマヨール(CP){",
+            "date": "2022-12-02",
+            "stock": 40
         },
         {
             "market": "hareruya2",
@@ -89,12 +129,12 @@
             "stock": 19
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26081",
-            "price": 50,
-            "name": "サマヨール(CP){",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38142",
+            "price": 30,
+            "name": "サマヨール058/1",
             "date": "2022-12-02",
-            "stock": 40
+            "stock": 159
         },
         {
             "market": "cardrush",
@@ -103,14 +143,6 @@
             "name": "サマヨール058/1",
             "date": "2022-12-02",
             "stock": 43
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38142",
-            "price": 30,
-            "name": "サマヨール058/1",
-            "date": "2022-12-02",
-            "stock": 159
         }
     ]
 }
