@@ -2,11 +2,115 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/385950388",
+            "price": 230,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/894639301",
+            "price": 200,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1492188359",
             "price": 300,
             "name": "フュージョンエネルギ",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1622904500",
+            "price": 300,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/696481895",
+            "price": 180,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1277708608",
+            "price": 150,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/261595903",
+            "price": 380,
+            "name": "ミュウVMAX、フュ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/83131547",
+            "price": 250,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/763860992",
+            "price": 230,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/211421307",
+            "price": 230,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26284",
+            "price": 250,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26195",
+            "price": 50,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38345",
+            "price": 180,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 232
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38256",
+            "price": 50,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-07",
+            "stock": 344
         },
         {
             "market": "magi",
@@ -18,8 +122,40 @@
         },
         {
             "market": "magi",
+            "link": "/items/261595903",
+            "price": 380,
+            "name": "ミュウVMAX、フュ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1622904500",
             "price": 300,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1492188359",
+            "price": 300,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/763860992",
+            "price": 230,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/385950388",
+            "price": 230,
             "name": "フュージョンエネルギ",
             "date": "2022-12-06",
             "stock": 1
@@ -42,33 +178,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/385950388",
-            "price": 230,
-            "name": "フュージョンエネルギ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/763860992",
-            "price": 230,
-            "name": "フュージョンエネルギ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/83131547",
             "price": 250,
             "name": "フュージョンエネルギ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/261595903",
-            "price": 380,
-            "name": "ミュウVMAX、フュ",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -90,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38345",
-            "price": 180,
-            "name": "フュージョンエネルギ",
-            "date": "2022-12-06",
-            "stock": 193
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38256",
             "price": 50,
             "name": "フュージョンエネルギ",
             "date": "2022-12-06",
             "stock": 351
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38345",
+            "price": 180,
+            "name": "フュージョンエネルギ",
+            "date": "2022-12-06",
+            "stock": 193
         },
         {
             "market": "magi",

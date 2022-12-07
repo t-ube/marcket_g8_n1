@@ -2,10 +2,26 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1221372906",
+            "price": 1500,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1790562926",
+            "price": 600,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/308993205",
             "price": 600,
             "name": "フーパV SAR 2",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 1
         },
         {
@@ -13,6 +29,46 @@
             "link": "/items/1171083590",
             "price": 1400,
             "name": "【SAR】フーパV ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26370",
+            "price": 800,
+            "name": "フーパV(SAR){",
+            "date": "2022-12-07",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38411",
+            "price": 880,
+            "name": "フーパV231/17",
+            "date": "2022-12-07",
+            "stock": 75
+        },
+        {
+            "market": "magi",
+            "link": "/items/1171083590",
+            "price": 1400,
+            "name": "【SAR】フーパV ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1790562926",
+            "price": 600,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/308993205",
+            "price": 600,
+            "name": "フーパV SAR 2",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -28,14 +84,6 @@
             "market": "magi",
             "link": "/items/235028729",
             "price": 580,
-            "name": "フーパV SAR 2",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1790562926",
-            "price": 600,
             "name": "フーパV SAR 2",
             "date": "2022-12-06",
             "stock": 1
@@ -122,14 +170,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1171083590",
-            "price": 1400,
-            "name": "【SAR】フーパV ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/235028729",
             "price": 680,
             "name": "フーパV SAR 2",
@@ -138,8 +178,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/326484791",
-            "price": 1000,
+            "link": "/items/1215039388",
+            "price": 600,
             "name": "フーパV SAR 2",
             "date": "2022-12-04",
             "stock": 1
@@ -154,9 +194,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1215039388",
-            "price": 600,
+            "link": "/items/326484791",
+            "price": 1000,
             "name": "フーパV SAR 2",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1171083590",
+            "price": 1400,
+            "name": "【SAR】フーパV ",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -178,8 +226,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/235028729",
-            "price": 980,
+            "link": "/items/834193744",
+            "price": 1000,
             "name": "フーパV SAR 2",
             "date": "2022-12-03",
             "stock": 1
@@ -194,8 +242,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/834193744",
-            "price": 1000,
+            "link": "/items/235028729",
+            "price": 980,
             "name": "フーパV SAR 2",
             "date": "2022-12-03",
             "stock": 1
@@ -210,8 +258,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/834193744",
-            "price": 1000,
+            "link": "/items/235028729",
+            "price": 980,
             "name": "フーパV SAR 2",
             "date": "2022-12-02",
             "stock": 1
@@ -226,8 +274,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/235028729",
-            "price": 980,
+            "link": "/items/834193744",
+            "price": 1000,
             "name": "フーパV SAR 2",
             "date": "2022-12-02",
             "stock": 1

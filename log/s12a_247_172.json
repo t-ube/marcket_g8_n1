@@ -2,19 +2,83 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1249005677",
+            "price": 11340,
+            "name": "シンオウの仲間たち【",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1239960064",
+            "price": 11800,
+            "name": "シンオウの仲間たち ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2139960442",
             "price": 12800,
             "name": "シンオウの仲間たち ",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/128292856",
-            "price": 7495,
+            "price": 7488,
             "name": "シンオウの仲間たち ",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475498171",
+            "price": 12000,
+            "name": "シンオウの仲間たち ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/42453564",
+            "price": 10395,
+            "name": "〔状態A-〕シンオウ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/723721049",
+            "price": 10000,
+            "name": "シンオウの仲間たち ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26386",
+            "price": 9000,
+            "name": "シンオウの仲間たち(",
+            "date": "2022-12-07",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38694",
+            "price": 9900,
+            "name": "シンオウの仲間たち2",
+            "date": "2022-12-07",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38427",
+            "price": 10800,
+            "name": "シンオウの仲間たち2",
+            "date": "2022-12-07",
+            "stock": 27
         },
         {
             "market": "magi",
@@ -28,6 +92,22 @@
             "market": "magi",
             "link": "/items/1475498171",
             "price": 12000,
+            "name": "シンオウの仲間たち ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2139960442",
+            "price": 12800,
+            "name": "シンオウの仲間たち ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/128292856",
+            "price": 7495,
             "name": "シンオウの仲間たち ",
             "date": "2022-12-06",
             "stock": 1
@@ -138,24 +218,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1475498171",
-            "price": 12000,
-            "name": "シンオウの仲間たち ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/760746080",
             "price": 11500,
-            "name": "シンオウの仲間たち ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1026039998",
-            "price": 11800,
             "name": "シンオウの仲間たち ",
             "date": "2022-12-04",
             "stock": 1
@@ -170,9 +234,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/2065507968",
-            "price": 12390,
-            "name": "シンオウの仲間たち【",
+            "link": "/items/1026039998",
+            "price": 11800,
+            "name": "シンオウの仲間たち ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/42453564",
+            "price": 11445,
+            "name": "〔状態A-〕シンオウ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475498171",
+            "price": 12000,
+            "name": "シンオウの仲間たち ",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -186,9 +266,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/42453564",
-            "price": 11445,
-            "name": "〔状態A-〕シンオウ",
+            "link": "/items/2065507968",
+            "price": 12390,
+            "name": "シンオウの仲間たち【",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -202,14 +282,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38427",
-            "price": 11800,
-            "name": "シンオウの仲間たち2",
-            "date": "2022-12-04",
-            "stock": 70
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38694",
             "price": 10900,
             "name": "シンオウの仲間たち2",
@@ -217,10 +289,34 @@
             "stock": 15
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38427",
+            "price": 11800,
+            "name": "シンオウの仲間たち2",
+            "date": "2022-12-04",
+            "stock": 70
+        },
+        {
             "market": "magi",
             "link": "/items/42453564",
             "price": 11445,
             "name": "〔状態A-〕シンオウ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475498171",
+            "price": 14000,
+            "name": "シンオウの仲間たち ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/760746080",
+            "price": 16500,
+            "name": "シンオウの仲間たち ",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -234,25 +330,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/760746080",
-            "price": 16500,
-            "name": "シンオウの仲間たち ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2065507968",
             "price": 12390,
             "name": "シンオウの仲間たち【",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1475498171",
-            "price": 14000,
-            "name": "シンオウの仲間たち ",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -266,14 +346,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38427",
-            "price": 11800,
-            "name": "シンオウの仲間たち2",
-            "date": "2022-12-03",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38694",
             "price": 10900,
             "name": "シンオウの仲間たち2",
@@ -281,18 +353,18 @@
             "stock": 15
         },
         {
-            "market": "magi",
-            "link": "/items/760746080",
-            "price": 16500,
-            "name": "シンオウの仲間たち ",
-            "date": "2022-12-02",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38427",
+            "price": 11800,
+            "name": "シンオウの仲間たち2",
+            "date": "2022-12-03",
+            "stock": 45
         },
         {
             "market": "magi",
-            "link": "/items/2022201903",
-            "price": 13333,
-            "name": "シンオウの仲間たち ",
+            "link": "/items/42453564",
+            "price": 12390,
+            "name": "〔状態A-〕シンオウ",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -306,9 +378,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/42453564",
-            "price": 12390,
-            "name": "〔状態A-〕シンオウ",
+            "link": "/items/2022201903",
+            "price": 13333,
+            "name": "シンオウの仲間たち ",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/760746080",
+            "price": 16500,
+            "name": "シンオウの仲間たち ",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -322,19 +402,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38694",
-            "price": 11800,
-            "name": "シンオウの仲間たち2",
-            "date": "2022-12-02",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38427",
             "price": 11800,
             "name": "シンオウの仲間たち2",
             "date": "2022-12-02",
             "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38694",
+            "price": 11800,
+            "name": "シンオウの仲間たち2",
+            "date": "2022-12-02",
+            "stock": 11
         }
     ]
 }

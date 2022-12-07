@@ -3,6 +3,14 @@
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23435",
+            "price": 120,
+            "name": "ニンフィアVMAX1",
+            "date": "2022-12-07",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23435",
             "price": 80,
             "name": "ニンフィアVMAX1",
             "date": "2022-12-06",
@@ -71,14 +79,6 @@
             "name": "ニンフィアVMAX1",
             "date": "2022-11-30",
             "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23435",
-            "price": 80,
-            "name": "ニンフィアVMAX1",
-            "date": "2022-11-29",
-            "stock": 13
         }
     ]
 }

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/23477",
             "price": 800,
             "name": "エルレイドV(SR)",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35419",
+            "price": 680,
+            "name": "エルレイドV081/",
+            "date": "2022-12-07",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35360",
+            "price": 780,
+            "name": "エルレイドV081/",
+            "date": "2022-12-07",
+            "stock": 59
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23477",
+            "price": 800,
+            "name": "エルレイドV(SR)",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35419",
-            "price": 680,
-            "name": "エルレイドV081/",
-            "date": "2022-12-04",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35360",
             "price": 780,
             "name": "エルレイドV081/",
             "date": "2022-12-04",
             "stock": 57
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35419",
+            "price": 680,
+            "name": "エルレイドV081/",
+            "date": "2022-12-04",
+            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -151,14 +175,6 @@
             "name": "エルレイドV(SR)",
             "date": "2022-11-30",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35360",
-            "price": 780,
-            "name": "エルレイドV081/",
-            "date": "2022-11-30",
-            "stock": 56
         },
         {
             "market": "cardrush",
@@ -169,36 +185,12 @@
             "stock": 12
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23477",
-            "price": 800,
-            "name": "エルレイドV(SR)",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35360",
             "price": 780,
             "name": "エルレイドV081/",
-            "date": "2022-11-29",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35519",
-            "price": 320,
-            "name": "エルレイドV081/",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35419",
-            "price": 680,
-            "name": "エルレイドV081/",
-            "date": "2022-11-29",
-            "stock": 12
+            "date": "2022-11-30",
+            "stock": 56
         }
     ]
 }
