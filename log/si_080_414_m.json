@@ -3,6 +3,46 @@
         {
             "market": "magi",
             "link": "/items/162983301",
+            "price": 267,
+            "name": "キングラーV TD ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21691",
+            "price": 100,
+            "name": "キングラーV(D){",
+            "date": "2022-12-08",
+            "stock": 57
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21479",
+            "price": 150,
+            "name": "キングラーV:ミラー",
+            "date": "2022-12-08",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23290",
+            "price": 80,
+            "name": "キングラーV080/",
+            "date": "2022-12-08",
+            "stock": 97
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23291",
+            "price": 80,
+            "name": "キングラーV080/",
+            "date": "2022-12-08",
+            "stock": 135
+        },
+        {
+            "market": "magi",
+            "link": "/items/162983301",
             "price": 277,
             "name": "キングラーV TD ",
             "date": "2022-12-07",
@@ -26,19 +66,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23291",
-            "price": 80,
-            "name": "キングラーV080/",
-            "date": "2022-12-07",
-            "stock": 135
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23290",
             "price": 80,
             "name": "キングラーV080/",
             "date": "2022-12-07",
             "stock": 97
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23291",
+            "price": 80,
+            "name": "キングラーV080/",
+            "date": "2022-12-07",
+            "stock": 135
         },
         {
             "market": "magi",
@@ -50,14 +90,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21479",
-            "price": 150,
-            "name": "キングラーV:ミラー",
-            "date": "2022-12-06",
-            "stock": 25
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21691",
             "price": 100,
             "name": "キングラーV(D){",
@@ -65,12 +97,12 @@
             "stock": 57
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23291",
-            "price": 80,
-            "name": "キングラーV080/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21479",
+            "price": 150,
+            "name": "キングラーV:ミラー",
             "date": "2022-12-06",
-            "stock": 135
+            "stock": 25
         },
         {
             "market": "cardrush",
@@ -79,6 +111,14 @@
             "name": "キングラーV080/",
             "date": "2022-12-06",
             "stock": 97
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23291",
+            "price": 80,
+            "name": "キングラーV080/",
+            "date": "2022-12-06",
+            "stock": 135
         }
     ]
 }

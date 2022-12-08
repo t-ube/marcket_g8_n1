@@ -2,10 +2,66 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2139263924",
+            "price": 400,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/13291300",
+            "price": 350,
+            "name": "プレゼント付き　アル",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1460227212",
+            "price": 400,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/576774719",
+            "price": 1200,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/124475677",
             "price": 550,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/892786054",
+            "price": 290,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1395286123",
+            "price": 120,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/849747938",
+            "price": 540,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -13,13 +69,53 @@
             "link": "/items/788036068",
             "price": 300,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/215617402",
-            "price": 700,
+            "link": "/items/2033465092",
+            "price": 350,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1559815084",
+            "price": 350,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223142483",
+            "price": 750,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26150",
+            "price": 200,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38211",
+            "price": 80,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-08",
+            "stock": 215
+        },
+        {
+            "market": "magi",
+            "link": "/items/788036068",
+            "price": 300,
             "name": "アルセウスVSTAR",
             "date": "2022-12-07",
             "stock": 1
@@ -34,32 +130,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/13291300",
-            "price": 380,
-            "name": "プレゼント付き　アル",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/849747938",
-            "price": 540,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/576774719",
-            "price": 1200,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2033465092",
-            "price": 350,
+            "link": "/items/2139263924",
+            "price": 400,
             "name": "アルセウスVSTAR",
             "date": "2022-12-07",
             "stock": 1
@@ -74,8 +146,48 @@
         },
         {
             "market": "magi",
-            "link": "/items/2139263924",
-            "price": 400,
+            "link": "/items/2033465092",
+            "price": 350,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/124475677",
+            "price": 550,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/849747938",
+            "price": 540,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/215617402",
+            "price": 700,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/13291300",
+            "price": 380,
+            "name": "プレゼント付き　アル",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/576774719",
+            "price": 1200,
             "name": "アルセウスVSTAR",
             "date": "2022-12-07",
             "stock": 1
@@ -106,6 +218,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/215617402",
+            "price": 700,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/13291300",
+            "price": 380,
+            "name": "プレゼント付き　アル",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2033465092",
             "price": 400,
             "name": "アルセウスVSTAR",
@@ -165,22 +293,6 @@
             "link": "/items/892786054",
             "price": 290,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/215617402",
-            "price": 700,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/13291300",
-            "price": 380,
-            "name": "プレゼント付き　アル",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -202,6 +314,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/892786054",
+            "price": 290,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/124475677",
             "price": 550,
             "name": "アルセウスVSTAR",
@@ -265,14 +385,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/892786054",
-            "price": 290,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26150",
             "price": 200,
@@ -287,6 +399,22 @@
             "name": "アルセウスVSTAR",
             "date": "2022-12-05",
             "stock": 156
+        },
+        {
+            "market": "magi",
+            "link": "/items/1559815084",
+            "price": 350,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1915134052",
+            "price": 140,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-04",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -306,16 +434,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/13291300",
-            "price": 380,
-            "name": "プレゼント付き　アル",
+            "link": "/items/2139263924",
+            "price": 250,
+            "name": "アルセウスVSTAR",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2139263924",
-            "price": 250,
+            "link": "/items/892786054",
+            "price": 290,
             "name": "アルセウスVSTAR",
             "date": "2022-12-04",
             "stock": 1
@@ -330,25 +458,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1915134052",
-            "price": 140,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1559815084",
-            "price": 350,
-            "name": "オリジンディアルガV",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/892786054",
-            "price": 290,
-            "name": "アルセウスVSTAR",
+            "link": "/items/13291300",
+            "price": 380,
+            "name": "プレゼント付き　アル",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -370,9 +482,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/849747938",
-            "price": 540,
-            "name": "アルセウスVSTAR",
+            "link": "/items/13291300",
+            "price": 380,
+            "name": "プレゼント付き　アル",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -418,9 +530,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/13291300",
-            "price": 380,
-            "name": "プレゼント付き　アル",
+            "link": "/items/788036068",
+            "price": 500,
+            "name": "アルセウスVSTAR",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -434,8 +546,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/788036068",
-            "price": 500,
+            "link": "/items/849747938",
+            "price": 540,
             "name": "アルセウスVSTAR",
             "date": "2022-12-03",
             "stock": 1

@@ -2,11 +2,67 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/43055587",
+            "price": 1000,
+            "name": "ふかそうち UR 0",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/477951582",
+            "price": 600,
+            "name": "ふかそうち UR 0",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/190282414",
+            "price": 900,
+            "name": "ふかそうち UR 0",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/715222144",
             "price": 2000,
             "name": "ふかそうち UR 0",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23913",
+            "price": 1000,
+            "name": "ふかそうち(UR){",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35829",
+            "price": 880,
+            "name": "ふかそうち092/0",
+            "date": "2022-12-08",
+            "stock": 44
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35909",
+            "price": 830,
+            "name": "ふかそうち092/0",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g092-071-S10B-B/",
+            "price": 880,
+            "name": "【ポケカ】ＵＲ◇ふか",
+            "date": "2022-12-08",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -18,8 +74,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/190282414",
-            "price": 900,
+            "link": "/items/715222144",
+            "price": 2000,
             "name": "ふかそうち UR 0",
             "date": "2022-12-07",
             "stock": 1
@@ -33,18 +89,18 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/190282414",
+            "price": 900,
+            "name": "ふかそうち UR 0",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23913",
             "price": 1000,
             "name": "ふかそうち(UR){",
-            "date": "2022-12-07",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35909",
-            "price": 830,
-            "name": "ふかそうち092/0",
             "date": "2022-12-07",
             "stock": 2
         },
@@ -57,20 +113,20 @@
             "stock": 54
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35909",
+            "price": 830,
+            "name": "ふかそうち092/0",
+            "date": "2022-12-07",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g092-071-S10B-B/",
             "price": 880,
             "name": "【ポケカ】ＵＲ◇ふか",
             "date": "2022-12-07",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/477951582",
-            "price": 600,
-            "name": "ふかそうち UR 0",
-            "date": "2022-12-06",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -97,18 +153,18 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/477951582",
+            "price": 600,
+            "name": "ふかそうち UR 0",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23913",
             "price": 1000,
             "name": "ふかそうち(UR){",
-            "date": "2022-12-06",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35909",
-            "price": 830,
-            "name": "ふかそうち092/0",
             "date": "2022-12-06",
             "stock": 2
         },
@@ -121,6 +177,14 @@
             "stock": 54
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35909",
+            "price": 830,
+            "name": "ふかそうち092/0",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g092-071-S10B-B/",
             "price": 880,
@@ -130,8 +194,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/715222144",
-            "price": 2000,
+            "link": "/items/190282414",
+            "price": 900,
             "name": "ふかそうち UR 0",
             "date": "2022-12-05",
             "stock": 1
@@ -146,8 +210,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/190282414",
-            "price": 900,
+            "link": "/items/715222144",
+            "price": 2000,
             "name": "ふかそうち UR 0",
             "date": "2022-12-05",
             "stock": 1
@@ -162,19 +226,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35829",
-            "price": 880,
-            "name": "ふかそうち092/0",
-            "date": "2022-12-05",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35909",
             "price": 830,
             "name": "ふかそうち092/0",
             "date": "2022-12-05",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35829",
+            "price": 880,
+            "name": "ふかそうち092/0",
+            "date": "2022-12-05",
+            "stock": 59
         },
         {
             "market": "torecolo",
@@ -218,19 +282,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35909",
-            "price": 830,
-            "name": "ふかそうち092/0",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35829",
             "price": 880,
             "name": "ふかそうち092/0",
             "date": "2022-12-04",
             "stock": 59
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35909",
+            "price": 830,
+            "name": "ふかそうち092/0",
+            "date": "2022-12-04",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -242,8 +306,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/190282414",
-            "price": 900,
+            "link": "/items/715222144",
+            "price": 2000,
             "name": "ふかそうち UR 0",
             "date": "2022-12-03",
             "stock": 1
@@ -258,8 +322,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/715222144",
-            "price": 2000,
+            "link": "/items/190282414",
+            "price": 900,
             "name": "ふかそうち UR 0",
             "date": "2022-12-03",
             "stock": 1
@@ -269,14 +333,6 @@
             "link": "https://www.hareruya2.com/product/23913",
             "price": 1000,
             "name": "ふかそうち(UR){",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35909",
-            "price": 830,
-            "name": "ふかそうち092/0",
             "date": "2022-12-03",
             "stock": 2
         },
@@ -289,6 +345,14 @@
             "stock": 60
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35909",
+            "price": 830,
+            "name": "ふかそうち092/0",
+            "date": "2022-12-03",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g092-071-S10B-B/",
             "price": 880,
@@ -354,22 +418,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/190282414",
-            "price": 900,
-            "name": "ふかそうち UR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/43055587",
-            "price": 1000,
-            "name": "ふかそうち UR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/715222144",
             "price": 2000,
             "name": "ふかそうち UR 0",
@@ -377,43 +425,11 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23913",
-            "price": 1000,
-            "name": "ふかそうち(UR){",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35829",
-            "price": 880,
-            "name": "ふかそうち092/0",
-            "date": "2022-12-01",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35909",
-            "price": 830,
-            "name": "ふかそうち092/0",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g092-071-S10B-B/",
-            "price": 880,
-            "name": "【ポケカ】ＵＲ◇ふか",
-            "date": "2022-12-01",
-            "stock": 5
-        },
-        {
             "market": "magi",
             "link": "/items/43055587",
             "price": 1000,
             "name": "ふかそうち UR 0",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 1
         },
         {
@@ -421,7 +437,7 @@
             "link": "/items/190282414",
             "price": 900,
             "name": "ふかそうち UR 0",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 1
         },
         {
@@ -429,7 +445,7 @@
             "link": "https://www.hareruya2.com/product/23913",
             "price": 1000,
             "name": "ふかそうち(UR){",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 2
         },
         {
@@ -437,7 +453,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/35909",
             "price": 830,
             "name": "ふかそうち092/0",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 2
         },
         {
@@ -445,7 +461,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/35829",
             "price": 880,
             "name": "ふかそうち092/0",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 54
         },
         {
@@ -453,7 +469,7 @@
             "link": "/shop/g/g092-071-S10B-B/",
             "price": 880,
             "name": "【ポケカ】ＵＲ◇ふか",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 5
         }
     ]

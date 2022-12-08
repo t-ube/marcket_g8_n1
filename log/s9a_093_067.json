@@ -2,11 +2,75 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/940097839",
+            "price": 1190,
+            "name": "コトブキムラ UR ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1423148854",
+            "price": 777,
+            "name": "コトブキムラ UR ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/755217190",
             "price": 880,
             "name": "コトブキムラ UR ",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1697485798",
+            "price": 1240,
+            "name": "コトブキムラ UR ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22842",
+            "price": 1200,
+            "name": "コトブキムラ(UR)",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33810",
+            "price": 1090,
+            "name": "コトブキムラ093/",
+            "date": "2022-12-08",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33903",
+            "price": 980,
+            "name": "コトブキムラ093/",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33717",
+            "price": 1180,
+            "name": "コトブキムラ093/",
+            "date": "2022-12-08",
+            "stock": 38
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g093-067-S9A-B/",
+            "price": 1100,
+            "name": "【ポケカ】ＵＲ◇コト",
+            "date": "2022-12-08",
+            "stock": 6
         },
         {
             "market": "magi",
@@ -18,6 +82,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1423148854",
+            "price": 777,
+            "name": "コトブキムラ UR ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/940097839",
             "price": 1200,
             "name": "コトブキムラ UR ",
@@ -26,8 +98,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1423148854",
-            "price": 777,
+            "link": "/items/755217190",
+            "price": 880,
             "name": "コトブキムラ UR ",
             "date": "2022-12-07",
             "stock": 1
@@ -50,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33810",
-            "price": 1090,
-            "name": "コトブキムラ093/",
-            "date": "2022-12-07",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33903",
             "price": 980,
             "name": "コトブキムラ093/",
             "date": "2022-12-07",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33810",
+            "price": 1090,
+            "name": "コトブキムラ093/",
+            "date": "2022-12-07",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -114,19 +186,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33810",
-            "price": 1090,
-            "name": "コトブキムラ093/",
-            "date": "2022-12-06",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33903",
             "price": 980,
             "name": "コトブキムラ093/",
             "date": "2022-12-06",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33810",
+            "price": 1090,
+            "name": "コトブキムラ093/",
+            "date": "2022-12-06",
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -183,14 +255,6 @@
             "name": "コトブキムラ(UR)",
             "date": "2022-12-05",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33810",
-            "price": 1090,
-            "name": "コトブキムラ093/",
-            "date": "2022-12-05",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -209,20 +273,20 @@
             "stock": 48
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33810",
+            "price": 1090,
+            "name": "コトブキムラ093/",
+            "date": "2022-12-05",
+            "stock": 8
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g093-067-S9A-B/",
             "price": 1100,
             "name": "【ポケカ】ＵＲ◇コト",
             "date": "2022-12-05",
             "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/1423148854",
-            "price": 777,
-            "name": "コトブキムラ UR ",
-            "date": "2022-12-04",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -249,18 +313,18 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22842",
-            "price": 1200,
-            "name": "コトブキムラ(UR)",
+            "market": "magi",
+            "link": "/items/1423148854",
+            "price": 777,
+            "name": "コトブキムラ UR ",
             "date": "2022-12-04",
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33903",
-            "price": 980,
-            "name": "コトブキムラ093/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22842",
+            "price": 1200,
+            "name": "コトブキムラ(UR)",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -271,6 +335,14 @@
             "name": "コトブキムラ093/",
             "date": "2022-12-04",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33903",
+            "price": 980,
+            "name": "コトブキムラ093/",
+            "date": "2022-12-04",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -330,19 +402,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33810",
-            "price": 1090,
-            "name": "コトブキムラ093/",
-            "date": "2022-12-03",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33717",
             "price": 1180,
             "name": "コトブキムラ093/",
             "date": "2022-12-03",
             "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33810",
+            "price": 1090,
+            "name": "コトブキムラ093/",
+            "date": "2022-12-03",
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -434,8 +506,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1697485798",
-            "price": 1242,
+            "link": "/items/940097839",
+            "price": 1200,
             "name": "コトブキムラ UR ",
             "date": "2022-12-01",
             "stock": 1
@@ -450,8 +522,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/940097839",
-            "price": 1200,
+            "link": "/items/1697485798",
+            "price": 1242,
             "name": "コトブキムラ UR ",
             "date": "2022-12-01",
             "stock": 1
@@ -494,70 +566,6 @@
             "price": 1210,
             "name": "【ポケカ】ＵＲ◇コト",
             "date": "2022-12-01",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/1697485798",
-            "price": 1242,
-            "name": "コトブキムラ UR ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/940097839",
-            "price": 1200,
-            "name": "コトブキムラ UR ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/755217190",
-            "price": 880,
-            "name": "コトブキムラ UR ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22842",
-            "price": 1200,
-            "name": "コトブキムラ(UR)",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33717",
-            "price": 1180,
-            "name": "コトブキムラ093/",
-            "date": "2022-11-30",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33903",
-            "price": 980,
-            "name": "コトブキムラ093/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33810",
-            "price": 1090,
-            "name": "コトブキムラ093/",
-            "date": "2022-11-30",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g093-067-S9A-B/",
-            "price": 1210,
-            "name": "【ポケカ】ＵＲ◇コト",
-            "date": "2022-11-30",
             "stock": 6
         }
     ]
