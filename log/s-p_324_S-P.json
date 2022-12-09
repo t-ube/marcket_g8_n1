@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37628",
+            "price": 980,
+            "name": "ルギアV324/S-",
+            "date": "2022-12-09",
+            "stock": 34
+        },
+        {
             "market": "magi",
             "link": "/items/424513644",
             "price": 700,
@@ -50,14 +58,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37682",
-            "price": 830,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-04",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37628",
             "price": 880,
             "name": "ルギアV324/S-",
@@ -69,8 +69,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/37682",
             "price": 830,
             "name": "ルギアV324/S-",
-            "date": "2022-12-03",
-            "stock": 10
+            "date": "2022-12-04",
+            "stock": 9
         },
         {
             "market": "cardrush",
@@ -79,6 +79,14 @@
             "name": "ルギアV324/S-",
             "date": "2022-12-03",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37682",
+            "price": 830,
+            "name": "ルギアV324/S-",
+            "date": "2022-12-03",
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -95,22 +103,6 @@
             "name": "ルギアV324/S-",
             "date": "2022-12-02",
             "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37628",
-            "price": 880,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-01",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37682",
-            "price": 830,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-01",
-            "stock": 10
         }
     ]
 }

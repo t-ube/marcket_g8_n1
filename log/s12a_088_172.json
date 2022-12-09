@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/26232",
             "price": 100,
             "name": "チョロネコ:ミラー(",
+            "date": "2022-12-09",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26111",
+            "price": 50,
+            "name": "チョロネコ(CP){",
+            "date": "2022-12-09",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38293",
+            "price": 50,
+            "name": "チョロネコ088/1",
+            "date": "2022-12-09",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38172",
+            "price": 30,
+            "name": "チョロネコ088/1",
+            "date": "2022-12-09",
+            "stock": 160
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26232",
+            "price": 100,
+            "name": "チョロネコ:ミラー(",
             "date": "2022-12-08",
             "stock": 12
         },
@@ -146,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38293",
-            "price": 50,
-            "name": "チョロネコ088/1",
-            "date": "2022-12-04",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38172",
             "price": 30,
             "name": "チョロネコ088/1",
@@ -161,12 +185,12 @@
             "stock": 100
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26111",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38293",
             "price": 50,
-            "name": "チョロネコ(CP){",
-            "date": "2022-12-03",
-            "stock": 36
+            "name": "チョロネコ088/1",
+            "date": "2022-12-04",
+            "stock": 43
         },
         {
             "market": "hareruya2",
@@ -177,12 +201,12 @@
             "stock": 15
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38293",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26111",
             "price": 50,
-            "name": "チョロネコ088/1",
+            "name": "チョロネコ(CP){",
             "date": "2022-12-03",
-            "stock": 38
+            "stock": 36
         },
         {
             "market": "cardrush",
@@ -193,6 +217,14 @@
             "stock": 111
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38293",
+            "price": 50,
+            "name": "チョロネコ088/1",
+            "date": "2022-12-03",
+            "stock": 38
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26111",
             "price": 50,
@@ -210,19 +242,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38172",
-            "price": 30,
-            "name": "チョロネコ088/1",
-            "date": "2022-12-02",
-            "stock": 128
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38293",
             "price": 50,
             "name": "チョロネコ088/1",
             "date": "2022-12-02",
             "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38172",
+            "price": 30,
+            "name": "チョロネコ088/1",
+            "date": "2022-12-02",
+            "stock": 128
         }
     ]
 }

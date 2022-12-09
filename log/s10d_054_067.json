@@ -2,11 +2,75 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1384594705",
-            "price": 279,
-            "name": "レジギガス R 05",
-            "date": "2022-12-08",
+            "link": "/items/462446463",
+            "price": 1000,
+            "name": "[レジ系セット]レジ",
+            "date": "2022-12-09",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1304424954",
+            "price": 200,
+            "name": "レジギガス R 05",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1277737951",
+            "price": 74,
+            "name": "レジギガス R 05",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/157308521",
+            "price": 350,
+            "name": "レジギガス R 05",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1384594705",
+            "price": 272,
+            "name": "レジギガス R 05",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22984",
+            "price": 50,
+            "name": "レジギガス(R){無",
+            "date": "2022-12-09",
+            "stock": 435
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34655",
+            "price": 50,
+            "name": "レジギガス054/0",
+            "date": "2022-12-09",
+            "stock": 266
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34792",
+            "price": 40,
+            "name": "レジギガス054/0",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g054-067-S10D-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｒ◇レジギ",
+            "date": "2022-12-09",
+            "stock": 47
         },
         {
             "market": "magi",
@@ -34,6 +98,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1384594705",
+            "price": 279,
+            "name": "レジギガス R 05",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1304424954",
             "price": 200,
             "name": "レジギガス R 05",
@@ -50,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34792",
-            "price": 40,
-            "name": "レジギガス054/0",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34655",
             "price": 50,
             "name": "レジギガス054/0",
             "date": "2022-12-08",
             "stock": 269
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34792",
+            "price": 40,
+            "name": "レジギガス054/0",
+            "date": "2022-12-08",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -74,17 +146,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000,
-            "name": "[レジ系セット]レジ",
+            "link": "/items/1304424954",
+            "price": 200,
+            "name": "レジギガス R 05",
             "date": "2022-12-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1304424954",
-            "price": 200,
+            "link": "/items/157308521",
+            "price": 354,
             "name": "レジギガス R 05",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1277737951",
+            "price": 74,
+            "name": "レジギガス R 05",
+            "date": "2022-12-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/462446463",
+            "price": 1000,
+            "name": "[レジ系セット]レジ",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -97,36 +185,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/157308521",
-            "price": 354,
-            "name": "レジギガス R 05",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1277737951",
-            "price": 74,
-            "name": "レジギガス R 05",
-            "date": "2022-12-07",
-            "stock": 4
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22984",
             "price": 50,
             "name": "レジギガス(R){無",
             "date": "2022-12-07",
             "stock": 435
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34792",
-            "price": 40,
-            "name": "レジギガス054/0",
-            "date": "2022-12-07",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -137,12 +201,44 @@
             "stock": 279
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34792",
+            "price": 40,
+            "name": "レジギガス054/0",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g054-067-S10D-B/",
             "price": 110,
             "name": "【ポケカ】Ｒ◇レジギ",
             "date": "2022-12-07",
             "stock": 47
+        },
+        {
+            "market": "magi",
+            "link": "/items/462446463",
+            "price": 1000,
+            "name": "[レジ系セット]レジ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1277737951",
+            "price": 74,
+            "name": "レジギガス R 05",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/157308521",
+            "price": 354,
+            "name": "レジギガス R 05",
+            "date": "2022-12-06",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -157,30 +253,6 @@
             "link": "/items/1384594705",
             "price": 290,
             "name": "レジギガス R 05",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/157308521",
-            "price": 354,
-            "name": "レジギガス R 05",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1277737951",
-            "price": 74,
-            "name": "レジギガス R 05",
-            "date": "2022-12-06",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000,
-            "name": "[レジ系セット]レジ",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -218,11 +290,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1277737951",
-            "price": 74,
+            "link": "/items/1384594705",
+            "price": 292,
             "name": "レジギガス R 05",
             "date": "2022-12-05",
-            "stock": 4
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1304424954",
+            "price": 200,
+            "name": "レジギガス R 05",
+            "date": "2022-12-05",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -242,19 +322,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1304424954",
-            "price": 200,
+            "link": "/items/1277737951",
+            "price": 74,
             "name": "レジギガス R 05",
             "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1384594705",
-            "price": 292,
-            "name": "レジギガス R 05",
-            "date": "2022-12-05",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -266,19 +338,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34655",
-            "price": 50,
-            "name": "レジギガス054/0",
-            "date": "2022-12-05",
-            "stock": 283
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34792",
             "price": 40,
             "name": "レジギガス054/0",
             "date": "2022-12-05",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34655",
+            "price": 50,
+            "name": "レジギガス054/0",
+            "date": "2022-12-05",
+            "stock": 283
         },
         {
             "market": "torecolo",
@@ -290,17 +362,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1384594705",
-            "price": 294,
+            "link": "/items/157308521",
+            "price": 362,
             "name": "レジギガス R 05",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1304424954",
-            "price": 200,
-            "name": "レジギガス R 05",
+            "link": "/items/462446463",
+            "price": 1000,
+            "name": "[レジ系セット]レジ",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -314,16 +386,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000,
-            "name": "[レジ系セット]レジ",
+            "link": "/items/1304424954",
+            "price": 200,
+            "name": "レジギガス R 05",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/157308521",
-            "price": 362,
+            "link": "/items/1384594705",
+            "price": 294,
             "name": "レジギガス R 05",
             "date": "2022-12-04",
             "stock": 1
@@ -338,19 +410,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34792",
-            "price": 40,
-            "name": "レジギガス054/0",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34655",
             "price": 50,
             "name": "レジギガス054/0",
             "date": "2022-12-04",
             "stock": 287
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34792",
+            "price": 40,
+            "name": "レジギガス054/0",
+            "date": "2022-12-04",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -359,6 +431,14 @@
             "name": "【ポケカ】Ｒ◇レジギ",
             "date": "2022-12-04",
             "stock": 47
+        },
+        {
+            "market": "magi",
+            "link": "/items/157308521",
+            "price": 362,
+            "name": "レジギガス R 05",
+            "date": "2022-12-03",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -373,14 +453,6 @@
             "link": "/items/462446463",
             "price": 1000,
             "name": "[レジ系セット]レジ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/157308521",
-            "price": 362,
-            "name": "レジギガス R 05",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -442,9 +514,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/157308521",
-            "price": 366,
-            "name": "レジギガス R 05",
+            "link": "/items/462446463",
+            "price": 1000,
+            "name": "[レジ系セット]レジ",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -458,27 +530,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/1304424954",
-            "price": 200,
-            "name": "レジギガス R 05",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000,
-            "name": "[レジ系セット]レジ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1277737951",
             "price": 74,
             "name": "レジギガス R 05",
             "date": "2022-12-02",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/157308521",
+            "price": 366,
+            "name": "レジギガス R 05",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1304424954",
+            "price": 200,
+            "name": "レジギガス R 05",
+            "date": "2022-12-02",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -490,14 +562,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34882",
-            "price": 30,
-            "name": "レジギガス054/0",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34655",
             "price": 50,
             "name": "レジギガス054/0",
@@ -505,83 +569,19 @@
             "stock": 292
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34882",
+            "price": 30,
+            "name": "レジギガス054/0",
+            "date": "2022-12-02",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g054-067-S10D-B/",
             "price": 110,
             "name": "【ポケカ】Ｒ◇レジギ",
             "date": "2022-12-02",
-            "stock": 47
-        },
-        {
-            "market": "magi",
-            "link": "/items/157308521",
-            "price": 370,
-            "name": "レジギガス R 05",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000,
-            "name": "[レジ系セット]レジ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1277737951",
-            "price": 74,
-            "name": "レジギガス R 05",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1384594705",
-            "price": 309,
-            "name": "レジギガス R 05",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1304424954",
-            "price": 200,
-            "name": "レジギガス R 05",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22984",
-            "price": 50,
-            "name": "レジギガス(R){無",
-            "date": "2022-12-01",
-            "stock": 436
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34882",
-            "price": 50,
-            "name": "レジギガス054/0",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34655",
-            "price": 80,
-            "name": "レジギガス054/0",
-            "date": "2022-12-01",
-            "stock": 295
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g054-067-S10D-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｒ◇レジギ",
-            "date": "2022-12-01",
             "stock": 47
         }
     ]
