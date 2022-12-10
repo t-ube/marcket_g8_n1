@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17360",
             "price": 300,
             "name": "ピカチュウ(PROM",
+            "date": "2022-12-10",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30408",
+            "price": 180,
+            "name": "ピカチュウ125/S",
+            "date": "2022-12-10",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14572",
+            "price": 280,
+            "name": "ピカチュウ125/S",
+            "date": "2022-12-10",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17360",
+            "price": 300,
+            "name": "ピカチュウ(PROM",
             "date": "2022-12-09",
             "stock": 6
         },
@@ -55,6 +79,14 @@
             "name": "ピカチュウ(PROM",
             "date": "2022-12-07",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14572",
+            "price": 280,
+            "name": "ピカチュウ125/S",
+            "date": "2022-12-07",
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -63,14 +95,6 @@
             "name": "ピカチュウ125/S",
             "date": "2022-12-07",
             "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14572",
-            "price": 280,
-            "name": "ピカチュウ125/S",
-            "date": "2022-12-07",
-            "stock": 10
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14572",
-            "price": 280,
-            "name": "ピカチュウ125/S",
-            "date": "2022-12-03",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30408",
             "price": 180,
             "name": "ピカチュウ125/S",
@@ -169,28 +185,12 @@
             "stock": 13
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17360",
-            "price": 300,
-            "name": "ピカチュウ(PROM",
-            "date": "2022-12-02",
-            "stock": 6
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14572",
             "price": 280,
             "name": "ピカチュウ125/S",
-            "date": "2022-12-02",
+            "date": "2022-12-03",
             "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30408",
-            "price": 180,
-            "name": "ピカチュウ125/S",
-            "date": "2022-12-02",
-            "stock": 13
         }
     ]
 }

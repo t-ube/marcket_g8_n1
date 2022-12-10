@@ -2,6 +2,46 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1029421360",
+            "price": 4809,
+            "name": "ナタネの活気【SAR",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/997268398",
+            "price": 3777,
+            "name": "ナタネの活気 SAR",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1832664145",
+            "price": 4500,
+            "name": "ナタネの活気 SAR",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26382",
+            "price": 4500,
+            "name": "ナタネの活気(SAR",
+            "date": "2022-12-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38423",
+            "price": 4580,
+            "name": "ナタネの活気243/",
+            "date": "2022-12-10",
+            "stock": 19
+        },
+        {
+            "market": "magi",
             "link": "/items/2091239758",
             "price": 4809,
             "name": "ナタネの活気【SAR",
@@ -42,14 +82,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1327861945",
-            "price": 3800,
-            "name": "ナタネの活気 SAR",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/283734330",
             "price": 4500,
             "name": "ナタネの活気 SAR",
@@ -58,16 +90,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1974038683",
-            "price": 4159,
+            "link": "/items/1832664145",
+            "price": 4500,
             "name": "ナタネの活気 SAR",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1832664145",
-            "price": 4500,
+            "link": "/items/1327861945",
+            "price": 3800,
+            "name": "ナタネの活気 SAR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1974038683",
+            "price": 4159,
             "name": "ナタネの活気 SAR",
             "date": "2022-12-08",
             "stock": 1
@@ -82,9 +122,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1826784401",
-            "price": 4809,
-            "name": "ナタネの活気【SAR",
+            "link": "/items/1832664145",
+            "price": 4500,
+            "name": "ナタネの活気 SAR",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -98,9 +138,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1832664145",
-            "price": 4500,
-            "name": "ナタネの活気 SAR",
+            "link": "/items/1826784401",
+            "price": 4809,
+            "name": "ナタネの活気【SAR",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -146,14 +186,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1376052187",
-            "price": 4179,
-            "name": "ナタネの活気【SAR",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1974038683",
             "price": 4180,
             "name": "ナタネの活気 SAR",
@@ -163,15 +195,15 @@
         {
             "market": "magi",
             "link": "/items/1376052187",
-            "price": 4704,
+            "price": 4179,
             "name": "ナタネの活気【SAR",
-            "date": "2022-12-04",
+            "date": "2022-12-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/306388024",
-            "price": 4000,
+            "link": "/items/100163767",
+            "price": 3750,
             "name": "ナタネの活気 SAR",
             "date": "2022-12-04",
             "stock": 1
@@ -186,9 +218,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/100163767",
-            "price": 3750,
+            "link": "/items/306388024",
+            "price": 4000,
             "name": "ナタネの活気 SAR",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1376052187",
+            "price": 4704,
+            "name": "ナタネの活気【SAR",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -202,14 +242,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38690",
-            "price": 3980,
-            "name": "ナタネの活気243/",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38423",
             "price": 4480,
             "name": "ナタネの活気243/",
@@ -217,9 +249,25 @@
             "stock": 42
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38690",
+            "price": 3980,
+            "name": "ナタネの活気243/",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
             "market": "magi",
-            "link": "/items/100163767",
-            "price": 3750,
+            "link": "/items/864031099",
+            "price": 4999,
+            "name": "ナタネの活気 SAR",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/130555223",
+            "price": 4280,
             "name": "ナタネの活気 SAR",
             "date": "2022-12-03",
             "stock": 1
@@ -234,16 +282,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/130555223",
-            "price": 4280,
-            "name": "ナタネの活気 SAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/864031099",
-            "price": 4999,
+            "link": "/items/100163767",
+            "price": 3750,
             "name": "ナタネの活気 SAR",
             "date": "2022-12-03",
             "stock": 1
@@ -258,14 +298,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38690",
-            "price": 4580,
-            "name": "ナタネの活気243/",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38423",
             "price": 4980,
             "name": "ナタネの活気243/",
@@ -273,36 +305,12 @@
             "stock": 35
         },
         {
-            "market": "magi",
-            "link": "/items/1376052187",
-            "price": 5754,
-            "name": "ナタネの活気【SAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/100163767",
-            "price": 3750,
-            "name": "ナタネの活気 SAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26382",
-            "price": 4000,
-            "name": "ナタネの活気(SAR",
-            "date": "2022-12-02",
-            "stock": 8
-        },
-        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38423",
-            "price": 4980,
+            "link": "https://www.cardrush-pokemon.jp/product/38690",
+            "price": 4580,
             "name": "ナタネの活気243/",
-            "date": "2022-12-02",
-            "stock": 33
+            "date": "2022-12-03",
+            "stock": 1
         }
     ]
 }

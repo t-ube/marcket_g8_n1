@@ -2,11 +2,67 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1188830973",
+            "price": 144,
+            "name": "ギギアル C 070",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1472916383",
+            "price": 100,
+            "name": "ギギアル C 070",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22241",
+            "price": 50,
+            "name": "ギギアル(C){鋼}",
+            "date": "2022-12-10",
+            "stock": 38
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18015",
+            "price": 50,
+            "name": "ギギアル(C){鋼}",
+            "date": "2022-12-10",
+            "stock": 2
+        },
+        {
+            "market": "magi",
             "link": "/items/1156967129",
             "price": 174,
             "name": "ギギアル C 070",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24342",
+            "price": 30,
+            "name": "ギギアル070/10",
+            "date": "2022-12-10",
+            "stock": 81
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g070-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ギギア",
+            "date": "2022-12-10",
+            "stock": 13
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g070-100-S9-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ギギア",
+            "date": "2022-12-10",
+            "stock": 11
         },
         {
             "market": "magi",
@@ -20,6 +76,14 @@
             "market": "magi",
             "link": "/items/1472916383",
             "price": 100,
+            "name": "ギギアル C 070",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1156967129",
+            "price": 174,
             "name": "ギギアル C 070",
             "date": "2022-12-09",
             "stock": 1
@@ -194,14 +258,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1188830973",
-            "price": 144,
-            "name": "ギギアル C 070",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1472916383",
             "price": 100,
             "name": "ギギアル C 070",
@@ -217,12 +273,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18015",
-            "price": 50,
-            "name": "ギギアル(C){鋼}",
+            "market": "magi",
+            "link": "/items/1188830973",
+            "price": 144,
+            "name": "ギギアル C 070",
             "date": "2022-12-06",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -231,6 +287,14 @@
             "name": "ギギアル(C){鋼}",
             "date": "2022-12-06",
             "stock": 38
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18015",
+            "price": 50,
+            "name": "ギギアル(C){鋼}",
+            "date": "2022-12-06",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -242,14 +306,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g070-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ギギア",
-            "date": "2022-12-06",
-            "stock": 13
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g070-100-S9-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ◇ギギア",
@@ -257,9 +313,17 @@
             "stock": 11
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g070-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ギギア",
+            "date": "2022-12-06",
+            "stock": 13
+        },
+        {
             "market": "magi",
-            "link": "/items/1156967129",
-            "price": 174,
+            "link": "/items/1188830973",
+            "price": 144,
             "name": "ギギアル C 070",
             "date": "2022-12-05",
             "stock": 1
@@ -274,19 +338,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1188830973",
-            "price": 144,
+            "link": "/items/1156967129",
+            "price": 174,
             "name": "ギギアル C 070",
             "date": "2022-12-05",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18015",
-            "price": 50,
-            "name": "ギギアル(C){鋼}",
-            "date": "2022-12-05",
-            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -295,6 +351,14 @@
             "name": "ギギアル(C){鋼}",
             "date": "2022-12-05",
             "stock": 38
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18015",
+            "price": 50,
+            "name": "ギギアル(C){鋼}",
+            "date": "2022-12-05",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -306,14 +370,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g070-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ギギア",
-            "date": "2022-12-05",
-            "stock": 13
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g070-100-S9-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ◇ギギア",
@@ -321,17 +377,25 @@
             "stock": 11
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g070-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ギギア",
+            "date": "2022-12-05",
+            "stock": 13
+        },
+        {
             "market": "magi",
-            "link": "/items/1188830973",
-            "price": 144,
+            "link": "/items/1156967129",
+            "price": 174,
             "name": "ギギアル C 070",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1156967129",
-            "price": 174,
+            "link": "/items/1188830973",
+            "price": 144,
             "name": "ギギアル C 070",
             "date": "2022-12-04",
             "stock": 1
@@ -386,6 +450,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1472916383",
+            "price": 100,
+            "name": "ギギアル C 070",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1156967129",
             "price": 174,
             "name": "ギギアル C 070",
@@ -396,14 +468,6 @@
             "market": "magi",
             "link": "/items/1188830973",
             "price": 144,
-            "name": "ギギアル C 070",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1472916383",
-            "price": 100,
             "name": "ギギアル C 070",
             "date": "2022-12-03",
             "stock": 1
@@ -447,70 +511,6 @@
             "name": "【ポケカ】Ｃ◇ギギア",
             "date": "2022-12-03",
             "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/1188830973",
-            "price": 144,
-            "name": "ギギアル C 070",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1156967129",
-            "price": 174,
-            "name": "ギギアル C 070",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1472916383",
-            "price": 100,
-            "name": "ギギアル C 070",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18015",
-            "price": 50,
-            "name": "ギギアル(C){鋼}",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22241",
-            "price": 50,
-            "name": "ギギアル(C){鋼}",
-            "date": "2022-12-02",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24342",
-            "price": 30,
-            "name": "ギギアル070/10",
-            "date": "2022-12-02",
-            "stock": 81
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g070-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ギギア",
-            "date": "2022-12-02",
-            "stock": 13
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g070-100-S9-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ギギア",
-            "date": "2022-12-02",
-            "stock": 11
         }
     ]
 }

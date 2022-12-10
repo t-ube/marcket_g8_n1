@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/24444236",
+            "price": 800,
+            "name": "ブランシェ(SR){",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/227356379",
+            "price": 650,
+            "name": "ブランシェ SR 0",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1974103536",
             "price": 700,
             "name": "ブランシェ SR 0",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23904",
+            "price": 800,
+            "name": "ブランシェ(SR){",
+            "date": "2022-12-10",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35907",
+            "price": 680,
+            "name": "ブランシェ083/0",
+            "date": "2022-12-10",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35827",
+            "price": 780,
+            "name": "ブランシェ083/0",
+            "date": "2022-12-10",
+            "stock": 151
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g083-071-S10B-B/",
+            "price": 660,
+            "name": "【ポケカ】ＳＲ◇ブラ",
+            "date": "2022-12-10",
+            "stock": 8
         },
         {
             "market": "magi",
@@ -17,20 +65,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1974103536",
+            "price": 700,
+            "name": "ブランシェ SR 0",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23904",
             "price": 800,
             "name": "ブランシェ(SR){",
             "date": "2022-12-09",
             "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35827",
-            "price": 780,
-            "name": "ブランシェ083/0",
-            "date": "2022-12-09",
-            "stock": 140
         },
         {
             "market": "cardrush",
@@ -41,6 +89,14 @@
             "stock": 38
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35827",
+            "price": 780,
+            "name": "ブランシェ083/0",
+            "date": "2022-12-09",
+            "stock": 140
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g083-071-S10B-B/",
             "price": 660,
@@ -66,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35827",
-            "price": 780,
-            "name": "ブランシェ083/0",
-            "date": "2022-12-08",
-            "stock": 136
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35907",
             "price": 680,
             "name": "ブランシェ083/0",
             "date": "2022-12-08",
             "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35827",
+            "price": 780,
+            "name": "ブランシェ083/0",
+            "date": "2022-12-08",
+            "stock": 136
         },
         {
             "market": "torecolo",
@@ -106,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35907",
-            "price": 680,
-            "name": "ブランシェ083/0",
-            "date": "2022-12-07",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35827",
             "price": 780,
             "name": "ブランシェ083/0",
             "date": "2022-12-07",
             "stock": 136
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35907",
+            "price": 680,
+            "name": "ブランシェ083/0",
+            "date": "2022-12-07",
+            "stock": 32
         },
         {
             "market": "torecolo",
@@ -186,11 +242,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35983",
-            "price": 480,
+            "link": "https://www.cardrush-pokemon.jp/product/35827",
+            "price": 780,
             "name": "ブランシェ083/0",
             "date": "2022-12-05",
-            "stock": 1
+            "stock": 106
         },
         {
             "market": "cardrush",
@@ -202,11 +258,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35827",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/35983",
+            "price": 480,
             "name": "ブランシェ083/0",
             "date": "2022-12-05",
-            "stock": 106
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -234,19 +290,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35907",
-            "price": 680,
-            "name": "ブランシェ083/0",
-            "date": "2022-12-04",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35827",
             "price": 780,
             "name": "ブランシェ083/0",
             "date": "2022-12-04",
             "stock": 106
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35907",
+            "price": 680,
+            "name": "ブランシェ083/0",
+            "date": "2022-12-04",
+            "stock": 32
         },
         {
             "market": "torecolo",
@@ -263,22 +319,6 @@
             "name": "ブランシェ(SR){",
             "date": "2022-12-03",
             "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35983",
-            "price": 480,
-            "name": "ブランシェ083/0",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35907",
-            "price": 680,
-            "name": "ブランシェ083/0",
-            "date": "2022-12-03",
-            "stock": 32
         },
         {
             "market": "cardrush",
@@ -289,51 +329,27 @@
             "stock": 119
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g083-071-S10B-B/",
-            "price": 660,
-            "name": "【ポケカ】ＳＲ◇ブラ",
-            "date": "2022-12-03",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23904",
-            "price": 800,
-            "name": "ブランシェ(SR){",
-            "date": "2022-12-02",
-            "stock": 14
-        },
-        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35827",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/35907",
+            "price": 680,
             "name": "ブランシェ083/0",
-            "date": "2022-12-02",
-            "stock": 126
+            "date": "2022-12-03",
+            "stock": 32
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35983",
             "price": 480,
             "name": "ブランシェ083/0",
-            "date": "2022-12-02",
+            "date": "2022-12-03",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35907",
-            "price": 680,
-            "name": "ブランシェ083/0",
-            "date": "2022-12-02",
-            "stock": 31
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g083-071-S10B-B/",
             "price": 660,
             "name": "【ポケカ】ＳＲ◇ブラ",
-            "date": "2022-12-02",
+            "date": "2022-12-03",
             "stock": 5
         }
     ]

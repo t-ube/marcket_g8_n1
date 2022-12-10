@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1664606897",
-            "price": 100,
+            "link": "/items/2105241654",
+            "price": 250,
             "name": "キバナ 151/17",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/717450631",
+            "price": 300,
+            "name": "キバナ 151/17",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
@@ -13,7 +21,7 @@
             "link": "/items/149942821",
             "price": 150,
             "name": "キバナ 151/17",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
@@ -21,6 +29,70 @@
             "link": "/items/838453590",
             "price": 100,
             "name": "キバナ 151/17",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1664606897",
+            "price": 100,
+            "name": "キバナ 151/17",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/595964230",
+            "price": 40,
+            "name": "1枚40円 s12a",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26174",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-10",
+            "stock": 28
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26266",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
+            "date": "2022-12-10",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38327",
+            "price": 80,
+            "name": "キバナ151/172",
+            "date": "2022-12-10",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38235",
+            "price": 50,
+            "name": "キバナ151/172",
+            "date": "2022-12-10",
+            "stock": 347
+        },
+        {
+            "market": "magi",
+            "link": "/items/838453590",
+            "price": 100,
+            "name": "キバナ 151/17",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/595964230",
+            "price": 40,
+            "name": "1枚40円 s12a",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -34,9 +106,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/595964230",
-            "price": 40,
-            "name": "1枚40円 s12a",
+            "link": "/items/1664606897",
+            "price": 100,
+            "name": "キバナ 151/17",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/149942821",
+            "price": 150,
+            "name": "キバナ 151/17",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -114,19 +194,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26174",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-08",
-            "stock": 28
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26266",
             "price": 100,
             "name": "キバナ:ミラー(CP",
             "date": "2022-12-08",
             "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26174",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-08",
+            "stock": 28
         },
         {
             "market": "cardrush",
@@ -210,17 +290,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/717450631",
-            "price": 300,
-            "name": "キバナ 151/17",
+            "link": "/items/595964230",
+            "price": 40,
+            "name": "1枚40円 s12a",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/595964230",
-            "price": 40,
-            "name": "1枚40円 s12a",
+            "link": "/items/717450631",
+            "price": 300,
+            "name": "キバナ 151/17",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -242,19 +322,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38235",
-            "price": 50,
-            "name": "キバナ151/172",
-            "date": "2022-12-06",
-            "stock": 368
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38327",
             "price": 80,
             "name": "キバナ151/172",
             "date": "2022-12-06",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38235",
+            "price": 50,
+            "name": "キバナ151/172",
+            "date": "2022-12-06",
+            "stock": 368
         },
         {
             "market": "magi",
@@ -306,6 +386,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/595964230",
+            "price": 40,
+            "name": "1枚40円 s12a",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2105241654",
             "price": 250,
             "name": "キバナ 151/17",
@@ -321,12 +409,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/595964230",
-            "price": 40,
-            "name": "1枚40円 s12a",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26266",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
             "date": "2022-12-04",
-            "stock": 1
+            "stock": 19
         },
         {
             "market": "hareruya2",
@@ -335,14 +423,6 @@
             "name": "キバナ(CP){サポ",
             "date": "2022-12-04",
             "stock": 34
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26266",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-04",
-            "stock": 19
         },
         {
             "market": "cardrush",
@@ -370,19 +450,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26174",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-03",
-            "stock": 34
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26266",
             "price": 100,
             "name": "キバナ:ミラー(CP",
             "date": "2022-12-03",
             "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26174",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-03",
+            "stock": 34
         },
         {
             "market": "cardrush",
@@ -399,46 +479,6 @@
             "name": "キバナ151/172",
             "date": "2022-12-03",
             "stock": 396
-        },
-        {
-            "market": "magi",
-            "link": "/items/2105241654",
-            "price": 250,
-            "name": "キバナ 151/17",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26174",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-02",
-            "stock": 34
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26266",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-02",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38235",
-            "price": 50,
-            "name": "キバナ151/172",
-            "date": "2022-12-02",
-            "stock": 404
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38327",
-            "price": 80,
-            "name": "キバナ151/172",
-            "date": "2022-12-02",
-            "stock": 15
         }
     ]
 }

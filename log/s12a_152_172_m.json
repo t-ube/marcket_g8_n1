@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/251284628",
+            "price": 100,
+            "name": "ザクロ 152/17",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/908283572",
+            "price": 25,
+            "name": "【４枚セット】ザクロ",
+            "date": "2022-12-10",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/288754251",
+            "price": 120,
+            "name": "ザクロ 152/17",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2030432871",
+            "price": 200,
+            "name": "ザクロ(キラ) 15",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1095690967",
+            "price": 250,
+            "name": "ザクロ 152/17",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143935682",
+            "price": 250,
+            "name": "ザクロ 152/17",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2087907010",
             "price": 200,
             "name": "ザクロ 152/17",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26267",
+            "price": 100,
+            "name": "ザクロ:ミラー(CP",
+            "date": "2022-12-10",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26175",
+            "price": 50,
+            "name": "ザクロ(CP){サポ",
+            "date": "2022-12-10",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38328",
+            "price": 80,
+            "name": "ザクロ152/172",
+            "date": "2022-12-10",
+            "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38236",
+            "price": 50,
+            "name": "ザクロ152/172",
+            "date": "2022-12-10",
+            "stock": 455
         },
         {
             "market": "magi",
@@ -15,38 +95,6 @@
             "name": "ザクロ 152/17",
             "date": "2022-12-09",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1095690967",
-            "price": 250,
-            "name": "ザクロ 152/17",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2030432871",
-            "price": 200,
-            "name": "ザクロ(キラ) 15",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/288754251",
-            "price": 120,
-            "name": "ザクロ 152/17",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/908283572",
-            "price": 25,
-            "name": "【４枚セット】ザクロ",
-            "date": "2022-12-09",
-            "stock": 4
         },
         {
             "market": "magi",
@@ -57,20 +105,60 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/908283572",
+            "price": 25,
+            "name": "【４枚セット】ザクロ",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2087907010",
+            "price": 200,
+            "name": "ザクロ 152/17",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2030432871",
+            "price": 200,
+            "name": "ザクロ(キラ) 15",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1095690967",
+            "price": 250,
+            "name": "ザクロ 152/17",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/288754251",
+            "price": 120,
+            "name": "ザクロ 152/17",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26267",
+            "price": 100,
+            "name": "ザクロ:ミラー(CP",
+            "date": "2022-12-09",
+            "stock": 17
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26175",
             "price": 50,
             "name": "ザクロ(CP){サポ",
             "date": "2022-12-09",
             "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38236",
-            "price": 50,
-            "name": "ザクロ152/172",
-            "date": "2022-12-09",
-            "stock": 455
         },
         {
             "market": "cardrush",
@@ -81,12 +169,28 @@
             "stock": 50
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26267",
-            "price": 100,
-            "name": "ザクロ:ミラー(CP",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38236",
+            "price": 50,
+            "name": "ザクロ152/172",
             "date": "2022-12-09",
-            "stock": 17
+            "stock": 455
+        },
+        {
+            "market": "magi",
+            "link": "/items/2030432871",
+            "price": 200,
+            "name": "ザクロ(キラ) 15",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/908283572",
+            "price": 25,
+            "name": "【４枚セット】ザクロ",
+            "date": "2022-12-08",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -121,20 +225,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/2030432871",
-            "price": 200,
-            "name": "ザクロ(キラ) 15",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26267",
+            "price": 100,
+            "name": "ザクロ:ミラー(CP",
             "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/908283572",
-            "price": 25,
-            "name": "【４枚セット】ザクロ",
-            "date": "2022-12-08",
-            "stock": 4
+            "stock": 17
         },
         {
             "market": "hareruya2",
@@ -143,14 +239,6 @@
             "name": "ザクロ(CP){サポ",
             "date": "2022-12-08",
             "stock": 36
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26267",
-            "price": 100,
-            "name": "ザクロ:ミラー(CP",
-            "date": "2022-12-08",
-            "stock": 17
         },
         {
             "market": "cardrush",
@@ -202,19 +290,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26175",
-            "price": 50,
-            "name": "ザクロ(CP){サポ",
-            "date": "2022-12-07",
-            "stock": 36
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26267",
             "price": 100,
             "name": "ザクロ:ミラー(CP",
             "date": "2022-12-07",
             "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26175",
+            "price": 50,
+            "name": "ザクロ(CP){サポ",
+            "date": "2022-12-07",
+            "stock": 36
         },
         {
             "market": "cardrush",
@@ -242,14 +330,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1095690967",
-            "price": 250,
-            "name": "ザクロ 152/17",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/143935682",
             "price": 250,
             "name": "ザクロ 152/17",
@@ -257,12 +337,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26175",
-            "price": 50,
-            "name": "ザクロ(CP){サポ",
+            "market": "magi",
+            "link": "/items/1095690967",
+            "price": 250,
+            "name": "ザクロ 152/17",
             "date": "2022-12-06",
-            "stock": 36
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -273,6 +353,14 @@
             "stock": 17
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26175",
+            "price": 50,
+            "name": "ザクロ(CP){サポ",
+            "date": "2022-12-06",
+            "stock": 36
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38328",
             "price": 80,
@@ -338,19 +426,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26175",
-            "price": 50,
-            "name": "ザクロ(CP){サポ",
-            "date": "2022-12-04",
-            "stock": 36
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26267",
             "price": 100,
             "name": "ザクロ:ミラー(CP",
             "date": "2022-12-04",
             "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26175",
+            "price": 50,
+            "name": "ザクロ(CP){サポ",
+            "date": "2022-12-04",
+            "stock": 36
         },
         {
             "market": "cardrush",
@@ -406,46 +494,6 @@
             "price": 80,
             "name": "ザクロ152/172",
             "date": "2022-12-03",
-            "stock": 31
-        },
-        {
-            "market": "magi",
-            "link": "/items/2087907010",
-            "price": 200,
-            "name": "ザクロ 152/17",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26267",
-            "price": 100,
-            "name": "ザクロ:ミラー(CP",
-            "date": "2022-12-02",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26175",
-            "price": 50,
-            "name": "ザクロ(CP){サポ",
-            "date": "2022-12-02",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38236",
-            "price": 50,
-            "name": "ザクロ152/172",
-            "date": "2022-12-02",
-            "stock": 427
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38328",
-            "price": 80,
-            "name": "ザクロ152/172",
-            "date": "2022-12-02",
             "stock": 31
         }
     ]

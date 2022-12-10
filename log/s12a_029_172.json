@@ -2,10 +2,58 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/660008972",
+            "price": 100,
+            "name": "マナフィ 029/1",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1019804926",
             "price": 100,
             "name": "マナフィ 029/1",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26052",
+            "price": 50,
+            "name": "マナフィ(CP){水",
+            "date": "2022-12-10",
+            "stock": 28
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26209",
+            "price": 100,
+            "name": "マナフィ:ミラー(C",
+            "date": "2022-12-10",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38113",
+            "price": 50,
+            "name": "マナフィ029/17",
+            "date": "2022-12-10",
+            "stock": 235
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38270",
+            "price": 120,
+            "name": "マナフィ029/17",
+            "date": "2022-12-10",
+            "stock": 232
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38544",
+            "price": 110,
+            "name": "マナフィ029/17",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
@@ -17,12 +65,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26209",
+            "market": "magi",
+            "link": "/items/1019804926",
             "price": 100,
-            "name": "マナフィ:ミラー(C",
+            "name": "マナフィ 029/1",
             "date": "2022-12-09",
-            "stock": 13
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -33,12 +81,12 @@
             "stock": 30
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38270",
-            "price": 120,
-            "name": "マナフィ029/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26209",
+            "price": 100,
+            "name": "マナフィ:ミラー(C",
             "date": "2022-12-09",
-            "stock": 214
+            "stock": 13
         },
         {
             "market": "cardrush",
@@ -49,20 +97,20 @@
             "stock": 245
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38270",
+            "price": 120,
+            "name": "マナフィ029/17",
+            "date": "2022-12-09",
+            "stock": 214
+        },
+        {
             "market": "magi",
             "link": "/items/1019804926",
             "price": 100,
             "name": "マナフィ 029/1",
             "date": "2022-12-08",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26209",
-            "price": 100,
-            "name": "マナフィ:ミラー(C",
-            "date": "2022-12-08",
-            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -73,12 +121,12 @@
             "stock": 30
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38270",
-            "price": 120,
-            "name": "マナフィ029/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26209",
+            "price": 100,
+            "name": "マナフィ:ミラー(C",
             "date": "2022-12-08",
-            "stock": 201
+            "stock": 14
         },
         {
             "market": "cardrush",
@@ -87,6 +135,14 @@
             "name": "マナフィ029/17",
             "date": "2022-12-08",
             "stock": 255
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38270",
+            "price": 120,
+            "name": "マナフィ029/17",
+            "date": "2022-12-08",
+            "stock": 201
         },
         {
             "market": "magi",
@@ -98,19 +154,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26052",
-            "price": 50,
-            "name": "マナフィ(CP){水",
-            "date": "2022-12-07",
-            "stock": 31
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26209",
             "price": 100,
             "name": "マナフィ:ミラー(C",
             "date": "2022-12-07",
             "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26052",
+            "price": 50,
+            "name": "マナフィ(CP){水",
+            "date": "2022-12-07",
+            "stock": 31
         },
         {
             "market": "cardrush",
@@ -178,14 +234,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26209",
-            "price": 100,
-            "name": "マナフィ:ミラー(C",
-            "date": "2022-12-05",
-            "stock": 18
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26052",
             "price": 50,
             "name": "マナフィ(CP){水",
@@ -193,12 +241,12 @@
             "stock": 33
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38270",
-            "price": 120,
-            "name": "マナフィ029/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26209",
+            "price": 100,
+            "name": "マナフィ:ミラー(C",
             "date": "2022-12-05",
-            "stock": 160
+            "stock": 18
         },
         {
             "market": "cardrush",
@@ -207,6 +255,14 @@
             "name": "マナフィ029/17",
             "date": "2022-12-05",
             "stock": 266
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38270",
+            "price": 120,
+            "name": "マナフィ029/17",
+            "date": "2022-12-05",
+            "stock": 160
         },
         {
             "market": "hareruya2",
@@ -226,14 +282,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38113",
-            "price": 50,
-            "name": "マナフィ029/17",
-            "date": "2022-12-04",
-            "stock": 134
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38270",
             "price": 120,
             "name": "マナフィ029/17",
@@ -241,12 +289,12 @@
             "stock": 130
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26052",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38113",
             "price": 50,
-            "name": "マナフィ(CP){水",
-            "date": "2022-12-03",
-            "stock": 38
+            "name": "マナフィ029/17",
+            "date": "2022-12-04",
+            "stock": 134
         },
         {
             "market": "hareruya2",
@@ -257,12 +305,12 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38270",
-            "price": 120,
-            "name": "マナフィ029/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26052",
+            "price": 50,
+            "name": "マナフィ(CP){水",
             "date": "2022-12-03",
-            "stock": 77
+            "stock": 38
         },
         {
             "market": "cardrush",
@@ -273,35 +321,11 @@
             "stock": 145
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26209",
-            "price": 100,
-            "name": "マナフィ:ミラー(C",
-            "date": "2022-12-02",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26052",
-            "price": 50,
-            "name": "マナフィ(CP){水",
-            "date": "2022-12-02",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38113",
-            "price": 50,
-            "name": "マナフィ029/17",
-            "date": "2022-12-02",
-            "stock": 149
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38270",
             "price": 120,
             "name": "マナフィ029/17",
-            "date": "2022-12-02",
+            "date": "2022-12-03",
             "stock": 77
         }
     ]
