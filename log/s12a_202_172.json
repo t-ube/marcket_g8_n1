@@ -3,6 +3,38 @@
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26341",
+            "price": 1800,
+            "name": "チルット(AR){無",
+            "date": "2022-12-11",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38649",
+            "price": 1480,
+            "name": "チルット202/17",
+            "date": "2022-12-11",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38863",
+            "price": 1180,
+            "name": "チルット202/17",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38382",
+            "price": 1580,
+            "name": "チルット202/17",
+            "date": "2022-12-11",
+            "stock": 21
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26341",
             "price": 2000,
             "name": "チルット(AR){無",
             "date": "2022-12-10",
@@ -66,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38382",
-            "price": 1580,
-            "name": "チルット202/17",
-            "date": "2022-12-07",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38649",
             "price": 1480,
             "name": "チルット202/17",
             "date": "2022-12-07",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38382",
+            "price": 1580,
+            "name": "チルット202/17",
+            "date": "2022-12-07",
+            "stock": 6
         },
         {
             "market": "hareruya2",
@@ -103,22 +135,6 @@
             "name": "チルット202/17",
             "date": "2022-12-04",
             "stock": 35
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26341",
-            "price": 1500,
-            "name": "チルット(AR){無",
-            "date": "2022-12-03",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38382",
-            "price": 1780,
-            "name": "チルット202/17",
-            "date": "2022-12-03",
-            "stock": 56
         }
     ]
 }

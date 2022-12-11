@@ -3,6 +3,22 @@
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26345",
+            "price": 2200,
+            "name": "ナエトル(AR){草",
+            "date": "2022-12-11",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38386",
+            "price": 2180,
+            "name": "ナエトル206/17",
+            "date": "2022-12-11",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26345",
             "price": 2500,
             "name": "ナエトル(AR){草",
             "date": "2022-12-10",
@@ -71,22 +87,6 @@
             "name": "ナエトル(AR){草",
             "date": "2022-12-06",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26345",
-            "price": 1500,
-            "name": "ナエトル(AR){草",
-            "date": "2022-12-03",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38386",
-            "price": 1780,
-            "name": "ナエトル206/17",
-            "date": "2022-12-03",
-            "stock": 45
         }
     ]
 }

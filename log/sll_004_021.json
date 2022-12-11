@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22773",
+            "price": 100,
+            "name": "ルカリオV(D){闘",
+            "date": "2022-12-11",
+            "stock": 47
+        },
+        {
             "market": "magi",
             "link": "/items/1937822477",
             "price": 290,
@@ -151,30 +159,6 @@
             "name": "ルカリオV004/0",
             "date": "2022-12-04",
             "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/1937822477",
-            "price": 290,
-            "name": "フシギバナVMAX ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22773",
-            "price": 100,
-            "name": "ルカリオV(D){闘",
-            "date": "2022-12-03",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33636",
-            "price": 120,
-            "name": "ルカリオV004/0",
-            "date": "2022-12-03",
-            "stock": 7
         }
     ]
 }

@@ -2,6 +2,70 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1666138495",
+            "price": 680,
+            "name": "プレゼント付き　ゲノ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1002492901",
+            "price": 150,
+            "name": "ゲノセクトV RR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1173001623",
+            "price": 600,
+            "name": "ゲノセクトV RR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1330307174",
+            "price": 360,
+            "name": "ゲノセクトV RR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/19473120",
+            "price": 540,
+            "name": "ゲノセクトV RR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/161580820",
+            "price": 400,
+            "name": "ゲノセクトV RR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26125",
+            "price": 150,
+            "name": "ゲノセクトV(RR)",
+            "date": "2022-12-11",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38186",
+            "price": 120,
+            "name": "ゲノセクトV102/",
+            "date": "2022-12-11",
+            "stock": 162
+        },
+        {
+            "market": "magi",
             "link": "/items/161580820",
             "price": 400,
             "name": "ゲノセクトV RR ",
@@ -138,17 +202,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1502030288",
-            "price": 555,
-            "name": "【特価】ゲノセクトV",
+            "link": "/items/161580820",
+            "price": 400,
+            "name": "ゲノセクトV RR ",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/161580820",
-            "price": 400,
-            "name": "ゲノセクトV RR ",
+            "link": "/items/1502030288",
+            "price": 555,
+            "name": "【特価】ゲノセクトV",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -215,38 +279,6 @@
             "name": "ゲノセクトV102/",
             "date": "2022-12-04",
             "stock": 172
-        },
-        {
-            "market": "magi",
-            "link": "/items/161580820",
-            "price": 500,
-            "name": "ゲノセクトV RR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717936834",
-            "price": 550,
-            "name": "ゲノセクトV RR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26125",
-            "price": 150,
-            "name": "ゲノセクトV(RR)",
-            "date": "2022-12-03",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38186",
-            "price": 120,
-            "name": "ゲノセクトV102/",
-            "date": "2022-12-03",
-            "stock": 152
         }
     ]
 }

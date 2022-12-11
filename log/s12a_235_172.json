@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/485017425",
+            "price": 1111,
+            "name": "アクロマの実験 SA",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26374",
+            "price": 1700,
+            "name": "アクロマの実験(SA",
+            "date": "2022-12-11",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38415",
+            "price": 1580,
+            "name": "アクロマの実験235",
+            "date": "2022-12-11",
+            "stock": 23
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38682",
             "price": 1480,
@@ -127,30 +151,6 @@
             "name": "アクロマの実験235",
             "date": "2022-12-04",
             "stock": 32
-        },
-        {
-            "market": "magi",
-            "link": "/items/100866851",
-            "price": 900,
-            "name": "アクロマの実験 SA",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26374",
-            "price": 1400,
-            "name": "アクロマの実験(SA",
-            "date": "2022-12-03",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38415",
-            "price": 1380,
-            "name": "アクロマの実験235",
-            "date": "2022-12-03",
-            "stock": 33
         }
     ]
 }

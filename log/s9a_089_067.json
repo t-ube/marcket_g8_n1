@@ -2,6 +2,62 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/821167929",
+            "price": 999,
+            "name": "ツツジ HR 089",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223083829",
+            "price": 1300,
+            "name": "ツツジ HR 089",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/937537805",
+            "price": 2200,
+            "name": "ツツジ HR 089",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/522132271",
+            "price": 1580,
+            "name": "ツツジ　089/06",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33806",
+            "price": 1680,
+            "name": "ツツジ089/067",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33713",
+            "price": 1780,
+            "name": "ツツジ089/067",
+            "date": "2022-12-11",
+            "stock": 37
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g089-067-S9A-B/",
+            "price": 1650,
+            "name": "【ポケカ】ＨＲ◇ツツ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/223083829",
             "price": 1300,
             "name": "ツツジ HR 089",
@@ -74,11 +130,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33713",
-            "price": 1780,
+            "link": "https://www.cardrush-pokemon.jp/product/33806",
+            "price": 1680,
             "name": "ツツジ089/067",
             "date": "2022-12-09",
-            "stock": 36
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -90,11 +146,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33806",
-            "price": 1680,
+            "link": "https://www.cardrush-pokemon.jp/product/33713",
+            "price": 1780,
             "name": "ツツジ089/067",
             "date": "2022-12-09",
-            "stock": 1
+            "stock": 36
         },
         {
             "market": "torecolo",
@@ -106,9 +162,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/522132271",
-            "price": 1580,
-            "name": "ツツジ　089/06",
+            "link": "/items/937537805",
+            "price": 2200,
+            "name": "ツツジ HR 089",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -122,19 +178,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/937537805",
-            "price": 2200,
-            "name": "ツツジ HR 089",
+            "link": "/items/522132271",
+            "price": 1580,
+            "name": "ツツジ　089/06",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33806",
-            "price": 1680,
+            "link": "https://www.cardrush-pokemon.jp/product/33713",
+            "price": 1780,
             "name": "ツツジ089/067",
             "date": "2022-12-08",
-            "stock": 1
+            "stock": 36
         },
         {
             "market": "cardrush",
@@ -146,11 +202,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33713",
-            "price": 1780,
+            "link": "https://www.cardrush-pokemon.jp/product/33806",
+            "price": 1680,
             "name": "ツツジ089/067",
             "date": "2022-12-08",
-            "stock": 36
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -178,14 +234,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/223083829",
-            "price": 1300,
-            "name": "ツツジ HR 089",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/522132271",
             "price": 1580,
             "name": "ツツジ　089/06",
@@ -193,9 +241,17 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/223083829",
+            "price": 1300,
+            "name": "ツツジ HR 089",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33806",
-            "price": 1680,
+            "link": "https://www.cardrush-pokemon.jp/product/33899",
+            "price": 1380,
             "name": "ツツジ089/067",
             "date": "2022-12-07",
             "stock": 1
@@ -210,8 +266,8 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33899",
-            "price": 1380,
+            "link": "https://www.cardrush-pokemon.jp/product/33806",
+            "price": 1680,
             "name": "ツツジ089/067",
             "date": "2022-12-07",
             "stock": 1
@@ -222,6 +278,30 @@
             "price": 1650,
             "name": "【ポケカ】ＨＲ◇ツツ",
             "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/522132271",
+            "price": 1580,
+            "name": "ツツジ　089/06",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/937537805",
+            "price": 2200,
+            "name": "ツツジ HR 089",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223083829",
+            "price": 1300,
+            "name": "ツツジ HR 089",
+            "date": "2022-12-06",
             "stock": 1
         },
         {
@@ -233,26 +313,10 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/223083829",
-            "price": 1300,
-            "name": "ツツジ HR 089",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/937537805",
-            "price": 2200,
-            "name": "ツツジ HR 089",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522132271",
-            "price": 1580,
-            "name": "ツツジ　089/06",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33806",
+            "price": 1680,
+            "name": "ツツジ089/067",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -263,14 +327,6 @@
             "name": "ツツジ089/067",
             "date": "2022-12-06",
             "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33806",
-            "price": 1680,
-            "name": "ツツジ089/067",
-            "date": "2022-12-06",
-            "stock": 1
         },
         {
             "market": "torecolo",
@@ -282,17 +338,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/522132271",
-            "price": 1580,
-            "name": "ツツジ　089/06",
+            "link": "/items/937537805",
+            "price": 2200,
+            "name": "ツツジ HR 089",
             "date": "2022-12-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/937537805",
-            "price": 2200,
-            "name": "ツツジ HR 089",
+            "link": "/items/522132271",
+            "price": 1580,
+            "name": "ツツジ　089/06",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -338,9 +394,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/522132271",
-            "price": 1580,
-            "name": "ツツジ　089/06",
+            "link": "/items/223083829",
+            "price": 1300,
+            "name": "ツツジ HR 089",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -354,9 +410,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/223083829",
-            "price": 1300,
-            "name": "ツツジ HR 089",
+            "link": "/items/522132271",
+            "price": 1580,
+            "name": "ツツジ　089/06",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -365,6 +421,14 @@
             "link": "https://www.hareruya2.com/product/22838",
             "price": 2000,
             "name": "ツツジ(HR){サポ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33899",
+            "price": 1380,
+            "name": "ツツジ089/067",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -378,75 +442,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33899",
-            "price": 1380,
-            "name": "ツツジ089/067",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33806",
             "price": 1680,
             "name": "ツツジ089/067",
             "date": "2022-12-04",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/937537805",
-            "price": 2200,
-            "name": "ツツジ HR 089",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522132271",
-            "price": 1580,
-            "name": "ツツジ　089/06",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223083829",
-            "price": 1300,
-            "name": "ツツジ HR 089",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22838",
-            "price": 2000,
-            "name": "ツツジ(HR){サポ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33899",
-            "price": 1380,
-            "name": "ツツジ089/067",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33806",
-            "price": 1680,
-            "name": "ツツジ089/067",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33713",
-            "price": 1780,
-            "name": "ツツジ089/067",
-            "date": "2022-12-03",
-            "stock": 38
         }
     ]
 }
