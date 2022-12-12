@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/21672",
             "price": 200,
             "name": "ビクティニVMAX(",
+            "date": "2022-12-12",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23266",
+            "price": 220,
+            "name": "ビクティニVMAX0",
+            "date": "2022-12-12",
+            "stock": 29
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21672",
+            "price": 200,
+            "name": "ビクティニVMAX(",
             "date": "2022-12-11",
             "stock": 4
         },
@@ -111,22 +127,6 @@
             "name": "ビクティニVMAX0",
             "date": "2022-12-05",
             "stock": 32
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21672",
-            "price": 200,
-            "name": "ビクティニVMAX(",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23266",
-            "price": 220,
-            "name": "ビクティニVMAX0",
-            "date": "2022-12-04",
-            "stock": 34
         }
     ]
 }

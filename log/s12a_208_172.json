@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/162087462",
+            "price": 220,
+            "name": "美品! ポケモンカー",
+            "date": "2022-12-12",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26347",
+            "price": 1600,
+            "name": "ポチエナ(AR){悪",
+            "date": "2022-12-12",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38655",
+            "price": 1480,
+            "name": "ポチエナ208/17",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38388",
+            "price": 1580,
+            "name": "ポチエナ208/17",
+            "date": "2022-12-12",
+            "stock": 22
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26347",
             "price": 1600,
@@ -119,22 +151,6 @@
             "name": "ポチエナ208/17",
             "date": "2022-12-05",
             "stock": 27
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26347",
-            "price": 2000,
-            "name": "ポチエナ(AR){悪",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38388",
-            "price": 1580,
-            "name": "ポチエナ208/17",
-            "date": "2022-12-04",
-            "stock": 35
         }
     ]
 }
