@@ -5,6 +5,14 @@
             "link": "https://www.hareruya2.com/product/21806",
             "price": 250,
             "name": "こくばバドレックスV",
+            "date": "2022-12-13",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21806",
+            "price": 250,
+            "name": "こくばバドレックスV",
             "date": "2022-12-12",
             "stock": 2
         },
@@ -26,19 +34,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33176",
-            "price": 200,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-11",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23450",
             "price": 220,
             "name": "こくばバドレックスV",
             "date": "2022-12-11",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33176",
+            "price": 200,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-11",
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -78,14 +86,6 @@
             "price": 250,
             "name": "こくばバドレックスV",
             "date": "2022-12-06",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21806",
-            "price": 250,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-05",
             "stock": 2
         }
     ]

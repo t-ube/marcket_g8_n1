@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21871",
+            "price": 100,
+            "name": "レパルダスV(D){",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23537",
+            "price": 80,
+            "name": "レパルダスV273/",
+            "date": "2022-12-13",
+            "stock": 78
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23537",
             "price": 80,
@@ -62,22 +78,6 @@
             "price": 80,
             "name": "レパルダスV273/",
             "date": "2022-12-06",
-            "stock": 79
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21871",
-            "price": 100,
-            "name": "レパルダスV(D){",
-            "date": "2022-12-05",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23537",
-            "price": 80,
-            "name": "レパルダスV273/",
-            "date": "2022-12-05",
             "stock": 79
         }
     ]

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/24404",
             "price": 800,
             "name": "ロトムVSTAR()",
+            "date": "2022-12-13",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36750",
+            "price": 680,
+            "name": "ロトムVSTAR00",
+            "date": "2022-12-13",
+            "stock": 112
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24404",
+            "price": 800,
+            "name": "ロトムVSTAR()",
             "date": "2022-12-12",
             "stock": 5
         },
@@ -111,22 +127,6 @@
             "name": "ロトムVSTAR00",
             "date": "2022-12-06",
             "stock": 123
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24404",
-            "price": 800,
-            "name": "ロトムVSTAR()",
-            "date": "2022-12-05",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36750",
-            "price": 680,
-            "name": "ロトムVSTAR00",
-            "date": "2022-12-05",
-            "stock": 125
         }
     ]
 }

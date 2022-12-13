@@ -2,11 +2,51 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1593252643",
+            "price": 300,
+            "name": "ボスゴドラV(キラ)",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/411957317",
             "price": 600,
             "name": "ボスゴドラV TD ",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21557",
+            "price": 200,
+            "name": "ボスゴドラV:ミラー",
+            "date": "2022-12-13",
+            "stock": 114
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21893",
+            "price": 200,
+            "name": "ボスゴドラV(D){",
+            "date": "2022-12-13",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23570",
+            "price": 80,
+            "name": "ボスゴドラV299/",
+            "date": "2022-12-13",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23571",
+            "price": 120,
+            "name": "ボスゴドラV299/",
+            "date": "2022-12-13",
+            "stock": 32
         },
         {
             "market": "magi",
@@ -25,12 +65,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21557",
-            "price": 200,
-            "name": "ボスゴドラV:ミラー",
+            "market": "magi",
+            "link": "/items/411957317",
+            "price": 600,
+            "name": "ボスゴドラV TD ",
             "date": "2022-12-12",
-            "stock": 116
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -39,6 +79,14 @@
             "name": "ボスゴドラV(D){",
             "date": "2022-12-12",
             "stock": 40
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21557",
+            "price": 200,
+            "name": "ボスゴドラV:ミラー",
+            "date": "2022-12-12",
+            "stock": 116
         },
         {
             "market": "cardrush",
@@ -58,14 +106,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/159985282",
-            "price": 300,
-            "name": "【特価】ボスゴドラV",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1593252643",
             "price": 300,
             "name": "ボスゴドラV(キラ)",
@@ -81,12 +121,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21557",
-            "price": 200,
-            "name": "ボスゴドラV:ミラー",
+            "market": "magi",
+            "link": "/items/159985282",
+            "price": 300,
+            "name": "【特価】ボスゴドラV",
             "date": "2022-12-11",
-            "stock": 116
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -95,6 +135,22 @@
             "name": "ボスゴドラV(D){",
             "date": "2022-12-11",
             "stock": 40
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21557",
+            "price": 200,
+            "name": "ボスゴドラV:ミラー",
+            "date": "2022-12-11",
+            "stock": 116
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23570",
+            "price": 80,
+            "name": "ボスゴドラV299/",
+            "date": "2022-12-11",
+            "stock": 49
         },
         {
             "market": "cardrush",
@@ -105,18 +161,10 @@
             "stock": 32
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23570",
-            "price": 80,
-            "name": "ボスゴドラV299/",
-            "date": "2022-12-11",
-            "stock": 49
-        },
-        {
             "market": "magi",
-            "link": "/items/159985282",
+            "link": "/items/1593252643",
             "price": 300,
-            "name": "【特価】ボスゴドラV",
+            "name": "ボスゴドラV(キラ)",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -130,19 +178,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1593252643",
+            "link": "/items/159985282",
             "price": 300,
-            "name": "ボスゴドラV(キラ)",
+            "name": "【特価】ボスゴドラV",
             "date": "2022-12-10",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21557",
-            "price": 200,
-            "name": "ボスゴドラV:ミラー",
-            "date": "2022-12-10",
-            "stock": 116
         },
         {
             "market": "hareruya2",
@@ -153,12 +193,12 @@
             "stock": 40
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23571",
-            "price": 120,
-            "name": "ボスゴドラV299/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21557",
+            "price": 200,
+            "name": "ボスゴドラV:ミラー",
             "date": "2022-12-10",
-            "stock": 33
+            "stock": 116
         },
         {
             "market": "cardrush",
@@ -167,6 +207,14 @@
             "name": "ボスゴドラV299/",
             "date": "2022-12-10",
             "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23571",
+            "price": 120,
+            "name": "ボスゴドラV299/",
+            "date": "2022-12-10",
+            "stock": 33
         },
         {
             "market": "magi",
@@ -194,14 +242,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21557",
-            "price": 200,
-            "name": "ボスゴドラV:ミラー",
-            "date": "2022-12-09",
-            "stock": 116
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21893",
             "price": 200,
             "name": "ボスゴドラV(D){",
@@ -209,12 +249,12 @@
             "stock": 40
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23571",
-            "price": 120,
-            "name": "ボスゴドラV299/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21557",
+            "price": 200,
+            "name": "ボスゴドラV:ミラー",
             "date": "2022-12-09",
-            "stock": 33
+            "stock": 116
         },
         {
             "market": "cardrush",
@@ -225,10 +265,18 @@
             "stock": 49
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23571",
+            "price": 120,
+            "name": "ボスゴドラV299/",
+            "date": "2022-12-09",
+            "stock": 33
+        },
+        {
             "market": "magi",
-            "link": "/items/159985282",
+            "link": "/items/1593252643",
             "price": 300,
-            "name": "【特価】ボスゴドラV",
+            "name": "ボスゴドラV(キラ)",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -242,19 +290,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1593252643",
+            "link": "/items/159985282",
             "price": 300,
-            "name": "ボスゴドラV(キラ)",
+            "name": "【特価】ボスゴドラV",
             "date": "2022-12-08",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21893",
-            "price": 200,
-            "name": "ボスゴドラV(D){",
-            "date": "2022-12-08",
-            "stock": 40
         },
         {
             "market": "hareruya2",
@@ -265,12 +305,12 @@
             "stock": 116
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23570",
-            "price": 80,
-            "name": "ボスゴドラV299/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21893",
+            "price": 200,
+            "name": "ボスゴドラV(D){",
             "date": "2022-12-08",
-            "stock": 49
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -279,6 +319,22 @@
             "name": "ボスゴドラV299/",
             "date": "2022-12-08",
             "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23570",
+            "price": 80,
+            "name": "ボスゴドラV299/",
+            "date": "2022-12-08",
+            "stock": 49
+        },
+        {
+            "market": "magi",
+            "link": "/items/1593252643",
+            "price": 300,
+            "name": "ボスゴドラV(キラ)",
+            "date": "2022-12-07",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -297,14 +353,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1593252643",
-            "price": 300,
-            "name": "ボスゴドラV(キラ)",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21893",
             "price": 200,
@@ -322,14 +370,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23570",
-            "price": 80,
-            "name": "ボスゴドラV299/",
-            "date": "2022-12-07",
-            "stock": 49
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23571",
             "price": 120,
             "name": "ボスゴドラV299/",
@@ -337,10 +377,18 @@
             "stock": 33
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23570",
+            "price": 80,
+            "name": "ボスゴドラV299/",
+            "date": "2022-12-07",
+            "stock": 49
+        },
+        {
             "market": "magi",
-            "link": "/items/1593252643",
-            "price": 300,
-            "name": "ボスゴドラV(キラ)",
+            "link": "/items/411957317",
+            "price": 600,
+            "name": "ボスゴドラV TD ",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -354,11 +402,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/411957317",
-            "price": 600,
-            "name": "ボスゴドラV TD ",
+            "link": "/items/1593252643",
+            "price": 300,
+            "name": "ボスゴドラV(キラ)",
             "date": "2022-12-06",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21893",
+            "price": 200,
+            "name": "ボスゴドラV(D){",
+            "date": "2022-12-06",
+            "stock": 40
         },
         {
             "market": "hareruya2",
@@ -369,12 +425,12 @@
             "stock": 118
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21893",
-            "price": 200,
-            "name": "ボスゴドラV(D){",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23570",
+            "price": 80,
+            "name": "ボスゴドラV299/",
             "date": "2022-12-06",
-            "stock": 40
+            "stock": 49
         },
         {
             "market": "cardrush",
@@ -383,70 +439,6 @@
             "name": "ボスゴドラV299/",
             "date": "2022-12-06",
             "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23570",
-            "price": 80,
-            "name": "ボスゴドラV299/",
-            "date": "2022-12-06",
-            "stock": 49
-        },
-        {
-            "market": "magi",
-            "link": "/items/1593252643",
-            "price": 300,
-            "name": "ボスゴドラV(キラ)",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/411957317",
-            "price": 600,
-            "name": "ボスゴドラV TD ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159985282",
-            "price": 300,
-            "name": "【特価】ボスゴドラV",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21557",
-            "price": 200,
-            "name": "ボスゴドラV:ミラー",
-            "date": "2022-12-05",
-            "stock": 118
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21893",
-            "price": 200,
-            "name": "ボスゴドラV(D){",
-            "date": "2022-12-05",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23570",
-            "price": 80,
-            "name": "ボスゴドラV299/",
-            "date": "2022-12-05",
-            "stock": 49
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23571",
-            "price": 120,
-            "name": "ボスゴドラV299/",
-            "date": "2022-12-05",
-            "stock": 35
         }
     ]
 }

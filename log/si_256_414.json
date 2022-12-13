@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21855",
+            "price": 150,
+            "name": "ブラッキーVMAX(",
+            "date": "2022-12-13",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23514",
+            "price": 180,
+            "name": "ブラッキーVMAX2",
+            "date": "2022-12-13",
+            "stock": 14
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23514",
             "price": 180,
@@ -102,22 +118,6 @@
             "price": 180,
             "name": "ブラッキーVMAX2",
             "date": "2022-12-06",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21855",
-            "price": 150,
-            "name": "ブラッキーVMAX(",
-            "date": "2022-12-05",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23514",
-            "price": 180,
-            "name": "ブラッキーVMAX2",
-            "date": "2022-12-05",
             "stock": 15
         }
     ]
