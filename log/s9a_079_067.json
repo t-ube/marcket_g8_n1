@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/22828",
             "price": 1000,
             "name": "ガブリアスV(SR)",
+            "date": "2022-12-14",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33796",
+            "price": 730,
+            "name": "ガブリアスV079/",
+            "date": "2022-12-14",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33703",
+            "price": 780,
+            "name": "ガブリアスV079/",
+            "date": "2022-12-14",
+            "stock": 54
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22828",
+            "price": 1000,
+            "name": "ガブリアスV(SR)",
             "date": "2022-12-13",
             "stock": 2
         },
@@ -162,19 +186,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33796",
-            "price": 730,
-            "name": "ガブリアスV079/",
-            "date": "2022-12-08",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33703",
             "price": 780,
             "name": "ガブリアスV079/",
             "date": "2022-12-08",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33796",
+            "price": 730,
+            "name": "ガブリアスV079/",
+            "date": "2022-12-08",
+            "stock": 7
         },
         {
             "market": "hareruya2",
@@ -186,14 +210,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33796",
-            "price": 730,
-            "name": "ガブリアスV079/",
-            "date": "2022-12-07",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33703",
             "price": 780,
             "name": "ガブリアスV079/",
@@ -201,28 +217,12 @@
             "stock": 45
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22828",
-            "price": 1000,
-            "name": "ガブリアスV(SR)",
-            "date": "2022-12-06",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33796",
             "price": 730,
             "name": "ガブリアスV079/",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33703",
-            "price": 780,
-            "name": "ガブリアスV079/",
-            "date": "2022-12-06",
-            "stock": 44
         }
     ]
 }

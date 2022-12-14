@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22782",
+            "price": 100,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-14",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g013-021-SLL-R/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ◇ハイ",
+            "date": "2022-12-14",
+            "stock": 11
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g013-021-SLL-R/",
             "price": 77,
@@ -78,22 +94,6 @@
             "price": 77,
             "name": "【ポケカ】ＳＳ◇ハイ",
             "date": "2022-12-07",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22782",
-            "price": 100,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-06",
-            "stock": 21
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g013-021-SLL-R/",
-            "price": 77,
-            "name": "【ポケカ】ＳＳ◇ハイ",
-            "date": "2022-12-06",
             "stock": 7
         }
     ]

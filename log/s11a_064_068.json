@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/836113092",
+            "price": 1000,
+            "name": "セレナ(ミラー) U",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329050386",
+            "price": 500,
+            "name": "セレナ(ミラー) U",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/143885815",
             "price": 1000,
             "name": "セレナ(ミラー) U",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1259718284",
+            "price": 1200,
+            "name": "セレナ U 064/",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1849632548",
+            "price": 2222,
+            "name": "セレナ(ミラー) U",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25147",
+            "price": 500,
+            "name": "セレナ(U){サポー",
+            "date": "2022-12-14",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25193",
+            "price": 550,
+            "name": "セレナ:ミラー(U)",
+            "date": "2022-12-14",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37109",
+            "price": 450,
+            "name": "セレナ064/068",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36999",
+            "price": 480,
+            "name": "セレナ064/068",
+            "date": "2022-12-14",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36953",
+            "price": 420,
+            "name": "セレナ064/068",
+            "date": "2022-12-14",
+            "stock": 57
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g064-068-S11A-BM/",
+            "price": 495,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-14",
+            "stock": 29
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g064-068-S11A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-14",
+            "stock": 16
         },
         {
             "market": "magi",
@@ -18,16 +106,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1849632548",
-            "price": 2222,
+            "link": "/items/836113092",
+            "price": 1000,
             "name": "セレナ(ミラー) U",
             "date": "2022-12-13",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/836113092",
+            "link": "/items/143885815",
             "price": 1000,
+            "name": "セレナ(ミラー) U",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1849632548",
+            "price": 2222,
             "name": "セレナ(ミラー) U",
             "date": "2022-12-13",
             "stock": 1
@@ -50,6 +146,14 @@
         },
         {
             "market": "torecolo",
+            "link": "/shop/g/g064-068-S11A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-13",
+            "stock": 18
+        },
+        {
+            "market": "torecolo",
             "link": "/shop/g/g064-068-S11A-BM/",
             "price": 495,
             "name": "【ポケカ】Ｕ）ミラー",
@@ -57,17 +161,9 @@
             "stock": 29
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g064-068-S11A-B/",
-            "price": 440,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-13",
-            "stock": 18
-        },
-        {
             "market": "magi",
-            "link": "/items/143885815",
-            "price": 1000,
+            "link": "/items/1849632548",
+            "price": 2222,
             "name": "セレナ(ミラー) U",
             "date": "2022-12-12",
             "stock": 1
@@ -82,19 +178,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1849632548",
-            "price": 2222,
+            "link": "/items/143885815",
+            "price": 1000,
             "name": "セレナ(ミラー) U",
             "date": "2022-12-12",
             "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g064-068-S11A-B/",
-            "price": 440,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-12",
-            "stock": 18
         },
         {
             "market": "torecolo",
@@ -105,10 +193,18 @@
             "stock": 30
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g064-068-S11A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-12",
+            "stock": 18
+        },
+        {
             "market": "magi",
-            "link": "/items/1259718284",
-            "price": 1200,
-            "name": "セレナ U 064/",
+            "link": "/items/143885815",
+            "price": 1000,
+            "name": "セレナ(ミラー) U",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -122,9 +218,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/143885815",
-            "price": 1000,
-            "name": "セレナ(ミラー) U",
+            "link": "/items/1259718284",
+            "price": 1200,
+            "name": "セレナ U 064/",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -146,8 +242,24 @@
         },
         {
             "market": "magi",
+            "link": "/items/1259718284",
+            "price": 1200,
+            "name": "セレナ U 064/",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1849632548",
             "price": 2222,
+            "name": "セレナ(ミラー) U",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143885815",
+            "price": 1000,
             "name": "セレナ(ミラー) U",
             "date": "2022-12-10",
             "stock": 1
@@ -164,22 +276,6 @@
             "market": "magi",
             "link": "/items/1878394626",
             "price": 500,
-            "name": "セレナ(ミラー) U",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1259718284",
-            "price": 1200,
-            "name": "セレナ U 064/",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143885815",
-            "price": 1000,
             "name": "セレナ(ミラー) U",
             "date": "2022-12-10",
             "stock": 1
@@ -226,6 +322,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1878394626",
+            "price": 500,
+            "name": "セレナ(ミラー) U",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1387624853",
             "price": 250,
             "name": "セレナ U 064/",
@@ -249,12 +353,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1878394626",
-            "price": 500,
-            "name": "セレナ(ミラー) U",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25193",
+            "price": 550,
+            "name": "セレナ:ミラー(U)",
             "date": "2022-12-09",
-            "stock": 1
+            "stock": 8
         },
         {
             "market": "hareruya2",
@@ -263,14 +367,6 @@
             "name": "セレナ(U){サポー",
             "date": "2022-12-09",
             "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25193",
-            "price": 550,
-            "name": "セレナ:ミラー(U)",
-            "date": "2022-12-09",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -306,16 +402,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1259718284",
-            "price": 1200,
+            "link": "/items/1387624853",
+            "price": 250,
             "name": "セレナ U 064/",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/143885815",
-            "price": 1000,
+            "link": "/items/1287999032",
+            "price": 950,
+            "name": "セレナ U 064/",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1878394626",
+            "price": 500,
             "name": "セレナ(ミラー) U",
             "date": "2022-12-08",
             "stock": 1
@@ -330,24 +434,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1878394626",
-            "price": 500,
+            "link": "/items/143885815",
+            "price": 1000,
             "name": "セレナ(ミラー) U",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1287999032",
-            "price": 950,
-            "name": "セレナ U 064/",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1387624853",
-            "price": 250,
+            "link": "/items/1259718284",
+            "price": 1200,
             "name": "セレナ U 064/",
             "date": "2022-12-08",
             "stock": 1
@@ -362,6 +458,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36953",
+            "price": 420,
+            "name": "セレナ064/068",
+            "date": "2022-12-08",
+            "stock": 173
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36999",
             "price": 480,
             "name": "セレナ064/068",
@@ -369,12 +473,12 @@
             "stock": 50
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36953",
-            "price": 420,
-            "name": "セレナ064/068",
+            "market": "torecolo",
+            "link": "/shop/g/g064-068-S11A-B/",
+            "price": 385,
+            "name": "【ポケカ】Ｕ）通常仕",
             "date": "2022-12-08",
-            "stock": 173
+            "stock": 17
         },
         {
             "market": "torecolo",
@@ -385,12 +489,28 @@
             "stock": 20
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g064-068-S11A-B/",
-            "price": 385,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-08",
-            "stock": 17
+            "market": "magi",
+            "link": "/items/1878394626",
+            "price": 500,
+            "name": "セレナ(ミラー) U",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1287999032",
+            "price": 950,
+            "name": "セレナ U 064/",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/197915280",
+            "price": 300,
+            "name": "セレナ(ミラー) U",
+            "date": "2022-12-07",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -418,33 +538,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1878394626",
-            "price": 500,
-            "name": "セレナ(ミラー) U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/197915280",
-            "price": 300,
-            "name": "セレナ(ミラー) U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/143885815",
             "price": 1000,
             "name": "セレナ(ミラー) U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1287999032",
-            "price": 950,
-            "name": "セレナ U 064/",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -494,118 +590,6 @@
             "price": 440,
             "name": "【ポケカ】Ｕ）ミラー",
             "date": "2022-12-07",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1878394626",
-            "price": 500,
-            "name": "セレナ(ミラー) U",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1287999032",
-            "price": 950,
-            "name": "セレナ U 064/",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143885815",
-            "price": 1000,
-            "name": "セレナ(ミラー) U",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1259718284",
-            "price": 1200,
-            "name": "セレナ U 064/",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1387624853",
-            "price": 250,
-            "name": "セレナ U 064/",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1849632548",
-            "price": 2222,
-            "name": "セレナ(ミラー) U",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/250278525",
-            "price": 1200,
-            "name": "セレナ(ミラー) U",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/197915280",
-            "price": 300,
-            "name": "セレナ(ミラー) U",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25193",
-            "price": 550,
-            "name": "セレナ:ミラー(U)",
-            "date": "2022-12-06",
-            "stock": 22
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25147",
-            "price": 500,
-            "name": "セレナ(U){サポー",
-            "date": "2022-12-06",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36999",
-            "price": 480,
-            "name": "セレナ064/068",
-            "date": "2022-12-06",
-            "stock": 49
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36953",
-            "price": 420,
-            "name": "セレナ064/068",
-            "date": "2022-12-06",
-            "stock": 144
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g064-068-S11A-B/",
-            "price": 385,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-06",
-            "stock": 21
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g064-068-S11A-BM/",
-            "price": 440,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-06",
             "stock": 20
         }
     ]
