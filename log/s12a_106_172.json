@@ -5,6 +5,30 @@
             "link": "/items/1306333671",
             "price": 100,
             "name": "ラティオス(R仕様)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26129",
+            "price": 50,
+            "name": "ラティオス(CP){",
+            "date": "2022-12-15",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38190",
+            "price": 50,
+            "name": "ラティオス106/1",
+            "date": "2022-12-15",
+            "stock": 652
+        },
+        {
+            "market": "magi",
+            "link": "/items/1306333671",
+            "price": 100,
+            "name": "ラティオス(R仕様)",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -167,30 +191,6 @@
             "name": "ラティオス106/1",
             "date": "2022-12-08",
             "stock": 662
-        },
-        {
-            "market": "magi",
-            "link": "/items/1306333671",
-            "price": 100,
-            "name": "ラティオス(R仕様)",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26129",
-            "price": 50,
-            "name": "ラティオス(CP){",
-            "date": "2022-12-07",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38190",
-            "price": 50,
-            "name": "ラティオス106/1",
-            "date": "2022-12-07",
-            "stock": 538
         }
     ]
 }

@@ -5,6 +5,38 @@
             "link": "/items/2118203232",
             "price": 450,
             "name": "b292 カイリュー",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23926",
+            "price": 150,
+            "name": "カイリューV(PRO",
+            "date": "2022-12-15",
+            "stock": 200
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35834",
+            "price": 380,
+            "name": "カイリューV292/",
+            "date": "2022-12-15",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35914",
+            "price": 330,
+            "name": "カイリューV292/",
+            "date": "2022-12-15",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/2118203232",
+            "price": 450,
+            "name": "b292 カイリュー",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -50,6 +82,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35914",
+            "price": 330,
+            "name": "カイリューV292/",
+            "date": "2022-12-13",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35834",
             "price": 380,
             "name": "カイリューV292/",
@@ -57,14 +97,6 @@
             "stock": 41
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35914",
-            "price": 330,
-            "name": "カイリューV292/",
-            "date": "2022-12-13",
-            "stock": 8
-        },
-        {
             "market": "magi",
             "link": "/items/2118203232",
             "price": 450,
@@ -114,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35914",
-            "price": 330,
-            "name": "カイリューV292/",
-            "date": "2022-12-11",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35834",
             "price": 380,
             "name": "カイリューV292/",
@@ -129,6 +153,14 @@
             "stock": 42
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35914",
+            "price": 330,
+            "name": "カイリューV292/",
+            "date": "2022-12-11",
+            "stock": 6
+        },
+        {
             "market": "magi",
             "link": "/items/2118203232",
             "price": 450,
@@ -143,6 +175,14 @@
             "name": "カイリューV(PRO",
             "date": "2022-12-10",
             "stock": 202
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35914",
+            "price": 330,
+            "name": "カイリューV292/",
+            "date": "2022-12-10",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -153,14 +193,6 @@
             "stock": 42
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35914",
-            "price": 330,
-            "name": "カイリューV292/",
-            "date": "2022-12-10",
-            "stock": 6
-        },
-        {
             "market": "magi",
             "link": "/items/2118203232",
             "price": 450,
@@ -210,42 +242,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35914",
-            "price": 330,
-            "name": "カイリューV292/",
-            "date": "2022-12-08",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35834",
             "price": 380,
             "name": "カイリューV292/",
             "date": "2022-12-08",
-            "stock": 45
-        },
-        {
-            "market": "magi",
-            "link": "/items/2118203232",
-            "price": 450,
-            "name": "b292 カイリュー",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23926",
-            "price": 150,
-            "name": "カイリューV(PRO",
-            "date": "2022-12-07",
-            "stock": 202
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35834",
-            "price": 380,
-            "name": "カイリューV292/",
-            "date": "2022-12-07",
             "stock": 45
         },
         {
@@ -253,8 +253,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/35914",
             "price": 330,
             "name": "カイリューV292/",
-            "date": "2022-12-07",
-            "stock": 7
+            "date": "2022-12-08",
+            "stock": 6
         }
     ]
 }

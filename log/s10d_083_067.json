@@ -2,10 +2,58 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1335098944",
+            "price": 550,
+            "name": "セキ HR 083/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2085528508",
             "price": 777,
             "name": "セキ HR 083/",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363858477",
+            "price": 550,
+            "name": "セキ HR 083/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23093",
+            "price": 1000,
+            "name": "セキ(HR){サポー",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34841",
+            "price": 680,
+            "name": "セキ083/067",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34751",
+            "price": 780,
+            "name": "セキ083/067",
+            "date": "2022-12-15",
+            "stock": 48
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g083-067-S10D-B/",
+            "price": 990,
+            "name": "【ポケカ】ＨＲ◇セキ",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -25,12 +73,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/2085528508",
+            "price": 777,
+            "name": "セキ HR 083/",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23093",
             "price": 1000,
             "name": "セキ(HR){サポー",
             "date": "2022-12-14",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34751",
+            "price": 780,
+            "name": "セキ083/067",
+            "date": "2022-12-14",
+            "stock": 43
         },
         {
             "market": "cardrush",
@@ -47,14 +111,6 @@
             "name": "セキ083/067",
             "date": "2022-12-14",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34751",
-            "price": 780,
-            "name": "セキ083/067",
-            "date": "2022-12-14",
-            "stock": 43
         },
         {
             "market": "torecolo",
@@ -194,8 +250,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2085528508",
-            "price": 777,
+            "link": "/items/1363858477",
+            "price": 550,
             "name": "セキ HR 083/",
             "date": "2022-12-11",
             "stock": 1
@@ -210,8 +266,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1363858477",
-            "price": 550,
+            "link": "/items/2085528508",
+            "price": 777,
             "name": "セキ HR 083/",
             "date": "2022-12-11",
             "stock": 1
@@ -226,11 +282,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34751",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/34931",
+            "price": 480,
             "name": "セキ083/067",
             "date": "2022-12-11",
-            "stock": 41
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -242,11 +298,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34931",
-            "price": 480,
+            "link": "https://www.cardrush-pokemon.jp/product/34751",
+            "price": 780,
             "name": "セキ083/067",
             "date": "2022-12-11",
-            "stock": 1
+            "stock": 41
         },
         {
             "market": "torecolo",
@@ -258,7 +314,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1335098944",
+            "link": "/items/1363858477",
             "price": 550,
             "name": "セキ HR 083/",
             "date": "2022-12-10",
@@ -274,7 +330,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1363858477",
+            "link": "/items/1335098944",
             "price": 550,
             "name": "セキ HR 083/",
             "date": "2022-12-10",
@@ -287,22 +343,6 @@
             "name": "セキ(HR){サポー",
             "date": "2022-12-10",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34931",
-            "price": 480,
-            "name": "セキ083/067",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34841",
-            "price": 680,
-            "name": "セキ083/067",
-            "date": "2022-12-10",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -313,6 +353,22 @@
             "stock": 38
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34841",
+            "price": 680,
+            "name": "セキ083/067",
+            "date": "2022-12-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34931",
+            "price": 480,
+            "name": "セキ083/067",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g083-067-S10D-B/",
             "price": 990,
@@ -322,7 +378,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1363858477",
+            "link": "/items/1335098944",
             "price": 550,
             "name": "セキ HR 083/",
             "date": "2022-12-09",
@@ -330,7 +386,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1335098944",
+            "link": "/items/1363858477",
             "price": 550,
             "name": "セキ HR 083/",
             "date": "2022-12-09",
@@ -386,6 +442,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1335098944",
+            "price": 550,
+            "name": "セキ HR 083/",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2085528508",
             "price": 777,
             "name": "セキ HR 083/",
@@ -401,18 +465,18 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1335098944",
-            "price": 550,
-            "name": "セキ HR 083/",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23093",
             "price": 1000,
             "name": "セキ(HR){サポー",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34931",
+            "price": 480,
+            "name": "セキ083/067",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -423,14 +487,6 @@
             "name": "セキ083/067",
             "date": "2022-12-08",
             "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34931",
-            "price": 480,
-            "name": "セキ083/067",
-            "date": "2022-12-08",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -446,70 +502,6 @@
             "price": 990,
             "name": "【ポケカ】ＨＲ◇セキ",
             "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1335098944",
-            "price": 550,
-            "name": "セキ HR 083/",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2085528508",
-            "price": 777,
-            "name": "セキ HR 083/",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1363858477",
-            "price": 550,
-            "name": "セキ HR 083/",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23093",
-            "price": 1000,
-            "name": "セキ(HR){サポー",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34931",
-            "price": 480,
-            "name": "セキ083/067",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34841",
-            "price": 680,
-            "name": "セキ083/067",
-            "date": "2022-12-07",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34751",
-            "price": 780,
-            "name": "セキ083/067",
-            "date": "2022-12-07",
-            "stock": 36
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g083-067-S10D-B/",
-            "price": 990,
-            "name": "【ポケカ】ＨＲ◇セキ",
-            "date": "2022-12-07",
             "stock": 1
         }
     ]
