@@ -2,6 +2,30 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/360705106",
+            "price": 145,
+            "name": "【特価】レックウザV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1498708698",
+            "price": 298,
+            "name": "【特価】レックウザV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21909",
+            "price": 100,
+            "name": "レックウザVMAX(",
+            "date": "2022-12-16",
+            "stock": 15
+        },
+        {
+            "market": "magi",
             "link": "/items/1498708698",
             "price": 299,
             "name": "【特価】レックウザV",
@@ -26,16 +50,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/360705106",
-            "price": 145,
+            "link": "/items/1498708698",
+            "price": 299,
             "name": "【特価】レックウザV",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1498708698",
-            "price": 299,
+            "link": "/items/360705106",
+            "price": 145,
             "name": "【特価】レックウザV",
             "date": "2022-12-14",
             "stock": 1
@@ -50,16 +74,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/360705106",
-            "price": 145,
+            "link": "/items/1498708698",
+            "price": 300,
             "name": "【特価】レックウザV",
             "date": "2022-12-13",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1498708698",
-            "price": 300,
+            "link": "/items/360705106",
+            "price": 145,
             "name": "【特価】レックウザV",
             "date": "2022-12-13",
             "stock": 1
@@ -110,14 +134,6 @@
             "price": 100,
             "name": "レックウザVMAX(",
             "date": "2022-12-09",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21909",
-            "price": 100,
-            "name": "レックウザVMAX(",
-            "date": "2022-12-08",
             "stock": 8
         }
     ]

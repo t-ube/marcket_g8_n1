@@ -2,11 +2,107 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/672070617",
+            "price": 300,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/388151290",
+            "price": 250,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/704021304",
+            "price": 100,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1532658857",
+            "price": 150,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1690990431",
+            "price": 250,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/75122900",
+            "price": 100,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/952878405",
+            "price": 70,
+            "name": "霧の水晶(キラ) 1",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/266602128",
             "price": 45,
             "name": "霧の水晶 134/1",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1184025914",
+            "price": 150,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26251",
+            "price": 100,
+            "name": "霧の水晶:ミラー(C",
+            "date": "2022-12-16",
+            "stock": 35
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26157",
+            "price": 50,
+            "name": "霧の水晶(CP){グ",
+            "date": "2022-12-16",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38312",
+            "price": 80,
+            "name": "霧の水晶134/17",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38218",
+            "price": 50,
+            "name": "霧の水晶134/17",
+            "date": "2022-12-16",
+            "stock": 263
         },
         {
             "market": "magi",
@@ -18,8 +114,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/704021304",
-            "price": 100,
+            "link": "/items/388151290",
+            "price": 250,
             "name": "霧の水晶 134/1",
             "date": "2022-12-15",
             "stock": 1
@@ -28,6 +124,38 @@
             "market": "magi",
             "link": "/items/672070617",
             "price": 300,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/952878405",
+            "price": 70,
+            "name": "霧の水晶(キラ) 1",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/266602128",
+            "price": 45,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1184025914",
+            "price": 150,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/704021304",
+            "price": 100,
             "name": "霧の水晶 134/1",
             "date": "2022-12-15",
             "stock": 1
@@ -49,30 +177,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/388151290",
-            "price": 250,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1184025914",
-            "price": 150,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/952878405",
-            "price": 70,
-            "name": "霧の水晶(キラ) 1",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26251",
             "price": 100,
@@ -87,14 +191,6 @@
             "name": "霧の水晶(CP){グ",
             "date": "2022-12-15",
             "stock": 44
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38218",
-            "price": 50,
-            "name": "霧の水晶134/17",
-            "date": "2022-12-15",
-            "stock": 269
         },
         {
             "market": "cardrush",
@@ -105,32 +201,16 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/672070617",
-            "price": 300,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1532658857",
-            "price": 150,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-14",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38218",
+            "price": 50,
+            "name": "霧の水晶134/17",
+            "date": "2022-12-15",
+            "stock": 269
         },
         {
             "market": "magi",
             "link": "/items/1690990431",
-            "price": 250,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/388151290",
             "price": 250,
             "name": "霧の水晶 134/1",
             "date": "2022-12-14",
@@ -151,6 +231,22 @@
             "name": "霧の水晶 134/1",
             "date": "2022-12-14",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1532658857",
+            "price": 150,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/672070617",
+            "price": 300,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-14",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -177,12 +273,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26157",
-            "price": 50,
-            "name": "霧の水晶(CP){グ",
+            "market": "magi",
+            "link": "/items/388151290",
+            "price": 250,
+            "name": "霧の水晶 134/1",
             "date": "2022-12-14",
-            "stock": 44
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -193,12 +289,12 @@
             "stock": 35
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38312",
-            "price": 80,
-            "name": "霧の水晶134/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26157",
+            "price": 50,
+            "name": "霧の水晶(CP){グ",
             "date": "2022-12-14",
-            "stock": 4
+            "stock": 44
         },
         {
             "market": "cardrush",
@@ -209,9 +305,17 @@
             "stock": 278
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38312",
+            "price": 80,
+            "name": "霧の水晶134/17",
+            "date": "2022-12-14",
+            "stock": 4
+        },
+        {
             "market": "magi",
-            "link": "/items/672070617",
-            "price": 300,
+            "link": "/items/1184025914",
+            "price": 150,
             "name": "霧の水晶 134/1",
             "date": "2022-12-13",
             "stock": 1
@@ -223,14 +327,6 @@
             "name": "霧の水晶(キラ) 1",
             "date": "2022-12-13",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1184025914",
-            "price": 150,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-13",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -279,6 +375,14 @@
             "name": "霧の水晶 134/1",
             "date": "2022-12-13",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/672070617",
+            "price": 300,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-13",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -330,22 +434,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/266602128",
-            "price": 45,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/704021304",
-            "price": 100,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/672070617",
             "price": 300,
             "name": "霧の水晶 134/1",
@@ -377,12 +465,20 @@
             "stock": 4
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26157",
-            "price": 50,
-            "name": "霧の水晶(CP){グ",
+            "market": "magi",
+            "link": "/items/704021304",
+            "price": 100,
+            "name": "霧の水晶 134/1",
             "date": "2022-12-12",
-            "stock": 47
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/266602128",
+            "price": 45,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-12",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -393,12 +489,12 @@
             "stock": 35
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38218",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26157",
             "price": 50,
-            "name": "霧の水晶134/17",
+            "name": "霧の水晶(CP){グ",
             "date": "2022-12-12",
-            "stock": 285
+            "stock": 47
         },
         {
             "market": "cardrush",
@@ -409,20 +505,20 @@
             "stock": 17
         },
         {
-            "market": "magi",
-            "link": "/items/388151290",
-            "price": 250,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-11",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38218",
+            "price": 50,
+            "name": "霧の水晶134/17",
+            "date": "2022-12-12",
+            "stock": 285
         },
         {
             "market": "magi",
-            "link": "/items/266602128",
-            "price": 45,
+            "link": "/items/1532658857",
+            "price": 150,
             "name": "霧の水晶 134/1",
             "date": "2022-12-11",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -434,11 +530,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1532658857",
-            "price": 150,
+            "link": "/items/266602128",
+            "price": 45,
             "name": "霧の水晶 134/1",
             "date": "2022-12-11",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -468,6 +564,14 @@
             "market": "magi",
             "link": "/items/672070617",
             "price": 300,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/388151290",
+            "price": 250,
             "name": "霧の水晶 134/1",
             "date": "2022-12-11",
             "stock": 1
@@ -490,19 +594,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38312",
-            "price": 80,
-            "name": "霧の水晶134/17",
-            "date": "2022-12-11",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38218",
             "price": 50,
             "name": "霧の水晶134/17",
             "date": "2022-12-11",
             "stock": 293
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38312",
+            "price": 80,
+            "name": "霧の水晶134/17",
+            "date": "2022-12-11",
+            "stock": 22
         },
         {
             "market": "magi",
@@ -554,14 +658,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26251",
-            "price": 100,
-            "name": "霧の水晶:ミラー(C",
-            "date": "2022-12-10",
-            "stock": 35
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26157",
             "price": 50,
             "name": "霧の水晶(CP){グ",
@@ -569,12 +665,12 @@
             "stock": 28
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38312",
-            "price": 80,
-            "name": "霧の水晶134/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26251",
+            "price": 100,
+            "name": "霧の水晶:ミラー(C",
             "date": "2022-12-10",
-            "stock": 26
+            "stock": 35
         },
         {
             "market": "cardrush",
@@ -585,8 +681,16 @@
             "stock": 300
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38312",
+            "price": 80,
+            "name": "霧の水晶134/17",
+            "date": "2022-12-10",
+            "stock": 26
+        },
+        {
             "market": "magi",
-            "link": "/items/388151290",
+            "link": "/items/1690990431",
             "price": 250,
             "name": "霧の水晶 134/1",
             "date": "2022-12-09",
@@ -618,14 +722,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1690990431",
-            "price": 250,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/704021304",
             "price": 100,
             "name": "霧の水晶 134/1",
@@ -636,6 +732,14 @@
             "market": "magi",
             "link": "/items/1184025914",
             "price": 150,
+            "name": "霧の水晶 134/1",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/388151290",
+            "price": 250,
             "name": "霧の水晶 134/1",
             "date": "2022-12-09",
             "stock": 1
@@ -671,86 +775,6 @@
             "name": "霧の水晶134/17",
             "date": "2022-12-09",
             "stock": 319
-        },
-        {
-            "market": "magi",
-            "link": "/items/704021304",
-            "price": 100,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1532658857",
-            "price": 150,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1184025914",
-            "price": 150,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1690990431",
-            "price": 250,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/672070617",
-            "price": 300,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/388151290",
-            "price": 250,
-            "name": "霧の水晶 134/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26157",
-            "price": 50,
-            "name": "霧の水晶(CP){グ",
-            "date": "2022-12-08",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26251",
-            "price": 100,
-            "name": "霧の水晶:ミラー(C",
-            "date": "2022-12-08",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38218",
-            "price": 50,
-            "name": "霧の水晶134/17",
-            "date": "2022-12-08",
-            "stock": 329
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38312",
-            "price": 80,
-            "name": "霧の水晶134/17",
-            "date": "2022-12-08",
-            "stock": 36
         }
     ]
 }
