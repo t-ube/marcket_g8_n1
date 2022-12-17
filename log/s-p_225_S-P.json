@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32490",
+            "price": 730,
+            "name": "アップリュー225/",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22035",
+            "price": 880,
+            "name": "アップリュー225/",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22035",
             "price": 880,
             "name": "アップリュー225/",
@@ -62,14 +78,6 @@
             "price": 880,
             "name": "アップリュー225/",
             "date": "2022-12-10",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22035",
-            "price": 880,
-            "name": "アップリュー225/",
-            "date": "2022-12-09",
             "stock": 4
         }
     ]

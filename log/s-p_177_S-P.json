@@ -3,6 +3,30 @@
         {
             "market": "magi",
             "link": "/items/1546240027",
+            "price": 64,
+            "name": "【特価】ユキワラシ ",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19635",
+            "price": 100,
+            "name": "ユキワラシ(PROM",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21176",
+            "price": 80,
+            "name": "ユキワラシ177/S",
+            "date": "2022-12-17",
+            "stock": 104
+        },
+        {
+            "market": "magi",
+            "link": "/items/1546240027",
             "price": 65,
             "name": "【特価】ユキワラシ ",
             "date": "2022-12-16",
@@ -134,22 +158,6 @@
             "price": 80,
             "name": "ユキワラシ177/S",
             "date": "2022-12-10",
-            "stock": 104
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19635",
-            "price": 100,
-            "name": "ユキワラシ(PROM",
-            "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21176",
-            "price": 80,
-            "name": "ユキワラシ177/S",
-            "date": "2022-12-09",
             "stock": 104
         }
     ]

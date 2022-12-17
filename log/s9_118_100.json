@@ -2,9 +2,121 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1783790443",
+            "price": 999999,
+            "name": "【売り切れ】リザード",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2029194013",
+            "price": 999999,
+            "name": "【売り切れ】リザード",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2093398621",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/438554037",
+            "price": 8999,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/431900500",
+            "price": 12390,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/437083610",
             "price": 12800,
             "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1496110042",
+            "price": 11445,
+            "name": "〔状態A-〕リザード",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1244766989",
+            "price": 5500,
+            "name": "（プレイ用）リザード",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1012439842",
+            "price": 6804,
+            "name": "〔状態C〕リザードン",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22352",
+            "price": 13000,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24537",
+            "price": 6480,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24484",
+            "price": 8980,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24457",
+            "price": 10900,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24430",
+            "price": 11800,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 53
+        },
+        {
+            "market": "magi",
+            "link": "/items/1244766989",
+            "price": 5500,
+            "name": "（プレイ用）リザード",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -18,8 +130,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/438554037",
-            "price": 8999,
+            "link": "/items/1496110042",
+            "price": 11445,
+            "name": "〔状態A-〕リザード",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/437083610",
+            "price": 12800,
             "name": "リザードンVSTAR",
             "date": "2022-12-16",
             "stock": 1
@@ -28,6 +148,14 @@
             "market": "magi",
             "link": "/items/431900500",
             "price": 12390,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/438554037",
+            "price": 8999,
             "name": "リザードンVSTAR",
             "date": "2022-12-16",
             "stock": 1
@@ -45,22 +173,6 @@
             "link": "/items/2029194013",
             "price": 999999,
             "name": "【売り切れ】リザード",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1496110042",
-            "price": 11445,
-            "name": "〔状態A-〕リザード",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1244766989",
-            "price": 5500,
-            "name": "（プレイ用）リザード",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -98,14 +210,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1783790443",
-            "price": 999999,
-            "name": "【売り切れ】リザード",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1244766989",
             "price": 5500,
             "name": "（プレイ用）リザード",
@@ -117,6 +221,14 @@
             "link": "/items/1496110042",
             "price": 11445,
             "name": "〔状態A-〕リザード",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1783790443",
+            "price": 999999,
+            "name": "【売り切れ】リザード",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -290,17 +402,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2029194013",
-            "price": 999999,
-            "name": "【売り切れ】リザード",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2093398621",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
+            "link": "/items/1244766989",
+            "price": 5500,
+            "name": "（プレイ用）リザード",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -314,9 +418,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1244766989",
-            "price": 5500,
-            "name": "（プレイ用）リザード",
+            "link": "/items/2029194013",
+            "price": 999999,
+            "name": "【売り切れ】リザード",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/438554037",
+            "price": 8999,
+            "name": "リザードンVSTAR",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -346,9 +458,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/438554037",
-            "price": 8999,
-            "name": "リザードンVSTAR",
+            "link": "/items/2093398621",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -362,11 +474,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24457",
-            "price": 10900,
+            "link": "https://www.cardrush-pokemon.jp/product/24430",
+            "price": 11800,
             "name": "リザードンVSTAR",
             "date": "2022-12-13",
-            "stock": 45
+            "stock": 90
         },
         {
             "market": "cardrush",
@@ -378,32 +490,32 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24430",
-            "price": 11800,
+            "link": "https://www.cardrush-pokemon.jp/product/24457",
+            "price": 10900,
             "name": "リザードンVSTAR",
             "date": "2022-12-13",
-            "stock": 90
+            "stock": 45
         },
         {
             "market": "magi",
-            "link": "/items/1783790443",
-            "price": 999999,
-            "name": "【売り切れ】リザード",
+            "link": "/items/1496110042",
+            "price": 11445,
+            "name": "〔状態A-〕リザード",
             "date": "2022-12-12",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1244766989",
-            "price": 5500,
-            "name": "（プレイ用）リザード",
+            "link": "/items/2093398621",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
             "date": "2022-12-12",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/437083610",
-            "price": 12800,
+            "link": "/items/431900500",
+            "price": 12390,
             "name": "リザードンVSTAR",
             "date": "2022-12-12",
             "stock": 1
@@ -418,25 +530,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/431900500",
-            "price": 12390,
+            "link": "/items/437083610",
+            "price": 12800,
             "name": "リザードンVSTAR",
             "date": "2022-12-12",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2093398621",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1496110042",
-            "price": 11445,
-            "name": "〔状態A-〕リザード",
+            "link": "/items/1783790443",
+            "price": 999999,
+            "name": "【売り切れ】リザード",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -445,6 +549,14 @@
             "link": "/items/438554037",
             "price": 8999,
             "name": "リザードンVSTAR",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1244766989",
+            "price": 5500,
+            "name": "（プレイ用）リザード",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -458,6 +570,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24430",
+            "price": 11800,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-12",
+            "stock": 90
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24457",
             "price": 10900,
             "name": "リザードンVSTAR",
@@ -473,12 +593,12 @@
             "stock": 2
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24430",
-            "price": 11800,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-12",
-            "stock": 90
+            "market": "magi",
+            "link": "/items/2093398621",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
+            "date": "2022-12-11",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -501,14 +621,6 @@
             "link": "/items/2029194013",
             "price": 999999,
             "name": "【売り切れ】リザード",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2093398621",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -578,9 +690,41 @@
         },
         {
             "market": "magi",
-            "link": "/items/2093398621",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
+            "link": "/items/753358760",
+            "price": 8499,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/437083610",
+            "price": 12800,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1244766989",
+            "price": 5500,
+            "name": "（プレイ用）リザード",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1783790443",
+            "price": 999999,
+            "name": "【売り切れ】リザード",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/438554037",
+            "price": 8999,
+            "name": "リザードンVSTAR",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -594,9 +738,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1244766989",
-            "price": 5500,
-            "name": "（プレイ用）リザード",
+            "link": "/items/2093398621",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -612,38 +756,6 @@
             "market": "magi",
             "link": "/items/431900500",
             "price": 12390,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/437083610",
-            "price": 12800,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/438554037",
-            "price": 8999,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1783790443",
-            "price": 999999,
-            "name": "【売り切れ】リザード",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/753358760",
-            "price": 8499,
             "name": "リザードンVSTAR",
             "date": "2022-12-10",
             "stock": 1
@@ -679,110 +791,6 @@
             "name": "リザードンVSTAR",
             "date": "2022-12-10",
             "stock": 75
-        },
-        {
-            "market": "magi",
-            "link": "/items/1244766989",
-            "price": 5500,
-            "name": "（プレイ用）リザード",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/438554037",
-            "price": 8999,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1496110042",
-            "price": 11445,
-            "name": "〔状態A-〕リザード",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1783790443",
-            "price": 999999,
-            "name": "【売り切れ】リザード",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2029194013",
-            "price": 999999,
-            "name": "【売り切れ】リザード",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/753358760",
-            "price": 8499,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/431900500",
-            "price": 12390,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2093398621",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/437083610",
-            "price": 12800,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22352",
-            "price": 13000,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-09",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24484",
-            "price": 8980,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-09",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24457",
-            "price": 10900,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-09",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24430",
-            "price": 11800,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-09",
-            "stock": 73
         }
     ]
 }
