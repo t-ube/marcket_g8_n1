@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25491",
+            "price": 50,
+            "name": "ギャロップ(R){炎",
+            "date": "2022-12-18",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37503",
+            "price": 80,
+            "name": "ギャロップ011/0",
+            "date": "2022-12-18",
+            "stock": 357
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-098-S12-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｒ◇ギャロ",
+            "date": "2022-12-18",
+            "stock": 19
+        },
+        {
             "market": "magi",
             "link": "/items/207633086",
             "price": 300,
@@ -154,7 +178,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1175040936",
+            "link": "/items/1898359781",
             "price": 100,
             "name": "ギャロップ R 01",
             "date": "2022-12-11",
@@ -162,7 +186,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1898359781",
+            "link": "/items/1175040936",
             "price": 100,
             "name": "ギャロップ R 01",
             "date": "2022-12-11",
@@ -190,46 +214,6 @@
             "price": 77,
             "name": "【ポケカ】Ｒ◇ギャロ",
             "date": "2022-12-11",
-            "stock": 19
-        },
-        {
-            "market": "magi",
-            "link": "/items/1898359781",
-            "price": 100,
-            "name": "ギャロップ R 01",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1175040936",
-            "price": 100,
-            "name": "ギャロップ R 01",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25491",
-            "price": 50,
-            "name": "ギャロップ(R){炎",
-            "date": "2022-12-10",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37503",
-            "price": 80,
-            "name": "ギャロップ011/0",
-            "date": "2022-12-10",
-            "stock": 408
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-098-S12-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｒ◇ギャロ",
-            "date": "2022-12-10",
             "stock": 19
         }
     ]

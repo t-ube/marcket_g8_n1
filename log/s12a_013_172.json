@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26036",
+            "price": 150,
+            "name": "リザードンV(RR)",
+            "date": "2022-12-18",
+            "stock": 45
+        },
+        {
             "market": "magi",
             "link": "/items/785140294",
             "price": 200,
@@ -151,30 +159,6 @@
             "name": "リザードンV(RR)",
             "date": "2022-12-11",
             "stock": 50
-        },
-        {
-            "market": "magi",
-            "link": "/items/785140294",
-            "price": 200,
-            "name": "リザードンV RR ",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26036",
-            "price": 100,
-            "name": "リザードンV(RR)",
-            "date": "2022-12-10",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38097",
-            "price": 120,
-            "name": "リザードンV013/",
-            "date": "2022-12-10",
-            "stock": 14
         }
     ]
 }

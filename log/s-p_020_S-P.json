@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17268",
             "price": 100,
             "name": "コオリッポV(PRO",
+            "date": "2022-12-18",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7056",
+            "price": 80,
+            "name": "コオリッポV020/",
+            "date": "2022-12-18",
+            "stock": 93
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17268",
+            "price": 100,
+            "name": "コオリッポV(PRO",
             "date": "2022-12-17",
             "stock": 20
         },
@@ -111,22 +127,6 @@
             "name": "コオリッポV020/",
             "date": "2022-12-11",
             "stock": 93
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17268",
-            "price": 100,
-            "name": "コオリッポV(PRO",
-            "date": "2022-12-10",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7056",
-            "price": 80,
-            "name": "コオリッポV020/",
-            "date": "2022-12-10",
-            "stock": 94
         }
     ]
 }
