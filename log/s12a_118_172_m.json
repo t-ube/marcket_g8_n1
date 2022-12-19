@@ -1,11 +1,43 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26246",
+            "price": 100,
+            "name": "ノコッチ:ミラー(C",
+            "date": "2022-12-19",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26141",
+            "price": 50,
+            "name": "ノコッチ(CP){無",
+            "date": "2022-12-19",
+            "stock": 36
+        },
+        {
+            "market": "magi",
+            "link": "/items/2100724251",
+            "price": 150,
+            "name": "ノコッチ 118/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/780205818",
+            "price": 150,
+            "name": "ノコッチ 118/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/693692590",
             "price": 150,
             "name": "ノコッチ【-】{11",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -13,6 +45,46 @@
             "link": "/items/941142585",
             "price": 150,
             "name": "ノコッチ(キラ) 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2027795494",
+            "price": 30,
+            "name": "ノコッチ 118/1",
+            "date": "2022-12-19",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/944658115",
+            "price": 25,
+            "name": "4枚セット　ノコッチ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38307",
+            "price": 80,
+            "name": "ノコッチ118/17",
+            "date": "2022-12-19",
+            "stock": 157
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38202",
+            "price": 50,
+            "name": "ノコッチ118/17",
+            "date": "2022-12-19",
+            "stock": 244
+        },
+        {
+            "market": "magi",
+            "link": "/items/693692590",
+            "price": 150,
+            "name": "ノコッチ【-】{11",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -34,11 +106,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/944658115",
-            "price": 25,
-            "name": "4枚セット　ノコッチ",
+            "link": "/items/941142585",
+            "price": 150,
+            "name": "ノコッチ(キラ) 1",
             "date": "2022-12-18",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -49,12 +121,12 @@
             "stock": 5
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26141",
-            "price": 50,
-            "name": "ノコッチ(CP){無",
+            "market": "magi",
+            "link": "/items/944658115",
+            "price": 25,
+            "name": "4枚セット　ノコッチ",
             "date": "2022-12-18",
-            "stock": 36
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -63,6 +135,14 @@
             "name": "ノコッチ:ミラー(C",
             "date": "2022-12-18",
             "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26141",
+            "price": 50,
+            "name": "ノコッチ(CP){無",
+            "date": "2022-12-18",
+            "stock": 36
         },
         {
             "market": "cardrush",
@@ -82,14 +162,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/941142585",
-            "price": 150,
-            "name": "ノコッチ(キラ) 1",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2027795494",
             "price": 30,
             "name": "ノコッチ 118/1",
@@ -121,12 +193,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26246",
-            "price": 100,
-            "name": "ノコッチ:ミラー(C",
+            "market": "magi",
+            "link": "/items/941142585",
+            "price": 150,
+            "name": "ノコッチ(キラ) 1",
             "date": "2022-12-17",
-            "stock": 16
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -137,12 +209,12 @@
             "stock": 36
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38202",
-            "price": 50,
-            "name": "ノコッチ118/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26246",
+            "price": 100,
+            "name": "ノコッチ:ミラー(C",
             "date": "2022-12-17",
-            "stock": 251
+            "stock": 16
         },
         {
             "market": "cardrush",
@@ -153,10 +225,18 @@
             "stock": 151
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38202",
+            "price": 50,
+            "name": "ノコッチ118/17",
+            "date": "2022-12-17",
+            "stock": 251
+        },
+        {
             "market": "magi",
-            "link": "/items/2100724251",
+            "link": "/items/693692590",
             "price": 150,
-            "name": "ノコッチ 118/1",
+            "name": "ノコッチ【-】{11",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -165,14 +245,6 @@
             "link": "/items/780205818",
             "price": 150,
             "name": "ノコッチ 118/1",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/693692590",
-            "price": 150,
-            "name": "ノコッチ【-】{11",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -191,6 +263,14 @@
             "name": "ノコッチ 118/1",
             "date": "2022-12-16",
             "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/2100724251",
+            "price": 150,
+            "name": "ノコッチ 118/1",
+            "date": "2022-12-16",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -242,7 +322,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2100724251",
+            "link": "/items/780205818",
             "price": 150,
             "name": "ノコッチ 118/1",
             "date": "2022-12-15",
@@ -258,19 +338,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/780205818",
+            "link": "/items/2100724251",
             "price": 150,
             "name": "ノコッチ 118/1",
             "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26246",
-            "price": 100,
-            "name": "ノコッチ:ミラー(C",
-            "date": "2022-12-15",
-            "stock": 16
         },
         {
             "market": "hareruya2",
@@ -281,12 +353,12 @@
             "stock": 37
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38307",
-            "price": 80,
-            "name": "ノコッチ118/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26246",
+            "price": 100,
+            "name": "ノコッチ:ミラー(C",
             "date": "2022-12-15",
-            "stock": 150
+            "stock": 16
         },
         {
             "market": "cardrush",
@@ -297,16 +369,24 @@
             "stock": 251
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38307",
+            "price": 80,
+            "name": "ノコッチ118/17",
+            "date": "2022-12-15",
+            "stock": 150
+        },
+        {
             "market": "magi",
-            "link": "/items/693692590",
+            "link": "/items/941142585",
             "price": 150,
-            "name": "ノコッチ【-】{11",
+            "name": "ノコッチ(キラ) 1",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2100724251",
+            "link": "/items/780205818",
             "price": 150,
             "name": "ノコッチ 118/1",
             "date": "2022-12-14",
@@ -322,17 +402,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/780205818",
+            "link": "/items/693692590",
             "price": 150,
-            "name": "ノコッチ 118/1",
+            "name": "ノコッチ【-】{11",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/941142585",
+            "link": "/items/2100724251",
             "price": 150,
-            "name": "ノコッチ(キラ) 1",
+            "name": "ノコッチ 118/1",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -370,19 +450,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/941142585",
-            "price": 150,
-            "name": "ノコッチ(キラ) 1",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2027795494",
             "price": 30,
             "name": "ノコッチ 118/1",
             "date": "2022-12-13",
             "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/941142585",
+            "price": 150,
+            "name": "ノコッチ(キラ) 1",
+            "date": "2022-12-13",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -442,31 +522,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/2100724251",
-            "price": 150,
-            "name": "ノコッチ 118/1",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2027795494",
-            "price": 30,
-            "name": "ノコッチ 118/1",
-            "date": "2022-12-12",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/693692590",
-            "price": 150,
-            "name": "ノコッチ【-】{11",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/780205818",
+            "price": 150,
+            "name": "ノコッチ 118/1",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2100724251",
             "price": 150,
             "name": "ノコッチ 118/1",
             "date": "2022-12-12",
@@ -481,12 +545,20 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26141",
-            "price": 50,
-            "name": "ノコッチ(CP){無",
+            "market": "magi",
+            "link": "/items/693692590",
+            "price": 150,
+            "name": "ノコッチ【-】{11",
             "date": "2022-12-12",
-            "stock": 36
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2027795494",
+            "price": 30,
+            "name": "ノコッチ 118/1",
+            "date": "2022-12-12",
+            "stock": 5
         },
         {
             "market": "hareruya2",
@@ -495,6 +567,14 @@
             "name": "ノコッチ:ミラー(C",
             "date": "2022-12-12",
             "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26141",
+            "price": 50,
+            "name": "ノコッチ(CP){無",
+            "date": "2022-12-12",
+            "stock": 36
         },
         {
             "market": "cardrush",
@@ -511,70 +591,6 @@
             "name": "ノコッチ118/17",
             "date": "2022-12-12",
             "stock": 137
-        },
-        {
-            "market": "magi",
-            "link": "/items/780205818",
-            "price": 150,
-            "name": "ノコッチ 118/1",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/941142585",
-            "price": 150,
-            "name": "ノコッチ(キラ) 1",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2100724251",
-            "price": 150,
-            "name": "ノコッチ 118/1",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/693692590",
-            "price": 150,
-            "name": "ノコッチ【-】{11",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26246",
-            "price": 100,
-            "name": "ノコッチ:ミラー(C",
-            "date": "2022-12-11",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26141",
-            "price": 50,
-            "name": "ノコッチ(CP){無",
-            "date": "2022-12-11",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38307",
-            "price": 80,
-            "name": "ノコッチ118/17",
-            "date": "2022-12-11",
-            "stock": 112
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38202",
-            "price": 50,
-            "name": "ノコッチ118/17",
-            "date": "2022-12-11",
-            "stock": 247
         }
     ]
 }

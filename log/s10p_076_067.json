@@ -5,6 +5,38 @@
             "link": "/items/764800402",
             "price": 500,
             "name": "ヤレユータンV SR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23109",
+            "price": 900,
+            "name": "ヤレユータンV(SR",
+            "date": "2022-12-19",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34855",
+            "price": 680,
+            "name": "ヤレユータンV076",
+            "date": "2022-12-19",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34765",
+            "price": 780,
+            "name": "ヤレユータンV076",
+            "date": "2022-12-19",
+            "stock": 170
+        },
+        {
+            "market": "magi",
+            "link": "/items/764800402",
+            "price": 500,
+            "name": "ヤレユータンV SR",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34855",
-            "price": 680,
-            "name": "ヤレユータンV076",
-            "date": "2022-12-17",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34765",
             "price": 780,
             "name": "ヤレユータンV076",
             "date": "2022-12-17",
             "stock": 168
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34855",
+            "price": 680,
+            "name": "ヤレユータンV076",
+            "date": "2022-12-17",
+            "stock": 46
         },
         {
             "market": "magi",
@@ -111,6 +143,14 @@
             "name": "ヤレユータンV(SR",
             "date": "2022-12-15",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34855",
+            "price": 680,
+            "name": "ヤレユータンV076",
+            "date": "2022-12-15",
+            "stock": 45
         },
         {
             "market": "cardrush",
@@ -121,14 +161,6 @@
             "stock": 149
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34855",
-            "price": 680,
-            "name": "ヤレユータンV076",
-            "date": "2022-12-15",
-            "stock": 45
-        },
-        {
             "market": "magi",
             "link": "/items/764800402",
             "price": 500,
@@ -143,6 +175,14 @@
             "name": "ヤレユータンV(SR",
             "date": "2022-12-14",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34765",
+            "price": 780,
+            "name": "ヤレユータンV076",
+            "date": "2022-12-14",
+            "stock": 149
         },
         {
             "market": "cardrush",
@@ -151,14 +191,6 @@
             "name": "ヤレユータンV076",
             "date": "2022-12-14",
             "stock": 39
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34765",
-            "price": 780,
-            "name": "ヤレユータンV076",
-            "date": "2022-12-14",
-            "stock": 149
         },
         {
             "market": "magi",
@@ -210,14 +242,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34765",
-            "price": 780,
-            "name": "ヤレユータンV076",
-            "date": "2022-12-12",
-            "stock": 151
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34855",
             "price": 680,
             "name": "ヤレユータンV076",
@@ -225,36 +249,12 @@
             "stock": 39
         },
         {
-            "market": "magi",
-            "link": "/items/764800402",
-            "price": 500,
-            "name": "ヤレユータンV SR",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23109",
-            "price": 900,
-            "name": "ヤレユータンV(SR",
-            "date": "2022-12-11",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34855",
-            "price": 680,
-            "name": "ヤレユータンV076",
-            "date": "2022-12-11",
-            "stock": 36
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34765",
             "price": 780,
             "name": "ヤレユータンV076",
-            "date": "2022-12-11",
-            "stock": 150
+            "date": "2022-12-12",
+            "stock": 151
         }
     ]
 }
