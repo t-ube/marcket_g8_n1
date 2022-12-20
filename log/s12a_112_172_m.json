@@ -2,10 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1789971401",
+            "link": "/items/390168274",
             "price": 100,
             "name": "ヌメラ 112/17",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -13,8 +13,56 @@
             "link": "/items/89150176",
             "price": 100,
             "name": "ヌメラ 112/17",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/164215522",
+            "price": 120,
+            "name": "ヌメラ【-】{112",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1789971401",
+            "price": 100,
+            "name": "ヌメラ 112/17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26243",
+            "price": 100,
+            "name": "ヌメラ:ミラー(CP",
+            "date": "2022-12-20",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26135",
+            "price": 50,
+            "name": "ヌメラ(CP){ドラ",
+            "date": "2022-12-20",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38304",
+            "price": 50,
+            "name": "ヌメラ112/172",
+            "date": "2022-12-20",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38196",
+            "price": 30,
+            "name": "ヌメラ112/172",
+            "date": "2022-12-20",
+            "stock": 150
         },
         {
             "market": "magi",
@@ -29,6 +77,22 @@
             "link": "/items/164215522",
             "price": 120,
             "name": "ヌメラ【-】{112",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1789971401",
+            "price": 100,
+            "name": "ヌメラ 112/17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/89150176",
+            "price": 100,
+            "name": "ヌメラ 112/17",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -90,14 +154,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26135",
-            "price": 50,
-            "name": "ヌメラ(CP){ドラ",
-            "date": "2022-12-18",
-            "stock": 38
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26243",
             "price": 100,
             "name": "ヌメラ:ミラー(CP",
@@ -105,12 +161,12 @@
             "stock": 14
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38196",
-            "price": 30,
-            "name": "ヌメラ112/172",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26135",
+            "price": 50,
+            "name": "ヌメラ(CP){ドラ",
             "date": "2022-12-18",
-            "stock": 150
+            "stock": 38
         },
         {
             "market": "cardrush",
@@ -121,8 +177,16 @@
             "stock": 32
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38196",
+            "price": 30,
+            "name": "ヌメラ112/172",
+            "date": "2022-12-18",
+            "stock": 150
+        },
+        {
             "market": "magi",
-            "link": "/items/390168274",
+            "link": "/items/89150176",
             "price": 100,
             "name": "ヌメラ 112/17",
             "date": "2022-12-17",
@@ -138,19 +202,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/89150176",
+            "link": "/items/390168274",
             "price": 100,
             "name": "ヌメラ 112/17",
             "date": "2022-12-17",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26243",
-            "price": 100,
-            "name": "ヌメラ:ミラー(CP",
-            "date": "2022-12-17",
-            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -159,6 +215,14 @@
             "name": "ヌメラ(CP){ドラ",
             "date": "2022-12-17",
             "stock": 38
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26243",
+            "price": 100,
+            "name": "ヌメラ:ミラー(CP",
+            "date": "2022-12-17",
+            "stock": 14
         },
         {
             "market": "cardrush",
@@ -218,14 +282,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38196",
-            "price": 30,
-            "name": "ヌメラ112/172",
-            "date": "2022-12-16",
-            "stock": 150
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38304",
             "price": 50,
             "name": "ヌメラ112/172",
@@ -233,10 +289,18 @@
             "stock": 32
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38196",
+            "price": 30,
+            "name": "ヌメラ112/172",
+            "date": "2022-12-16",
+            "stock": 150
+        },
+        {
             "market": "magi",
-            "link": "/items/89150176",
-            "price": 100,
-            "name": "ヌメラ 112/17",
+            "link": "/items/164215522",
+            "price": 120,
+            "name": "ヌメラ【-】{112",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -250,19 +314,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/164215522",
-            "price": 120,
-            "name": "ヌメラ【-】{112",
+            "link": "/items/89150176",
+            "price": 100,
+            "name": "ヌメラ 112/17",
             "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26135",
-            "price": 50,
-            "name": "ヌメラ(CP){ドラ",
-            "date": "2022-12-15",
-            "stock": 38
         },
         {
             "market": "hareruya2",
@@ -273,12 +329,12 @@
             "stock": 14
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38304",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26135",
             "price": 50,
-            "name": "ヌメラ112/172",
+            "name": "ヌメラ(CP){ドラ",
             "date": "2022-12-15",
-            "stock": 32
+            "stock": 38
         },
         {
             "market": "cardrush",
@@ -289,8 +345,16 @@
             "stock": 151
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38304",
+            "price": 50,
+            "name": "ヌメラ112/172",
+            "date": "2022-12-15",
+            "stock": 32
+        },
+        {
             "market": "magi",
-            "link": "/items/89150176",
+            "link": "/items/390168274",
             "price": 100,
             "name": "ヌメラ 112/17",
             "date": "2022-12-14",
@@ -298,7 +362,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/390168274",
+            "link": "/items/89150176",
             "price": 100,
             "name": "ヌメラ 112/17",
             "date": "2022-12-14",
@@ -346,7 +410,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/89150176",
+            "link": "/items/390168274",
             "price": 100,
             "name": "ヌメラ 112/17",
             "date": "2022-12-13",
@@ -362,19 +426,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/390168274",
+            "link": "/items/89150176",
             "price": 100,
             "name": "ヌメラ 112/17",
             "date": "2022-12-13",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26243",
-            "price": 100,
-            "name": "ヌメラ:ミラー(CP",
-            "date": "2022-12-13",
-            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -385,76 +441,28 @@
             "stock": 38
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38304",
-            "price": 50,
-            "name": "ヌメラ112/172",
-            "date": "2022-12-13",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38196",
-            "price": 30,
-            "name": "ヌメラ112/172",
-            "date": "2022-12-13",
-            "stock": 152
-        },
-        {
-            "market": "magi",
-            "link": "/items/390168274",
-            "price": 100,
-            "name": "ヌメラ 112/17",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/164215522",
-            "price": 120,
-            "name": "ヌメラ【-】{112",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/89150176",
-            "price": 100,
-            "name": "ヌメラ 112/17",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26135",
-            "price": 50,
-            "name": "ヌメラ(CP){ドラ",
-            "date": "2022-12-12",
-            "stock": 37
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26243",
             "price": 100,
             "name": "ヌメラ:ミラー(CP",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38304",
-            "price": 50,
-            "name": "ヌメラ112/172",
-            "date": "2022-12-12",
-            "stock": 35
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38196",
             "price": 30,
             "name": "ヌメラ112/172",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 152
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38304",
+            "price": 50,
+            "name": "ヌメラ112/172",
+            "date": "2022-12-13",
+            "stock": 35
         }
     ]
 }

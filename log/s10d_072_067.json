@@ -5,6 +5,38 @@
             "link": "/items/2042048006",
             "price": 62,
             "name": "【４枚セット】カイリ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23082",
+            "price": 900,
+            "name": "カイリキーV(SR)",
+            "date": "2022-12-20",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34830",
+            "price": 730,
+            "name": "カイリキーV072/",
+            "date": "2022-12-20",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34740",
+            "price": 880,
+            "name": "カイリキーV072/",
+            "date": "2022-12-20",
+            "stock": 95
+        },
+        {
+            "market": "magi",
+            "link": "/items/2042048006",
+            "price": 62,
+            "name": "【４枚セット】カイリ",
             "date": "2022-12-19",
             "stock": 4
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34830",
-            "price": 730,
-            "name": "カイリキーV072/",
-            "date": "2022-12-18",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34740",
             "price": 880,
             "name": "カイリキーV072/",
             "date": "2022-12-18",
             "stock": 95
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34830",
+            "price": 730,
+            "name": "カイリキーV072/",
+            "date": "2022-12-18",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -111,6 +143,14 @@
             "name": "カイリキーV(SR)",
             "date": "2022-12-16",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34830",
+            "price": 730,
+            "name": "カイリキーV072/",
+            "date": "2022-12-16",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -121,14 +161,6 @@
             "stock": 92
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34830",
-            "price": 730,
-            "name": "カイリキーV072/",
-            "date": "2022-12-16",
-            "stock": 5
-        },
-        {
             "market": "magi",
             "link": "/items/2042048006",
             "price": 62,
@@ -146,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34830",
-            "price": 730,
-            "name": "カイリキーV072/",
-            "date": "2022-12-15",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34740",
             "price": 880,
             "name": "カイリキーV072/",
             "date": "2022-12-15",
             "stock": 87
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34830",
+            "price": 730,
+            "name": "カイリキーV072/",
+            "date": "2022-12-15",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -210,42 +242,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34740",
-            "price": 880,
-            "name": "カイリキーV072/",
-            "date": "2022-12-13",
-            "stock": 61
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34830",
             "price": 730,
             "name": "カイリキーV072/",
             "date": "2022-12-13",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/2042048006",
-            "price": 62,
-            "name": "【４枚セット】カイリ",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23082",
-            "price": 900,
-            "name": "カイリキーV(SR)",
-            "date": "2022-12-12",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34830",
-            "price": 730,
-            "name": "カイリキーV072/",
-            "date": "2022-12-12",
             "stock": 5
         },
         {
@@ -253,8 +253,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/34740",
             "price": 880,
             "name": "カイリキーV072/",
-            "date": "2022-12-12",
-            "stock": 56
+            "date": "2022-12-13",
+            "stock": 61
         }
     ]
 }

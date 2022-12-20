@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/321009256",
+            "price": 200,
+            "name": "プライマルターボアー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1793267848",
+            "price": 420,
+            "name": "アーケオス R 08",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/341806695",
             "price": 420,
             "name": "アーケオス【R】{0",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254431664",
+            "price": 448,
+            "name": "アーケオス R 08",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/800969154",
+            "price": 216,
+            "name": "アーケオス R 08",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1675266871",
+            "price": 200,
+            "name": "アーケオス R 08",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/767370231",
+            "price": 610,
+            "name": "【特価2枚】アーケオ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621438518",
+            "price": 999,
+            "name": "アーケオス R 08",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/749226838",
+            "price": 669,
+            "name": "アーケオス(R){無",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1882918436",
+            "price": 1197,
+            "name": "アーケオス R 08",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37575",
+            "price": 420,
+            "name": "アーケオス083/0",
+            "date": "2022-12-20",
+            "stock": 373
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g083-098-S12-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｒ◇アーケ",
+            "date": "2022-12-20",
+            "stock": 43
         },
         {
             "market": "magi",
@@ -15,6 +103,14 @@
             "name": "【特価2枚】アーケオ",
             "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1675266871",
+            "price": 220,
+            "name": "アーケオス R 08",
+            "date": "2022-12-19",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -34,24 +130,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/621438518",
-            "price": 999,
+            "link": "/items/341806695",
+            "price": 420,
+            "name": "アーケオス【R】{0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1793267848",
+            "price": 420,
             "name": "アーケオス R 08",
             "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1675266871",
-            "price": 220,
-            "name": "アーケオス R 08",
-            "date": "2022-12-19",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1793267848",
-            "price": 420,
+            "link": "/items/621438518",
+            "price": 999,
             "name": "アーケオス R 08",
             "date": "2022-12-19",
             "stock": 1
@@ -90,40 +186,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/749226838",
-            "price": 669,
-            "name": "アーケオス(R){無",
+            "link": "/items/767370231",
+            "price": 610,
+            "name": "【特価2枚】アーケオ",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/341806695",
+            "link": "/items/1793267848",
             "price": 420,
-            "name": "アーケオス【R】{0",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1675266871",
-            "price": 230,
-            "name": "アーケオス R 08",
-            "date": "2022-12-18",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1254431664",
-            "price": 449,
             "name": "アーケオス R 08",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/800969154",
-            "price": 219,
+            "link": "/items/621438518",
+            "price": 999,
             "name": "アーケオス R 08",
             "date": "2022-12-18",
             "stock": 1
@@ -138,25 +218,41 @@
         },
         {
             "market": "magi",
-            "link": "/items/767370231",
-            "price": 610,
-            "name": "【特価2枚】アーケオ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621438518",
-            "price": 999,
+            "link": "/items/800969154",
+            "price": 219,
             "name": "アーケオス R 08",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1793267848",
+            "link": "/items/1254431664",
+            "price": 449,
+            "name": "アーケオス R 08",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1675266871",
+            "price": 230,
+            "name": "アーケオス R 08",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/341806695",
             "price": 420,
-            "name": "アーケオス R 08",
+            "name": "アーケオス【R】{0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/749226838",
+            "price": 669,
+            "name": "アーケオス(R){無",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -183,30 +279,6 @@
             "name": "【ポケカ】Ｒ◇アーケ",
             "date": "2022-12-18",
             "stock": 43
-        },
-        {
-            "market": "magi",
-            "link": "/items/1793267848",
-            "price": 420,
-            "name": "アーケオス R 08",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621438518",
-            "price": 999,
-            "name": "アーケオス R 08",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/767370231",
-            "price": 610,
-            "name": "【特価2枚】アーケオ",
-            "date": "2022-12-17",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -237,6 +309,30 @@
             "link": "/items/749226838",
             "price": 669,
             "name": "アーケオス(R){無",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621438518",
+            "price": 999,
+            "name": "アーケオス R 08",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1793267848",
+            "price": 420,
+            "name": "アーケオス R 08",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/767370231",
+            "price": 610,
+            "name": "【特価2枚】アーケオ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -298,8 +394,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1793267848",
-            "price": 420,
+            "link": "/items/621438518",
+            "price": 999,
             "name": "アーケオス R 08",
             "date": "2022-12-16",
             "stock": 1
@@ -314,8 +410,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/621438518",
-            "price": 999,
+            "link": "/items/1793267848",
+            "price": 420,
             "name": "アーケオス R 08",
             "date": "2022-12-16",
             "stock": 1
@@ -338,56 +434,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/26926016",
-            "price": 250,
-            "name": "アーケオス R 08",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/749226838",
-            "price": 669,
-            "name": "アーケオス(R){無",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/800969154",
-            "price": 226,
-            "name": "アーケオス R 08",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1882918436",
-            "price": 1198,
-            "name": "アーケオス R 08",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1254431664",
-            "price": 449,
-            "name": "アーケオス R 08",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/767370231",
-            "price": 600,
-            "name": "【2枚】アーケオス ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2096046308",
-            "price": 400,
+            "link": "/items/621438518",
+            "price": 999,
             "name": "アーケオス R 08",
             "date": "2022-12-15",
             "stock": 1
@@ -402,8 +450,56 @@
         },
         {
             "market": "magi",
-            "link": "/items/621438518",
-            "price": 999,
+            "link": "/items/2096046308",
+            "price": 400,
+            "name": "アーケオス R 08",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/767370231",
+            "price": 600,
+            "name": "【2枚】アーケオス ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254431664",
+            "price": 449,
+            "name": "アーケオス R 08",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1882918436",
+            "price": 1198,
+            "name": "アーケオス R 08",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/800969154",
+            "price": 226,
+            "name": "アーケオス R 08",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/749226838",
+            "price": 669,
+            "name": "アーケオス(R){無",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/26926016",
+            "price": 250,
             "name": "アーケオス R 08",
             "date": "2022-12-15",
             "stock": 1
@@ -423,6 +519,22 @@
             "name": "【ポケカ】Ｒ◇アーケ",
             "date": "2022-12-15",
             "stock": 37
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254431664",
+            "price": 450,
+            "name": "アーケオス R 08",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/767370231",
+            "price": 600,
+            "name": "【2枚】アーケオス ",
+            "date": "2022-12-14",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -482,24 +594,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/767370231",
-            "price": 600,
-            "name": "【2枚】アーケオス ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2096046308",
             "price": 400,
-            "name": "アーケオス R 08",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1254431664",
-            "price": 450,
             "name": "アーケオス R 08",
             "date": "2022-12-14",
             "stock": 1
@@ -530,17 +626,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/621438518",
-            "price": 999,
+            "link": "/items/800969154",
+            "price": 230,
             "name": "アーケオス R 08",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/767370231",
-            "price": 600,
-            "name": "【2枚】アーケオス ",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -594,9 +682,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/800969154",
-            "price": 230,
-            "name": "アーケオス R 08",
+            "link": "/items/767370231",
+            "price": 600,
+            "name": "【2枚】アーケオス ",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -625,6 +713,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/621438518",
+            "price": 999,
+            "name": "アーケオス R 08",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25563",
             "price": 350,
@@ -646,118 +742,6 @@
             "price": 330,
             "name": "【ポケカ】Ｒ◇アーケ",
             "date": "2022-12-13",
-            "stock": 34
-        },
-        {
-            "market": "magi",
-            "link": "/items/244203469",
-            "price": 660,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1254431664",
-            "price": 450,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/473772436",
-            "price": 945,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/767370231",
-            "price": 600,
-            "name": "【2枚】アーケオス ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/26926016",
-            "price": 250,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2096046308",
-            "price": 400,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1793267848",
-            "price": 480,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/800969154",
-            "price": 234,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621438518",
-            "price": 999,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1882918436",
-            "price": 1199,
-            "name": "アーケオス R 08",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/749226838",
-            "price": 772,
-            "name": "アーケオス(R){無",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25563",
-            "price": 350,
-            "name": "アーケオス(R){無",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37575",
-            "price": 420,
-            "name": "アーケオス083/0",
-            "date": "2022-12-12",
-            "stock": 32
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g083-098-S12-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｒ◇アーケ",
-            "date": "2022-12-12",
             "stock": 34
         }
     ]

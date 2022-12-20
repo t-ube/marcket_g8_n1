@@ -2,16 +2,104 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1922822485",
+            "price": 200,
+            "name": "ザマゼンタV TD ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2025984838",
+            "price": 300,
+            "name": "ザマゼンタV(キラ)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193961982",
+            "price": 100,
+            "name": "ザマゼンタV TD ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/151788244",
             "price": 390,
             "name": "【特価】おうじゃのか",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1735672759",
+            "price": 388,
+            "name": "ザマゼンタV(D){",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/768855098",
             "price": 230,
+            "name": "ザマゼンタV TD ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21564",
+            "price": 200,
+            "name": "ザマゼンタV:ミラー",
+            "date": "2022-12-20",
+            "stock": 6
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21906",
+            "price": 100,
+            "name": "ザマゼンタV(D){",
+            "date": "2022-12-20",
+            "stock": 53
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23591",
+            "price": 280,
+            "name": "ザマゼンタV313/",
+            "date": "2022-12-20",
+            "stock": 53
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33249",
+            "price": 260,
+            "name": "ザマゼンタV313/",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33248",
+            "price": 110,
+            "name": "ザマゼンタV313/",
+            "date": "2022-12-20",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23590",
+            "price": 120,
+            "name": "ザマゼンタV313/",
+            "date": "2022-12-20",
+            "stock": 16
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193961982",
+            "price": 100,
             "name": "ザマゼンタV TD ",
             "date": "2022-12-19",
             "stock": 1
@@ -34,8 +122,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1193961982",
-            "price": 100,
+            "link": "/items/151788244",
+            "price": 390,
+            "name": "【特価】おうじゃのか",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/768855098",
+            "price": 230,
             "name": "ザマゼンタV TD ",
             "date": "2022-12-19",
             "stock": 1
@@ -50,14 +146,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21564",
-            "price": 200,
-            "name": "ザマゼンタV:ミラー",
-            "date": "2022-12-19",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21906",
             "price": 100,
             "name": "ザマゼンタV(D){",
@@ -65,12 +153,12 @@
             "stock": 53
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23591",
-            "price": 280,
-            "name": "ザマゼンタV313/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21564",
+            "price": 200,
+            "name": "ザマゼンタV:ミラー",
             "date": "2022-12-19",
-            "stock": 53
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -82,11 +170,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33248",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/23591",
+            "price": 280,
             "name": "ザマゼンタV313/",
             "date": "2022-12-19",
-            "stock": 7
+            "stock": 53
         },
         {
             "market": "cardrush",
@@ -97,17 +185,17 @@
             "stock": 16
         },
         {
-            "market": "magi",
-            "link": "/items/1193961982",
-            "price": 100,
-            "name": "ザマゼンタV TD ",
-            "date": "2022-12-18",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33248",
+            "price": 110,
+            "name": "ザマゼンタV313/",
+            "date": "2022-12-19",
+            "stock": 7
         },
         {
             "market": "magi",
-            "link": "/items/1922822485",
-            "price": 200,
+            "link": "/items/1193961982",
+            "price": 100,
             "name": "ザマゼンタV TD ",
             "date": "2022-12-18",
             "stock": 1
@@ -141,6 +229,14 @@
             "link": "/items/1735672759",
             "price": 388,
             "name": "ザマゼンタV(D){",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922822485",
+            "price": 200,
+            "name": "ザマゼンタV TD ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -162,6 +258,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33249",
+            "price": 260,
+            "name": "ザマゼンタV313/",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33248",
             "price": 110,
             "name": "ザマゼンタV313/",
@@ -170,11 +274,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33249",
-            "price": 260,
+            "link": "https://www.cardrush-pokemon.jp/product/23590",
+            "price": 120,
             "name": "ザマゼンタV313/",
             "date": "2022-12-18",
-            "stock": 2
+            "stock": 18
         },
         {
             "market": "cardrush",
@@ -185,12 +289,12 @@
             "stock": 53
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23590",
-            "price": 120,
-            "name": "ザマゼンタV313/",
-            "date": "2022-12-18",
-            "stock": 18
+            "market": "magi",
+            "link": "/items/2025984838",
+            "price": 300,
+            "name": "ザマゼンタV(キラ)",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -210,22 +314,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1922822485",
-            "price": 200,
-            "name": "ザマゼンタV TD ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2025984838",
-            "price": 300,
-            "name": "ザマゼンタV(キラ)",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1193961982",
             "price": 100,
             "name": "ザマゼンタV TD ",
@@ -236,6 +324,14 @@
             "market": "magi",
             "link": "/items/768855098",
             "price": 230,
+            "name": "ザマゼンタV TD ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922822485",
+            "price": 200,
             "name": "ザマゼンタV TD ",
             "date": "2022-12-17",
             "stock": 1
@@ -306,8 +402,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1922822485",
-            "price": 200,
+            "link": "/items/1735672759",
+            "price": 388,
+            "name": "ザマゼンタV(D){",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/768855098",
+            "price": 230,
             "name": "ザマゼンタV TD ",
             "date": "2022-12-16",
             "stock": 1
@@ -322,16 +426,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1735672759",
-            "price": 388,
-            "name": "ザマゼンタV(D){",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/768855098",
-            "price": 230,
+            "link": "/items/1922822485",
+            "price": 200,
             "name": "ザマゼンタV TD ",
             "date": "2022-12-16",
             "stock": 1
@@ -354,6 +450,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23590",
+            "price": 120,
+            "name": "ザマゼンタV313/",
+            "date": "2022-12-16",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23591",
             "price": 280,
             "name": "ザマゼンタV313/",
@@ -367,14 +471,6 @@
             "name": "ザマゼンタV313/",
             "date": "2022-12-16",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23590",
-            "price": 120,
-            "name": "ザマゼンタV313/",
-            "date": "2022-12-16",
-            "stock": 11
         },
         {
             "market": "cardrush",
@@ -482,6 +578,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/2025984838",
+            "price": 300,
+            "name": "ザマゼンタV(キラ)",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1193961982",
             "price": 100,
             "name": "ザマゼンタV TD ",
@@ -501,14 +605,6 @@
             "link": "/items/768855098",
             "price": 230,
             "name": "ザマゼンタV TD ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2025984838",
-            "price": 300,
-            "name": "ザマゼンタV(キラ)",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -578,14 +674,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/768855098",
-            "price": 230,
-            "name": "ザマゼンタV TD ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1735672759",
             "price": 388,
             "name": "ザマゼンタV(D){",
@@ -596,6 +684,22 @@
             "market": "magi",
             "link": "/items/1193961982",
             "price": 100,
+            "name": "ザマゼンタV TD ",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2025984838",
+            "price": 300,
+            "name": "ザマゼンタV(キラ)",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/768855098",
+            "price": 230,
             "name": "ザマゼンタV TD ",
             "date": "2022-12-13",
             "stock": 1
@@ -617,22 +721,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/2025984838",
-            "price": 300,
-            "name": "ザマゼンタV(キラ)",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21906",
-            "price": 100,
-            "name": "ザマゼンタV(D){",
-            "date": "2022-12-13",
-            "stock": 51
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21564",
             "price": 200,
@@ -641,20 +729,12 @@
             "stock": 5
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23591",
-            "price": 280,
-            "name": "ザマゼンタV313/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21906",
+            "price": 100,
+            "name": "ザマゼンタV(D){",
             "date": "2022-12-13",
-            "stock": 53
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33248",
-            "price": 110,
-            "name": "ザマゼンタV313/",
-            "date": "2022-12-13",
-            "stock": 7
+            "stock": 51
         },
         {
             "market": "cardrush",
@@ -666,82 +746,18 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23590",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/23591",
+            "price": 280,
             "name": "ザマゼンタV313/",
             "date": "2022-12-13",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/1193961982",
-            "price": 100,
-            "name": "ザマゼンタV TD ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1922822485",
-            "price": 200,
-            "name": "ザマゼンタV TD ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1735672759",
-            "price": 388,
-            "name": "ザマゼンタV(D){",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/151788244",
-            "price": 390,
-            "name": "【特価】おうじゃのか",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/768855098",
-            "price": 230,
-            "name": "ザマゼンタV TD ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2025984838",
-            "price": 300,
-            "name": "ザマゼンタV(キラ)",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21906",
-            "price": 100,
-            "name": "ザマゼンタV(D){",
-            "date": "2022-12-12",
-            "stock": 50
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21564",
-            "price": 200,
-            "name": "ザマゼンタV:ミラー",
-            "date": "2022-12-12",
-            "stock": 5
+            "stock": 53
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33248",
             "price": 110,
             "name": "ザマゼンタV313/",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 7
         },
         {
@@ -749,24 +765,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/23590",
             "price": 120,
             "name": "ザマゼンタV313/",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33249",
-            "price": 260,
-            "name": "ザマゼンタV313/",
-            "date": "2022-12-12",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23591",
-            "price": 280,
-            "name": "ザマゼンタV313/",
-            "date": "2022-12-12",
-            "stock": 53
         }
     ]
 }
