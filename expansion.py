@@ -3,6 +3,7 @@ def getList():
         'SI',
         'S9',
         'SK',
+        'SN',
         'S9a',
         'SLD',
         'SLL',
