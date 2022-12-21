@@ -5,6 +5,70 @@
             "link": "/items/1306708441",
             "price": 5544,
             "name": "カイリキーV(SA)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265056919",
+            "price": 28888,
+            "name": "カイリキーV SR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1155148702",
+            "price": 5500,
+            "name": "カイリキーV SR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1260611971",
+            "price": 4704,
+            "name": "〔状態A-〕カイリキ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1263207071",
+            "price": 5280,
+            "name": "カイリキーV SR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23083",
+            "price": 5500,
+            "name": "カイリキーV:SA(",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34831",
+            "price": 4480,
+            "name": "カイリキーV073/",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34741",
+            "price": 5280,
+            "name": "カイリキーV073/",
+            "date": "2022-12-21",
+            "stock": 16
+        },
+        {
+            "market": "magi",
+            "link": "/items/1306708441",
+            "price": 5544,
+            "name": "カイリキーV(SA)",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -66,14 +130,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2117388290",
-            "price": 4500,
-            "name": "カイリキーV SR ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1306708441",
             "price": 5544,
             "name": "カイリキーV(SA)",
@@ -108,6 +164,14 @@
             "market": "magi",
             "link": "/items/1155148702",
             "price": 5491,
+            "name": "カイリキーV SR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117388290",
+            "price": 4500,
             "name": "カイリキーV SR ",
             "date": "2022-12-19",
             "stock": 1
@@ -210,14 +274,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2117388290",
-            "price": 4500,
-            "name": "カイリキーV SR ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1155148702",
             "price": 5491,
             "name": "カイリキーV SR ",
@@ -226,9 +282,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1260611971",
-            "price": 4704,
-            "name": "〔状態A-〕カイリキ",
+            "link": "/items/1265056919",
+            "price": 28888,
+            "name": "カイリキーV SR ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -242,8 +298,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1265056919",
-            "price": 28888,
+            "link": "/items/1260611971",
+            "price": 4704,
+            "name": "〔状態A-〕カイリキ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117388290",
+            "price": 4500,
             "name": "カイリキーV SR ",
             "date": "2022-12-17",
             "stock": 1
@@ -258,14 +322,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34741",
-            "price": 5280,
-            "name": "カイリキーV073/",
-            "date": "2022-12-17",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34831",
             "price": 4480,
             "name": "カイリキーV073/",
@@ -273,9 +329,33 @@
             "stock": 5
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34741",
+            "price": 5280,
+            "name": "カイリキーV073/",
+            "date": "2022-12-17",
+            "stock": 18
+        },
+        {
             "market": "magi",
-            "link": "/items/1155148702",
-            "price": 5491,
+            "link": "/items/1260611971",
+            "price": 4704,
+            "name": "〔状態A-〕カイリキ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1306708441",
+            "price": 5544,
+            "name": "カイリキーV(SA)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117388290",
+            "price": 4500,
             "name": "カイリキーV SR ",
             "date": "2022-12-16",
             "stock": 1
@@ -290,25 +370,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2117388290",
-            "price": 4500,
+            "link": "/items/1155148702",
+            "price": 5491,
             "name": "カイリキーV SR ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1306708441",
-            "price": 5544,
-            "name": "カイリキーV(SA)",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1260611971",
-            "price": 4704,
-            "name": "〔状態A-〕カイリキ",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -386,17 +450,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1265056919",
-            "price": 28888,
-            "name": "カイリキーV SR ",
+            "link": "/items/1306708441",
+            "price": 5544,
+            "name": "カイリキーV(SA)",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1306708441",
-            "price": 5544,
-            "name": "カイリキーV(SA)",
+            "link": "/items/2117388290",
+            "price": 4500,
+            "name": "カイリキーV SR ",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -410,8 +474,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2117388290",
-            "price": 4500,
+            "link": "/items/1265056919",
+            "price": 28888,
             "name": "カイリキーV SR ",
             "date": "2022-12-14",
             "stock": 1
@@ -431,54 +495,6 @@
             "name": "カイリキーV073/",
             "date": "2022-12-14",
             "stock": 19
-        },
-        {
-            "market": "magi",
-            "link": "/items/1265056919",
-            "price": 28888,
-            "name": "カイリキーV SR ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2117388290",
-            "price": 4500,
-            "name": "カイリキーV SR ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1306708441",
-            "price": 5544,
-            "name": "カイリキーV(SA)",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1155148702",
-            "price": 5500,
-            "name": "カイリキーV SR ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23083",
-            "price": 5500,
-            "name": "カイリキーV:SA(",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34741",
-            "price": 5280,
-            "name": "カイリキーV073/",
-            "date": "2022-12-13",
-            "stock": 20
         }
     ]
 }

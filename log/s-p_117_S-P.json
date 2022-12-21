@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17353",
+            "price": 200,
+            "name": "イーブイ(PROMO",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14641",
+            "price": 180,
+            "name": "イーブイ117/S-",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30442",
+            "price": 80,
+            "name": "イーブイ117/S-",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30442",
             "price": 80,
@@ -42,14 +66,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14641",
-            "price": 180,
-            "name": "イーブイ117/S-",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30442",
             "price": 80,
             "name": "イーブイ117/S-",
@@ -61,7 +77,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/14641",
             "price": 180,
             "name": "イーブイ117/S-",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -74,11 +90,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30442",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/14641",
+            "price": 180,
             "name": "イーブイ117/S-",
-            "date": "2022-12-13",
-            "stock": 2
+            "date": "2022-12-14",
+            "stock": 1
         }
     ]
 }

@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1865166188",
+            "price": 1100,
+            "name": "ルギアVSTAR R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25579",
+            "price": 780,
+            "name": "ルギアV(PROMO",
+            "date": "2022-12-21",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37682",
+            "price": 830,
+            "name": "ルギアV324/S-",
+            "date": "2022-12-21",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37628",
+            "price": 880,
+            "name": "ルギアV324/S-",
+            "date": "2022-12-21",
+            "stock": 31
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25579",
             "price": 780,
@@ -58,19 +90,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37682",
-            "price": 830,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-18",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37628",
             "price": 880,
             "name": "ルギアV324/S-",
             "date": "2022-12-18",
             "stock": 84
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37682",
+            "price": 830,
+            "name": "ルギアV324/S-",
+            "date": "2022-12-18",
+            "stock": 9
         },
         {
             "market": "hareruya2",
@@ -82,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37628",
-            "price": 880,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-17",
-            "stock": 84
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37682",
             "price": 830,
             "name": "ルギアV324/S-",
             "date": "2022-12-17",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37628",
+            "price": 880,
+            "name": "ルギアV324/S-",
+            "date": "2022-12-17",
+            "stock": 84
         },
         {
             "market": "hareruya2",
@@ -154,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37682",
-            "price": 830,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-14",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37628",
             "price": 880,
             "name": "ルギアV324/S-",
@@ -169,28 +193,12 @@
             "stock": 46
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25579",
-            "price": 800,
-            "name": "ルギアV(PROMO",
-            "date": "2022-12-13",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37628",
-            "price": 880,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-13",
-            "stock": 30
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37682",
             "price": 830,
             "name": "ルギアV324/S-",
-            "date": "2022-12-13",
-            "stock": 1
+            "date": "2022-12-14",
+            "stock": 4
         }
     ]
 }

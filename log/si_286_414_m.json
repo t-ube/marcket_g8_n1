@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/21554",
             "price": 100,
             "name": "ベロバー:ミラー(D",
+            "date": "2022-12-21",
+            "stock": 35
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23555",
+            "price": 120,
+            "name": "ベロバー286/41",
+            "date": "2022-12-21",
+            "stock": 88
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23554",
+            "price": 30,
+            "name": "ベロバー286/41",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g286-414-SI-B/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21554",
+            "price": 100,
+            "name": "ベロバー:ミラー(D",
             "date": "2022-12-20",
             "stock": 35
         },
@@ -74,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23555",
-            "price": 120,
-            "name": "ベロバー286/41",
-            "date": "2022-12-18",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23554",
             "price": 30,
             "name": "ベロバー286/41",
             "date": "2022-12-18",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23555",
+            "price": 120,
+            "name": "ベロバー286/41",
+            "date": "2022-12-18",
+            "stock": 88
         },
         {
             "market": "torecolo",
@@ -135,14 +167,6 @@
             "name": "ベロバー:ミラー(D",
             "date": "2022-12-16",
             "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23554",
-            "price": 30,
-            "name": "ベロバー286/41",
-            "date": "2022-12-16",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -153,6 +177,14 @@
             "stock": 88
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23554",
+            "price": 30,
+            "name": "ベロバー286/41",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g286-414-SI-B/",
             "price": 33,
@@ -170,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23555",
-            "price": 120,
-            "name": "ベロバー286/41",
-            "date": "2022-12-15",
-            "stock": 92
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23554",
             "price": 30,
             "name": "ベロバー286/41",
             "date": "2022-12-15",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23555",
+            "price": 120,
+            "name": "ベロバー286/41",
+            "date": "2022-12-15",
+            "stock": 92
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23554",
-            "price": 30,
-            "name": "ベロバー286/41",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23555",
             "price": 120,
             "name": "ベロバー286/41",
@@ -217,35 +241,11 @@
             "stock": 92
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g286-414-SI-B/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-14",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21554",
-            "price": 100,
-            "name": "ベロバー:ミラー(D",
-            "date": "2022-12-13",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23555",
-            "price": 120,
-            "name": "ベロバー286/41",
-            "date": "2022-12-13",
-            "stock": 92
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23554",
             "price": 30,
             "name": "ベロバー286/41",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 2
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g286-414-SI-B/",
             "price": 33,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 4
         }
     ]

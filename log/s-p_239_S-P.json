@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20825",
+            "price": 300,
+            "name": "イーブイ(PROMO",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32720",
+            "price": 380,
+            "name": "イーブイ239/S-",
+            "date": "2022-12-21",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38054",
+            "price": 280,
+            "name": "イーブイ239/S-",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22532",
+            "price": 480,
+            "name": "イーブイ239/S-",
+            "date": "2022-12-21",
+            "stock": 38
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32720",
             "price": 380,
@@ -50,6 +82,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22532",
+            "price": 480,
+            "name": "イーブイ239/S-",
+            "date": "2022-12-18",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32720",
             "price": 380,
             "name": "イーブイ239/S-",
@@ -66,27 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22532",
-            "price": 480,
-            "name": "イーブイ239/S-",
-            "date": "2022-12-18",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22532",
-            "price": 480,
-            "name": "イーブイ239/S-",
-            "date": "2022-12-17",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32720",
             "price": 380,
             "name": "イーブイ239/S-",
             "date": "2022-12-17",
             "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22532",
+            "price": 480,
+            "name": "イーブイ239/S-",
+            "date": "2022-12-17",
+            "stock": 37
         },
         {
             "market": "cardrush",
@@ -119,14 +151,6 @@
             "name": "イーブイ239/S-",
             "date": "2022-12-16",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32720",
-            "price": 380,
-            "name": "イーブイ239/S-",
-            "date": "2022-12-15",
-            "stock": 21
         },
         {
             "market": "cardrush",
@@ -146,19 +170,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22532",
-            "price": 480,
+            "link": "https://www.cardrush-pokemon.jp/product/32720",
+            "price": 380,
             "name": "イーブイ239/S-",
-            "date": "2022-12-14",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38054",
-            "price": 280,
-            "name": "イーブイ239/S-",
-            "date": "2022-12-14",
-            "stock": 1
+            "date": "2022-12-15",
+            "stock": 21
         },
         {
             "market": "cardrush",
@@ -170,18 +186,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32720",
-            "price": 380,
-            "name": "イーブイ239/S-",
-            "date": "2022-12-13",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38054",
             "price": 280,
             "name": "イーブイ239/S-",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 1
         },
         {
@@ -189,7 +197,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/22532",
             "price": 480,
             "name": "イーブイ239/S-",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 38
         }
     ]

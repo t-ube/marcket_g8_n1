@@ -2,11 +2,107 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/510964672",
+            "price": 11340,
+            "name": "アルセウスV(SA)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2034042523",
+            "price": 13999,
+            "name": "【美品】アルセウスV",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/314785767",
+            "price": 11928,
+            "name": "アルセウスV  SA",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1641736050",
+            "price": 8000,
+            "name": "（微キズ）アルセウス",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1587979064",
+            "price": 9500,
+            "name": "アルセウスV SR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/256950878",
+            "price": 9954,
+            "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1389120552",
+            "price": 10000,
+            "name": "（美品）アルセウスV",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439380137",
+            "price": 10000,
+            "name": "（美品）アルセウスV",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1742874925",
             "price": 10999,
             "name": "アルセウスV SR ",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22346",
+            "price": 10000,
+            "name": "アルセウスV:SA(",
+            "date": "2022-12-21",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24295",
+            "price": 66800,
+            "name": "【状態A】アルセウス",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24451",
+            "price": 9480,
+            "name": "アルセウスV112/",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24424",
+            "price": 10800,
+            "name": "アルセウスV112/",
+            "date": "2022-12-21",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -18,33 +114,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/314785767",
-            "price": 11928,
-            "name": "アルセウスV  SA",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1641736050",
-            "price": 8000,
-            "name": "（微キズ）アルセウス",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1587979064",
-            "price": 9500,
+            "link": "/items/1742874925",
+            "price": 10999,
             "name": "アルセウスV SR ",
             "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2034042523",
-            "price": 13999,
-            "name": "【美品】アルセウスV",
+            "link": "/items/439380137",
+            "price": 10000,
+            "name": "（美品）アルセウスV",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -58,9 +138,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/439380137",
-            "price": 10000,
-            "name": "（美品）アルセウスV",
+            "link": "/items/1587979064",
+            "price": 9500,
+            "name": "アルセウスV SR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1641736050",
+            "price": 8000,
+            "name": "（微キズ）アルセウス",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/314785767",
+            "price": 11928,
+            "name": "アルセウスV  SA",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2034042523",
+            "price": 13999,
+            "name": "【美品】アルセウスV",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -90,14 +194,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/13381481",
-            "price": 6279,
-            "name": "〔状態B〕アルセウス",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1389120552",
             "price": 10000,
             "name": "（美品）アルセウスV",
@@ -157,6 +253,22 @@
             "link": "/items/256950878",
             "price": 9954,
             "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/13381481",
+            "price": 6279,
+            "name": "〔状態B〕アルセウス",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24295",
+            "price": 98000,
+            "name": "【状態A】アルセウス",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -169,12 +281,12 @@
             "stock": 14
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24295",
-            "price": 98000,
-            "name": "【状態A】アルセウス",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24451",
+            "price": 9480,
+            "name": "アルセウスV112/",
             "date": "2022-12-19",
-            "stock": 1
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -185,26 +297,10 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24451",
-            "price": 9480,
-            "name": "アルセウスV112/",
-            "date": "2022-12-19",
-            "stock": 6
-        },
-        {
             "market": "magi",
-            "link": "/items/1742874925",
-            "price": 10999,
-            "name": "アルセウスV SR ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439380137",
-            "price": 10000,
-            "name": "（美品）アルセウスV",
+            "link": "/items/2034042523",
+            "price": 13999,
+            "name": "【美品】アルセウスV",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -218,9 +314,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2034042523",
-            "price": 13999,
-            "name": "【美品】アルセウスV",
+            "link": "/items/439380137",
+            "price": 10000,
+            "name": "（美品）アルセウスV",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -260,6 +356,14 @@
             "market": "magi",
             "link": "/items/1587979064",
             "price": 9500,
+            "name": "アルセウスV SR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1742874925",
+            "price": 10999,
             "name": "アルセウスV SR ",
             "date": "2022-12-18",
             "stock": 1
@@ -314,22 +418,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1742874925",
-            "price": 10999,
-            "name": "アルセウスV SR ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439380137",
-            "price": 10000,
-            "name": "（美品）アルセウスV",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1641736050",
             "price": 8000,
             "name": "（微キズ）アルセウス",
@@ -365,6 +453,22 @@
             "link": "/items/13381481",
             "price": 6279,
             "name": "〔状態B〕アルセウス",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439380137",
+            "price": 10000,
+            "name": "（美品）アルセウスV",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1742874925",
+            "price": 10999,
+            "name": "アルセウスV SR ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -402,6 +506,38 @@
         },
         {
             "market": "magi",
+            "link": "/items/1742874925",
+            "price": 10999,
+            "name": "アルセウスV SR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439380137",
+            "price": 10000,
+            "name": "（美品）アルセウスV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/413977069",
+            "price": 11340,
+            "name": "アルセウスV(SA)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/256950878",
+            "price": 9954,
+            "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2034042523",
             "price": 13999,
             "name": "【美品】アルセウスV",
@@ -410,9 +546,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1587979064",
-            "price": 9500,
-            "name": "アルセウスV SR ",
+            "link": "/items/314785767",
+            "price": 11928,
+            "name": "アルセウスV  SA",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -434,41 +570,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/413977069",
-            "price": 11340,
-            "name": "アルセウスV(SA)",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1742874925",
-            "price": 10999,
+            "link": "/items/1587979064",
+            "price": 9500,
             "name": "アルセウスV SR ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/314785767",
-            "price": 11928,
-            "name": "アルセウスV  SA",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/256950878",
-            "price": 9954,
-            "name": "〔状態A-〕アルセウ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439380137",
-            "price": 10000,
-            "name": "（美品）アルセウスV",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -610,6 +714,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/314785767",
+            "price": 11928,
+            "name": "アルセウスV  SA",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1742874925",
+            "price": 10999,
+            "name": "アルセウスV SR ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/413977069",
             "price": 11340,
             "name": "アルセウスV(SA)",
@@ -626,25 +746,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1742874925",
-            "price": 10999,
-            "name": "アルセウスV SR ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/314785767",
-            "price": 11928,
-            "name": "アルセウスV  SA",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2034042523",
-            "price": 13999,
-            "name": "【美品】アルセウスV",
+            "link": "/items/1641736050",
+            "price": 8000,
+            "name": "（微キズ）アルセウス",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -666,9 +770,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1641736050",
-            "price": 8000,
-            "name": "（微キズ）アルセウス",
+            "link": "/items/2034042523",
+            "price": 13999,
+            "name": "【美品】アルセウスV",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -695,94 +799,6 @@
             "name": "アルセウスV112/",
             "date": "2022-12-14",
             "stock": 52
-        },
-        {
-            "market": "magi",
-            "link": "/items/1742874925",
-            "price": 10999,
-            "name": "アルセウスV SR ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2034042523",
-            "price": 13999,
-            "name": "【美品】アルセウスV",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1389120552",
-            "price": 10000,
-            "name": "（美品）アルセウスV",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/314785767",
-            "price": 11928,
-            "name": "アルセウスV  SA",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1587979064",
-            "price": 9500,
-            "name": "アルセウスV SR ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1641736050",
-            "price": 8000,
-            "name": "（微キズ）アルセウス",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439380137",
-            "price": 10000,
-            "name": "（美品）アルセウスV",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/413977069",
-            "price": 11340,
-            "name": "アルセウスV(SA)",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22346",
-            "price": 13000,
-            "name": "アルセウスV:SA(",
-            "date": "2022-12-13",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24295",
-            "price": 98000,
-            "name": "【状態A】アルセウス",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24424",
-            "price": 10800,
-            "name": "アルセウスV112/",
-            "date": "2022-12-13",
-            "stock": 63
         }
     ]
 }
