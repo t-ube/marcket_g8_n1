@@ -2,6 +2,70 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1196033377",
+            "price": 11340,
+            "name": "〔状態B〕おいわいフ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1966239572",
+            "price": 20790,
+            "name": "おいわいファンファー",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/193792720",
+            "price": 17640,
+            "name": "〔状態A-〕おいわい",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25404",
+            "price": 18000,
+            "name": "おいわいファンファー",
+            "date": "2022-12-22",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37382",
+            "price": 16800,
+            "name": "おいわいファンファー",
+            "date": "2022-12-22",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37381",
+            "price": 19800,
+            "name": "おいわいファンファー",
+            "date": "2022-12-22",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37386",
+            "price": 10800,
+            "name": "おいわいファンファー",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1196033377",
+            "price": 11340,
+            "name": "〔状態B〕おいわいフ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/193792720",
             "price": 17640,
             "name": "〔状態A-〕おいわい",
@@ -13,14 +77,6 @@
             "link": "/items/1966239572",
             "price": 20790,
             "name": "おいわいファンファー",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1196033377",
-            "price": 11340,
-            "name": "〔状態B〕おいわいフ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -34,11 +90,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37386",
-            "price": 10800,
+            "link": "https://www.cardrush-pokemon.jp/product/37382",
+            "price": 16800,
             "name": "おいわいファンファー",
             "date": "2022-12-21",
-            "stock": 1
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -50,18 +106,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37382",
-            "price": 16800,
+            "link": "https://www.cardrush-pokemon.jp/product/37386",
+            "price": 10800,
             "name": "おいわいファンファー",
             "date": "2022-12-21",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/193792720",
-            "price": 17640,
-            "name": "〔状態A-〕おいわい",
-            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -69,6 +117,14 @@
             "link": "/items/1966239572",
             "price": 20790,
             "name": "おいわいファンファー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/193792720",
+            "price": 17640,
+            "name": "〔状態A-〕おいわい",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -82,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37381",
-            "price": 19800,
-            "name": "おいわいファンファー",
-            "date": "2022-12-20",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37382",
             "price": 16800,
             "name": "おいわいファンファー",
@@ -97,18 +145,26 @@
             "stock": 6
         },
         {
-            "market": "magi",
-            "link": "/items/1966239572",
-            "price": 20790,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37381",
+            "price": 19800,
             "name": "おいわいファンファー",
-            "date": "2022-12-19",
-            "stock": 1
+            "date": "2022-12-20",
+            "stock": 8
         },
         {
             "market": "magi",
             "link": "/items/193792720",
             "price": 17640,
             "name": "〔状態A-〕おいわい",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1966239572",
+            "price": 20790,
+            "name": "おいわいファンファー",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -162,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37381",
-            "price": 19800,
-            "name": "おいわいファンファー",
-            "date": "2022-12-18",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37382",
             "price": 16800,
             "name": "おいわいファンファー",
@@ -177,12 +225,12 @@
             "stock": 6
         },
         {
-            "market": "magi",
-            "link": "/items/193792720",
-            "price": 17640,
-            "name": "〔状態A-〕おいわい",
-            "date": "2022-12-17",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37381",
+            "price": 19800,
+            "name": "おいわいファンファー",
+            "date": "2022-12-18",
+            "stock": 8
         },
         {
             "market": "magi",
@@ -193,12 +241,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/193792720",
+            "price": 17640,
+            "name": "〔状態A-〕おいわい",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25404",
             "price": 18000,
             "name": "おいわいファンファー",
             "date": "2022-12-17",
             "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37382",
+            "price": 16800,
+            "name": "おいわいファンファー",
+            "date": "2022-12-17",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -209,12 +273,12 @@
             "stock": 7
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37382",
-            "price": 16800,
+            "market": "magi",
+            "link": "/items/1966239572",
+            "price": 20790,
             "name": "おいわいファンファー",
-            "date": "2022-12-17",
-            "stock": 5
+            "date": "2022-12-16",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -225,28 +289,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1966239572",
-            "price": 20790,
-            "name": "おいわいファンファー",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25404",
             "price": 18000,
             "name": "おいわいファンファー",
             "date": "2022-12-16",
             "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37382",
-            "price": 16800,
-            "name": "おいわいファンファー",
-            "date": "2022-12-16",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -257,12 +305,12 @@
             "stock": 7
         },
         {
-            "market": "magi",
-            "link": "/items/1966239572",
-            "price": 20790,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37382",
+            "price": 16800,
             "name": "おいわいファンファー",
-            "date": "2022-12-15",
-            "stock": 1
+            "date": "2022-12-16",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -273,12 +321,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1966239572",
+            "price": 20790,
+            "name": "おいわいファンファー",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25404",
             "price": 18000,
             "name": "おいわいファンファー",
             "date": "2022-12-15",
             "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37382",
+            "price": 16800,
+            "name": "おいわいファンファー",
+            "date": "2022-12-15",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -287,54 +351,6 @@
             "name": "おいわいファンファー",
             "date": "2022-12-15",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37382",
-            "price": 16800,
-            "name": "おいわいファンファー",
-            "date": "2022-12-15",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/193792720",
-            "price": 17640,
-            "name": "〔状態A-〕おいわい",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1966239572",
-            "price": 20790,
-            "name": "おいわいファンファー",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25404",
-            "price": 18000,
-            "name": "おいわいファンファー",
-            "date": "2022-12-14",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37381",
-            "price": 19800,
-            "name": "おいわいファンファー",
-            "date": "2022-12-14",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37382",
-            "price": 16800,
-            "name": "おいわいファンファー",
-            "date": "2022-12-14",
-            "stock": 4
         }
     ]
 }

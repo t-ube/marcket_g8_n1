@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25620",
+            "price": 2000,
+            "name": "大口の沼(UR){ス",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37627",
+            "price": 1680,
+            "name": "大口の沼125/09",
+            "date": "2022-12-22",
+            "stock": 18
+        },
+        {
             "market": "magi",
             "link": "/items/216329452",
             "price": 1400,
@@ -106,7 +122,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/216329452",
+            "link": "/items/410891745",
             "price": 1500,
             "name": "大口の沼 UR 12",
             "date": "2022-12-18",
@@ -114,7 +130,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/410891745",
+            "link": "/items/216329452",
             "price": 1500,
             "name": "大口の沼 UR 12",
             "date": "2022-12-18",
@@ -162,14 +178,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/216329452",
-            "price": 1500,
-            "name": "大口の沼 UR 12",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/721648173",
             "price": 1550,
             "name": "大口の沼 UR 12",
@@ -179,6 +187,14 @@
         {
             "market": "magi",
             "link": "/items/410891745",
+            "price": 1500,
+            "name": "大口の沼 UR 12",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/216329452",
             "price": 1500,
             "name": "大口の沼 UR 12",
             "date": "2022-12-16",
@@ -194,8 +210,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/410891745",
-            "price": 1500,
+            "link": "/items/721648173",
+            "price": 1550,
             "name": "大口の沼 UR 12",
             "date": "2022-12-15",
             "stock": 1
@@ -210,8 +226,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/721648173",
-            "price": 1550,
+            "link": "/items/410891745",
+            "price": 1500,
             "name": "大口の沼 UR 12",
             "date": "2022-12-15",
             "stock": 1
@@ -223,38 +239,6 @@
             "name": "大口の沼125/09",
             "date": "2022-12-15",
             "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/216329452",
-            "price": 1500,
-            "name": "大口の沼 UR 12",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/721648173",
-            "price": 1550,
-            "name": "大口の沼 UR 12",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/410891745",
-            "price": 1500,
-            "name": "大口の沼 UR 12",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37627",
-            "price": 1680,
-            "name": "大口の沼125/09",
-            "date": "2022-12-14",
-            "stock": 13
         }
     ]
 }

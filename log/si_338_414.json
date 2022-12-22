@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21931",
+            "price": 50,
+            "name": "ポリゴン(D){無}",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g338-414-SI-B/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ◇ポリ",
+            "date": "2022-12-22",
+            "stock": 5
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g338-414-SI-B/",
             "price": 33,
@@ -54,14 +70,6 @@
             "price": 33,
             "name": "【ポケカ】ＳＳ◇ポリ",
             "date": "2022-12-15",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g338-414-SI-B/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ◇ポリ",
-            "date": "2022-12-14",
             "stock": 5
         }
     ]

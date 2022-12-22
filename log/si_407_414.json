@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21996",
+            "price": 50,
+            "name": "マクワ(D){サポー",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g407-414-SI-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇マク",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g407-414-SI-B/",
             "price": 110,
@@ -54,14 +70,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ◇マク",
             "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g407-414-SI-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇マク",
-            "date": "2022-12-14",
             "stock": 1
         }
     ]

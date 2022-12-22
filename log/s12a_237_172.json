@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1088350078",
+            "price": 3339,
+            "name": "キバナ【SAR】{2",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1666219495",
+            "price": 2555,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1690234166",
+            "price": 2500,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/756809758",
+            "price": 2400,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1562595429",
+            "price": 2300,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/484887610",
+            "price": 2499,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1788831823",
             "price": 3980,
             "name": "キバナ SAR 23",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1631529902",
+            "price": 3150,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26376",
+            "price": 3000,
+            "name": "キバナ(SAR){サ",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38684",
+            "price": 2780,
+            "name": "キバナ237/172",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38417",
+            "price": 3180,
+            "name": "キバナ237/172",
+            "date": "2022-12-22",
+            "stock": 39
         },
         {
             "market": "magi",
@@ -34,8 +114,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1690234166",
-            "price": 2500,
+            "link": "/items/1788831823",
+            "price": 3980,
             "name": "キバナ SAR 23",
             "date": "2022-12-21",
             "stock": 1
@@ -57,20 +137,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1690234166",
+            "price": 2500,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26376",
             "price": 3000,
             "name": "キバナ(SAR){サ",
             "date": "2022-12-21",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38898",
-            "price": 2180,
-            "name": "キバナ237/172",
-            "date": "2022-12-21",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -89,17 +169,17 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1666219495",
-            "price": 2555,
-            "name": "キバナ SAR 23",
-            "date": "2022-12-20",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38898",
+            "price": 2180,
+            "name": "キバナ237/172",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/484887610",
-            "price": 2499,
+            "link": "/items/1666219495",
+            "price": 2555,
             "name": "キバナ SAR 23",
             "date": "2022-12-20",
             "stock": 1
@@ -145,6 +225,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/484887610",
+            "price": 2499,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26376",
             "price": 3000,
@@ -154,19 +242,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38417",
-            "price": 3180,
-            "name": "キバナ237/172",
-            "date": "2022-12-20",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38898",
             "price": 2180,
             "name": "キバナ237/172",
             "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38417",
+            "price": 3180,
+            "name": "キバナ237/172",
+            "date": "2022-12-20",
+            "stock": 44
         },
         {
             "market": "magi",
@@ -250,15 +338,39 @@
         },
         {
             "market": "magi",
-            "link": "/items/756809758",
-            "price": 2600,
+            "link": "/items/1690234166",
+            "price": 2500,
             "name": "キバナ SAR 23",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1690234166",
+            "link": "/items/1448551901",
+            "price": 2400,
+            "name": "キバナ　ロット237",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1666219495",
+            "price": 2555,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088350078",
+            "price": 3444,
+            "name": "キバナ【SAR】{2",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1562595429",
             "price": 2500,
             "name": "キバナ SAR 23",
             "date": "2022-12-18",
@@ -274,33 +386,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1562595429",
-            "price": 2500,
+            "link": "/items/756809758",
+            "price": 2600,
             "name": "キバナ SAR 23",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088350078",
-            "price": 3444,
-            "name": "キバナ【SAR】{2",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1666219495",
-            "price": 2555,
-            "name": "キバナ SAR 23",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1448551901",
-            "price": 2400,
-            "name": "キバナ　ロット237",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -322,24 +410,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1088350078",
-            "price": 3444,
-            "name": "キバナ【SAR】{2",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1666219495",
-            "price": 2555,
-            "name": "キバナ SAR 23",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1690234166",
-            "price": 2500,
+            "link": "/items/756809758",
+            "price": 2600,
             "name": "キバナ SAR 23",
             "date": "2022-12-17",
             "stock": 1
@@ -354,9 +426,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/756809758",
-            "price": 2600,
+            "link": "/items/1690234166",
+            "price": 2500,
             "name": "キバナ SAR 23",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1666219495",
+            "price": 2555,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088350078",
+            "price": 3444,
+            "name": "キバナ【SAR】{2",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -378,6 +466,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1088350078",
+            "price": 3444,
+            "name": "キバナ【SAR】{2",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1562595429",
             "price": 2500,
             "name": "キバナ SAR 23",
@@ -409,14 +505,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1088350078",
-            "price": 3444,
-            "name": "キバナ【SAR】{2",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26376",
             "price": 3000,
@@ -434,16 +522,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/756809758",
-            "price": 3000,
+            "link": "/items/1690234166",
+            "price": 2500,
             "name": "キバナ SAR 23",
             "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1690234166",
+            "link": "/items/1562595429",
             "price": 2500,
+            "name": "キバナ SAR 23",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1666219495",
+            "price": 2555,
             "name": "キバナ SAR 23",
             "date": "2022-12-15",
             "stock": 1
@@ -458,16 +554,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1666219495",
-            "price": 2555,
-            "name": "キバナ SAR 23",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1562595429",
-            "price": 2500,
+            "link": "/items/756809758",
+            "price": 3000,
             "name": "キバナ SAR 23",
             "date": "2022-12-15",
             "stock": 1
@@ -487,62 +575,6 @@
             "name": "キバナ237/172",
             "date": "2022-12-15",
             "stock": 27
-        },
-        {
-            "market": "magi",
-            "link": "/items/1690234166",
-            "price": 2500,
-            "name": "キバナ SAR 23",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/756809758",
-            "price": 3000,
-            "name": "キバナ SAR 23",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088350078",
-            "price": 3444,
-            "name": "キバナ【SAR】{2",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1666219495",
-            "price": 2555,
-            "name": "キバナ SAR 23",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1562595429",
-            "price": 2500,
-            "name": "キバナ SAR 23",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26376",
-            "price": 3000,
-            "name": "キバナ(SAR){サ",
-            "date": "2022-12-14",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38417",
-            "price": 3280,
-            "name": "キバナ237/172",
-            "date": "2022-12-14",
-            "stock": 28
         }
     ]
 }
