@@ -5,6 +5,14 @@
             "link": "https://www.hareruya2.com/product/20826",
             "price": 1000,
             "name": "からくちスパイシーカ",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20826",
+            "price": 1000,
+            "name": "からくちスパイシーカ",
             "date": "2022-12-22",
             "stock": 2
         },
@@ -66,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32721",
-            "price": 730,
-            "name": "からくちスパイシーカ",
-            "date": "2022-12-19",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22533",
             "price": 880,
             "name": "からくちスパイシーカ",
@@ -81,6 +81,14 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32721",
+            "price": 730,
+            "name": "からくちスパイシーカ",
+            "date": "2022-12-19",
+            "stock": 7
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20826",
             "price": 1000,
@@ -90,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32721",
-            "price": 730,
-            "name": "からくちスパイシーカ",
-            "date": "2022-12-18",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22533",
             "price": 880,
             "name": "からくちスパイシーカ",
             "date": "2022-12-18",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32721",
+            "price": 730,
+            "name": "からくちスパイシーカ",
+            "date": "2022-12-18",
+            "stock": 7
         },
         {
             "market": "hareruya2",
@@ -138,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22533",
-            "price": 880,
-            "name": "からくちスパイシーカ",
-            "date": "2022-12-16",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32721",
             "price": 730,
             "name": "からくちスパイシーカ",
@@ -153,12 +153,12 @@
             "stock": 7
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20826",
-            "price": 1000,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22533",
+            "price": 880,
             "name": "からくちスパイシーカ",
-            "date": "2022-12-15",
-            "stock": 2
+            "date": "2022-12-16",
+            "stock": 3
         }
     ]
 }

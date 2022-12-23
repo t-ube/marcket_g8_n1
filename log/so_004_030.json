@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "torecolo",
+            "link": "/shop/g/g004-030-SO-B/",
+            "price": 33,
+            "name": "【ポケカ】ミラー仕様",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37827",
             "price": 80,
@@ -110,14 +118,6 @@
             "price": 33,
             "name": "【ポケカ】ミラー仕様",
             "date": "2022-12-16",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g004-030-SO-B/",
-            "price": 33,
-            "name": "【ポケカ】ミラー仕様",
-            "date": "2022-12-15",
             "stock": 2
         }
     ]
