@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/23067",
             "price": 150,
             "name": "トゲチック(PROM",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35052",
+            "price": 80,
+            "name": "トゲチック280/S",
+            "date": "2022-12-24",
+            "stock": 42
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23067",
+            "price": 150,
+            "name": "トゲチック(PROM",
             "date": "2022-12-23",
             "stock": 2
         },
@@ -111,22 +127,6 @@
             "name": "トゲチック280/S",
             "date": "2022-12-17",
             "stock": 43
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23067",
-            "price": 150,
-            "name": "トゲチック(PROM",
-            "date": "2022-12-16",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35052",
-            "price": 80,
-            "name": "トゲチック280/S",
-            "date": "2022-12-16",
-            "stock": 46
         }
     ]
 }
