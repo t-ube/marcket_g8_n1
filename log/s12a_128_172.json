@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26151",
+            "price": 100,
+            "name": "ヒスイゾロアークV(",
+            "date": "2022-12-25",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38212",
+            "price": 80,
+            "name": "ヒスイゾロアークV1",
+            "date": "2022-12-25",
+            "stock": 398
+        },
+        {
             "market": "magi",
             "link": "/items/1555041000",
             "price": 250,
@@ -183,30 +199,6 @@
             "name": "ヒスイゾロアークV1",
             "date": "2022-12-18",
             "stock": 263
-        },
-        {
-            "market": "magi",
-            "link": "/items/1555041000",
-            "price": 250,
-            "name": "ヒスイゾロアークV ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26151",
-            "price": 100,
-            "name": "ヒスイゾロアークV(",
-            "date": "2022-12-17",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38212",
-            "price": 80,
-            "name": "ヒスイゾロアークV1",
-            "date": "2022-12-17",
-            "stock": 292
         }
     ]
 }

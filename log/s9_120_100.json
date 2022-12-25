@@ -5,6 +5,38 @@
             "link": "/items/12743448",
             "price": 2000,
             "name": "アルセウスVSTAR",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1933381834",
+            "price": 1300,
+            "name": "[最安値] アルセウ",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22354",
+            "price": 2000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24432",
+            "price": 1880,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-25",
+            "stock": 37
+        },
+        {
+            "market": "magi",
+            "link": "/items/12743448",
+            "price": 2000,
+            "name": "アルセウスVSTAR",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -194,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24459",
-            "price": 1780,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24432",
             "price": 1880,
             "name": "アルセウスVSTAR",
@@ -209,44 +233,12 @@
             "stock": 45
         },
         {
-            "market": "magi",
-            "link": "/items/12743448",
-            "price": 2000,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1856953139",
-            "price": 900,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22354",
-            "price": 2200,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24459",
             "price": 1780,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-17",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24432",
-            "price": 1880,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-17",
-            "stock": 45
+            "date": "2022-12-18",
+            "stock": 1
         }
     ]
 }
