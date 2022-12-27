@@ -2,10 +2,58 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1575536706",
+            "price": 10479,
+            "name": "〔状態A-〕マリィ【",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1697051418",
             "price": 10900,
             "name": "マリィ 140/S-",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21157",
+            "price": 14000,
+            "name": "【未開封プロモ】 マ",
+            "date": "2022-12-27",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17379",
+            "price": 11000,
+            "name": "マリィ(PROMO)",
+            "date": "2022-12-27",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17503",
+            "price": 12800,
+            "name": "マリィ140/S-P",
+            "date": "2022-12-27",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30922",
+            "price": 9980,
+            "name": "マリィ140/S-P",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30930",
+            "price": 11800,
+            "name": "マリィ140/S-P",
+            "date": "2022-12-27",
             "stock": 1
         },
         {
@@ -17,18 +65,26 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21157",
-            "price": 14000,
-            "name": "【未開封プロモ】 マ",
+            "market": "magi",
+            "link": "/items/1697051418",
+            "price": 10900,
+            "name": "マリィ 140/S-",
             "date": "2022-12-26",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17379",
             "price": 11000,
             "name": "マリィ(PROMO)",
+            "date": "2022-12-26",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21157",
+            "price": 14000,
+            "name": "【未開封プロモ】 マ",
             "date": "2022-12-26",
             "stock": 2
         },
@@ -58,14 +114,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1697051418",
-            "price": 10900,
-            "name": "マリィ 140/S-",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1575536706",
             "price": 10479,
             "name": "〔状態A-〕マリィ【",
@@ -73,18 +121,26 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17379",
-            "price": 11000,
-            "name": "マリィ(PROMO)",
+            "market": "magi",
+            "link": "/items/1697051418",
+            "price": 10900,
+            "name": "マリィ 140/S-",
             "date": "2022-12-25",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21157",
             "price": 14000,
             "name": "【未開封プロモ】 マ",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17379",
+            "price": 11000,
+            "name": "マリィ(PROMO)",
             "date": "2022-12-25",
             "stock": 2
         },
@@ -130,14 +186,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17379",
-            "price": 11000,
-            "name": "マリィ(PROMO)",
-            "date": "2022-12-24",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21157",
             "price": 14000,
             "name": "【未開封プロモ】 マ",
@@ -145,17 +193,25 @@
             "stock": 2
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17379",
+            "price": 11000,
+            "name": "マリィ(PROMO)",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30930",
-            "price": 11800,
+            "link": "https://www.cardrush-pokemon.jp/product/30922",
+            "price": 9980,
             "name": "マリィ140/S-P",
             "date": "2022-12-24",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30922",
-            "price": 9980,
+            "link": "https://www.cardrush-pokemon.jp/product/30930",
+            "price": 11800,
             "name": "マリィ140/S-P",
             "date": "2022-12-24",
             "stock": 1
@@ -194,11 +250,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30930",
-            "price": 11800,
+            "link": "https://www.cardrush-pokemon.jp/product/17503",
+            "price": 12800,
             "name": "マリィ140/S-P",
             "date": "2022-12-23",
-            "stock": 1
+            "stock": 14
         },
         {
             "market": "cardrush",
@@ -210,25 +266,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17503",
-            "price": 12800,
+            "link": "https://www.cardrush-pokemon.jp/product/30930",
+            "price": 11800,
             "name": "マリィ140/S-P",
             "date": "2022-12-23",
-            "stock": 14
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1575536706",
             "price": 9954,
             "name": "〔状態A-〕マリィ【",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1697051418",
-            "price": 10900,
-            "name": "マリィ 140/S-",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -241,6 +289,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1697051418",
+            "price": 10900,
+            "name": "マリィ 140/S-",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17379",
             "price": 10500,
@@ -250,16 +306,8 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17482",
-            "price": 10800,
-            "name": "マリィ140/S-P",
-            "date": "2022-12-22",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30930",
-            "price": 11800,
+            "link": "https://www.cardrush-pokemon.jp/product/30922",
+            "price": 9480,
             "name": "マリィ140/S-P",
             "date": "2022-12-22",
             "stock": 1
@@ -274,17 +322,25 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30922",
-            "price": 9480,
+            "link": "https://www.cardrush-pokemon.jp/product/30930",
+            "price": 11800,
             "name": "マリィ140/S-P",
             "date": "2022-12-22",
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17482",
+            "price": 10800,
+            "name": "マリィ140/S-P",
+            "date": "2022-12-22",
+            "stock": 20
+        },
+        {
             "market": "magi",
-            "link": "/items/1786914418",
-            "price": 11340,
-            "name": "マリィ【P】{140",
+            "link": "/items/1575536706",
+            "price": 9954,
+            "name": "〔状態A-〕マリィ【",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -298,9 +354,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1575536706",
-            "price": 9954,
-            "name": "〔状態A-〕マリィ【",
+            "link": "/items/1786914418",
+            "price": 11340,
+            "name": "マリィ【P】{140",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -314,6 +370,22 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17503",
+            "price": 12800,
+            "name": "マリィ140/S-P",
+            "date": "2022-12-21",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30922",
+            "price": 9480,
+            "name": "マリィ140/S-P",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30930",
             "price": 11800,
             "name": "マリィ140/S-P",
@@ -329,26 +401,10 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30922",
-            "price": 9480,
-            "name": "マリィ140/S-P",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17503",
-            "price": 12800,
-            "name": "マリィ140/S-P",
-            "date": "2022-12-21",
-            "stock": 12
-        },
-        {
             "market": "magi",
-            "link": "/items/1786914418",
-            "price": 11340,
-            "name": "マリィ【P】{140",
+            "link": "/items/1575536706",
+            "price": 9954,
+            "name": "〔状態A-〕マリィ【",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -362,9 +418,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1575536706",
-            "price": 9954,
-            "name": "〔状態A-〕マリィ【",
+            "link": "/items/1786914418",
+            "price": 11340,
+            "name": "マリィ【P】{140",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -378,16 +434,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17503",
-            "price": 12800,
+            "link": "https://www.cardrush-pokemon.jp/product/30922",
+            "price": 9480,
             "name": "マリィ140/S-P",
             "date": "2022-12-20",
-            "stock": 12
+            "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30922",
-            "price": 9480,
+            "link": "https://www.cardrush-pokemon.jp/product/30930",
+            "price": 11800,
             "name": "マリィ140/S-P",
             "date": "2022-12-20",
             "stock": 1
@@ -402,83 +458,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30930",
-            "price": 11800,
-            "name": "マリィ140/S-P",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1786914418",
-            "price": 11340,
-            "name": "マリィ【P】{140",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1697051418",
-            "price": 10900,
-            "name": "マリィ 140/S-",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1575536706",
-            "price": 9954,
-            "name": "〔状態A-〕マリィ【",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17379",
-            "price": 10500,
-            "name": "マリィ(PROMO)",
-            "date": "2022-12-19",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21157",
-            "price": 14000,
-            "name": "【未開封プロモ】 マ",
-            "date": "2022-12-19",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30930",
-            "price": 11800,
-            "name": "マリィ140/S-P",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17482",
-            "price": 10800,
-            "name": "マリィ140/S-P",
-            "date": "2022-12-19",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17503",
             "price": 12800,
             "name": "マリィ140/S-P",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30922",
-            "price": 9480,
-            "name": "マリィ140/S-P",
-            "date": "2022-12-19",
-            "stock": 1
         }
     ]
 }
