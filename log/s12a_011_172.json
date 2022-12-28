@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/26034",
             "price": 100,
             "name": "リーフィアV(RR)",
+            "date": "2022-12-28",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38444",
+            "price": 70,
+            "name": "リーフィアV011/",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38095",
+            "price": 80,
+            "name": "リーフィアV011/",
+            "date": "2022-12-28",
+            "stock": 429
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26034",
+            "price": 100,
+            "name": "リーフィアV(RR)",
             "date": "2022-12-27",
             "stock": 20
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38444",
-            "price": 70,
-            "name": "リーフィアV011/",
-            "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38095",
             "price": 80,
             "name": "リーフィアV011/",
             "date": "2022-12-25",
             "stock": 389
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38444",
+            "price": 70,
+            "name": "リーフィアV011/",
+            "date": "2022-12-25",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38095",
-            "price": 80,
-            "name": "リーフィアV011/",
-            "date": "2022-12-23",
-            "stock": 369
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38444",
             "price": 70,
             "name": "リーフィアV011/",
             "date": "2022-12-23",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38095",
+            "price": 80,
+            "name": "リーフィアV011/",
+            "date": "2022-12-23",
+            "stock": 369
         },
         {
             "market": "hareruya2",
@@ -127,14 +151,6 @@
             "name": "リーフィアV(RR)",
             "date": "2022-12-22",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38444",
-            "price": 70,
-            "name": "リーフィアV011/",
-            "date": "2022-12-22",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -145,20 +161,20 @@
             "stock": 342
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38444",
+            "price": 70,
+            "name": "リーフィアV011/",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26034",
             "price": 100,
             "name": "リーフィアV(RR)",
             "date": "2022-12-21",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38095",
-            "price": 80,
-            "name": "リーフィアV011/",
-            "date": "2022-12-21",
-            "stock": 316
         },
         {
             "market": "cardrush",
@@ -169,20 +185,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26034",
-            "price": 100,
-            "name": "リーフィアV(RR)",
-            "date": "2022-12-20",
-            "stock": 20
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38095",
             "price": 80,
             "name": "リーフィアV011/",
-            "date": "2022-12-20",
-            "stock": 303
+            "date": "2022-12-21",
+            "stock": 316
         }
     ]
 }

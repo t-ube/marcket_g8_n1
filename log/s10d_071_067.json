@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23081",
+            "price": 900,
+            "name": "ジラーチV(SR){",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34829",
+            "price": 680,
+            "name": "ジラーチV071/0",
+            "date": "2022-12-28",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34739",
+            "price": 780,
+            "name": "ジラーチV071/0",
+            "date": "2022-12-28",
+            "stock": 71
+        },
+        {
             "market": "magi",
             "link": "/items/673826720",
             "price": 1200,
@@ -50,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34829",
-            "price": 680,
-            "name": "ジラーチV071/0",
-            "date": "2022-12-26",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34739",
             "price": 780,
             "name": "ジラーチV071/0",
             "date": "2022-12-26",
             "stock": 69
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34829",
+            "price": 680,
+            "name": "ジラーチV071/0",
+            "date": "2022-12-26",
+            "stock": 18
         },
         {
             "market": "magi",
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34829",
-            "price": 680,
-            "name": "ジラーチV071/0",
-            "date": "2022-12-25",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34739",
             "price": 780,
             "name": "ジラーチV071/0",
             "date": "2022-12-25",
             "stock": 65
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34829",
+            "price": 680,
+            "name": "ジラーチV071/0",
+            "date": "2022-12-25",
+            "stock": 18
         },
         {
             "market": "magi",
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34739",
-            "price": 780,
-            "name": "ジラーチV071/0",
-            "date": "2022-12-23",
-            "stock": 70
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34829",
             "price": 680,
             "name": "ジラーチV071/0",
             "date": "2022-12-23",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34739",
+            "price": 780,
+            "name": "ジラーチV071/0",
+            "date": "2022-12-23",
+            "stock": 70
         },
         {
             "market": "magi",
@@ -162,19 +186,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34739",
-            "price": 780,
-            "name": "ジラーチV071/0",
-            "date": "2022-12-22",
-            "stock": 75
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34829",
             "price": 680,
             "name": "ジラーチV071/0",
             "date": "2022-12-22",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34739",
+            "price": 780,
+            "name": "ジラーチV071/0",
+            "date": "2022-12-22",
+            "stock": 75
         },
         {
             "market": "magi",
@@ -186,14 +210,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34739",
-            "price": 780,
-            "name": "ジラーチV071/0",
-            "date": "2022-12-21",
-            "stock": 76
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34829",
             "price": 680,
             "name": "ジラーチV071/0",
@@ -205,16 +221,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/34739",
             "price": 780,
             "name": "ジラーチV071/0",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 76
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34829",
-            "price": 680,
-            "name": "ジラーチV071/0",
-            "date": "2022-12-20",
-            "stock": 19
         }
     ]
 }
