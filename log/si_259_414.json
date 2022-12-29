@@ -3,6 +3,30 @@
         {
             "market": "magi",
             "link": "/items/1083412880",
+            "price": 227,
+            "name": "ガラルヤドキングVM",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21857",
+            "price": 150,
+            "name": "ガラルヤドキングVM",
+            "date": "2022-12-29",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23517",
+            "price": 120,
+            "name": "ガラルヤドキングVM",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1083412880",
             "price": 228,
             "name": "ガラルヤドキングVM",
             "date": "2022-12-28",
@@ -162,42 +186,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23517",
-            "price": 120,
-            "name": "ガラルヤドキングVM",
-            "date": "2022-12-22",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33208",
             "price": 110,
             "name": "ガラルヤドキングVM",
             "date": "2022-12-22",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1083412880",
-            "price": 230,
-            "name": "ガラルヤドキングVM",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21857",
-            "price": 150,
-            "name": "ガラルヤドキングVM",
-            "date": "2022-12-21",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33208",
-            "price": 110,
-            "name": "ガラルヤドキングVM",
-            "date": "2022-12-21",
             "stock": 3
         },
         {
@@ -205,8 +197,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/23517",
             "price": 120,
             "name": "ガラルヤドキングVM",
-            "date": "2022-12-21",
-            "stock": 5
+            "date": "2022-12-22",
+            "stock": 2
         }
     ]
 }

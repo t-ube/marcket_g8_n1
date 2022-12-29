@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/846303846",
+            "price": 3100,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/693610274",
+            "price": 2000,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/997233624",
             "price": 2555,
             "name": "ヒスイゾロアークVS",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1651664570",
+            "price": 2000,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23488",
+            "price": 3000,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35392",
+            "price": 2780,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-29",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35371",
+            "price": 2980,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-29",
+            "stock": 91
         },
         {
             "market": "magi",
@@ -18,8 +66,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/693610274",
-            "price": 2000,
+            "link": "/items/997233624",
+            "price": 2555,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-28",
             "stock": 1
@@ -27,6 +75,14 @@
         {
             "market": "magi",
             "link": "/items/1651664570",
+            "price": 2000,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/693610274",
             "price": 2000,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-28",
@@ -74,16 +130,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/846303846",
-            "price": 3100,
+            "link": "/items/693610274",
+            "price": 2000,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/693610274",
-            "price": 2000,
+            "link": "/items/846303846",
+            "price": 3100,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-27",
             "stock": 1
@@ -98,14 +154,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35392",
-            "price": 2780,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-27",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35371",
             "price": 2980,
             "name": "ヒスイゾロアークVS",
@@ -113,17 +161,17 @@
             "stock": 83
         },
         {
-            "market": "magi",
-            "link": "/items/1651664570",
-            "price": 2000,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35392",
+            "price": 2780,
             "name": "ヒスイゾロアークVS",
-            "date": "2022-12-26",
-            "stock": 1
+            "date": "2022-12-27",
+            "stock": 6
         },
         {
             "market": "magi",
-            "link": "/items/693610274",
-            "price": 2500,
+            "link": "/items/846303846",
+            "price": 3100,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-26",
             "stock": 1
@@ -138,8 +186,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/846303846",
-            "price": 3100,
+            "link": "/items/693610274",
+            "price": 2500,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1651664570",
+            "price": 2000,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-26",
             "stock": 1
@@ -186,16 +242,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/846303846",
-            "price": 3100,
+            "link": "/items/997233624",
+            "price": 2555,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/997233624",
-            "price": 2555,
+            "link": "/items/846303846",
+            "price": 3100,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-25",
             "stock": 1
@@ -210,6 +266,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35392",
+            "price": 2780,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-25",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35371",
             "price": 2980,
             "name": "ヒスイゾロアークVS",
@@ -217,12 +281,28 @@
             "stock": 73
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35392",
-            "price": 2780,
+            "market": "magi",
+            "link": "/items/997233624",
+            "price": 2555,
             "name": "ヒスイゾロアークVS",
-            "date": "2022-12-25",
-            "stock": 6
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/846303846",
+            "price": 3100,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/693610274",
+            "price": 2500,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-24",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -233,44 +313,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/693610274",
-            "price": 2500,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/846303846",
-            "price": 3100,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/997233624",
-            "price": 2555,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23488",
             "price": 3000,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-24",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35392",
-            "price": 2780,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-24",
-            "stock": 6
         },
         {
             "market": "cardrush",
@@ -281,6 +329,22 @@
             "stock": 73
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35392",
+            "price": 2780,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-24",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/693610274",
+            "price": 2500,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/997233624",
             "price": 2555,
@@ -292,14 +356,6 @@
             "market": "magi",
             "link": "/items/846303846",
             "price": 3100,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/693610274",
-            "price": 2500,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-23",
             "stock": 1
@@ -338,8 +394,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1651664570",
-            "price": 2200,
+            "link": "/items/997233624",
+            "price": 2555,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-22",
             "stock": 1
@@ -354,16 +410,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/997233624",
-            "price": 2555,
+            "link": "/items/693610274",
+            "price": 2500,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/693610274",
-            "price": 2500,
+            "link": "/items/1651664570",
+            "price": 2200,
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-22",
             "stock": 1
@@ -375,6 +431,14 @@
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-22",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35392",
+            "price": 2780,
+            "name": "ヒスイゾロアークVS",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -383,70 +447,6 @@
             "name": "ヒスイゾロアークVS",
             "date": "2022-12-22",
             "stock": 70
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35392",
-            "price": 2780,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/693610274",
-            "price": 2500,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/997233624",
-            "price": 2555,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651664570",
-            "price": 2200,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/846303846",
-            "price": 3100,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23488",
-            "price": 3000,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-21",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35371",
-            "price": 2980,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-21",
-            "stock": 65
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35392",
-            "price": 2780,
-            "name": "ヒスイゾロアークVS",
-            "date": "2022-12-21",
-            "stock": 1
         }
     ]
 }
