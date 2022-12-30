@@ -3,6 +3,30 @@
         {
             "market": "magi",
             "link": "/items/993614019",
+            "price": 511,
+            "name": "アルセウスV RR ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/456508319",
+            "price": 511,
+            "name": "アルセウスV RR ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38210",
+            "price": 220,
+            "name": "アルセウスV126/",
+            "date": "2022-12-30",
+            "stock": 109
+        },
+        {
+            "market": "magi",
+            "link": "/items/993614019",
             "price": 513,
             "name": "アルセウスV RR ",
             "date": "2022-12-29",
@@ -34,7 +58,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/993614019",
+            "link": "/items/456508319",
             "price": 515,
             "name": "アルセウスV RR ",
             "date": "2022-12-28",
@@ -42,7 +66,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/456508319",
+            "link": "/items/993614019",
             "price": 515,
             "name": "アルセウスV RR ",
             "date": "2022-12-28",
@@ -58,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38210",
-            "price": 220,
-            "name": "アルセウスV126/",
-            "date": "2022-12-28",
-            "stock": 127
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38484",
             "price": 200,
             "name": "アルセウスV126/",
@@ -73,8 +89,16 @@
             "stock": 2
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38210",
+            "price": 220,
+            "name": "アルセウスV126/",
+            "date": "2022-12-28",
+            "stock": 127
+        },
+        {
             "market": "magi",
-            "link": "/items/456508319",
+            "link": "/items/993614019",
             "price": 518,
             "name": "アルセウスV RR ",
             "date": "2022-12-27",
@@ -82,7 +106,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/993614019",
+            "link": "/items/456508319",
             "price": 518,
             "name": "アルセウスV RR ",
             "date": "2022-12-27",
@@ -106,7 +130,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/456508319",
+            "link": "/items/993614019",
             "price": 520,
             "name": "アルセウスV RR ",
             "date": "2022-12-26",
@@ -114,7 +138,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/993614019",
+            "link": "/items/456508319",
             "price": 520,
             "name": "アルセウスV RR ",
             "date": "2022-12-26",
@@ -138,8 +162,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/993614019",
-            "price": 522,
+            "link": "/items/1949366392",
+            "price": 150,
             "name": "アルセウスV RR ",
             "date": "2022-12-25",
             "stock": 1
@@ -154,8 +178,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1949366392",
-            "price": 150,
+            "link": "/items/993614019",
+            "price": 522,
             "name": "アルセウスV RR ",
             "date": "2022-12-25",
             "stock": 1
@@ -210,7 +234,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/456508319",
+            "link": "/items/993614019",
             "price": 527,
             "name": "アルセウスV RR ",
             "date": "2022-12-23",
@@ -218,7 +242,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/993614019",
+            "link": "/items/456508319",
             "price": 527,
             "name": "アルセウスV RR ",
             "date": "2022-12-23",
@@ -239,38 +263,6 @@
             "name": "アルセウスV126/",
             "date": "2022-12-23",
             "stock": 110
-        },
-        {
-            "market": "magi",
-            "link": "/items/456508319",
-            "price": 533,
-            "name": "アルセウスV RR ",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/993614019",
-            "price": 533,
-            "name": "アルセウスV RR ",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26149",
-            "price": 250,
-            "name": "アルセウスV(RR)",
-            "date": "2022-12-22",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38210",
-            "price": 220,
-            "name": "アルセウスV126/",
-            "date": "2022-12-22",
-            "stock": 69
         }
     ]
 }

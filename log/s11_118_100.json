@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/24313",
             "price": 800,
             "name": "プテラVSTAR(H",
+            "date": "2022-12-30",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36385",
+            "price": 780,
+            "name": "プテラVSTAR11",
+            "date": "2022-12-30",
+            "stock": 54
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24313",
+            "price": 800,
+            "name": "プテラVSTAR(H",
             "date": "2022-12-29",
             "stock": 5
         },
@@ -90,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36385",
-            "price": 780,
-            "name": "プテラVSTAR11",
-            "date": "2022-12-24",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36444",
             "price": 680,
             "name": "プテラVSTAR11",
             "date": "2022-12-24",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36385",
+            "price": 780,
+            "name": "プテラVSTAR11",
+            "date": "2022-12-24",
+            "stock": 46
         },
         {
             "market": "hareruya2",
@@ -114,14 +130,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36385",
-            "price": 780,
-            "name": "プテラVSTAR11",
-            "date": "2022-12-23",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36444",
             "price": 680,
             "name": "プテラVSTAR11",
@@ -129,27 +137,11 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24313",
-            "price": 800,
-            "name": "プテラVSTAR(H",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36444",
-            "price": 680,
-            "name": "プテラVSTAR11",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36385",
             "price": 780,
             "name": "プテラVSTAR11",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 46
         }
     ]
