@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17395",
             "price": 100,
             "name": "ポカブ(PROMO)",
+            "date": "2022-12-31",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19694",
+            "price": 80,
+            "name": "ポカブ159/S-P",
+            "date": "2022-12-31",
+            "stock": 150
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17395",
+            "price": 100,
+            "name": "ポカブ(PROMO)",
             "date": "2022-12-30",
             "stock": 15
         },
@@ -111,22 +127,6 @@
             "name": "ポカブ159/S-P",
             "date": "2022-12-24",
             "stock": 152
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17395",
-            "price": 100,
-            "name": "ポカブ(PROMO)",
-            "date": "2022-12-23",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19694",
-            "price": 80,
-            "name": "ポカブ159/S-P",
-            "date": "2022-12-23",
-            "stock": 153
         }
     ]
 }

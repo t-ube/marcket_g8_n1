@@ -2,11 +2,75 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/463447098",
+            "price": 100,
+            "name": "ラプラス R 023",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1356095923",
             "price": 100,
             "name": "ラプラス R 023",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/21181828",
+            "price": 200,
+            "name": "ラプラス R 023",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046424419",
+            "price": 110,
+            "name": "ラプラス R 023",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1225195786",
+            "price": 150,
+            "name": "ラプラス R 023",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/42566542",
+            "price": 150,
+            "name": "s10b ラプラス ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23751",
+            "price": 50,
+            "name": "ラプラス(R){水}",
+            "date": "2022-12-31",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35851",
+            "price": 70,
+            "name": "ラプラス023/07",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35749",
+            "price": 80,
+            "name": "ラプラス023/07",
+            "date": "2022-12-31",
+            "stock": 596
         },
         {
             "market": "magi",
@@ -18,16 +82,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/21181828",
-            "price": 200,
+            "link": "/items/1356095923",
+            "price": 100,
             "name": "ラプラス R 023",
             "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1046424419",
-            "price": 110,
+            "link": "/items/21181828",
+            "price": 200,
             "name": "ラプラス R 023",
             "date": "2022-12-30",
             "stock": 1
@@ -45,6 +109,14 @@
             "link": "/items/42566542",
             "price": 150,
             "name": "s10b ラプラス ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046424419",
+            "price": 110,
+            "name": "ラプラス R 023",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -74,16 +146,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/463447098",
-            "price": 100,
-            "name": "ラプラス R 023",
+            "link": "/items/42566542",
+            "price": 150,
+            "name": "s10b ラプラス ",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1225195786",
-            "price": 150,
+            "link": "/items/21181828",
+            "price": 200,
             "name": "ラプラス R 023",
             "date": "2022-12-29",
             "stock": 1
@@ -98,9 +170,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/42566542",
+            "link": "/items/1225195786",
             "price": 150,
-            "name": "s10b ラプラス ",
+            "name": "ラプラス R 023",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/463447098",
+            "price": 100,
+            "name": "ラプラス R 023",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -113,20 +193,20 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/21181828",
-            "price": 200,
-            "name": "ラプラス R 023",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23751",
             "price": 50,
             "name": "ラプラス(R){水}",
             "date": "2022-12-29",
             "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35851",
+            "price": 70,
+            "name": "ラプラス023/07",
+            "date": "2022-12-29",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -137,33 +217,17 @@
             "stock": 600
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35851",
-            "price": 70,
-            "name": "ラプラス023/07",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
             "market": "magi",
-            "link": "/items/1046424419",
-            "price": 110,
-            "name": "ラプラス R 023",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1225195786",
+            "link": "/items/42566542",
             "price": 150,
-            "name": "ラプラス R 023",
+            "name": "s10b ラプラス ",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/21181828",
-            "price": 200,
+            "link": "/items/463447098",
+            "price": 100,
             "name": "ラプラス R 023",
             "date": "2022-12-28",
             "stock": 1
@@ -178,17 +242,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/463447098",
-            "price": 100,
+            "link": "/items/1225195786",
+            "price": 150,
             "name": "ラプラス R 023",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/42566542",
-            "price": 150,
-            "name": "s10b ラプラス ",
+            "link": "/items/1046424419",
+            "price": 110,
+            "name": "ラプラス R 023",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/21181828",
+            "price": 200,
+            "name": "ラプラス R 023",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -218,6 +290,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/42566542",
+            "price": 150,
+            "name": "s10b ラプラス ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1356095923",
             "price": 100,
             "name": "ラプラス R 023",
@@ -226,8 +306,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/21181828",
-            "price": 200,
+            "link": "/items/1225195786",
+            "price": 150,
             "name": "ラプラス R 023",
             "date": "2022-12-27",
             "stock": 1
@@ -250,17 +330,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1225195786",
-            "price": 150,
+            "link": "/items/21181828",
+            "price": 200,
             "name": "ラプラス R 023",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/42566542",
-            "price": 150,
-            "name": "s10b ラプラス ",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -271,14 +343,6 @@
             "name": "ラプラス(R){水}",
             "date": "2022-12-27",
             "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35851",
-            "price": 70,
-            "name": "ラプラス023/07",
-            "date": "2022-12-27",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -289,33 +353,17 @@
             "stock": 600
         },
         {
-            "market": "magi",
-            "link": "/items/42566542",
-            "price": 150,
-            "name": "s10b ラプラス ",
-            "date": "2022-12-26",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35851",
+            "price": 70,
+            "name": "ラプラス023/07",
+            "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1356095923",
-            "price": 100,
-            "name": "ラプラス R 023",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1225195786",
-            "price": 150,
-            "name": "ラプラス R 023",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046424419",
-            "price": 110,
+            "link": "/items/21181828",
+            "price": 200,
             "name": "ラプラス R 023",
             "date": "2022-12-26",
             "stock": 1
@@ -330,9 +378,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/21181828",
-            "price": 200,
+            "link": "/items/1046424419",
+            "price": 110,
             "name": "ラプラス R 023",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1225195786",
+            "price": 150,
+            "name": "ラプラス R 023",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1356095923",
+            "price": 100,
+            "name": "ラプラス R 023",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/42566542",
+            "price": 150,
+            "name": "s10b ラプラス ",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -343,14 +415,6 @@
             "name": "ラプラス(R){水}",
             "date": "2022-12-26",
             "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35851",
-            "price": 70,
-            "name": "ラプラス023/07",
-            "date": "2022-12-26",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -361,6 +425,22 @@
             "stock": 601
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35851",
+            "price": 70,
+            "name": "ラプラス023/07",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/463447098",
+            "price": 100,
+            "name": "ラプラス R 023",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1225195786",
             "price": 150,
@@ -372,14 +452,6 @@
             "market": "magi",
             "link": "/items/1046424419",
             "price": 110,
-            "name": "ラプラス R 023",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/463447098",
-            "price": 100,
             "name": "ラプラス R 023",
             "date": "2022-12-25",
             "stock": 1
@@ -434,30 +506,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/42566542",
-            "price": 150,
-            "name": "s10b ラプラス ",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/463447098",
-            "price": 100,
-            "name": "ラプラス R 023",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/21181828",
-            "price": 200,
-            "name": "ラプラス R 023",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1046424419",
             "price": 110,
             "name": "ラプラス R 023",
@@ -466,7 +514,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1356095923",
+            "link": "/items/463447098",
             "price": 100,
             "name": "ラプラス R 023",
             "date": "2022-12-24",
@@ -481,35 +529,11 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23751",
-            "price": 50,
-            "name": "ラプラス(R){水}",
-            "date": "2022-12-24",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35749",
-            "price": 80,
-            "name": "ラプラス023/07",
-            "date": "2022-12-24",
-            "stock": 601
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35851",
-            "price": 70,
-            "name": "ラプラス023/07",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/1356095923",
             "price": 100,
             "name": "ラプラス R 023",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 1
         },
         {
@@ -517,31 +541,7 @@
             "link": "/items/42566542",
             "price": 150,
             "name": "s10b ラプラス ",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1225195786",
-            "price": 150,
-            "name": "ラプラス R 023",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/463447098",
-            "price": 100,
-            "name": "ラプラス R 023",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046424419",
-            "price": 110,
-            "name": "ラプラス R 023",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 1
         },
         {
@@ -549,7 +549,7 @@
             "link": "/items/21181828",
             "price": 200,
             "name": "ラプラス R 023",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 1
         },
         {
@@ -557,7 +557,7 @@
             "link": "https://www.hareruya2.com/product/23751",
             "price": 50,
             "name": "ラプラス(R){水}",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 36
         },
         {
@@ -565,7 +565,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/35851",
             "price": 70,
             "name": "ラプラス023/07",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 1
         },
         {
@@ -573,7 +573,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/35749",
             "price": 80,
             "name": "ラプラス023/07",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 601
         }
     ]

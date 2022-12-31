@@ -5,6 +5,30 @@
             "link": "/items/1070904361",
             "price": 200,
             "name": "プレゼント付き　レジ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26147",
+            "price": 100,
+            "name": "レジギガスV(RR)",
+            "date": "2022-12-31",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38208",
+            "price": 80,
+            "name": "レジギガスV124/",
+            "date": "2022-12-31",
+            "stock": 488
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070904361",
+            "price": 200,
+            "name": "プレゼント付き　レジ",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -162,17 +186,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/969364516",
-            "price": 100,
-            "name": "レジギガスV RR ",
+            "link": "/items/1070904361",
+            "price": 250,
+            "name": "プレゼント付き　レジ",
             "date": "2022-12-24",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1070904361",
-            "price": 250,
-            "name": "プレゼント付き　レジ",
+            "link": "/items/969364516",
+            "price": 100,
+            "name": "レジギガスV RR ",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -191,46 +215,6 @@
             "name": "レジギガスV124/",
             "date": "2022-12-24",
             "stock": 405
-        },
-        {
-            "market": "magi",
-            "link": "/items/969364516",
-            "price": 100,
-            "name": "レジギガスV RR ",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1484413045",
-            "price": 110,
-            "name": "レジギガスV RR ",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070904361",
-            "price": 250,
-            "name": "プレゼント付き　レジ",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26147",
-            "price": 100,
-            "name": "レジギガスV(RR)",
-            "date": "2022-12-23",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38208",
-            "price": 80,
-            "name": "レジギガスV124/",
-            "date": "2022-12-23",
-            "stock": 397
         }
     ]
 }

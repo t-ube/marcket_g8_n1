@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25216",
+            "price": 1200,
+            "name": "アローラロコンVST",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37026",
+            "price": 1180,
+            "name": "アローラロコンVST",
+            "date": "2022-12-31",
+            "stock": 71
+        },
+        {
             "market": "magi",
             "link": "/items/1714573424",
             "price": 950,
@@ -167,30 +183,6 @@
             "name": "アローラロコンVST",
             "date": "2022-12-24",
             "stock": 57
-        },
-        {
-            "market": "magi",
-            "link": "/items/1714573424",
-            "price": 950,
-            "name": "アローラロコンVST",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25216",
-            "price": 1200,
-            "name": "アローラロコンVST",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37026",
-            "price": 1180,
-            "name": "アローラロコンVST",
-            "date": "2022-12-23",
-            "stock": 63
         }
     ]
 }

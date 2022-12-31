@@ -2,11 +2,43 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/438055890",
-            "price": 2200,
+            "link": "/items/814377452",
+            "price": 3200,
             "name": "セキ SAR 240",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2060643636",
+            "price": 3243,
+            "name": "セキ SAR 240",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/922741914",
+            "price": 3100,
+            "name": "セキ SAR 240",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26379",
+            "price": 3500,
+            "name": "セキ(SAR){サポ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38420",
+            "price": 2780,
+            "name": "セキ240/172",
+            "date": "2022-12-31",
+            "stock": 78
         },
         {
             "market": "magi",
@@ -18,8 +50,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2060643636",
-            "price": 3243,
+            "link": "/items/438055890",
+            "price": 2200,
             "name": "セキ SAR 240",
             "date": "2022-12-30",
             "stock": 1
@@ -28,6 +60,14 @@
             "market": "magi",
             "link": "/items/922741914",
             "price": 3100,
+            "name": "セキ SAR 240",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2060643636",
+            "price": 3243,
             "name": "セキ SAR 240",
             "date": "2022-12-30",
             "stock": 1
@@ -50,7 +90,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/814377452",
+            "link": "/items/2060643636",
+            "price": 3400,
+            "name": "セキ SAR 240",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/922741914",
+            "price": 3100,
+            "name": "セキ SAR 240",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1849897852",
             "price": 3200,
             "name": "セキ SAR 240",
             "date": "2022-12-29",
@@ -66,24 +122,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1849897852",
+            "link": "/items/814377452",
             "price": 3200,
-            "name": "セキ SAR 240",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/922741914",
-            "price": 3100,
-            "name": "セキ SAR 240",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2060643636",
-            "price": 3400,
             "name": "セキ SAR 240",
             "date": "2022-12-29",
             "stock": 1
@@ -98,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38420",
-            "price": 2980,
-            "name": "セキ240/172",
-            "date": "2022-12-29",
-            "stock": 72
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38687",
             "price": 2780,
             "name": "セキ240/172",
@@ -113,10 +145,18 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38420",
+            "price": 2980,
+            "name": "セキ240/172",
+            "date": "2022-12-29",
+            "stock": 72
+        },
+        {
             "market": "magi",
-            "link": "/items/811577387",
-            "price": 3339,
-            "name": "セキ【SAR】{24",
+            "link": "/items/1223484564",
+            "price": 2000,
+            "name": "セキ SAR 240",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -130,9 +170,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2062298720",
-            "price": 3000,
-            "name": "セキ SAR 240",
+            "link": "/items/811577387",
+            "price": 3339,
+            "name": "セキ【SAR】{24",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -146,16 +186,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1223484564",
-            "price": 2000,
+            "link": "/items/922741914",
+            "price": 3100,
             "name": "セキ SAR 240",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/922741914",
-            "price": 3100,
+            "link": "/items/2062298720",
+            "price": 3000,
             "name": "セキ SAR 240",
             "date": "2022-12-28",
             "stock": 1
@@ -178,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38687",
-            "price": 2780,
-            "name": "セキ240/172",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38420",
             "price": 3180,
             "name": "セキ240/172",
@@ -193,32 +225,16 @@
             "stock": 69
         },
         {
-            "market": "magi",
-            "link": "/items/2060643636",
-            "price": 3400,
-            "name": "セキ SAR 240",
-            "date": "2022-12-27",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38687",
+            "price": 2780,
+            "name": "セキ240/172",
+            "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1059254312",
-            "price": 3339,
-            "name": "セキ【SAR】{24",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1223484564",
-            "price": 2000,
-            "name": "セキ SAR 240",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1849897852",
+            "link": "/items/814377452",
             "price": 3200,
             "name": "セキ SAR 240",
             "date": "2022-12-27",
@@ -234,8 +250,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/814377452",
+            "link": "/items/1849897852",
             "price": 3200,
+            "name": "セキ SAR 240",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223484564",
+            "price": 2000,
+            "name": "セキ SAR 240",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1059254312",
+            "price": 3339,
+            "name": "セキ【SAR】{24",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2060643636",
+            "price": 3400,
             "name": "セキ SAR 240",
             "date": "2022-12-27",
             "stock": 1
@@ -255,6 +295,14 @@
             "name": "セキ240/172",
             "date": "2022-12-27",
             "stock": 54
+        },
+        {
+            "market": "magi",
+            "link": "/items/2060643636",
+            "price": 3400,
+            "name": "セキ SAR 240",
+            "date": "2022-12-26",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -282,14 +330,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2060643636",
-            "price": 3400,
-            "name": "セキ SAR 240",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1223484564",
             "price": 2400,
             "name": "セキ SAR 240",
@@ -311,6 +351,14 @@
             "name": "セキ240/172",
             "date": "2022-12-26",
             "stock": 31
+        },
+        {
+            "market": "magi",
+            "link": "/items/922741914",
+            "price": 3100,
+            "name": "セキ SAR 240",
+            "date": "2022-12-25",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -345,14 +393,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/922741914",
-            "price": 3100,
-            "name": "セキ SAR 240",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26379",
             "price": 3500,
@@ -370,16 +410,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1849897852",
-            "price": 3300,
+            "link": "/items/1223484564",
+            "price": 3400,
             "name": "セキ SAR 240",
             "date": "2022-12-24",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1223484564",
-            "price": 3400,
+            "link": "/items/922741914",
+            "price": 3100,
             "name": "セキ SAR 240",
             "date": "2022-12-24",
             "stock": 1
@@ -394,8 +434,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/922741914",
-            "price": 3100,
+            "link": "/items/1849897852",
+            "price": 3300,
             "name": "セキ SAR 240",
             "date": "2022-12-24",
             "stock": 1
@@ -415,54 +455,6 @@
             "name": "セキ240/172",
             "date": "2022-12-24",
             "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1223484564",
-            "price": 3400,
-            "name": "セキ SAR 240",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/922741914",
-            "price": 3100,
-            "name": "セキ SAR 240",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1849897852",
-            "price": 3300,
-            "name": "セキ SAR 240",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1315539321",
-            "price": 3549,
-            "name": "セキ【SAR】{24",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26379",
-            "price": 3500,
-            "name": "セキ(SAR){サポ",
-            "date": "2022-12-23",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38420",
-            "price": 3380,
-            "name": "セキ240/172",
-            "date": "2022-12-23",
-            "stock": 24
         }
     ]
 }
