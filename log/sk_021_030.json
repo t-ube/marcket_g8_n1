@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1120504956",
+            "price": 66,
+            "name": "ふうせん 145/1",
+            "date": "2023-01-01",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g021-030-SK-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇ふう",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g021-030-SK-B/",
             "price": 110,
@@ -62,14 +78,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ◇ふう",
             "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g021-030-SK-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇ふう",
-            "date": "2022-12-24",
             "stock": 2
         }
     ]

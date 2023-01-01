@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/21490",
             "price": 200,
             "name": "グレイシアVMAX:",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33099",
+            "price": 200,
+            "name": "グレイシアVMAX1",
+            "date": "2023-01-01",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23320",
+            "price": 220,
+            "name": "グレイシアVMAX1",
+            "date": "2023-01-01",
+            "stock": 32
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21490",
+            "price": 200,
+            "name": "グレイシアVMAX:",
             "date": "2022-12-31",
             "stock": 4
         },
@@ -58,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33099",
-            "price": 200,
-            "name": "グレイシアVMAX1",
-            "date": "2022-12-29",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23320",
             "price": 220,
             "name": "グレイシアVMAX1",
@@ -73,6 +89,14 @@
             "stock": 31
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33099",
+            "price": 200,
+            "name": "グレイシアVMAX1",
+            "date": "2022-12-29",
+            "stock": 3
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21490",
             "price": 200,
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23320",
-            "price": 220,
-            "name": "グレイシアVMAX1",
-            "date": "2022-12-26",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33099",
             "price": 200,
             "name": "グレイシアVMAX1",
             "date": "2022-12-26",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23320",
+            "price": 220,
+            "name": "グレイシアVMAX1",
+            "date": "2022-12-26",
+            "stock": 31
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33099",
-            "price": 200,
-            "name": "グレイシアVMAX1",
-            "date": "2022-12-25",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23320",
             "price": 220,
             "name": "グレイシアVMAX1",
@@ -169,27 +185,11 @@
             "stock": 31
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21490",
-            "price": 200,
-            "name": "グレイシアVMAX:",
-            "date": "2022-12-24",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23320",
-            "price": 220,
-            "name": "グレイシアVMAX1",
-            "date": "2022-12-24",
-            "stock": 31
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33099",
             "price": 200,
             "name": "グレイシアVMAX1",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 3
         }
     ]

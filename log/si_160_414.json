@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33150",
+            "price": 70,
+            "name": "パッチラゴンV160",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23396",
+            "price": 80,
+            "name": "パッチラゴンV160",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21764",
             "price": 100,
@@ -34,19 +50,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33150",
-            "price": 70,
-            "name": "パッチラゴンV160",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23396",
             "price": 80,
             "name": "パッチラゴンV160",
             "date": "2022-12-30",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33150",
+            "price": 70,
+            "name": "パッチラゴンV160",
+            "date": "2022-12-30",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -126,22 +142,6 @@
             "price": 70,
             "name": "パッチラゴンV160",
             "date": "2022-12-25",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21764",
-            "price": 100,
-            "name": "パッチラゴンV(D)",
-            "date": "2022-12-24",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33150",
-            "price": 70,
-            "name": "パッチラゴンV160",
-            "date": "2022-12-24",
             "stock": 4
         }
     ]

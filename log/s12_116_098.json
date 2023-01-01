@@ -5,6 +5,30 @@
             "link": "/items/1397822745",
             "price": 800,
             "name": "アンノーンVSTAR",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37672",
+            "price": 730,
+            "name": "アンノーンVSTAR",
+            "date": "2023-01-01",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37618",
+            "price": 780,
+            "name": "アンノーンVSTAR",
+            "date": "2023-01-01",
+            "stock": 68
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397822745",
+            "price": 800,
+            "name": "アンノーンVSTAR",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37672",
-            "price": 730,
-            "name": "アンノーンVSTAR",
-            "date": "2022-12-27",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37618",
             "price": 780,
             "name": "アンノーンVSTAR",
             "date": "2022-12-27",
             "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37672",
+            "price": 730,
+            "name": "アンノーンVSTAR",
+            "date": "2022-12-27",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37618",
-            "price": 780,
-            "name": "アンノーンVSTAR",
-            "date": "2022-12-26",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37672",
             "price": 730,
             "name": "アンノーンVSTAR",
             "date": "2022-12-26",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37618",
+            "price": 780,
+            "name": "アンノーンVSTAR",
+            "date": "2022-12-26",
+            "stock": 54
         },
         {
             "market": "magi",
@@ -167,14 +191,6 @@
             "name": "アンノーンVSTAR",
             "date": "2022-12-25",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37618",
-            "price": 780,
-            "name": "アンノーンVSTAR",
-            "date": "2022-12-25",
-            "stock": 53
         },
         {
             "market": "cardrush",
@@ -185,36 +201,12 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/1397822745",
-            "price": 800,
-            "name": "アンノーンVSTAR",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25611",
-            "price": 1200,
-            "name": "アンノーンVSTAR",
-            "date": "2022-12-24",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37618",
             "price": 780,
             "name": "アンノーンVSTAR",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 53
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37672",
-            "price": 730,
-            "name": "アンノーンVSTAR",
-            "date": "2022-12-24",
-            "stock": 2
         }
     ]
 }

@@ -5,6 +5,22 @@
             "link": "/items/776663773",
             "price": 150,
             "name": "しんかのおこう 01",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22284",
+            "price": 150,
+            "name": "しんかのおこう(D)",
+            "date": "2023-01-01",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/776663773",
+            "price": 150,
+            "name": "しんかのおこう 01",
             "date": "2022-12-31",
             "stock": 2
         },
@@ -78,14 +94,6 @@
             "price": 150,
             "name": "しんかのおこう 01",
             "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/776663773",
-            "price": 150,
-            "name": "しんかのおこう 01",
-            "date": "2022-12-24",
             "stock": 2
         }
     ]

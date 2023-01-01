@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1833014975",
+            "price": 1200,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/259594584",
             "price": 999,
             "name": "【美品】ハマナのバッ",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 1
         },
         {
@@ -13,6 +21,46 @@
             "link": "/items/243724962",
             "price": 1800,
             "name": "ハマナのバックアップ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24428",
+            "price": 1280,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-01",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24455",
+            "price": 1090,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24482",
+            "price": 880,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-01",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g116-100-S9-B/",
+            "price": 1540,
+            "name": "【ポケカ】ＳＲ◇ハマ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/259594584",
+            "price": 999,
+            "name": "【美品】ハマナのバッ",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -25,12 +73,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24428",
-            "price": 1280,
+            "market": "magi",
+            "link": "/items/243724962",
+            "price": 1800,
             "name": "ハマナのバックアップ",
             "date": "2022-12-31",
-            "stock": 50
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -49,6 +97,14 @@
             "stock": 8
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24428",
+            "price": 1280,
+            "name": "ハマナのバックアップ",
+            "date": "2022-12-31",
+            "stock": 50
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g116-100-S9-B/",
             "price": 1540,
@@ -74,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24428",
-            "price": 1280,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-30",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24455",
             "price": 1090,
             "name": "ハマナのバックアップ",
             "date": "2022-12-30",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24428",
+            "price": 1280,
+            "name": "ハマナのバックアップ",
+            "date": "2022-12-30",
+            "stock": 46
         },
         {
             "market": "cardrush",
@@ -122,11 +178,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24428",
-            "price": 1280,
+            "link": "https://www.cardrush-pokemon.jp/product/24455",
+            "price": 1090,
             "name": "ハマナのバックアップ",
             "date": "2022-12-29",
-            "stock": 48
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -138,11 +194,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24455",
-            "price": 1090,
+            "link": "https://www.cardrush-pokemon.jp/product/24428",
+            "price": 1280,
             "name": "ハマナのバックアップ",
             "date": "2022-12-29",
-            "stock": 8
+            "stock": 48
         },
         {
             "market": "magi",
@@ -159,14 +215,6 @@
             "name": "ハマナのバックアップ",
             "date": "2022-12-28",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24482",
-            "price": 880,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-28",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -185,6 +233,14 @@
             "stock": 8
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24482",
+            "price": 880,
+            "name": "ハマナのバックアップ",
+            "date": "2022-12-28",
+            "stock": 8
+        },
+        {
             "market": "magi",
             "link": "/items/243724962",
             "price": 1800,
@@ -210,11 +266,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24428",
-            "price": 1280,
+            "link": "https://www.cardrush-pokemon.jp/product/24482",
+            "price": 880,
             "name": "ハマナのバックアップ",
             "date": "2022-12-27",
-            "stock": 23
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -226,25 +282,25 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24482",
-            "price": 880,
+            "link": "https://www.cardrush-pokemon.jp/product/24428",
+            "price": 1280,
             "name": "ハマナのバックアップ",
             "date": "2022-12-27",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/259594584",
-            "price": 999,
-            "name": "【美品】ハマナのバッ",
-            "date": "2022-12-26",
-            "stock": 1
+            "stock": 23
         },
         {
             "market": "magi",
             "link": "/items/243724962",
             "price": 1800,
             "name": "ハマナのバックアップ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/259594584",
+            "price": 999,
+            "name": "【美品】ハマナのバッ",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -260,14 +316,6 @@
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24482",
             "price": 880,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-26",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24455",
-            "price": 1090,
             "name": "ハマナのバックアップ",
             "date": "2022-12-26",
             "stock": 8
@@ -281,12 +329,12 @@
             "stock": 23
         },
         {
-            "market": "magi",
-            "link": "/items/259594584",
-            "price": 999,
-            "name": "【美品】ハマナのバッ",
-            "date": "2022-12-25",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24455",
+            "price": 1090,
+            "name": "ハマナのバックアップ",
+            "date": "2022-12-26",
+            "stock": 8
         },
         {
             "market": "magi",
@@ -297,12 +345,36 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/259594584",
+            "price": 999,
+            "name": "【美品】ハマナのバッ",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22350",
             "price": 1300,
             "name": "ハマナのバックアップ",
             "date": "2022-12-25",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24428",
+            "price": 1280,
+            "name": "ハマナのバックアップ",
+            "date": "2022-12-25",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24482",
+            "price": 880,
+            "name": "ハマナのバックアップ",
+            "date": "2022-12-25",
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -311,70 +383,6 @@
             "name": "ハマナのバックアップ",
             "date": "2022-12-25",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24482",
-            "price": 880,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-25",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24428",
-            "price": 1280,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-25",
-            "stock": 23
-        },
-        {
-            "market": "magi",
-            "link": "/items/259594584",
-            "price": 999,
-            "name": "【美品】ハマナのバッ",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/243724962",
-            "price": 1800,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22350",
-            "price": 1300,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-24",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24428",
-            "price": 1280,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-24",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24455",
-            "price": 1090,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-24",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24482",
-            "price": 880,
-            "name": "ハマナのバックアップ",
-            "date": "2022-12-24",
-            "stock": 8
         }
     ]
 }

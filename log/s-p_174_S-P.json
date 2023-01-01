@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17242",
             "price": 1500,
             "name": "サダイジャV(PRO",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31897",
+            "price": 1230,
+            "name": "サダイジャV174/",
+            "date": "2023-01-01",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20164",
+            "price": 1480,
+            "name": "サダイジャV174/",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17242",
+            "price": 1500,
+            "name": "サダイジャV(PRO",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31897",
-            "price": 1230,
-            "name": "サダイジャV174/",
-            "date": "2022-12-29",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20164",
             "price": 1480,
             "name": "サダイジャV174/",
             "date": "2022-12-29",
             "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31897",
+            "price": 1230,
+            "name": "サダイジャV174/",
+            "date": "2022-12-29",
+            "stock": 6
         },
         {
             "market": "hareruya2",
@@ -79,6 +103,14 @@
             "name": "サダイジャV(PRO",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31897",
+            "price": 1230,
+            "name": "サダイジャV174/",
+            "date": "2022-12-28",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -89,28 +121,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31897",
-            "price": 1230,
-            "name": "サダイジャV174/",
-            "date": "2022-12-28",
-            "stock": 6
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17242",
             "price": 1500,
             "name": "サダイジャV(PRO",
             "date": "2022-12-27",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31897",
-            "price": 1230,
-            "name": "サダイジャV174/",
-            "date": "2022-12-27",
-            "stock": 6
         },
         {
             "market": "cardrush",
@@ -121,12 +137,28 @@
             "stock": 17
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31897",
+            "price": 1230,
+            "name": "サダイジャV174/",
+            "date": "2022-12-27",
+            "stock": 6
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17242",
             "price": 1500,
             "name": "サダイジャV(PRO",
             "date": "2022-12-26",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31897",
+            "price": 1230,
+            "name": "サダイジャV174/",
+            "date": "2022-12-26",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 16
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31897",
-            "price": 1230,
-            "name": "サダイジャV174/",
-            "date": "2022-12-26",
-            "stock": 6
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17242",
             "price": 1500,
             "name": "サダイジャV(PRO",
             "date": "2022-12-25",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31897",
-            "price": 1230,
-            "name": "サダイジャV174/",
-            "date": "2022-12-25",
-            "stock": 6
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 14
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17242",
-            "price": 1500,
-            "name": "サダイジャV(PRO",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20164",
-            "price": 1480,
-            "name": "サダイジャV174/",
-            "date": "2022-12-24",
-            "stock": 14
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31897",
             "price": 1230,
             "name": "サダイジャV174/",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 6
         }
     ]

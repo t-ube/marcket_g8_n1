@@ -5,6 +5,62 @@
             "link": "/items/761893904",
             "price": 2800,
             "name": "ミュウツーVSTAR",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683055120",
+            "price": 1750,
+            "name": "ミュウツーVSTAR",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/147585919",
+            "price": 2000,
+            "name": "ミュウツーVSTAR",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23905",
+            "price": 2500,
+            "name": "ミュウツーVSTAR",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35968",
+            "price": 1780,
+            "name": "ミュウツーVSTAR",
+            "date": "2023-01-01",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35892",
+            "price": 2250,
+            "name": "ミュウツーVSTAR",
+            "date": "2023-01-01",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35812",
+            "price": 2380,
+            "name": "ミュウツーVSTAR",
+            "date": "2023-01-01",
+            "stock": 105
+        },
+        {
+            "market": "magi",
+            "link": "/items/761893904",
+            "price": 2800,
+            "name": "ミュウツーVSTAR",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -58,8 +114,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/761893904",
-            "price": 2800,
+            "link": "/items/147585919",
+            "price": 2000,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-30",
             "stock": 1
@@ -74,8 +130,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/147585919",
-            "price": 2000,
+            "link": "/items/761893904",
+            "price": 2800,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-30",
             "stock": 1
@@ -90,11 +146,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35968",
-            "price": 1780,
+            "link": "https://www.cardrush-pokemon.jp/product/35812",
+            "price": 2380,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-30",
-            "stock": 3
+            "stock": 105
         },
         {
             "market": "cardrush",
@@ -106,24 +162,24 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35812",
-            "price": 2380,
+            "link": "https://www.cardrush-pokemon.jp/product/35968",
+            "price": 1780,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-30",
-            "stock": 105
+            "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/683055120",
-            "price": 1750,
+            "link": "/items/147585919",
+            "price": 2000,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/147585919",
-            "price": 2000,
+            "link": "/items/683055120",
+            "price": 1750,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-29",
             "stock": 1
@@ -146,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35812",
-            "price": 2380,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-29",
-            "stock": 105
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35892",
             "price": 2250,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-29",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35812",
+            "price": 2380,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-29",
+            "stock": 105
         },
         {
             "market": "cardrush",
@@ -170,8 +226,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/147585919",
-            "price": 2000,
+            "link": "/items/683055120",
+            "price": 1750,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-28",
             "stock": 1
@@ -186,11 +242,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/683055120",
-            "price": 1750,
+            "link": "/items/147585919",
+            "price": 2000,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35968",
+            "price": 1780,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-28",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35892",
+            "price": 2250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-28",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -201,25 +273,9 @@
             "stock": 99
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35892",
-            "price": 2250,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35968",
-            "price": 1780,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-28",
-            "stock": 3
-        },
-        {
             "market": "magi",
-            "link": "/items/147585919",
-            "price": 2000,
+            "link": "/items/683055120",
+            "price": 1750,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-27",
             "stock": 1
@@ -234,19 +290,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/683055120",
-            "price": 1750,
+            "link": "/items/147585919",
+            "price": 2000,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-27",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35892",
-            "price": 2250,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-27",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -255,6 +303,14 @@
             "name": "ミュウツーVSTAR",
             "date": "2022-12-27",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35892",
+            "price": 2250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-27",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -314,16 +370,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/761893904",
-            "price": 2800,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/683055120",
-            "price": 1750,
+            "link": "/items/147585919",
+            "price": 2000,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-25",
             "stock": 1
@@ -338,8 +386,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/147585919",
-            "price": 2000,
+            "link": "/items/761893904",
+            "price": 2800,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683055120",
+            "price": 1750,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-25",
             "stock": 1
@@ -366,62 +422,6 @@
             "price": 2250,
             "name": "ミュウツーVSTAR",
             "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/683055120",
-            "price": 1750,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/229524790",
-            "price": 2880,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/147585919",
-            "price": 2000,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/761893904",
-            "price": 2800,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35812",
-            "price": 2380,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-24",
-            "stock": 89
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35968",
-            "price": 1780,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-24",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35892",
-            "price": 2250,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-24",
             "stock": 1
         }
     ]

@@ -5,6 +5,46 @@
             "link": "/items/86540",
             "price": 2000,
             "name": "タイサイ HR 08",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1876690557",
+            "price": 555,
+            "name": "タイサイ HR 08",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34774",
+            "price": 780,
+            "name": "タイサイ085/06",
+            "date": "2023-01-01",
+            "stock": 85
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34864",
+            "price": 680,
+            "name": "タイサイ085/06",
+            "date": "2023-01-01",
+            "stock": 20
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g085-067-S10P-B/",
+            "price": 550,
+            "name": "【ポケカ】ＨＲ◇タイ",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/86540",
+            "price": 2000,
+            "name": "タイサイ HR 08",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -66,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34774",
-            "price": 780,
-            "name": "タイサイ085/06",
-            "date": "2022-12-30",
-            "stock": 94
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34864",
             "price": 680,
             "name": "タイサイ085/06",
             "date": "2022-12-30",
             "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34774",
+            "price": 780,
+            "name": "タイサイ085/06",
+            "date": "2022-12-30",
+            "stock": 94
         },
         {
             "market": "torecolo",
@@ -90,16 +130,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1876690557",
-            "price": 555,
+            "link": "/items/86540",
+            "price": 2000,
             "name": "タイサイ HR 08",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/86540",
-            "price": 2000,
+            "link": "/items/1876690557",
+            "price": 555,
             "name": "タイサイ HR 08",
             "date": "2022-12-29",
             "stock": 1
@@ -111,14 +151,6 @@
             "name": "タイサイ(HR){サ",
             "date": "2022-12-29",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34864",
-            "price": 680,
-            "name": "タイサイ085/06",
-            "date": "2022-12-29",
-            "stock": 20
         },
         {
             "market": "cardrush",
@@ -129,6 +161,14 @@
             "stock": 94
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34864",
+            "price": 680,
+            "name": "タイサイ085/06",
+            "date": "2022-12-29",
+            "stock": 20
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g085-067-S10P-B/",
             "price": 550,
@@ -162,6 +202,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34864",
+            "price": 680,
+            "name": "タイサイ085/06",
+            "date": "2022-12-28",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34774",
             "price": 780,
             "name": "タイサイ085/06",
@@ -169,14 +217,6 @@
             "stock": 91
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34864",
-            "price": 680,
-            "name": "タイサイ085/06",
-            "date": "2022-12-28",
-            "stock": 20
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g085-067-S10P-B/",
             "price": 550,
@@ -186,16 +226,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/86540",
-            "price": 2000,
+            "link": "/items/1876690557",
+            "price": 555,
             "name": "タイサイ HR 08",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1876690557",
-            "price": 555,
+            "link": "/items/86540",
+            "price": 2000,
             "name": "タイサイ HR 08",
             "date": "2022-12-27",
             "stock": 1
@@ -210,19 +250,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34864",
-            "price": 680,
-            "name": "タイサイ085/06",
-            "date": "2022-12-27",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34774",
             "price": 780,
             "name": "タイサイ085/06",
             "date": "2022-12-27",
             "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34864",
+            "price": 680,
+            "name": "タイサイ085/06",
+            "date": "2022-12-27",
+            "stock": 20
         },
         {
             "market": "torecolo",
@@ -234,16 +274,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1876690557",
-            "price": 555,
+            "link": "/items/86540",
+            "price": 2000,
             "name": "タイサイ HR 08",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/86540",
-            "price": 2000,
+            "link": "/items/1876690557",
+            "price": 555,
             "name": "タイサイ HR 08",
             "date": "2022-12-26",
             "stock": 1
@@ -258,19 +298,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34774",
-            "price": 780,
-            "name": "タイサイ085/06",
-            "date": "2022-12-26",
-            "stock": 96
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34864",
             "price": 680,
             "name": "タイサイ085/06",
             "date": "2022-12-26",
             "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34774",
+            "price": 780,
+            "name": "タイサイ085/06",
+            "date": "2022-12-26",
+            "stock": 96
         },
         {
             "market": "torecolo",
@@ -282,16 +322,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/86540",
-            "price": 2000,
+            "link": "/items/1876690557",
+            "price": 555,
             "name": "タイサイ HR 08",
             "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1876690557",
-            "price": 555,
+            "link": "/items/86540",
+            "price": 2000,
             "name": "タイサイ HR 08",
             "date": "2022-12-25",
             "stock": 1
@@ -306,19 +346,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34864",
-            "price": 680,
-            "name": "タイサイ085/06",
-            "date": "2022-12-25",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34774",
             "price": 780,
             "name": "タイサイ085/06",
             "date": "2022-12-25",
             "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34864",
+            "price": 680,
+            "name": "タイサイ085/06",
+            "date": "2022-12-25",
+            "stock": 20
         },
         {
             "market": "torecolo",
@@ -327,54 +367,6 @@
             "name": "【ポケカ】ＨＲ◇タイ",
             "date": "2022-12-25",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1876690557",
-            "price": 555,
-            "name": "タイサイ HR 08",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/86540",
-            "price": 2000,
-            "name": "タイサイ HR 08",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23118",
-            "price": 700,
-            "name": "タイサイ(HR){サ",
-            "date": "2022-12-24",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34774",
-            "price": 780,
-            "name": "タイサイ085/06",
-            "date": "2022-12-24",
-            "stock": 96
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34864",
-            "price": 680,
-            "name": "タイサイ085/06",
-            "date": "2022-12-24",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g085-067-S10P-B/",
-            "price": 550,
-            "name": "【ポケカ】ＨＲ◇タイ",
-            "date": "2022-12-24",
-            "stock": 3
         }
     ]
 }

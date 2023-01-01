@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22290",
+            "price": 100,
+            "name": "レベルボール(D){",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24391",
+            "price": 120,
+            "name": "レベルボール019/",
+            "date": "2023-01-01",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g019-030-SK-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇レベ",
+            "date": "2023-01-01",
+            "stock": 8
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24391",
             "price": 120,
@@ -110,22 +134,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ◇レベ",
             "date": "2022-12-25",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24391",
-            "price": 120,
-            "name": "レベルボール019/",
-            "date": "2022-12-24",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g019-030-SK-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇レベ",
-            "date": "2022-12-24",
             "stock": 8
         }
     ]
