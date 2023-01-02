@@ -2,16 +2,72 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/756755944",
+            "price": 500,
+            "name": "ジャローダV SR ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/804949663",
             "price": 500,
             "name": "ジャローダV SR ",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1091118106",
             "price": 800,
+            "name": "ジャローダV SR ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/724378582",
+            "price": 580,
+            "name": "ジャローダV SR ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25204",
+            "price": 800,
+            "name": "ジャローダV(SR)",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37120",
+            "price": 680,
+            "name": "ジャローダV075/",
+            "date": "2023-01-02",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37014",
+            "price": 780,
+            "name": "ジャローダV075/",
+            "date": "2023-01-02",
+            "stock": 89
+        },
+        {
+            "market": "magi",
+            "link": "/items/1091118106",
+            "price": 800,
+            "name": "ジャローダV SR ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/804949663",
+            "price": 500,
             "name": "ジャローダV SR ",
             "date": "2023-01-01",
             "stock": 1
@@ -31,6 +87,14 @@
             "name": "ジャローダV(SR)",
             "date": "2023-01-01",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37120",
+            "price": 680,
+            "name": "ジャローダV075/",
+            "date": "2023-01-01",
+            "stock": 15
         },
         {
             "market": "cardrush",
@@ -41,22 +105,6 @@
             "stock": 89
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37120",
-            "price": 680,
-            "name": "ジャローダV075/",
-            "date": "2023-01-01",
-            "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/804949663",
-            "price": 500,
-            "name": "ジャローダV SR ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/1091118106",
             "price": 800,
@@ -73,12 +121,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/804949663",
+            "price": 500,
+            "name": "ジャローダV SR ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25204",
             "price": 800,
             "name": "ジャローダV(SR)",
             "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37120",
+            "price": 680,
+            "name": "ジャローダV075/",
+            "date": "2022-12-31",
+            "stock": 15
         },
         {
             "market": "cardrush",
@@ -89,17 +153,9 @@
             "stock": 98
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37120",
-            "price": 680,
-            "name": "ジャローダV075/",
-            "date": "2022-12-31",
-            "stock": 15
-        },
-        {
             "market": "magi",
-            "link": "/items/804949663",
-            "price": 500,
+            "link": "/items/724378582",
+            "price": 590,
             "name": "ジャローダV SR ",
             "date": "2022-12-30",
             "stock": 1
@@ -114,8 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/724378582",
-            "price": 590,
+            "link": "/items/804949663",
+            "price": 500,
             "name": "ジャローダV SR ",
             "date": "2022-12-30",
             "stock": 1
@@ -130,19 +186,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37120",
-            "price": 680,
-            "name": "ジャローダV075/",
-            "date": "2022-12-30",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37014",
             "price": 780,
             "name": "ジャローダV075/",
             "date": "2022-12-30",
             "stock": 113
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37120",
+            "price": 680,
+            "name": "ジャローダV075/",
+            "date": "2022-12-30",
+            "stock": 15
         },
         {
             "market": "magi",
@@ -191,6 +247,22 @@
             "name": "ジャローダV075/",
             "date": "2022-12-29",
             "stock": 113
+        },
+        {
+            "market": "magi",
+            "link": "/items/804949663",
+            "price": 500,
+            "name": "ジャローダV SR ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1091118106",
+            "price": 800,
+            "name": "ジャローダV SR ",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -201,28 +273,20 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1091118106",
-            "price": 800,
-            "name": "ジャローダV SR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/804949663",
-            "price": 500,
-            "name": "ジャローダV SR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25204",
             "price": 800,
             "name": "ジャローダV(SR)",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37120",
+            "price": 680,
+            "name": "ジャローダV075/",
+            "date": "2022-12-28",
+            "stock": 16
         },
         {
             "market": "cardrush",
@@ -233,12 +297,12 @@
             "stock": 100
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37120",
-            "price": 680,
-            "name": "ジャローダV075/",
-            "date": "2022-12-28",
-            "stock": 16
+            "market": "magi",
+            "link": "/items/724378582",
+            "price": 690,
+            "name": "ジャローダV SR ",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -257,28 +321,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/724378582",
-            "price": 690,
-            "name": "ジャローダV SR ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25204",
             "price": 800,
             "name": "ジャローダV(SR)",
             "date": "2022-12-27",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37120",
-            "price": 680,
-            "name": "ジャローダV075/",
-            "date": "2022-12-27",
-            "stock": 16
         },
         {
             "market": "cardrush",
@@ -289,9 +337,17 @@
             "stock": 93
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37120",
+            "price": 680,
+            "name": "ジャローダV075/",
+            "date": "2022-12-27",
+            "stock": 16
+        },
+        {
             "market": "magi",
-            "link": "/items/724378582",
-            "price": 700,
+            "link": "/items/1091118106",
+            "price": 800,
             "name": "ジャローダV SR ",
             "date": "2022-12-26",
             "stock": 1
@@ -306,8 +362,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1091118106",
-            "price": 800,
+            "link": "/items/724378582",
+            "price": 700,
             "name": "ジャローダV SR ",
             "date": "2022-12-26",
             "stock": 1
@@ -319,14 +375,6 @@
             "name": "ジャローダV(SR)",
             "date": "2022-12-26",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37014",
-            "price": 780,
-            "name": "ジャローダV075/",
-            "date": "2022-12-26",
-            "stock": 98
         },
         {
             "market": "cardrush",
@@ -337,51 +385,11 @@
             "stock": 15
         },
         {
-            "market": "magi",
-            "link": "/items/1091118106",
-            "price": 800,
-            "name": "ジャローダV SR ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/804949663",
-            "price": 500,
-            "name": "ジャローダV SR ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/724378582",
-            "price": 700,
-            "name": "ジャローダV SR ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25204",
-            "price": 800,
-            "name": "ジャローダV(SR)",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37120",
-            "price": 680,
-            "name": "ジャローダV075/",
-            "date": "2022-12-25",
-            "stock": 13
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37014",
             "price": 780,
             "name": "ジャローダV075/",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 98
         }
     ]

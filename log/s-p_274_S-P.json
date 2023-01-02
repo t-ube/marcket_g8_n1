@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/22411",
             "price": 200,
             "name": "モクロー(PROMO",
+            "date": "2023-01-02",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34329",
+            "price": 250,
+            "name": "モクロー274/S-",
+            "date": "2023-01-02",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35170",
+            "price": 280,
+            "name": "モクロー274/S-",
+            "date": "2023-01-02",
+            "stock": 23
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22411",
+            "price": 200,
+            "name": "モクロー(PROMO",
             "date": "2023-01-01",
             "stock": 18
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34329",
-            "price": 250,
-            "name": "モクロー274/S-",
-            "date": "2022-12-30",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35170",
             "price": 280,
             "name": "モクロー274/S-",
             "date": "2022-12-30",
             "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34329",
+            "price": 250,
+            "name": "モクロー274/S-",
+            "date": "2022-12-30",
+            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35170",
-            "price": 280,
-            "name": "モクロー274/S-",
-            "date": "2022-12-26",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34329",
             "price": 250,
             "name": "モクロー274/S-",
@@ -169,27 +185,11 @@
             "stock": 14
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22411",
-            "price": 200,
-            "name": "モクロー(PROMO",
-            "date": "2022-12-25",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34329",
-            "price": 250,
-            "name": "モクロー274/S-",
-            "date": "2022-12-25",
-            "stock": 14
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35170",
             "price": 280,
             "name": "モクロー274/S-",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 24
         }
     ]

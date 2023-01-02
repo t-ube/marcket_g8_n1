@@ -2,11 +2,83 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/754328574",
+            "price": 100,
+            "name": "ミカルゲ 084/1",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1878224552",
+            "price": 100,
+            "name": "ミカルゲ 084/1",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/846007299",
+            "price": 200,
+            "name": "ミカルゲ【-】{08",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1438425540",
+            "price": 100,
+            "name": "ミカルゲ 084/1",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1817156371",
             "price": 100,
             "name": "ミカルゲ 084/1",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26107",
+            "price": 50,
+            "name": "ミカルゲ(CP){悪",
+            "date": "2023-01-02",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26231",
+            "price": 100,
+            "name": "ミカルゲ:ミラー(C",
+            "date": "2023-01-02",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38292",
+            "price": 80,
+            "name": "ミカルゲ084/17",
+            "date": "2023-01-02",
+            "stock": 204
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38168",
+            "price": 50,
+            "name": "ミカルゲ084/17",
+            "date": "2023-01-02",
+            "stock": 190
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38566",
+            "price": 70,
+            "name": "ミカルゲ084/17",
+            "date": "2023-01-02",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -18,9 +90,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/846007299",
-            "price": 200,
-            "name": "ミカルゲ【-】{08",
+            "link": "/items/1817156371",
+            "price": 100,
+            "name": "ミカルゲ 084/1",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -29,6 +101,14 @@
             "link": "/items/1878224552",
             "price": 100,
             "name": "ミカルゲ 084/1",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/846007299",
+            "price": 200,
+            "name": "ミカルゲ【-】{08",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -55,6 +135,22 @@
             "name": "ミカルゲ:ミラー(C",
             "date": "2023-01-01",
             "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38168",
+            "price": 50,
+            "name": "ミカルゲ084/17",
+            "date": "2023-01-01",
+            "stock": 190
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38292",
+            "price": 80,
+            "name": "ミカルゲ084/17",
+            "date": "2023-01-01",
+            "stock": 190
         },
         {
             "market": "cardrush",
@@ -65,22 +161,6 @@
             "stock": 4
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38292",
-            "price": 80,
-            "name": "ミカルゲ084/17",
-            "date": "2023-01-01",
-            "stock": 190
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38168",
-            "price": 50,
-            "name": "ミカルゲ084/17",
-            "date": "2023-01-01",
-            "stock": 190
-        },
-        {
             "market": "magi",
             "link": "/items/1438425540",
             "price": 100,
@@ -202,14 +282,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26231",
-            "price": 100,
-            "name": "ミカルゲ:ミラー(C",
-            "date": "2022-12-30",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26107",
             "price": 50,
             "name": "ミカルゲ(CP){悪",
@@ -217,12 +289,12 @@
             "stock": 41
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38292",
-            "price": 80,
-            "name": "ミカルゲ084/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26231",
+            "price": 100,
+            "name": "ミカルゲ:ミラー(C",
             "date": "2022-12-30",
-            "stock": 187
+            "stock": 20
         },
         {
             "market": "cardrush",
@@ -241,8 +313,16 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38292",
+            "price": 80,
+            "name": "ミカルゲ084/17",
+            "date": "2022-12-30",
+            "stock": 187
+        },
+        {
             "market": "magi",
-            "link": "/items/1817156371",
+            "link": "/items/1438425540",
             "price": 100,
             "name": "ミカルゲ 084/1",
             "date": "2022-12-29",
@@ -258,19 +338,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1438425540",
+            "link": "/items/1817156371",
             "price": 100,
             "name": "ミカルゲ 084/1",
             "date": "2022-12-29",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26231",
-            "price": 100,
-            "name": "ミカルゲ:ミラー(C",
-            "date": "2022-12-29",
-            "stock": 20
         },
         {
             "market": "hareruya2",
@@ -281,12 +353,20 @@
             "stock": 41
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26231",
+            "price": 100,
+            "name": "ミカルゲ:ミラー(C",
+            "date": "2022-12-29",
+            "stock": 20
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38292",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/38566",
+            "price": 70,
             "name": "ミカルゲ084/17",
             "date": "2022-12-29",
-            "stock": 187
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -298,15 +378,15 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38566",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/38292",
+            "price": 80,
             "name": "ミカルゲ084/17",
             "date": "2022-12-29",
-            "stock": 3
+            "stock": 187
         },
         {
             "market": "magi",
-            "link": "/items/1438425540",
+            "link": "/items/1817156371",
             "price": 100,
             "name": "ミカルゲ 084/1",
             "date": "2022-12-28",
@@ -314,7 +394,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1817156371",
+            "link": "/items/1438425540",
             "price": 100,
             "name": "ミカルゲ 084/1",
             "date": "2022-12-28",
@@ -327,6 +407,14 @@
             "name": "ミカルゲ【-】{08",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26107",
+            "price": 50,
+            "name": "ミカルゲ(CP){悪",
+            "date": "2022-12-28",
+            "stock": 41
         },
         {
             "market": "hareruya2",
@@ -337,12 +425,12 @@
             "stock": 19
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26107",
-            "price": 50,
-            "name": "ミカルゲ(CP){悪",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38566",
+            "price": 70,
+            "name": "ミカルゲ084/17",
             "date": "2022-12-28",
-            "stock": 41
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -359,14 +447,6 @@
             "name": "ミカルゲ084/17",
             "date": "2022-12-28",
             "stock": 180
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38566",
-            "price": 70,
-            "name": "ミカルゲ084/17",
-            "date": "2022-12-28",
-            "stock": 3
         },
         {
             "market": "magi",
@@ -434,17 +514,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1817156371",
-            "price": 100,
-            "name": "ミカルゲ 084/1",
+            "link": "/items/846007299",
+            "price": 200,
+            "name": "ミカルゲ【-】{08",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/846007299",
-            "price": 200,
-            "name": "ミカルゲ【-】{08",
+            "link": "/items/1817156371",
+            "price": 100,
+            "name": "ミカルゲ 084/1",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -458,19 +538,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26107",
-            "price": 50,
-            "name": "ミカルゲ(CP){悪",
-            "date": "2022-12-26",
-            "stock": 41
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26231",
             "price": 100,
             "name": "ミカルゲ:ミラー(C",
             "date": "2022-12-26",
             "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26107",
+            "price": 50,
+            "name": "ミカルゲ(CP){悪",
+            "date": "2022-12-26",
+            "stock": 41
         },
         {
             "market": "cardrush",
@@ -495,70 +575,6 @@
             "name": "ミカルゲ084/17",
             "date": "2022-12-26",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1817156371",
-            "price": 100,
-            "name": "ミカルゲ 084/1",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/846007299",
-            "price": 200,
-            "name": "ミカルゲ【-】{08",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1438425540",
-            "price": 100,
-            "name": "ミカルゲ 084/1",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26231",
-            "price": 100,
-            "name": "ミカルゲ:ミラー(C",
-            "date": "2022-12-25",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26107",
-            "price": 50,
-            "name": "ミカルゲ(CP){悪",
-            "date": "2022-12-25",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38566",
-            "price": 70,
-            "name": "ミカルゲ084/17",
-            "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38292",
-            "price": 80,
-            "name": "ミカルゲ084/17",
-            "date": "2022-12-25",
-            "stock": 173
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38168",
-            "price": 50,
-            "name": "ミカルゲ084/17",
-            "date": "2022-12-25",
-            "stock": 186
         }
     ]
 }

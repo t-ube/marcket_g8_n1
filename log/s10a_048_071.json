@@ -2,17 +2,89 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1549962997",
+            "price": 100,
+            "name": "グレッグル C 04",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/240208058",
             "price": 100,
             "name": "グレッグル(ミラー)",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/786806713",
+            "price": 100,
+            "name": "グレッグル(ミラー)",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23441",
+            "price": 50,
+            "name": "グレッグル:ミラー(",
+            "date": "2023-01-02",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23383",
+            "price": 50,
+            "name": "グレッグル(C){悪",
+            "date": "2023-01-02",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35271",
+            "price": 30,
+            "name": "グレッグル048/0",
+            "date": "2023-01-02",
+            "stock": 126
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35329",
+            "price": 50,
+            "name": "グレッグル048/0",
+            "date": "2023-01-02",
+            "stock": 141
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-071-S10A-BM/",
+            "price": 50,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-071-S10A-B/",
+            "price": 4,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-02",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/1549962997",
             "price": 100,
             "name": "グレッグル C 04",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/240208058",
+            "price": 100,
+            "name": "グレッグル(ミラー)",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -26,19 +98,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23441",
-            "price": 50,
-            "name": "グレッグル:ミラー(",
-            "date": "2023-01-01",
-            "stock": 39
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23383",
             "price": 50,
             "name": "グレッグル(C){悪",
             "date": "2023-01-01",
             "stock": 37
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23441",
+            "price": 50,
+            "name": "グレッグル:ミラー(",
+            "date": "2023-01-01",
+            "stock": 39
         },
         {
             "market": "cardrush",
@@ -55,6 +127,14 @@
             "name": "グレッグル048/0",
             "date": "2023-01-01",
             "stock": 126
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-071-S10A-B/",
+            "price": 4,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-01",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -65,14 +145,6 @@
             "stock": 1
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g048-071-S10A-B/",
-            "price": 4,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-01",
-            "stock": 2
-        },
-        {
             "market": "magi",
             "link": "/items/1549962997",
             "price": 100,
@@ -426,9 +498,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/240208058",
+            "link": "/items/1549962997",
             "price": 100,
-            "name": "グレッグル(ミラー)",
+            "name": "グレッグル C 04",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -442,9 +514,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1549962997",
+            "link": "/items/240208058",
             "price": 100,
-            "name": "グレッグル C 04",
+            "name": "グレッグル(ミラー)",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -486,70 +558,6 @@
             "price": 4,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/786806713",
-            "price": 100,
-            "name": "グレッグル(ミラー)",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/240208058",
-            "price": 100,
-            "name": "グレッグル(ミラー)",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1549962997",
-            "price": 100,
-            "name": "グレッグル C 04",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23441",
-            "price": 50,
-            "name": "グレッグル:ミラー(",
-            "date": "2022-12-25",
-            "stock": 40
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23383",
-            "price": 50,
-            "name": "グレッグル(C){悪",
-            "date": "2022-12-25",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35329",
-            "price": 50,
-            "name": "グレッグル048/0",
-            "date": "2022-12-25",
-            "stock": 141
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35271",
-            "price": 30,
-            "name": "グレッグル048/0",
-            "date": "2022-12-25",
-            "stock": 126
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-071-S10A-B/",
-            "price": 4,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-25",
             "stock": 2
         }
     ]

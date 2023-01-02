@@ -2,6 +2,86 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1918343820",
+            "price": 100,
+            "name": "レジエレキ 045/",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1692822543",
+            "price": 100,
+            "name": "レジエレキ 045/",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/991218940",
+            "price": 120,
+            "name": "レジエレキ【-】{0",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/541358307",
+            "price": 100,
+            "name": "レジエレキ 045/",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26068",
+            "price": 50,
+            "name": "レジエレキ(CP){",
+            "date": "2023-01-02",
+            "stock": 38
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26216",
+            "price": 100,
+            "name": "レジエレキ:ミラー(",
+            "date": "2023-01-02",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38277",
+            "price": 80,
+            "name": "レジエレキ045/1",
+            "date": "2023-01-02",
+            "stock": 81
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38129",
+            "price": 30,
+            "name": "レジエレキ045/1",
+            "date": "2023-01-02",
+            "stock": 141
+        },
+        {
+            "market": "magi",
+            "link": "/items/1918343820",
+            "price": 100,
+            "name": "レジエレキ 045/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/991218940",
+            "price": 120,
+            "name": "レジエレキ【-】{0",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/541358307",
             "price": 100,
             "name": "レジエレキ 045/",
@@ -10,23 +90,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/991218940",
-            "price": 120,
-            "name": "レジエレキ【-】{0",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1692822543",
-            "price": 100,
-            "name": "レジエレキ 045/",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1918343820",
             "price": 100,
             "name": "レジエレキ 045/",
             "date": "2023-01-01",
@@ -50,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38129",
-            "price": 30,
-            "name": "レジエレキ045/1",
-            "date": "2023-01-01",
-            "stock": 141
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38277",
             "price": 80,
             "name": "レジエレキ045/1",
             "date": "2023-01-01",
             "stock": 82
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38129",
+            "price": 30,
+            "name": "レジエレキ045/1",
+            "date": "2023-01-01",
+            "stock": 141
         },
         {
             "market": "magi",
@@ -87,14 +151,6 @@
             "name": "レジエレキ 045/",
             "date": "2022-12-31",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26216",
-            "price": 100,
-            "name": "レジエレキ:ミラー(",
-            "date": "2022-12-31",
-            "stock": 13
         },
         {
             "market": "hareruya2",
@@ -105,12 +161,12 @@
             "stock": 38
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38129",
-            "price": 30,
-            "name": "レジエレキ045/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26216",
+            "price": 100,
+            "name": "レジエレキ:ミラー(",
             "date": "2022-12-31",
-            "stock": 141
+            "stock": 13
         },
         {
             "market": "cardrush",
@@ -121,8 +177,16 @@
             "stock": 82
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38129",
+            "price": 30,
+            "name": "レジエレキ045/1",
+            "date": "2022-12-31",
+            "stock": 141
+        },
+        {
             "market": "magi",
-            "link": "/items/1918343820",
+            "link": "/items/1692822543",
             "price": 100,
             "name": "レジエレキ 045/",
             "date": "2022-12-30",
@@ -138,11 +202,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1692822543",
+            "link": "/items/1918343820",
             "price": 100,
             "name": "レジエレキ 045/",
             "date": "2022-12-30",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26068",
+            "price": 50,
+            "name": "レジエレキ(CP){",
+            "date": "2022-12-30",
+            "stock": 41
         },
         {
             "market": "hareruya2",
@@ -153,14 +225,6 @@
             "stock": 13
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26068",
-            "price": 50,
-            "name": "レジエレキ(CP){",
-            "date": "2022-12-30",
-            "stock": 41
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38277",
             "price": 80,
@@ -218,14 +282,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38129",
-            "price": 30,
-            "name": "レジエレキ045/1",
-            "date": "2022-12-29",
-            "stock": 141
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38277",
             "price": 80,
             "name": "レジエレキ045/1",
@@ -233,10 +289,18 @@
             "stock": 82
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38129",
+            "price": 30,
+            "name": "レジエレキ045/1",
+            "date": "2022-12-29",
+            "stock": 141
+        },
+        {
             "market": "magi",
-            "link": "/items/1692822543",
-            "price": 100,
-            "name": "レジエレキ 045/",
+            "link": "/items/991218940",
+            "price": 120,
+            "name": "レジエレキ【-】{0",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -250,11 +314,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/991218940",
-            "price": 120,
-            "name": "レジエレキ【-】{0",
+            "link": "/items/1692822543",
+            "price": 100,
+            "name": "レジエレキ 045/",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26068",
+            "price": 50,
+            "name": "レジエレキ(CP){",
+            "date": "2022-12-28",
+            "stock": 41
         },
         {
             "market": "hareruya2",
@@ -265,12 +337,12 @@
             "stock": 12
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26068",
-            "price": 50,
-            "name": "レジエレキ(CP){",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38277",
+            "price": 80,
+            "name": "レジエレキ045/1",
             "date": "2022-12-28",
-            "stock": 41
+            "stock": 83
         },
         {
             "market": "cardrush",
@@ -281,16 +353,8 @@
             "stock": 141
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38277",
-            "price": 80,
-            "name": "レジエレキ045/1",
-            "date": "2022-12-28",
-            "stock": 83
-        },
-        {
             "market": "magi",
-            "link": "/items/1692822543",
+            "link": "/items/1918343820",
             "price": 100,
             "name": "レジエレキ 045/",
             "date": "2022-12-27",
@@ -298,7 +362,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1918343820",
+            "link": "/items/1692822543",
             "price": 100,
             "name": "レジエレキ 045/",
             "date": "2022-12-27",
@@ -346,9 +410,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1918343820",
-            "price": 100,
-            "name": "レジエレキ 045/",
+            "link": "/items/991218940",
+            "price": 120,
+            "name": "レジエレキ【-】{0",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -362,19 +426,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/991218940",
-            "price": 120,
-            "name": "レジエレキ【-】{0",
+            "link": "/items/1918343820",
+            "price": 100,
+            "name": "レジエレキ 045/",
             "date": "2022-12-26",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26216",
-            "price": 100,
-            "name": "レジエレキ:ミラー(",
-            "date": "2022-12-26",
-            "stock": 12
         },
         {
             "market": "hareruya2",
@@ -385,12 +441,12 @@
             "stock": 41
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38129",
-            "price": 30,
-            "name": "レジエレキ045/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26216",
+            "price": 100,
+            "name": "レジエレキ:ミラー(",
             "date": "2022-12-26",
-            "stock": 142
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -401,60 +457,12 @@
             "stock": 83
         },
         {
-            "market": "magi",
-            "link": "/items/1918343820",
-            "price": 100,
-            "name": "レジエレキ 045/",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/991218940",
-            "price": 120,
-            "name": "レジエレキ【-】{0",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1692822543",
-            "price": 100,
-            "name": "レジエレキ 045/",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26068",
-            "price": 50,
-            "name": "レジエレキ(CP){",
-            "date": "2022-12-25",
-            "stock": 41
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26216",
-            "price": 100,
-            "name": "レジエレキ:ミラー(",
-            "date": "2022-12-25",
-            "stock": 12
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38129",
             "price": 30,
             "name": "レジエレキ045/1",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 142
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38277",
-            "price": 80,
-            "name": "レジエレキ045/1",
-            "date": "2022-12-25",
-            "stock": 84
         }
     ]
 }

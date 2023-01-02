@@ -5,6 +5,30 @@
             "link": "/items/776663773",
             "price": 150,
             "name": "しんかのおこう 01",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22284",
+            "price": 150,
+            "name": "しんかのおこう(D)",
+            "date": "2023-01-02",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24385",
+            "price": 220,
+            "name": "しんかのおこう013",
+            "date": "2023-01-02",
+            "stock": 41
+        },
+        {
+            "market": "magi",
+            "link": "/items/776663773",
+            "price": 150,
+            "name": "しんかのおこう 01",
             "date": "2023-01-01",
             "stock": 2
         },
@@ -86,14 +110,6 @@
             "price": 150,
             "name": "しんかのおこう 01",
             "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/776663773",
-            "price": 150,
-            "name": "しんかのおこう 01",
-            "date": "2022-12-25",
             "stock": 2
         }
     ]

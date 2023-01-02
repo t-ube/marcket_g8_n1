@@ -5,13 +5,117 @@
             "link": "/items/205823665",
             "price": 380,
             "name": "ラプラス AR 17",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/768319829",
             "price": 300,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/749140798",
+            "price": 150,
+            "name": "ラプラス(AR){水",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1935610135",
+            "price": 999,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1247279741",
+            "price": 180,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/645282577",
+            "price": 260,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1987854547",
+            "price": 180,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1391135750",
+            "price": 280,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2141414698",
+            "price": 400,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/281980517",
+            "price": 300,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/457184199",
+            "price": 400,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26316",
+            "price": 150,
+            "name": "ラプラス(AR){水",
+            "date": "2023-01-02",
+            "stock": 56
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38624",
+            "price": 260,
+            "name": "ラプラス177/17",
+            "date": "2023-01-02",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38357",
+            "price": 280,
+            "name": "ラプラス177/17",
+            "date": "2023-01-02",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/1391135750",
+            "price": 280,
             "name": "ラプラス AR 17",
             "date": "2023-01-01",
             "stock": 1
@@ -26,6 +130,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/281980517",
+            "price": 300,
+            "name": "ラプラス AR 17",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2141414698",
             "price": 400,
             "name": "ラプラス AR 17",
@@ -34,15 +146,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1391135750",
-            "price": 280,
+            "link": "/items/205823665",
+            "price": 380,
             "name": "ラプラス AR 17",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/281980517",
+            "link": "/items/768319829",
             "price": 300,
             "name": "ラプラス AR 17",
             "date": "2023-01-01",
@@ -122,14 +234,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/457184199",
-            "price": 400,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2131967695",
             "price": 120,
             "name": "ラプラス AR 17",
@@ -185,6 +289,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/457184199",
+            "price": 400,
+            "name": "ラプラス AR 17",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26316",
             "price": 150,
@@ -194,19 +306,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38357",
-            "price": 280,
-            "name": "ラプラス177/17",
-            "date": "2022-12-31",
-            "stock": 112
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38624",
             "price": 260,
             "name": "ラプラス177/17",
             "date": "2022-12-31",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38357",
+            "price": 280,
+            "name": "ラプラス177/17",
+            "date": "2022-12-31",
+            "stock": 112
         },
         {
             "market": "magi",
@@ -306,22 +418,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/768319829",
-            "price": 300,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/281980517",
-            "price": 300,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/457184199",
             "price": 400,
             "name": "ラプラス AR 17",
@@ -370,8 +466,24 @@
         },
         {
             "market": "magi",
+            "link": "/items/281980517",
+            "price": 300,
+            "name": "ラプラス AR 17",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2141414698",
             "price": 400,
+            "name": "ラプラス AR 17",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/768319829",
+            "price": 300,
             "name": "ラプラス AR 17",
             "date": "2022-12-29",
             "stock": 1
@@ -386,19 +498,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38357",
-            "price": 280,
-            "name": "ラプラス177/17",
-            "date": "2022-12-29",
-            "stock": 74
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38624",
             "price": 260,
             "name": "ラプラス177/17",
             "date": "2022-12-29",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38357",
+            "price": 280,
+            "name": "ラプラス177/17",
+            "date": "2022-12-29",
+            "stock": 74
         },
         {
             "market": "magi",
@@ -482,6 +594,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/281980517",
+            "price": 300,
+            "name": "ラプラス AR 17",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/768319829",
             "price": 300,
             "name": "ラプラス AR 17",
@@ -524,14 +644,6 @@
             "market": "magi",
             "link": "/items/457184199",
             "price": 400,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/281980517",
-            "price": 300,
             "name": "ラプラス AR 17",
             "date": "2022-12-27",
             "stock": 1
@@ -562,15 +674,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/205823665",
-            "price": 380,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/457184199",
+            "link": "/items/2141414698",
             "price": 400,
             "name": "ラプラス AR 17",
             "date": "2022-12-26",
@@ -594,14 +698,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2141414698",
-            "price": 400,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1391135750",
             "price": 300,
             "name": "ラプラス AR 17",
@@ -612,6 +708,22 @@
             "market": "magi",
             "link": "/items/768319829",
             "price": 300,
+            "name": "ラプラス AR 17",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/205823665",
+            "price": 380,
+            "name": "ラプラス AR 17",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/457184199",
+            "price": 400,
             "name": "ラプラス AR 17",
             "date": "2022-12-26",
             "stock": 1
@@ -639,86 +751,6 @@
             "name": "ラプラス177/17",
             "date": "2022-12-26",
             "stock": 26
-        },
-        {
-            "market": "magi",
-            "link": "/items/645282577",
-            "price": 260,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2141414698",
-            "price": 400,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/768319829",
-            "price": 300,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/205823665",
-            "price": 380,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/281980517",
-            "price": 300,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1391135750",
-            "price": 310,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/457184199",
-            "price": 400,
-            "name": "ラプラス AR 17",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26316",
-            "price": 150,
-            "name": "ラプラス(AR){水",
-            "date": "2022-12-25",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38357",
-            "price": 280,
-            "name": "ラプラス177/17",
-            "date": "2022-12-25",
-            "stock": 69
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38624",
-            "price": 260,
-            "name": "ラプラス177/17",
-            "date": "2022-12-25",
-            "stock": 7
         }
     ]
 }

@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19698",
+            "price": 120,
+            "name": "イーブイ163/S-",
+            "date": "2023-01-02",
+            "stock": 89
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17399",
             "price": 300,
@@ -110,22 +118,6 @@
             "price": 120,
             "name": "イーブイ163/S-",
             "date": "2022-12-26",
-            "stock": 92
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17399",
-            "price": 300,
-            "name": "イーブイ(PROMO",
-            "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19698",
-            "price": 120,
-            "name": "イーブイ163/S-",
-            "date": "2022-12-25",
             "stock": 92
         }
     ]
