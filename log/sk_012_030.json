@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22283",
+            "price": 400,
+            "name": "クイックボール(D)",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24384",
+            "price": 320,
+            "name": "クイックボール012",
+            "date": "2023-01-03",
+            "stock": 91
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24384",
             "price": 320,
@@ -46,14 +62,6 @@
             "price": 400,
             "name": "クイックボール 01",
             "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/732152006",
-            "price": 450,
-            "name": "クイックボール 01",
-            "date": "2022-12-26",
             "stock": 2
         }
     ]

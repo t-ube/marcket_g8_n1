@@ -2,11 +2,67 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/504195698",
+            "price": 180,
+            "name": "かがやくヒードラン ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/947598240",
+            "price": 199,
+            "name": "かがやくヒードラン ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1439666672",
+            "price": 300,
+            "name": "かがやくヒードラン ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/289486294",
             "price": 300,
             "name": "かがやくヒードラン ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22668",
+            "price": 100,
+            "name": "かがやくヒードラン(",
+            "date": "2023-01-03",
+            "stock": 222
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33531",
+            "price": 280,
+            "name": "かがやくヒードラン0",
+            "date": "2023-01-03",
+            "stock": 344
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33720",
+            "price": 260,
+            "name": "かがやくヒードラン0",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-067-S9A-B/",
+            "price": 165,
+            "name": "【ポケカ】Ｋ◇かがや",
+            "date": "2023-01-03",
+            "stock": 19
         },
         {
             "market": "magi",
@@ -18,8 +74,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/947598240",
-            "price": 199,
+            "link": "/items/289486294",
+            "price": 300,
             "name": "かがやくヒードラン ",
             "date": "2023-01-02",
             "stock": 1
@@ -33,20 +89,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/947598240",
+            "price": 199,
+            "name": "かがやくヒードラン ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22668",
             "price": 100,
             "name": "かがやくヒードラン(",
             "date": "2023-01-02",
             "stock": 224
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33720",
-            "price": 260,
-            "name": "かがやくヒードラン0",
-            "date": "2023-01-02",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -57,20 +113,20 @@
             "stock": 344
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33720",
+            "price": 260,
+            "name": "かがやくヒードラン0",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g011-067-S9A-B/",
             "price": 165,
             "name": "【ポケカ】Ｋ◇かがや",
             "date": "2023-01-02",
             "stock": 19
-        },
-        {
-            "market": "magi",
-            "link": "/items/1439666672",
-            "price": 300,
-            "name": "かがやくヒードラン ",
-            "date": "2023-01-01",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -84,6 +140,14 @@
             "market": "magi",
             "link": "/items/504195698",
             "price": 180,
+            "name": "かがやくヒードラン ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1439666672",
+            "price": 300,
             "name": "かがやくヒードラン ",
             "date": "2023-01-01",
             "stock": 1
@@ -106,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33531",
-            "price": 280,
-            "name": "かがやくヒードラン0",
-            "date": "2023-01-01",
-            "stock": 64
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33720",
             "price": 260,
             "name": "かがやくヒードラン0",
             "date": "2023-01-01",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33531",
+            "price": 280,
+            "name": "かがやくヒードラン0",
+            "date": "2023-01-01",
+            "stock": 64
         },
         {
             "market": "torecolo",
@@ -130,16 +194,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1439666672",
-            "price": 300,
-            "name": "かがやくヒードラン ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/289486294",
-            "price": 300,
+            "link": "/items/947598240",
+            "price": 199,
             "name": "かがやくヒードラン ",
             "date": "2022-12-31",
             "stock": 1
@@ -154,8 +210,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/947598240",
-            "price": 199,
+            "link": "/items/1439666672",
+            "price": 300,
+            "name": "かがやくヒードラン ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/289486294",
+            "price": 300,
             "name": "かがやくヒードラン ",
             "date": "2022-12-31",
             "stock": 1
@@ -194,7 +258,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1439666672",
+            "link": "/items/289486294",
             "price": 300,
             "name": "かがやくヒードラン ",
             "date": "2022-12-30",
@@ -218,7 +282,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/289486294",
+            "link": "/items/1439666672",
             "price": 300,
             "name": "かがやくヒードラン ",
             "date": "2022-12-30",
@@ -231,14 +295,6 @@
             "name": "かがやくヒードラン(",
             "date": "2022-12-30",
             "stock": 217
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33720",
-            "price": 260,
-            "name": "かがやくヒードラン0",
-            "date": "2022-12-30",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -249,6 +305,14 @@
             "stock": 65
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33720",
+            "price": 260,
+            "name": "かがやくヒードラン0",
+            "date": "2022-12-30",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g011-067-S9A-B/",
             "price": 165,
@@ -258,16 +322,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/504195698",
-            "price": 180,
-            "name": "かがやくヒードラン ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/289486294",
-            "price": 300,
+            "link": "/items/947598240",
+            "price": 199,
             "name": "かがやくヒードラン ",
             "date": "2022-12-29",
             "stock": 1
@@ -282,8 +338,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/947598240",
-            "price": 199,
+            "link": "/items/289486294",
+            "price": 300,
+            "name": "かがやくヒードラン ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/504195698",
+            "price": 180,
             "name": "かがやくヒードラン ",
             "date": "2022-12-29",
             "stock": 1
@@ -298,19 +362,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33531",
-            "price": 280,
-            "name": "かがやくヒードラン0",
-            "date": "2022-12-29",
-            "stock": 65
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33720",
             "price": 260,
             "name": "かがやくヒードラン0",
             "date": "2022-12-29",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33531",
+            "price": 280,
+            "name": "かがやくヒードラン0",
+            "date": "2022-12-29",
+            "stock": 65
         },
         {
             "market": "torecolo",
@@ -319,6 +383,14 @@
             "name": "【ポケカ】Ｋ◇かがや",
             "date": "2022-12-29",
             "stock": 19
+        },
+        {
+            "market": "magi",
+            "link": "/items/504195698",
+            "price": 180,
+            "name": "かがやくヒードラン ",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -332,14 +404,6 @@
             "market": "magi",
             "link": "/items/289486294",
             "price": 300,
-            "name": "かがやくヒードラン ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/504195698",
-            "price": 180,
             "name": "かがやくヒードラン ",
             "date": "2022-12-28",
             "stock": 1
@@ -386,7 +450,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1439666672",
+            "link": "/items/289486294",
             "price": 300,
             "name": "かがやくヒードラン ",
             "date": "2022-12-27",
@@ -394,8 +458,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/504195698",
-            "price": 180,
+            "link": "/items/1439666672",
+            "price": 300,
             "name": "かがやくヒードラン ",
             "date": "2022-12-27",
             "stock": 1
@@ -410,8 +474,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/289486294",
-            "price": 300,
+            "link": "/items/504195698",
+            "price": 180,
             "name": "かがやくヒードラン ",
             "date": "2022-12-27",
             "stock": 1
@@ -426,14 +490,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33531",
-            "price": 280,
-            "name": "かがやくヒードラン0",
-            "date": "2022-12-27",
-            "stock": 63
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33720",
             "price": 260,
             "name": "かがやくヒードラン0",
@@ -441,67 +497,11 @@
             "stock": 2
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g011-067-S9A-B/",
-            "price": 165,
-            "name": "【ポケカ】Ｋ◇かがや",
-            "date": "2022-12-27",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/504195698",
-            "price": 180,
-            "name": "かがやくヒードラン ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1439666672",
-            "price": 300,
-            "name": "かがやくヒードラン ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/289486294",
-            "price": 300,
-            "name": "かがやくヒードラン ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/947598240",
-            "price": 199,
-            "name": "かがやくヒードラン ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22668",
-            "price": 80,
-            "name": "かがやくヒードラン(",
-            "date": "2022-12-26",
-            "stock": 203
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33720",
-            "price": 260,
-            "name": "かがやくヒードラン0",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33531",
             "price": 280,
             "name": "かがやくヒードラン0",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 63
         },
         {
@@ -509,7 +509,7 @@
             "link": "/shop/g/g011-067-S9A-B/",
             "price": 165,
             "name": "【ポケカ】Ｋ◇かがや",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 20
         }
     ]

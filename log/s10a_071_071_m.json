@@ -1,20 +1,84 @@
 ﻿{
     "items": [
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23456",
-            "price": 100,
-            "name": "エイチ湖:ミラー(U",
-            "date": "2023-01-02",
-            "stock": 44
+            "market": "magi",
+            "link": "/items/1709717582",
+            "price": 300,
+            "name": "エイチ湖 U 071",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/863510345",
+            "price": 140,
+            "name": "エイチ湖(ミラー) ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1614381880",
+            "price": 150,
+            "name": "エイチ湖(ミラー) ",
+            "date": "2023-01-03",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/2124097501",
             "price": 100,
             "name": "エイチ湖 U 071",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23456",
+            "price": 100,
+            "name": "エイチ湖:ミラー(U",
+            "date": "2023-01-03",
+            "stock": 44
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23407",
+            "price": 100,
+            "name": "エイチ湖(U){スタ",
+            "date": "2023-01-03",
+            "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35344",
+            "price": 120,
+            "name": "エイチ湖071/07",
+            "date": "2023-01-03",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35295",
+            "price": 80,
+            "name": "エイチ湖071/07",
+            "date": "2023-01-03",
+            "stock": 256
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g071-071-S10A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2023-01-03",
+            "stock": 26
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g071-071-S10A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2023-01-03",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -26,9 +90,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/863510345",
-            "price": 140,
-            "name": "エイチ湖(ミラー) ",
+            "link": "/items/1197657279",
+            "price": 180,
+            "name": "エイチ湖 U 071",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -42,8 +106,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1197657279",
-            "price": 180,
+            "link": "/items/863510345",
+            "price": 140,
+            "name": "エイチ湖(ミラー) ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23456",
+            "price": 100,
+            "name": "エイチ湖:ミラー(U",
+            "date": "2023-01-02",
+            "stock": 44
+        },
+        {
+            "market": "magi",
+            "link": "/items/2124097501",
+            "price": 100,
             "name": "エイチ湖 U 071",
             "date": "2023-01-02",
             "stock": 1
@@ -58,6 +138,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35295",
+            "price": 80,
+            "name": "エイチ湖071/07",
+            "date": "2023-01-02",
+            "stock": 259
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35344",
             "price": 120,
             "name": "エイチ湖071/07",
@@ -65,12 +153,12 @@
             "stock": 11
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35295",
-            "price": 80,
-            "name": "エイチ湖071/07",
+            "market": "torecolo",
+            "link": "/shop/g/g071-071-S10A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ）通常仕",
             "date": "2023-01-02",
-            "stock": 259
+            "stock": 26
         },
         {
             "market": "torecolo",
@@ -81,12 +169,12 @@
             "stock": 2
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g071-071-S10A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2023-01-02",
-            "stock": 26
+            "market": "magi",
+            "link": "/items/1197657279",
+            "price": 180,
+            "name": "エイチ湖 U 071",
+            "date": "2023-01-01",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -122,14 +210,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1197657279",
-            "price": 180,
-            "name": "エイチ湖 U 071",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1401100907",
             "price": 37,
             "name": "エイチ湖 U 071",
@@ -138,19 +218,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23407",
-            "price": 100,
-            "name": "エイチ湖(U){スタ",
-            "date": "2023-01-01",
-            "stock": 97
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23456",
             "price": 100,
             "name": "エイチ湖:ミラー(U",
             "date": "2023-01-01",
             "stock": 44
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23407",
+            "price": 100,
+            "name": "エイチ湖(U){スタ",
+            "date": "2023-01-01",
+            "stock": 97
         },
         {
             "market": "cardrush",
@@ -162,6 +242,14 @@
         },
         {
             "market": "torecolo",
+            "link": "/shop/g/g071-071-S10A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
             "link": "/shop/g/g071-071-S10A-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ）通常仕",
@@ -169,12 +257,12 @@
             "stock": 26
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g071-071-S10A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2023-01-01",
-            "stock": 2
+            "market": "magi",
+            "link": "/items/2124097501",
+            "price": 100,
+            "name": "エイチ湖 U 071",
+            "date": "2022-12-31",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -212,14 +300,6 @@
             "market": "magi",
             "link": "/items/1709717582",
             "price": 300,
-            "name": "エイチ湖 U 071",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2124097501",
-            "price": 100,
             "name": "エイチ湖 U 071",
             "date": "2022-12-31",
             "stock": 1
@@ -266,16 +346,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1709717582",
-            "price": 300,
+            "link": "/items/2124097501",
+            "price": 100,
             "name": "エイチ湖 U 071",
             "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2124097501",
-            "price": 100,
+            "link": "/items/1709717582",
+            "price": 300,
             "name": "エイチ湖 U 071",
             "date": "2022-12-30",
             "stock": 1
@@ -418,19 +498,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g071-071-S10A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g071-071-S10A-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ）通常仕",
             "date": "2022-12-29",
             "stock": 26
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g071-071-S10A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-29",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -522,6 +602,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/1709717582",
+            "price": 300,
+            "name": "エイチ湖 U 071",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2124097501",
+            "price": 100,
+            "name": "エイチ湖 U 071",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/863510345",
             "price": 140,
             "name": "エイチ湖(ミラー) ",
@@ -546,24 +642,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2124097501",
-            "price": 100,
-            "name": "エイチ湖 U 071",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/121580784",
             "price": 250,
-            "name": "エイチ湖 U 071",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1709717582",
-            "price": 300,
             "name": "エイチ湖 U 071",
             "date": "2022-12-27",
             "stock": 1
@@ -607,94 +687,6 @@
             "name": "【ポケカ】Ｕ）ミラー",
             "date": "2022-12-27",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/121580784",
-            "price": 250,
-            "name": "エイチ湖 U 071",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1197657279",
-            "price": 180,
-            "name": "エイチ湖 U 071",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/863510345",
-            "price": 140,
-            "name": "エイチ湖(ミラー) ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1614381880",
-            "price": 150,
-            "name": "エイチ湖(ミラー) ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1709717582",
-            "price": 300,
-            "name": "エイチ湖 U 071",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2124097501",
-            "price": 100,
-            "name": "エイチ湖 U 071",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23407",
-            "price": 80,
-            "name": "エイチ湖(U){スタ",
-            "date": "2022-12-26",
-            "stock": 93
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23456",
-            "price": 120,
-            "name": "エイチ湖:ミラー(U",
-            "date": "2022-12-26",
-            "stock": 51
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35295",
-            "price": 80,
-            "name": "エイチ湖071/07",
-            "date": "2022-12-26",
-            "stock": 269
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g071-071-S10A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g071-071-S10A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-26",
-            "stock": 26
         }
     ]
 }

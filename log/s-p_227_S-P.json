@@ -2,17 +2,73 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1242063909",
+            "price": 48000,
+            "name": "PSA10 ピカチュ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1699128980",
             "price": 36540,
             "name": "〔PSA9鑑定済〕ピ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/259175101",
+            "price": 49800,
+            "name": "PSA10 ピカチュ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20878",
+            "price": 38000,
+            "name": "【未開封プロモ】 ピ",
+            "date": "2023-01-03",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38955",
+            "price": 34800,
+            "name": "ピカチュウ227/S",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32445",
+            "price": 31800,
+            "name": "ピカチュウ227/S",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21937",
+            "price": 35800,
+            "name": "ピカチュウ227/S",
+            "date": "2023-01-03",
+            "stock": 42
         },
         {
             "market": "magi",
             "link": "/items/259175101",
             "price": 55800,
             "name": "PSA10 ピカチュ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1699128980",
+            "price": 36540,
+            "name": "〔PSA9鑑定済〕ピ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -90,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32445",
-            "price": 31800,
-            "name": "ピカチュウ227/S",
-            "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21937",
             "price": 35800,
             "name": "ピカチュウ227/S",
@@ -113,10 +161,18 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32445",
+            "price": 31800,
+            "name": "ピカチュウ227/S",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
             "market": "magi",
-            "link": "/items/1242063909",
-            "price": 48000,
-            "name": "PSA10 ピカチュ",
+            "link": "/items/1699128980",
+            "price": 36540,
+            "name": "〔PSA9鑑定済〕ピ",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -130,9 +186,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1699128980",
-            "price": 36540,
-            "name": "〔PSA9鑑定済〕ピ",
+            "link": "/items/1242063909",
+            "price": 48000,
+            "name": "PSA10 ピカチュ",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -170,6 +226,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/259175101",
+            "price": 55800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1699128980",
             "price": 36540,
             "name": "〔PSA9鑑定済〕ピ",
@@ -185,14 +249,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/259175101",
-            "price": 55800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20878",
             "price": 38000,
@@ -202,11 +258,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21937",
-            "price": 37800,
+            "link": "https://www.cardrush-pokemon.jp/product/38955",
+            "price": 34800,
             "name": "ピカチュウ227/S",
             "date": "2022-12-30",
-            "stock": 40
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -218,11 +274,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38955",
-            "price": 34800,
+            "link": "https://www.cardrush-pokemon.jp/product/21937",
+            "price": 37800,
             "name": "ピカチュウ227/S",
             "date": "2022-12-30",
-            "stock": 1
+            "stock": 40
         },
         {
             "market": "magi",
@@ -298,19 +354,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38955",
-            "price": 34800,
-            "name": "ピカチュウ227/S",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32445",
             "price": 31800,
             "name": "ピカチュウ227/S",
             "date": "2022-12-28",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38955",
+            "price": 34800,
+            "name": "ピカチュウ227/S",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -322,17 +378,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1699128980",
-            "price": 36540,
-            "name": "〔PSA9鑑定済〕ピ",
+            "link": "/items/259175101",
+            "price": 55800,
+            "name": "PSA10 ピカチュ",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/259175101",
-            "price": 55800,
-            "name": "PSA10 ピカチュ",
+            "link": "/items/1699128980",
+            "price": 36540,
+            "name": "〔PSA9鑑定済〕ピ",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -366,54 +422,6 @@
             "price": 34800,
             "name": "ピカチュウ227/S",
             "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20878",
-            "price": 38000,
-            "name": "【未開封プロモ】 ピ",
-            "date": "2022-12-26",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/1699128980",
-            "price": 36540,
-            "name": "〔PSA9鑑定済〕ピ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/259175101",
-            "price": 55800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21937",
-            "price": 37800,
-            "name": "ピカチュウ227/S",
-            "date": "2022-12-26",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32445",
-            "price": 31800,
-            "name": "ピカチュウ227/S",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38955",
-            "price": 34800,
-            "name": "ピカチュウ227/S",
-            "date": "2022-12-26",
             "stock": 1
         }
     ]

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17396",
             "price": 100,
             "name": "ガラルバリヤード(P",
+            "date": "2023-01-03",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19695",
+            "price": 80,
+            "name": "ガラルバリヤード16",
+            "date": "2023-01-03",
+            "stock": 121
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17396",
+            "price": 100,
+            "name": "ガラルバリヤード(P",
             "date": "2023-01-02",
             "stock": 24
         },
@@ -111,22 +127,6 @@
             "name": "ガラルバリヤード16",
             "date": "2022-12-27",
             "stock": 121
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17396",
-            "price": 100,
-            "name": "ガラルバリヤード(P",
-            "date": "2022-12-26",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19695",
-            "price": 80,
-            "name": "ガラルバリヤード16",
-            "date": "2022-12-26",
-            "stock": 122
         }
     ]
 }

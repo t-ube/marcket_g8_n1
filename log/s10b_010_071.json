@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/382187485",
+            "price": 190,
+            "name": "リザードン R 01",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1540707587",
             "price": 280,
             "name": "リザードン R 01",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822474459",
+            "price": 140,
+            "name": "リザードン R 01",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1820344767",
+            "price": 75,
+            "name": "【特価】リザードン ",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1161328081",
+            "price": 200,
+            "name": "リザードン R 01",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1415993848",
+            "price": 100,
+            "name": "1枚100円 もえさ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112365334",
+            "price": 120,
+            "name": "リザードン R 01",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/121300637",
+            "price": 150,
+            "name": "リザードン R 01",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23738",
+            "price": 100,
+            "name": "リザードン(R){炎",
+            "date": "2023-01-03",
+            "stock": 131
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35845",
+            "price": 170,
+            "name": "リザードン010/0",
+            "date": "2023-01-03",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35736",
+            "price": 180,
+            "name": "リザードン010/0",
+            "date": "2023-01-03",
+            "stock": 242
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g010-071-S10B-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｒ◇リザー",
+            "date": "2023-01-03",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -18,32 +106,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/121300637",
-            "price": 150,
+            "link": "/items/1540707587",
+            "price": 280,
             "name": "リザードン R 01",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1112365334",
-            "price": 120,
-            "name": "リザードン R 01",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1415993848",
-            "price": 100,
-            "name": "1枚100円 もえさ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1161328081",
-            "price": 200,
+            "link": "/items/1822474459",
+            "price": 140,
             "name": "リザードン R 01",
             "date": "2023-01-02",
             "stock": 1
@@ -58,8 +130,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1822474459",
-            "price": 140,
+            "link": "/items/1415993848",
+            "price": 100,
+            "name": "1枚100円 もえさ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112365334",
+            "price": 120,
+            "name": "リザードン R 01",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/121300637",
+            "price": 150,
+            "name": "リザードン R 01",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1161328081",
+            "price": 200,
             "name": "リザードン R 01",
             "date": "2023-01-02",
             "stock": 1
@@ -71,6 +167,14 @@
             "name": "リザードン(R){炎",
             "date": "2023-01-02",
             "stock": 132
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35845",
+            "price": 170,
+            "name": "リザードン010/0",
+            "date": "2023-01-02",
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -81,14 +185,6 @@
             "stock": 242
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35845",
-            "price": 170,
-            "name": "リザードン010/0",
-            "date": "2023-01-02",
-            "stock": 11
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g010-071-S10B-B/",
             "price": 110,
@@ -111,14 +207,6 @@
             "name": "【特価】リザードン ",
             "date": "2023-01-01",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/382187485",
-            "price": 190,
-            "name": "リザードン R 01",
-            "date": "2023-01-01",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -156,6 +244,14 @@
             "market": "magi",
             "link": "/items/1112365334",
             "price": 120,
+            "name": "リザードン R 01",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/382187485",
+            "price": 190,
             "name": "リザードン R 01",
             "date": "2023-01-01",
             "stock": 1
@@ -170,14 +266,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35845",
-            "price": 170,
-            "name": "リザードン010/0",
-            "date": "2023-01-01",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35736",
             "price": 180,
             "name": "リザードン010/0",
@@ -185,6 +273,14 @@
             "stock": 8
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35845",
+            "price": 170,
+            "name": "リザードン010/0",
+            "date": "2023-01-01",
+            "stock": 11
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g010-071-S10B-B/",
             "price": 110,
@@ -194,11 +290,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1161328081",
-            "price": 200,
-            "name": "リザードン R 01",
+            "link": "/items/1820344767",
+            "price": 75,
+            "name": "【特価】リザードン ",
             "date": "2022-12-31",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
@@ -207,14 +303,6 @@
             "name": "リザードン R 01",
             "date": "2022-12-31",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1820344767",
-            "price": 75,
-            "name": "【特価】リザードン ",
-            "date": "2022-12-31",
-            "stock": 2
         },
         {
             "market": "magi",
@@ -252,6 +340,14 @@
             "market": "magi",
             "link": "/items/1822474459",
             "price": 140,
+            "name": "リザードン R 01",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1161328081",
+            "price": 200,
             "name": "リザードン R 01",
             "date": "2022-12-31",
             "stock": 1
@@ -298,22 +394,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1415993848",
-            "price": 100,
-            "name": "1枚100円 もえさ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822474459",
-            "price": 140,
-            "name": "リザードン R 01",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1540707587",
             "price": 280,
             "name": "リザードン R 01",
@@ -341,6 +421,22 @@
             "link": "/items/1112365334",
             "price": 120,
             "name": "リザードン R 01",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822474459",
+            "price": 140,
+            "name": "リザードン R 01",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1415993848",
+            "price": 100,
+            "name": "1枚100円 もえさ",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -370,24 +466,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1820344767",
-            "price": 75,
-            "name": "【特価】リザードン ",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/382187485",
-            "price": 190,
+            "link": "/items/1161328081",
+            "price": 200,
             "name": "リザードン R 01",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1112365334",
-            "price": 120,
+            "link": "/items/1822474459",
+            "price": 140,
             "name": "リザードン R 01",
             "date": "2022-12-29",
             "stock": 1
@@ -402,22 +490,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1822474459",
-            "price": 140,
-            "name": "リザードン R 01",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1161328081",
-            "price": 200,
-            "name": "リザードン R 01",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1540707587",
             "price": 280,
             "name": "リザードン R 01",
@@ -426,8 +498,32 @@
         },
         {
             "market": "magi",
+            "link": "/items/382187485",
+            "price": 190,
+            "name": "リザードン R 01",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1820344767",
+            "price": 75,
+            "name": "【特価】リザードン ",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
+            "market": "magi",
             "link": "/items/121300637",
             "price": 150,
+            "name": "リザードン R 01",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112365334",
+            "price": 120,
             "name": "リザードン R 01",
             "date": "2022-12-29",
             "stock": 1
@@ -466,19 +562,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1820344767",
-            "price": 75,
-            "name": "【特価】リザードン ",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "magi",
             "link": "/items/382187485",
             "price": 190,
             "name": "リザードン R 01",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1820344767",
+            "price": 75,
+            "name": "【特価】リザードン ",
+            "date": "2022-12-28",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -562,8 +658,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1112365334",
-            "price": 120,
+            "link": "/items/382187485",
+            "price": 190,
             "name": "リザードン R 01",
             "date": "2022-12-27",
             "stock": 1
@@ -578,16 +674,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1161328081",
-            "price": 200,
-            "name": "リザードン R 01",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1540707587",
-            "price": 280,
+            "link": "/items/1822474459",
+            "price": 140,
             "name": "リザードン R 01",
             "date": "2022-12-27",
             "stock": 1
@@ -602,25 +690,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/1822474459",
-            "price": 140,
-            "name": "リザードン R 01",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/382187485",
-            "price": 190,
-            "name": "リザードン R 01",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1415993848",
             "price": 100,
             "name": "1枚100円 もえさ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112365334",
+            "price": 120,
+            "name": "リザードン R 01",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1161328081",
+            "price": 200,
+            "name": "リザードン R 01",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1540707587",
+            "price": 280,
+            "name": "リザードン R 01",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -646,102 +742,6 @@
             "price": 110,
             "name": "【ポケカ】Ｒ◇リザー",
             "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1415993848",
-            "price": 100,
-            "name": "1枚100円 もえさ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/382187485",
-            "price": 190,
-            "name": "リザードン R 01",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822474459",
-            "price": 140,
-            "name": "リザードン R 01",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1540707587",
-            "price": 280,
-            "name": "リザードン R 01",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1112365334",
-            "price": 120,
-            "name": "リザードン R 01",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/121300637",
-            "price": 150,
-            "name": "リザードン R 01",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1161328081",
-            "price": 200,
-            "name": "リザードン R 01",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1820344767",
-            "price": 75,
-            "name": "【特価】リザードン ",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23738",
-            "price": 100,
-            "name": "リザードン(R){炎",
-            "date": "2022-12-26",
-            "stock": 108
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35736",
-            "price": 180,
-            "name": "リザードン010/0",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35845",
-            "price": 170,
-            "name": "リザードン010/0",
-            "date": "2022-12-26",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g010-071-S10B-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｒ◇リザー",
-            "date": "2022-12-26",
             "stock": 2
         }
     ]

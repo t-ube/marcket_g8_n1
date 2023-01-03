@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25579",
+            "price": 800,
+            "name": "ルギアV(PROMO",
+            "date": "2023-01-03",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37682",
+            "price": 830,
+            "name": "ルギアV324/S-",
+            "date": "2023-01-03",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37628",
+            "price": 880,
+            "name": "ルギアV324/S-",
+            "date": "2023-01-03",
+            "stock": 51
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37682",
             "price": 830,
@@ -74,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37628",
-            "price": 880,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-30",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37682",
             "price": 830,
             "name": "ルギアV324/S-",
             "date": "2022-12-30",
             "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37628",
+            "price": 880,
+            "name": "ルギアV324/S-",
+            "date": "2022-12-30",
+            "stock": 18
         },
         {
             "market": "hareruya2",
@@ -146,34 +170,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37628",
-            "price": 880,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-27",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37682",
             "price": 830,
             "name": "ルギアV324/S-",
             "date": "2022-12-27",
-            "stock": 13
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25579",
-            "price": 800,
-            "name": "ルギアV(PROMO",
-            "date": "2022-12-26",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37682",
-            "price": 830,
-            "name": "ルギアV324/S-",
-            "date": "2022-12-26",
             "stock": 13
         },
         {
@@ -181,8 +181,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/37628",
             "price": 880,
             "name": "ルギアV324/S-",
-            "date": "2022-12-26",
-            "stock": 19
+            "date": "2022-12-27",
+            "stock": 18
         }
     ]
 }

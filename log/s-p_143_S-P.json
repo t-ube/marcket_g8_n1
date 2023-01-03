@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17380",
             "price": 800,
             "name": "リザードン(PROM",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14757",
+            "price": 880,
+            "name": "リザードン143/S",
+            "date": "2023-01-03",
+            "stock": 277
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17380",
+            "price": 800,
+            "name": "リザードン(PROM",
             "date": "2023-01-02",
             "stock": 4
         },
@@ -130,26 +146,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14757",
-            "price": 880,
-            "name": "リザードン143/S",
-            "date": "2022-12-27",
-            "stock": 221
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15101",
             "price": 580,
             "name": "リザードン143/S",
             "date": "2022-12-27",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17380",
-            "price": 800,
-            "name": "リザードン(PROM",
-            "date": "2022-12-26",
             "stock": 4
         },
         {
@@ -157,16 +157,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/14757",
             "price": 880,
             "name": "リザードン143/S",
-            "date": "2022-12-26",
-            "stock": 222
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15101",
-            "price": 580,
-            "name": "リザードン143/S",
-            "date": "2022-12-26",
-            "stock": 4
+            "date": "2022-12-27",
+            "stock": 221
         }
     ]
 }

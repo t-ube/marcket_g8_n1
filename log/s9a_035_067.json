@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/777919349",
-            "price": 137,
-            "name": "ディアンシー(R){",
-            "date": "2023-01-02",
+            "link": "/items/1995674895",
+            "price": 350,
+            "name": "ディアンシー R 0",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1146572099",
+            "price": 150,
+            "name": "ディアンシー R 0",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
@@ -13,13 +21,53 @@
             "link": "/items/1221754186",
             "price": 225,
             "name": "ディアンシー R 0",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/777919349",
+            "price": 108,
+            "name": "ディアンシー(R){",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22692",
+            "price": 50,
+            "name": "ディアンシー(R){",
+            "date": "2023-01-03",
+            "stock": 154
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33555",
+            "price": 80,
+            "name": "ディアンシー035/",
+            "date": "2023-01-03",
+            "stock": 217
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g035-067-S9A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｒ◇ディア",
+            "date": "2023-01-03",
+            "stock": 63
         },
         {
             "market": "magi",
             "link": "/items/1146572099",
             "price": 150,
+            "name": "ディアンシー R 0",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1871636062",
+            "price": 167,
             "name": "ディアンシー R 0",
             "date": "2023-01-02",
             "stock": 1
@@ -34,11 +82,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1871636062",
-            "price": 167,
-            "name": "ディアンシー R 0",
+            "link": "/items/777919349",
+            "price": 137,
+            "name": "ディアンシー(R){",
             "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221754186",
+            "price": 225,
+            "name": "ディアンシー R 0",
+            "date": "2023-01-02",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -66,9 +122,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1995674895",
-            "price": 350,
+            "link": "/items/1221754186",
+            "price": 225,
             "name": "ディアンシー R 0",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/777919349",
+            "price": 137,
+            "name": "ディアンシー(R){",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -82,19 +146,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/777919349",
-            "price": 137,
-            "name": "ディアンシー(R){",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1221754186",
-            "price": 225,
+            "link": "/items/1995674895",
+            "price": 350,
             "name": "ディアンシー R 0",
             "date": "2023-01-01",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "magi",
@@ -122,25 +178,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1995674895",
-            "price": 350,
+            "link": "/items/1146572099",
+            "price": 150,
             "name": "ディアンシー R 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1871636062",
-            "price": 169,
-            "name": "ディアンシー R 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/777919349",
-            "price": 137,
-            "name": "ディアンシー(R){",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -154,9 +194,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/1146572099",
-            "price": 150,
+            "link": "/items/1871636062",
+            "price": 169,
             "name": "ディアンシー R 0",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1995674895",
+            "price": 350,
+            "name": "ディアンシー R 0",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/777919349",
+            "price": 137,
+            "name": "ディアンシー(R){",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -242,32 +298,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1995674895",
-            "price": 350,
-            "name": "ディアンシー R 0",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1221754186",
-            "price": 225,
-            "name": "ディアンシー R 0",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/777919349",
-            "price": 137,
-            "name": "ディアンシー(R){",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1871636062",
-            "price": 176,
+            "link": "/items/1146572099",
+            "price": 150,
             "name": "ディアンシー R 0",
             "date": "2022-12-29",
             "stock": 1
@@ -282,8 +314,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1146572099",
-            "price": 150,
+            "link": "/items/1871636062",
+            "price": 176,
+            "name": "ディアンシー R 0",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/777919349",
+            "price": 137,
+            "name": "ディアンシー(R){",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221754186",
+            "price": 225,
+            "name": "ディアンシー R 0",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1995674895",
+            "price": 350,
             "name": "ディアンシー R 0",
             "date": "2022-12-29",
             "stock": 1
@@ -311,6 +367,14 @@
             "name": "【ポケカ】Ｒ◇ディア",
             "date": "2022-12-29",
             "stock": 63
+        },
+        {
+            "market": "magi",
+            "link": "/items/1995674895",
+            "price": 350,
+            "name": "ディアンシー R 0",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -346,14 +410,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1995674895",
-            "price": 350,
-            "name": "ディアンシー R 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1222007070",
             "price": 300,
             "name": "ディアンシー R プ",
@@ -386,11 +442,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1221754186",
-            "price": 225,
+            "link": "/items/1146572099",
+            "price": 150,
             "name": "ディアンシー R 0",
             "date": "2022-12-27",
-            "stock": 2
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/777919349",
+            "price": 137,
+            "name": "ディアンシー(R){",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -410,98 +474,18 @@
         },
         {
             "market": "magi",
-            "link": "/items/1146572099",
-            "price": 150,
-            "name": "ディアンシー R 0",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/777919349",
-            "price": 137,
-            "name": "ディアンシー(R){",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1222007070",
-            "price": 300,
-            "name": "ディアンシー R プ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22692",
-            "price": 50,
-            "name": "ディアンシー(R){",
-            "date": "2022-12-27",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33555",
-            "price": 80,
-            "name": "ディアンシー035/",
-            "date": "2022-12-27",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g035-067-S9A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｒ◇ディア",
-            "date": "2022-12-27",
-            "stock": 63
-        },
-        {
-            "market": "magi",
-            "link": "/items/1995674895",
-            "price": 350,
-            "name": "ディアンシー R 0",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1222007070",
-            "price": 300,
-            "name": "ディアンシー R プ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/777919349",
-            "price": 137,
-            "name": "ディアンシー(R){",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1146572099",
-            "price": 150,
-            "name": "ディアンシー R 0",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1221754186",
             "price": 225,
             "name": "ディアンシー R 0",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/1871636062",
-            "price": 186,
-            "name": "ディアンシー R 0",
-            "date": "2022-12-26",
+            "link": "/items/1222007070",
+            "price": 300,
+            "name": "ディアンシー R プ",
+            "date": "2022-12-27",
             "stock": 1
         },
         {
@@ -509,7 +493,7 @@
             "link": "https://www.hareruya2.com/product/22692",
             "price": 50,
             "name": "ディアンシー(R){",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 159
         },
         {
@@ -517,7 +501,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/33555",
             "price": 80,
             "name": "ディアンシー035/",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 3
         },
         {
@@ -525,7 +509,7 @@
             "link": "/shop/g/g035-067-S9A-B/",
             "price": 110,
             "name": "【ポケカ】Ｒ◇ディア",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 63
         }
     ]
