@@ -5,6 +5,30 @@
             "link": "/items/12743448",
             "price": 2000,
             "name": "アルセウスVSTAR",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24459",
+            "price": 1780,
+            "name": "アルセウスVSTAR",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24432",
+            "price": 1880,
+            "name": "アルセウスVSTAR",
+            "date": "2023-01-04",
+            "stock": 44
+        },
+        {
+            "market": "magi",
+            "link": "/items/12743448",
+            "price": 2000,
+            "name": "アルセウスVSTAR",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -119,22 +143,6 @@
             "name": "アルセウスVSTAR",
             "date": "2022-12-28",
             "stock": 37
-        },
-        {
-            "market": "magi",
-            "link": "/items/12743448",
-            "price": 2000,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24432",
-            "price": 1880,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-27",
-            "stock": 36
         }
     ]
 }

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17422",
             "price": 100,
             "name": "ヒードラン(PROM",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17834",
+            "price": 120,
+            "name": "ヒードラン149/S",
+            "date": "2023-01-04",
+            "stock": 131
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17422",
+            "price": 100,
+            "name": "ヒードラン(PROM",
             "date": "2023-01-03",
             "stock": 4
         },
@@ -111,22 +127,6 @@
             "name": "ヒードラン149/S",
             "date": "2022-12-28",
             "stock": 131
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17422",
-            "price": 100,
-            "name": "ヒードラン(PROM",
-            "date": "2022-12-27",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17834",
-            "price": 120,
-            "name": "ヒードラン149/S",
-            "date": "2022-12-27",
-            "stock": 132
         }
     ]
 }

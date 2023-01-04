@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/22306",
             "price": 250,
             "name": "マニューラ(PROM",
+            "date": "2023-01-04",
+            "stock": 69
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33458",
+            "price": 190,
+            "name": "マニューラ261/S",
+            "date": "2023-01-04",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24580",
+            "price": 220,
+            "name": "マニューラ261/S",
+            "date": "2023-01-04",
+            "stock": 259
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22306",
+            "price": 250,
+            "name": "マニューラ(PROM",
             "date": "2023-01-03",
             "stock": 69
         },
@@ -58,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33458",
-            "price": 190,
-            "name": "マニューラ261/S",
-            "date": "2023-01-01",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24580",
             "price": 220,
             "name": "マニューラ261/S",
@@ -73,6 +89,14 @@
             "stock": 223
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33458",
+            "price": 190,
+            "name": "マニューラ261/S",
+            "date": "2023-01-01",
+            "stock": 9
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22306",
             "price": 250,
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24580",
-            "price": 220,
-            "name": "マニューラ261/S",
-            "date": "2022-12-31",
-            "stock": 223
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33458",
             "price": 190,
             "name": "マニューラ261/S",
             "date": "2022-12-31",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24580",
+            "price": 220,
+            "name": "マニューラ261/S",
+            "date": "2022-12-31",
+            "stock": 223
         },
         {
             "market": "hareruya2",
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33458",
-            "price": 190,
-            "name": "マニューラ261/S",
-            "date": "2022-12-30",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24580",
             "price": 220,
             "name": "マニューラ261/S",
             "date": "2022-12-30",
             "stock": 223
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33458",
+            "price": 190,
+            "name": "マニューラ261/S",
+            "date": "2022-12-30",
+            "stock": 9
         },
         {
             "market": "hareruya2",
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24580",
-            "price": 220,
-            "name": "マニューラ261/S",
-            "date": "2022-12-29",
-            "stock": 223
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33458",
             "price": 190,
             "name": "マニューラ261/S",
             "date": "2022-12-29",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24580",
+            "price": 220,
+            "name": "マニューラ261/S",
+            "date": "2022-12-29",
+            "stock": 223
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33458",
-            "price": 190,
-            "name": "マニューラ261/S",
-            "date": "2022-12-28",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24580",
             "price": 220,
             "name": "マニューラ261/S",
@@ -169,27 +185,11 @@
             "stock": 223
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22306",
-            "price": 250,
-            "name": "マニューラ(PROM",
-            "date": "2022-12-27",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24580",
-            "price": 220,
-            "name": "マニューラ261/S",
-            "date": "2022-12-27",
-            "stock": 223
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33458",
             "price": 190,
             "name": "マニューラ261/S",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 9
         }
     ]

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/23071",
             "price": 350,
             "name": "ラベン博士(PROM",
+            "date": "2023-01-04",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35056",
+            "price": 380,
+            "name": "ラベン博士284/S",
+            "date": "2023-01-04",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35574",
+            "price": 330,
+            "name": "ラベン博士284/S",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23071",
+            "price": 350,
+            "name": "ラベン博士(PROM",
             "date": "2023-01-03",
             "stock": 19
         },
@@ -58,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35056",
-            "price": 380,
-            "name": "ラベン博士284/S",
-            "date": "2023-01-01",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35574",
             "price": 330,
             "name": "ラベン博士284/S",
@@ -73,6 +89,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35056",
+            "price": 380,
+            "name": "ラベン博士284/S",
+            "date": "2023-01-01",
+            "stock": 20
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23071",
             "price": 350,
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35574",
-            "price": 330,
-            "name": "ラベン博士284/S",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35056",
             "price": 380,
             "name": "ラベン博士284/S",
@@ -169,27 +185,11 @@
             "stock": 20
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23071",
-            "price": 350,
-            "name": "ラベン博士(PROM",
-            "date": "2022-12-27",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35056",
-            "price": 380,
-            "name": "ラベン博士284/S",
-            "date": "2022-12-27",
-            "stock": 20
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35574",
             "price": 330,
             "name": "ラベン博士284/S",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 1
         }
     ]

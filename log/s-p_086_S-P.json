@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30043",
+            "price": 680,
+            "name": "マリィ086/S-P",
+            "date": "2023-01-04",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7932",
+            "price": 780,
+            "name": "マリィ086/S-P",
+            "date": "2023-01-04",
+            "stock": 22
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26489",
             "price": 10000,
@@ -34,14 +50,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30043",
-            "price": 680,
-            "name": "マリィ086/S-P",
-            "date": "2023-01-02",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7932",
             "price": 780,
             "name": "マリィ086/S-P",
@@ -50,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7932",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/30043",
+            "price": 680,
             "name": "マリィ086/S-P",
-            "date": "2023-01-01",
-            "stock": 11
+            "date": "2023-01-02",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -63,6 +71,22 @@
             "name": "マリィ086/S-P",
             "date": "2023-01-01",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7932",
+            "price": 780,
+            "name": "マリィ086/S-P",
+            "date": "2023-01-01",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7932",
+            "price": 780,
+            "name": "マリィ086/S-P",
+            "date": "2022-12-31",
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -74,11 +98,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7932",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/30043",
+            "price": 680,
             "name": "マリィ086/S-P",
-            "date": "2022-12-31",
-            "stock": 11
+            "date": "2022-12-30",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -90,27 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30043",
-            "price": 680,
-            "name": "マリィ086/S-P",
-            "date": "2022-12-30",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30043",
-            "price": 680,
-            "name": "マリィ086/S-P",
-            "date": "2022-12-29",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7932",
             "price": 780,
             "name": "マリィ086/S-P",
             "date": "2022-12-29",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30043",
+            "price": 680,
+            "name": "マリィ086/S-P",
+            "date": "2022-12-29",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -126,22 +142,6 @@
             "price": 680,
             "name": "マリィ086/S-P",
             "date": "2022-12-28",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7932",
-            "price": 780,
-            "name": "マリィ086/S-P",
-            "date": "2022-12-27",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30043",
-            "price": 680,
-            "name": "マリィ086/S-P",
-            "date": "2022-12-27",
             "stock": 6
         }
     ]

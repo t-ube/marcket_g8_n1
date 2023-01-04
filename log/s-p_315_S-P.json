@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/25589",
             "price": 100,
             "name": "プテラ(PROMO)",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37777",
+            "price": 120,
+            "name": "プテラ315/S-P",
+            "date": "2023-01-04",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25589",
+            "price": 100,
+            "name": "プテラ(PROMO)",
             "date": "2023-01-03",
             "stock": 4
         },
@@ -111,22 +127,6 @@
             "name": "プテラ315/S-P",
             "date": "2022-12-28",
             "stock": 11
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25589",
-            "price": 100,
-            "name": "プテラ(PROMO)",
-            "date": "2022-12-27",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37777",
-            "price": 120,
-            "name": "プテラ315/S-P",
-            "date": "2022-12-27",
-            "stock": 12
         }
     ]
 }

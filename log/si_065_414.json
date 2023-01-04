@@ -5,6 +5,22 @@
             "link": "/items/1866168911",
             "price": 420,
             "name": "【2枚】ホウオウV ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23272",
+            "price": 280,
+            "name": "ウルガモスV065/",
+            "date": "2023-01-04",
+            "stock": 96
+        },
+        {
+            "market": "magi",
+            "link": "/items/1866168911",
+            "price": 420,
+            "name": "【2枚】ホウオウV ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -55,14 +71,6 @@
             "name": "【2枚】ホウオウV ",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33078",
-            "price": 260,
-            "name": "ウルガモスV065/",
-            "date": "2023-01-01",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -71,6 +79,14 @@
             "name": "ウルガモスV065/",
             "date": "2023-01-01",
             "stock": 91
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33078",
+            "price": 260,
+            "name": "ウルガモスV065/",
+            "date": "2023-01-01",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -154,34 +170,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23272",
-            "price": 280,
-            "name": "ウルガモスV065/",
-            "date": "2022-12-28",
-            "stock": 86
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33078",
             "price": 260,
             "name": "ウルガモスV065/",
             "date": "2022-12-28",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1866168911",
-            "price": 420,
-            "name": "【2枚】ホウオウV ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33078",
-            "price": 260,
-            "name": "ウルガモスV065/",
-            "date": "2022-12-27",
             "stock": 3
         },
         {
@@ -189,8 +181,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/23272",
             "price": 280,
             "name": "ウルガモスV065/",
-            "date": "2022-12-27",
-            "stock": 83
+            "date": "2022-12-28",
+            "stock": 86
         }
     ]
 }

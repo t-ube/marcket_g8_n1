@@ -2,11 +2,51 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/561132503",
+            "price": 100,
+            "name": "ヒスイゾロアークV ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/604918252",
+            "price": 550,
+            "name": "ヒスイゾロアークV ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1469171804",
+            "price": 450,
+            "name": "【値下げ4枚】ヒスイ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/810601359",
             "price": 470,
             "name": "【値下げ4枚】ヒスイ",
-            "date": "2023-01-03",
+            "date": "2023-01-04",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23397",
+            "price": 100,
+            "name": "ヒスイゾロアークV(",
+            "date": "2023-01-04",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35285",
+            "price": 80,
+            "name": "ヒスイゾロアークV0",
+            "date": "2023-01-04",
+            "stock": 89
         },
         {
             "market": "magi",
@@ -18,9 +58,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/604918252",
-            "price": 550,
-            "name": "ヒスイゾロアークV ",
+            "link": "/items/810601359",
+            "price": 470,
+            "name": "【値下げ4枚】ヒスイ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -29,6 +69,14 @@
             "link": "/items/1469171804",
             "price": 450,
             "name": "【値下げ4枚】ヒスイ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/604918252",
+            "price": 550,
+            "name": "ヒスイゾロアークV ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -130,6 +178,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/810601359",
+            "price": 480,
+            "name": "【値下げ4枚】ヒスイ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/604918252",
             "price": 550,
             "name": "ヒスイゾロアークV ",
@@ -153,19 +209,27 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/810601359",
-            "price": 480,
-            "name": "【値下げ4枚】ヒスイ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35285",
             "price": 80,
             "name": "ヒスイゾロアークV0",
             "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1469171804",
+            "price": 450,
+            "name": "【値下げ4枚】ヒスイ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/810601359",
+            "price": 480,
+            "name": "【値下げ4枚】ヒスイ",
+            "date": "2022-12-30",
             "stock": 1
         },
         {
@@ -186,24 +250,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1469171804",
-            "price": 450,
-            "name": "【値下げ4枚】ヒスイ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/810601359",
             "price": 480,
-            "name": "【値下げ4枚】ヒスイ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1469171804",
-            "price": 450,
             "name": "【値下げ4枚】ヒスイ",
             "date": "2022-12-29",
             "stock": 1
@@ -218,8 +266,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/810601359",
-            "price": 480,
+            "link": "/items/1469171804",
+            "price": 450,
             "name": "【値下げ4枚】ヒスイ",
             "date": "2022-12-29",
             "stock": 1
@@ -234,22 +282,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/604918252",
-            "price": 550,
-            "name": "ヒスイゾロアークV ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1469171804",
-            "price": 450,
-            "name": "【値下げ4枚】ヒスイ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/810601359",
             "price": 480,
             "name": "【値下げ4枚】ヒスイ",
@@ -257,19 +289,11 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23397",
-            "price": 100,
-            "name": "ヒスイゾロアークV(",
-            "date": "2022-12-28",
-            "stock": 3
-        },
-        {
             "market": "magi",
-            "link": "/items/810601359",
-            "price": 490,
+            "link": "/items/1469171804",
+            "price": 450,
             "name": "【値下げ4枚】ヒスイ",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 1
         },
         {
@@ -277,15 +301,7 @@
             "link": "/items/604918252",
             "price": 550,
             "name": "ヒスイゾロアークV ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1469171804",
-            "price": 450,
-            "name": "【値下げ4枚】ヒスイ",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 1
         },
         {
@@ -293,16 +309,8 @@
             "link": "https://www.hareruya2.com/product/23397",
             "price": 100,
             "name": "ヒスイゾロアークV(",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35285",
-            "price": 80,
-            "name": "ヒスイゾロアークV0",
-            "date": "2022-12-27",
-            "stock": 1
         }
     ]
 }

@@ -3,6 +3,46 @@
         {
             "market": "magi",
             "link": "/items/358664412",
+            "price": 2200,
+            "name": "ミュウツーV　(PR",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23916",
+            "price": 3000,
+            "name": "ミュウツーV(PRO",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35807",
+            "price": 2780,
+            "name": "ミュウツーV273/",
+            "date": "2023-01-04",
+            "stock": 212
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35963",
+            "price": 1780,
+            "name": "ミュウツーV273/",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35887",
+            "price": 2380,
+            "name": "ミュウツーV273/",
+            "date": "2023-01-04",
+            "stock": 22
+        },
+        {
+            "market": "magi",
+            "link": "/items/358664412",
             "price": 2250,
             "name": "ミュウツーV　(PR",
             "date": "2023-01-03",
@@ -15,6 +55,22 @@
             "name": "ミュウツーV(PRO",
             "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35963",
+            "price": 1780,
+            "name": "ミュウツーV273/",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35887",
+            "price": 2380,
+            "name": "ミュウツーV273/",
+            "date": "2023-01-03",
+            "stock": 21
         },
         {
             "market": "cardrush",
@@ -25,22 +81,6 @@
             "stock": 206
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35963",
-            "price": 1780,
-            "name": "ミュウツーV273/",
-            "date": "2023-01-03",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35887",
-            "price": 2380,
-            "name": "ミュウツーV273/",
-            "date": "2023-01-03",
-            "stock": 21
-        },
-        {
             "market": "magi",
             "link": "/items/358664412",
             "price": 2250,
@@ -55,22 +95,6 @@
             "name": "ミュウツーV(PRO",
             "date": "2023-01-02",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35963",
-            "price": 1780,
-            "name": "ミュウツーV273/",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35887",
-            "price": 2380,
-            "name": "ミュウツーV273/",
-            "date": "2023-01-02",
-            "stock": 21
         },
         {
             "market": "cardrush",
@@ -81,6 +105,22 @@
             "stock": 191
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35887",
+            "price": 2380,
+            "name": "ミュウツーV273/",
+            "date": "2023-01-02",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35963",
+            "price": 1780,
+            "name": "ミュウツーV273/",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
             "market": "magi",
             "link": "/items/358664412",
             "price": 2250,
@@ -98,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35887",
-            "price": 2380,
-            "name": "ミュウツーV273/",
-            "date": "2023-01-01",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35963",
             "price": 1780,
             "name": "ミュウツーV273/",
             "date": "2023-01-01",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35887",
+            "price": 2380,
+            "name": "ミュウツーV273/",
+            "date": "2023-01-01",
+            "stock": 21
         },
         {
             "market": "cardrush",
@@ -138,11 +178,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35807",
-            "price": 2780,
+            "link": "https://www.cardrush-pokemon.jp/product/35887",
+            "price": 2380,
             "name": "ミュウツーV273/",
             "date": "2022-12-31",
-            "stock": 179
+            "stock": 21
         },
         {
             "market": "cardrush",
@@ -154,11 +194,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35887",
-            "price": 2380,
+            "link": "https://www.cardrush-pokemon.jp/product/35807",
+            "price": 2780,
             "name": "ミュウツーV273/",
             "date": "2022-12-31",
-            "stock": 21
+            "stock": 179
         },
         {
             "market": "magi",
@@ -175,22 +215,6 @@
             "name": "ミュウツーV(PRO",
             "date": "2022-12-30",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35887",
-            "price": 2380,
-            "name": "ミュウツーV273/",
-            "date": "2022-12-30",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35963",
-            "price": 1780,
-            "name": "ミュウツーV273/",
-            "date": "2022-12-30",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -201,6 +225,22 @@
             "stock": 181
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35887",
+            "price": 2380,
+            "name": "ミュウツーV273/",
+            "date": "2022-12-30",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35963",
+            "price": 1780,
+            "name": "ミュウツーV273/",
+            "date": "2022-12-30",
+            "stock": 2
+        },
+        {
             "market": "magi",
             "link": "/items/358664412",
             "price": 2250,
@@ -218,11 +258,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35963",
-            "price": 1780,
+            "link": "https://www.cardrush-pokemon.jp/product/35887",
+            "price": 2380,
             "name": "ミュウツーV273/",
             "date": "2022-12-29",
-            "stock": 2
+            "stock": 21
         },
         {
             "market": "cardrush",
@@ -234,11 +274,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35887",
-            "price": 2380,
+            "link": "https://www.cardrush-pokemon.jp/product/35963",
+            "price": 1780,
             "name": "ミュウツーV273/",
             "date": "2022-12-29",
-            "stock": 21
+            "stock": 2
         },
         {
             "market": "magi",
@@ -258,11 +298,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35887",
-            "price": 2380,
+            "link": "https://www.cardrush-pokemon.jp/product/35807",
+            "price": 2780,
             "name": "ミュウツーV273/",
             "date": "2022-12-28",
-            "stock": 21
+            "stock": 175
         },
         {
             "market": "cardrush",
@@ -274,51 +314,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35807",
-            "price": 2780,
-            "name": "ミュウツーV273/",
-            "date": "2022-12-28",
-            "stock": 175
-        },
-        {
-            "market": "magi",
-            "link": "/items/358664412",
-            "price": 2250,
-            "name": "ミュウツーV　(PR",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23916",
-            "price": 3000,
-            "name": "ミュウツーV(PRO",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35963",
-            "price": 1780,
-            "name": "ミュウツーV273/",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35887",
             "price": 2380,
             "name": "ミュウツーV273/",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35807",
-            "price": 2780,
-            "name": "ミュウツーV273/",
-            "date": "2022-12-27",
-            "stock": 175
         }
     ]
 }

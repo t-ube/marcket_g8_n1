@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/22798",
             "price": 100,
             "name": "ダークライVSTAR",
+            "date": "2023-01-04",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33662",
+            "price": 220,
+            "name": "ダークライVSTAR",
+            "date": "2023-01-04",
+            "stock": 215
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22798",
+            "price": 100,
+            "name": "ダークライVSTAR",
             "date": "2023-01-03",
             "stock": 59
         },
@@ -111,22 +127,6 @@
             "name": "ダークライVSTAR",
             "date": "2022-12-28",
             "stock": 78
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22798",
-            "price": 100,
-            "name": "ダークライVSTAR",
-            "date": "2022-12-27",
-            "stock": 73
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33662",
-            "price": 220,
-            "name": "ダークライVSTAR",
-            "date": "2022-12-27",
-            "stock": 79
         }
     ]
 }

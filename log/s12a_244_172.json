@@ -5,6 +5,30 @@
             "link": "/items/228019448",
             "price": 2500,
             "name": "メロン SAR 24",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26383",
+            "price": 3000,
+            "name": "メロン(SAR){サ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38424",
+            "price": 2380,
+            "name": "メロン244/172",
+            "date": "2023-01-04",
+            "stock": 70
+        },
+        {
+            "market": "magi",
+            "link": "/items/228019448",
+            "price": 2500,
+            "name": "メロン SAR 24",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -50,6 +74,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1502915299",
+            "price": 3680,
+            "name": "メロン SAR 24",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/228019448",
             "price": 2500,
             "name": "メロン SAR 24",
@@ -57,10 +89,10 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1502915299",
-            "price": 3680,
-            "name": "メロン SAR 24",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38691",
+            "price": 2250,
+            "name": "メロン244/172",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -71,14 +103,6 @@
             "name": "メロン244/172",
             "date": "2022-12-31",
             "stock": 63
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38691",
-            "price": 2250,
-            "name": "メロン244/172",
-            "date": "2022-12-31",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -151,30 +175,6 @@
             "name": "メロン244/172",
             "date": "2022-12-28",
             "stock": 57
-        },
-        {
-            "market": "magi",
-            "link": "/items/228019448",
-            "price": 2500,
-            "name": "メロン SAR 24",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26383",
-            "price": 3000,
-            "name": "メロン(SAR){サ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38424",
-            "price": 2580,
-            "name": "メロン244/172",
-            "date": "2022-12-27",
-            "stock": 47
         }
     ]
 }

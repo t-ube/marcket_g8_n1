@@ -5,6 +5,30 @@
             "link": "/items/1368714387",
             "price": 600,
             "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24314",
+            "price": 800,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36386",
+            "price": 780,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 42
+        },
+        {
+            "market": "magi",
+            "link": "/items/1368714387",
+            "price": 600,
+            "name": "ドラピオンVSTAR",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36445",
-            "price": 680,
-            "name": "ドラピオンVSTAR",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36386",
             "price": 780,
             "name": "ドラピオンVSTAR",
             "date": "2022-12-29",
             "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36445",
+            "price": 680,
+            "name": "ドラピオンVSTAR",
+            "date": "2022-12-29",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -167,14 +191,6 @@
             "name": "ドラピオンVSTAR",
             "date": "2022-12-28",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36445",
-            "price": 680,
-            "name": "ドラピオンVSTAR",
-            "date": "2022-12-28",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -185,36 +201,12 @@
             "stock": 31
         },
         {
-            "market": "magi",
-            "link": "/items/1368714387",
-            "price": 600,
-            "name": "ドラピオンVSTAR",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24314",
-            "price": 800,
-            "name": "ドラピオンVSTAR",
-            "date": "2022-12-27",
-            "stock": 4
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36445",
             "price": 680,
             "name": "ドラピオンVSTAR",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36386",
-            "price": 780,
-            "name": "ドラピオンVSTAR",
-            "date": "2022-12-27",
-            "stock": 27
         }
     ]
 }
