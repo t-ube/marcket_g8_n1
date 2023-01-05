@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/53762259",
+            "price": 399,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/417522466",
+            "price": 777,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1915373415",
+            "price": 600,
+            "name": "S.22 ポケモンカ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038559949",
+            "price": 433,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-05",
+            "stock": 3
+        },
+        {
+            "market": "magi",
             "link": "/items/235739501",
             "price": 300,
             "name": "ゲンガー CHR 0",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1273726839",
+            "price": 600,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1430675470",
+            "price": 680,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/457637976",
+            "price": 400,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23470",
+            "price": 800,
+            "name": "ゲンガー(CHR){",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35384",
+            "price": 580,
+            "name": "ゲンガー074/07",
+            "date": "2023-01-05",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35353",
+            "price": 680,
+            "name": "ゲンガー074/07",
+            "date": "2023-01-05",
+            "stock": 525
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g074-071-S10A-B/",
+            "price": 550,
+            "name": "【ポケカ】ＣＨＲ◇ゲ",
+            "date": "2023-01-05",
+            "stock": 25
         },
         {
             "market": "magi",
@@ -15,38 +103,6 @@
             "name": "ゲンガー CHR 0",
             "date": "2023-01-04",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/53762259",
-            "price": 399,
-            "name": "ゲンガー CHR 0",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/417522466",
-            "price": 777,
-            "name": "ゲンガー CHR 0",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1915373415",
-            "price": 600,
-            "name": "S.22 ポケモンカ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038559949",
-            "price": 433,
-            "name": "ゲンガー CHR 0",
-            "date": "2023-01-04",
-            "stock": 3
         },
         {
             "market": "magi",
@@ -63,6 +119,46 @@
             "name": "ゲンガー CHR 0",
             "date": "2023-01-04",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235739501",
+            "price": 300,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1915373415",
+            "price": 600,
+            "name": "S.22 ポケモンカ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/417522466",
+            "price": 777,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/53762259",
+            "price": 399,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038559949",
+            "price": 433,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-04",
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -74,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35384",
-            "price": 580,
-            "name": "ゲンガー074/07",
-            "date": "2023-01-04",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35353",
             "price": 680,
             "name": "ゲンガー074/07",
             "date": "2023-01-04",
             "stock": 528
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35384",
+            "price": 580,
+            "name": "ゲンガー074/07",
+            "date": "2023-01-04",
+            "stock": 38
         },
         {
             "market": "torecolo",
@@ -98,16 +194,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/417522466",
-            "price": 777,
-            "name": "ゲンガー CHR 0",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1273726839",
-            "price": 600,
+            "link": "/items/1430675470",
+            "price": 680,
             "name": "ゲンガー CHR 0",
             "date": "2023-01-03",
             "stock": 1
@@ -122,27 +210,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/1430675470",
-            "price": 680,
-            "name": "ゲンガー CHR 0",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/235739501",
-            "price": 300,
-            "name": "ゲンガー CHR 0",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1038559949",
             "price": 433,
             "name": "ゲンガー CHR 0",
             "date": "2023-01-03",
             "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1273726839",
+            "price": 600,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/417522466",
+            "price": 777,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-03",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -156,6 +244,14 @@
             "market": "magi",
             "link": "/items/53762259",
             "price": 399,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235739501",
+            "price": 300,
             "name": "ゲンガー CHR 0",
             "date": "2023-01-03",
             "stock": 1
@@ -290,24 +386,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/457637976",
-            "price": 400,
-            "name": "ゲンガー CHR 0",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1273726839",
-            "price": 600,
-            "name": "ゲンガー CHR 0",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/235739501",
-            "price": 300,
+            "link": "/items/417522466",
+            "price": 777,
             "name": "ゲンガー CHR 0",
             "date": "2023-01-01",
             "stock": 1
@@ -322,8 +402,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/417522466",
-            "price": 777,
+            "link": "/items/235739501",
+            "price": 300,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1273726839",
+            "price": 600,
+            "name": "ゲンガー CHR 0",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1430675470",
+            "price": 680,
             "name": "ゲンガー CHR 0",
             "date": "2023-01-01",
             "stock": 1
@@ -346,8 +442,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1430675470",
-            "price": 680,
+            "link": "/items/457637976",
+            "price": 400,
             "name": "ゲンガー CHR 0",
             "date": "2023-01-01",
             "stock": 1
@@ -362,19 +458,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35384",
-            "price": 580,
-            "name": "ゲンガー074/07",
-            "date": "2023-01-01",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35353",
             "price": 680,
             "name": "ゲンガー074/07",
             "date": "2023-01-01",
             "stock": 179
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35384",
+            "price": 580,
+            "name": "ゲンガー074/07",
+            "date": "2023-01-01",
+            "stock": 37
         },
         {
             "market": "torecolo",
@@ -386,48 +482,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/235739501",
-            "price": 300,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/457637976",
-            "price": 400,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1915373415",
-            "price": 600,
-            "name": "S.22 ポケモンカ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038559949",
-            "price": 433,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-31",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/417522466",
-            "price": 777,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1273726839",
-            "price": 600,
+            "link": "/items/1430675470",
+            "price": 680,
             "name": "ゲンガー CHR 0",
             "date": "2022-12-31",
             "stock": 1
@@ -442,9 +498,49 @@
         },
         {
             "market": "magi",
-            "link": "/items/1430675470",
-            "price": 680,
+            "link": "/items/1273726839",
+            "price": 600,
             "name": "ゲンガー CHR 0",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/417522466",
+            "price": 777,
+            "name": "ゲンガー CHR 0",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038559949",
+            "price": 433,
+            "name": "ゲンガー CHR 0",
+            "date": "2022-12-31",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/457637976",
+            "price": 400,
+            "name": "ゲンガー CHR 0",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235739501",
+            "price": 300,
+            "name": "ゲンガー CHR 0",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1915373415",
+            "price": 600,
+            "name": "S.22 ポケモンカ",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -482,6 +578,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1273726839",
+            "price": 600,
+            "name": "ゲンガー CHR 0",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/417522466",
             "price": 777,
             "name": "ゲンガー CHR 0",
@@ -500,14 +604,6 @@
             "market": "magi",
             "link": "/items/235739501",
             "price": 300,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1273726839",
-            "price": 600,
             "name": "ゲンガー CHR 0",
             "date": "2022-12-30",
             "stock": 1
@@ -578,8 +674,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/53762259",
-            "price": 399,
+            "link": "/items/1273726839",
+            "price": 600,
+            "name": "ゲンガー CHR 0",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038559949",
+            "price": 433,
+            "name": "ゲンガー CHR 0",
+            "date": "2022-12-29",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1915373415",
+            "price": 600,
+            "name": "S.22 ポケモンカ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1591374776",
+            "price": 270,
+            "name": "ゲンガー CHR 0",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/417522466",
+            "price": 777,
             "name": "ゲンガー CHR 0",
             "date": "2022-12-29",
             "stock": 1
@@ -594,9 +722,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1915373415",
-            "price": 600,
-            "name": "S.22 ポケモンカ",
+            "link": "/items/53762259",
+            "price": 399,
+            "name": "ゲンガー CHR 0",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -612,38 +740,6 @@
             "market": "magi",
             "link": "/items/235739501",
             "price": 300,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038559949",
-            "price": 433,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-29",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/417522466",
-            "price": 777,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1591374776",
-            "price": 270,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1273726839",
-            "price": 600,
             "name": "ゲンガー CHR 0",
             "date": "2022-12-29",
             "stock": 1
@@ -678,110 +774,6 @@
             "price": 550,
             "name": "【ポケカ】ＣＨＲ◇ゲ",
             "date": "2022-12-29",
-            "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/1430675470",
-            "price": 680,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1273726839",
-            "price": 600,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/235739501",
-            "price": 300,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038559949",
-            "price": 433,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-28",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1628361009",
-            "price": 450,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1915373415",
-            "price": 600,
-            "name": "S.22 ポケモンカ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/417522466",
-            "price": 777,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1591374776",
-            "price": 270,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/457637976",
-            "price": 400,
-            "name": "ゲンガー CHR 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23470",
-            "price": 800,
-            "name": "ゲンガー(CHR){",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35353",
-            "price": 680,
-            "name": "ゲンガー074/07",
-            "date": "2022-12-28",
-            "stock": 142
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35384",
-            "price": 580,
-            "name": "ゲンガー074/07",
-            "date": "2022-12-28",
-            "stock": 37
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g074-071-S10A-B/",
-            "price": 550,
-            "name": "【ポケカ】ＣＨＲ◇ゲ",
-            "date": "2022-12-28",
             "stock": 21
         }
     ]

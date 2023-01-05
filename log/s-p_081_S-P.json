@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17326",
             "price": 250,
             "name": "フーパ(PROMO)",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30182",
+            "price": 150,
+            "name": "フーパ081/S-P",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13934",
+            "price": 180,
+            "name": "フーパ081/S-P",
+            "date": "2023-01-05",
+            "stock": 34
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17326",
+            "price": 250,
+            "name": "フーパ(PROMO)",
             "date": "2023-01-04",
             "stock": 2
         },
@@ -58,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30182",
-            "price": 150,
-            "name": "フーパ081/S-P",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13934",
             "price": 180,
             "name": "フーパ081/S-P",
@@ -73,6 +89,14 @@
             "stock": 29
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30182",
+            "price": 150,
+            "name": "フーパ081/S-P",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17326",
             "price": 250,
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13934",
-            "price": 180,
-            "name": "フーパ081/S-P",
-            "date": "2022-12-29",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30182",
             "price": 150,
             "name": "フーパ081/S-P",
@@ -169,27 +185,11 @@
             "stock": 2
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17326",
-            "price": 250,
-            "name": "フーパ(PROMO)",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30182",
-            "price": 150,
-            "name": "フーパ081/S-P",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13934",
             "price": 180,
             "name": "フーパ081/S-P",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 29
         }
     ]

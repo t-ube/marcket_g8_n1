@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/22797",
             "price": 200,
             "name": "ダークライV(D){",
+            "date": "2023-01-05",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33661",
+            "price": 180,
+            "name": "ダークライV007/",
+            "date": "2023-01-05",
+            "stock": 100
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22797",
+            "price": 200,
+            "name": "ダークライV(D){",
             "date": "2023-01-04",
             "stock": 45
         },
@@ -111,22 +127,6 @@
             "name": "ダークライV007/",
             "date": "2022-12-29",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22797",
-            "price": 200,
-            "name": "ダークライV(D){",
-            "date": "2022-12-28",
-            "stock": 64
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33661",
-            "price": 180,
-            "name": "ダークライV007/",
-            "date": "2022-12-28",
-            "stock": 5
         }
     ]
 }

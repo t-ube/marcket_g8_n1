@@ -5,6 +5,38 @@
             "link": "/items/1155265933",
             "price": 40,
             "name": "g171 ゴリランダ",
+            "date": "2023-01-05",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17410",
+            "price": 400,
+            "name": "ゴリランダーVMAX",
+            "date": "2023-01-05",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31614",
+            "price": 250,
+            "name": "ゴリランダーVMAX",
+            "date": "2023-01-05",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19016",
+            "price": 280,
+            "name": "ゴリランダーVMAX",
+            "date": "2023-01-05",
+            "stock": 69
+        },
+        {
+            "market": "magi",
+            "link": "/items/1155265933",
+            "price": 40,
+            "name": "g171 ゴリランダ",
             "date": "2023-01-04",
             "stock": 8
         },
@@ -90,14 +122,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19016",
-            "price": 280,
-            "name": "ゴリランダーVMAX",
-            "date": "2023-01-01",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31614",
             "price": 250,
             "name": "ゴリランダーVMAX",
@@ -105,6 +129,14 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19016",
+            "price": 280,
+            "name": "ゴリランダーVMAX",
+            "date": "2023-01-01",
+            "stock": 46
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17410",
             "price": 400,
@@ -162,14 +194,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19016",
-            "price": 280,
-            "name": "ゴリランダーVMAX",
-            "date": "2022-12-29",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31614",
             "price": 250,
             "name": "ゴリランダーVMAX",
@@ -177,27 +201,11 @@
             "stock": 3
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17410",
-            "price": 400,
-            "name": "ゴリランダーVMAX",
-            "date": "2022-12-28",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31614",
-            "price": 250,
-            "name": "ゴリランダーVMAX",
-            "date": "2022-12-28",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/19016",
             "price": 280,
             "name": "ゴリランダーVMAX",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 45
         }
     ]

@@ -5,6 +5,38 @@
             "link": "/items/1103919824",
             "price": 700,
             "name": "ヒードランVMAX ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23113",
+            "price": 700,
+            "name": "ヒードランVMAX(",
+            "date": "2023-01-05",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34859",
+            "price": 680,
+            "name": "ヒードランVMAX0",
+            "date": "2023-01-05",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34769",
+            "price": 780,
+            "name": "ヒードランVMAX0",
+            "date": "2023-01-05",
+            "stock": 91
+        },
+        {
+            "market": "magi",
+            "link": "/items/1103919824",
+            "price": 700,
+            "name": "ヒードランVMAX ",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -50,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34859",
-            "price": 680,
-            "name": "ヒードランVMAX0",
-            "date": "2023-01-03",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34769",
             "price": 780,
             "name": "ヒードランVMAX0",
@@ -65,6 +89,14 @@
             "stock": 88
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34859",
+            "price": 680,
+            "name": "ヒードランVMAX0",
+            "date": "2023-01-03",
+            "stock": 13
+        },
+        {
             "market": "magi",
             "link": "/items/1103919824",
             "price": 700,
@@ -114,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34769",
-            "price": 780,
-            "name": "ヒードランVMAX0",
-            "date": "2023-01-01",
-            "stock": 80
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34859",
             "price": 680,
             "name": "ヒードランVMAX0",
             "date": "2023-01-01",
             "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34769",
+            "price": 780,
+            "name": "ヒードランVMAX0",
+            "date": "2023-01-01",
+            "stock": 80
         },
         {
             "market": "magi",
@@ -143,14 +175,6 @@
             "name": "ヒードランVMAX(",
             "date": "2022-12-31",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34859",
-            "price": 680,
-            "name": "ヒードランVMAX0",
-            "date": "2022-12-31",
-            "stock": 13
         },
         {
             "market": "cardrush",
@@ -161,6 +185,14 @@
             "stock": 78
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34859",
+            "price": 680,
+            "name": "ヒードランVMAX0",
+            "date": "2022-12-31",
+            "stock": 13
+        },
+        {
             "market": "magi",
             "link": "/items/1103919824",
             "price": 700,
@@ -210,14 +242,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34769",
-            "price": 780,
-            "name": "ヒードランVMAX0",
-            "date": "2022-12-29",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34859",
             "price": 680,
             "name": "ヒードランVMAX0",
@@ -225,36 +249,12 @@
             "stock": 13
         },
         {
-            "market": "magi",
-            "link": "/items/1103919824",
-            "price": 700,
-            "name": "ヒードランVMAX ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23113",
-            "price": 700,
-            "name": "ヒードランVMAX(",
-            "date": "2022-12-28",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34859",
-            "price": 680,
-            "name": "ヒードランVMAX0",
-            "date": "2022-12-28",
-            "stock": 12
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34769",
             "price": 780,
             "name": "ヒードランVMAX0",
-            "date": "2022-12-28",
-            "stock": 84
+            "date": "2022-12-29",
+            "stock": 88
         }
     ]
 }
