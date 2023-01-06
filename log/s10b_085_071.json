@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23906",
+            "price": 800,
+            "name": "メルメタルVMAX(",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35816",
+            "price": 780,
+            "name": "メルメタルVMAX0",
+            "date": "2023-01-06",
+            "stock": 95
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35896",
+            "price": 730,
+            "name": "メルメタルVMAX0",
+            "date": "2023-01-06",
+            "stock": 9
+        },
+        {
             "market": "magi",
             "link": "/items/307226867",
             "price": 492,
@@ -50,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35816",
-            "price": 780,
-            "name": "メルメタルVMAX0",
-            "date": "2023-01-04",
-            "stock": 93
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35896",
             "price": 730,
             "name": "メルメタルVMAX0",
             "date": "2023-01-04",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35816",
+            "price": 780,
+            "name": "メルメタルVMAX0",
+            "date": "2023-01-04",
+            "stock": 93
         },
         {
             "market": "magi",
@@ -82,6 +106,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35896",
+            "price": 730,
+            "name": "メルメタルVMAX0",
+            "date": "2023-01-03",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35816",
             "price": 780,
             "name": "メルメタルVMAX0",
@@ -89,14 +121,6 @@
             "stock": 89
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35896",
-            "price": 730,
-            "name": "メルメタルVMAX0",
-            "date": "2023-01-03",
-            "stock": 9
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23906",
             "price": 800,
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35816",
-            "price": 780,
-            "name": "メルメタルVMAX0",
-            "date": "2023-01-02",
-            "stock": 81
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35896",
             "price": 730,
             "name": "メルメタルVMAX0",
             "date": "2023-01-02",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35816",
+            "price": 780,
+            "name": "メルメタルVMAX0",
+            "date": "2023-01-02",
+            "stock": 81
         },
         {
             "market": "hareruya2",
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35816",
-            "price": 780,
-            "name": "メルメタルVMAX0",
-            "date": "2023-01-01",
-            "stock": 81
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35896",
             "price": 730,
             "name": "メルメタルVMAX0",
             "date": "2023-01-01",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35816",
+            "price": 780,
+            "name": "メルメタルVMAX0",
+            "date": "2023-01-01",
+            "stock": 81
         },
         {
             "market": "hareruya2",
@@ -178,14 +202,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35816",
-            "price": 780,
-            "name": "メルメタルVMAX0",
-            "date": "2022-12-30",
-            "stock": 84
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35896",
             "price": 730,
             "name": "メルメタルVMAX0",
@@ -193,27 +209,11 @@
             "stock": 9
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23906",
-            "price": 800,
-            "name": "メルメタルVMAX(",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35896",
-            "price": 730,
-            "name": "メルメタルVMAX0",
-            "date": "2022-12-29",
-            "stock": 9
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35816",
             "price": 780,
             "name": "メルメタルVMAX0",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 84
         }
     ]

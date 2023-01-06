@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25819",
+            "price": 50,
+            "name": "ロコン(-){炎}〈",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37826",
+            "price": 80,
+            "name": "ロコン003/030",
+            "date": "2023-01-06",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-030-SO-B/",
+            "price": 33,
+            "name": "【ポケカ】ミラー仕様",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g003-030-SO-B/",
             "price": 33,
@@ -102,30 +126,6 @@
             "price": 33,
             "name": "【ポケカ】ミラー仕様",
             "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25819",
-            "price": 50,
-            "name": "ロコン(-){炎}〈",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37826",
-            "price": 80,
-            "name": "ロコン003/030",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g003-030-SO-B/",
-            "price": 33,
-            "name": "【ポケカ】ミラー仕様",
-            "date": "2022-12-29",
             "stock": 2
         }
     ]

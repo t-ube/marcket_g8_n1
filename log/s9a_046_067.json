@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2027394783",
+            "price": 200,
+            "name": "ポケカ　バサギリ　s",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/527517398",
+            "price": 49,
+            "name": "バサギリ R 046",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557391107",
+            "price": 25,
+            "name": "1枚25円 s9a ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/14008454",
+            "price": 145,
+            "name": "バサギリ(R){闘}",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1503389821",
+            "price": 100,
+            "name": "バサギリ R 046",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22703",
+            "price": 100,
+            "name": "バサギリ(R){闘}",
+            "date": "2023-01-06",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33566",
+            "price": 80,
+            "name": "バサギリ046/06",
+            "date": "2023-01-06",
+            "stock": 218
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33734",
+            "price": 70,
+            "name": "バサギリ046/06",
+            "date": "2023-01-06",
+            "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g046-067-S9A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｒ◇バサギ",
+            "date": "2023-01-06",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/14008454",
+            "price": 145,
+            "name": "バサギリ(R){闘}",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1503389821",
             "price": 100,
             "name": "バサギリ R 046",
             "date": "2023-01-05",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/527517398",
+            "price": 49,
+            "name": "バサギリ R 046",
+            "date": "2023-01-05",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -25,26 +113,18 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/14008454",
-            "price": 145,
-            "name": "バサギリ(R){闘}",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/527517398",
-            "price": 49,
-            "name": "バサギリ R 046",
-            "date": "2023-01-05",
-            "stock": 4
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22703",
             "price": 100,
             "name": "バサギリ(R){闘}",
+            "date": "2023-01-05",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33734",
+            "price": 70,
+            "name": "バサギリ046/06",
             "date": "2023-01-05",
             "stock": 12
         },
@@ -57,14 +137,6 @@
             "stock": 218
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33734",
-            "price": 70,
-            "name": "バサギリ046/06",
-            "date": "2023-01-05",
-            "stock": 12
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g046-067-S9A-B/",
             "price": 77,
@@ -79,14 +151,6 @@
             "name": "バサギリ R 046",
             "date": "2023-01-04",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/14008454",
-            "price": 145,
-            "name": "バサギリ(R){闘}",
-            "date": "2023-01-04",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -113,10 +177,26 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/14008454",
+            "price": 145,
+            "name": "バサギリ(R){闘}",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22703",
             "price": 100,
             "name": "バサギリ(R){闘}",
+            "date": "2023-01-04",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33734",
+            "price": 70,
+            "name": "バサギリ046/06",
             "date": "2023-01-04",
             "stock": 12
         },
@@ -129,14 +209,6 @@
             "stock": 216
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33734",
-            "price": 70,
-            "name": "バサギリ046/06",
-            "date": "2023-01-04",
-            "stock": 12
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g046-067-S9A-B/",
             "price": 77,
@@ -146,9 +218,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2027394783",
-            "price": 200,
-            "name": "ポケカ　バサギリ　s",
+            "link": "/items/1557391107",
+            "price": 25,
+            "name": "1枚25円 s9a ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -157,14 +229,6 @@
             "link": "/items/1503389821",
             "price": 100,
             "name": "バサギリ R 046",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1557391107",
-            "price": 25,
-            "name": "1枚25円 s9a ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -181,6 +245,14 @@
             "link": "/items/14008454",
             "price": 145,
             "name": "バサギリ(R){闘}",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2027394783",
+            "price": 200,
+            "name": "ポケカ　バサギリ　s",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -218,14 +290,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2027394783",
-            "price": 200,
-            "name": "ポケカ　バサギリ　s",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/527517398",
             "price": 49,
             "name": "バサギリ R 046",
@@ -234,9 +298,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1503389821",
-            "price": 100,
-            "name": "バサギリ R 046",
+            "link": "/items/2027394783",
+            "price": 200,
+            "name": "ポケカ　バサギリ　s",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -253,6 +317,14 @@
             "link": "/items/14008454",
             "price": 145,
             "name": "バサギリ(R){闘}",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1503389821",
+            "price": 100,
+            "name": "バサギリ R 046",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -298,19 +370,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/14008454",
-            "price": 145,
-            "name": "バサギリ(R){闘}",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/527517398",
             "price": 49,
             "name": "バサギリ R 046",
             "date": "2023-01-01",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/14008454",
+            "price": 145,
+            "name": "バサギリ(R){闘}",
+            "date": "2023-01-01",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -378,17 +450,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1503389821",
-            "price": 100,
-            "name": "バサギリ R 046",
+            "link": "/items/1557391107",
+            "price": 25,
+            "name": "1枚25円 s9a ",
             "date": "2022-12-31",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1557391107",
-            "price": 25,
-            "name": "1枚25円 s9a ",
+            "link": "/items/1503389821",
+            "price": 100,
+            "name": "バサギリ R 046",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -458,6 +530,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/2027394783",
+            "price": 200,
+            "name": "ポケカ　バサギリ　s",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557391107",
+            "price": 25,
+            "name": "1枚25円 s9a ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1503389821",
             "price": 100,
             "name": "バサギリ R 046",
@@ -477,22 +565,6 @@
             "link": "/items/14008454",
             "price": 145,
             "name": "バサギリ(R){闘}",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1557391107",
-            "price": 25,
-            "name": "1枚25円 s9a ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2027394783",
-            "price": 200,
-            "name": "ポケカ　バサギリ　s",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -534,86 +606,6 @@
             "price": 77,
             "name": "【ポケカ】Ｒ◇バサギ",
             "date": "2022-12-30",
-            "stock": 18
-        },
-        {
-            "market": "magi",
-            "link": "/items/1503389821",
-            "price": 100,
-            "name": "バサギリ R 046",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/14008454",
-            "price": 145,
-            "name": "バサギリ(R){闘}",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2027394783",
-            "price": 200,
-            "name": "ポケカ　バサギリ　s",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/527517398",
-            "price": 49,
-            "name": "バサギリ R 046",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1557391107",
-            "price": 25,
-            "name": "1枚25円 s9a ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22703",
-            "price": 100,
-            "name": "バサギリ(R){闘}",
-            "date": "2022-12-29",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33566",
-            "price": 80,
-            "name": "バサギリ046/06",
-            "date": "2022-12-29",
-            "stock": 134
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33827",
-            "price": 50,
-            "name": "バサギリ046/06",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33734",
-            "price": 70,
-            "name": "バサギリ046/06",
-            "date": "2022-12-29",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g046-067-S9A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｒ◇バサギ",
-            "date": "2022-12-29",
             "stock": 18
         }
     ]

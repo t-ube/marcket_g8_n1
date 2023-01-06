@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/25583",
             "price": 200,
             "name": "ダブルターボエネルギ",
+            "date": "2023-01-06",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37686",
+            "price": 170,
+            "name": "ダブルターボエネルギ",
+            "date": "2023-01-06",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37632",
+            "price": 180,
+            "name": "ダブルターボエネルギ",
+            "date": "2023-01-06",
+            "stock": 49
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25583",
+            "price": 200,
+            "name": "ダブルターボエネルギ",
             "date": "2023-01-05",
             "stock": 51
         },
@@ -58,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37686",
-            "price": 170,
-            "name": "ダブルターボエネルギ",
-            "date": "2023-01-03",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37632",
             "price": 180,
             "name": "ダブルターボエネルギ",
@@ -73,6 +89,14 @@
             "stock": 52
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37686",
+            "price": 170,
+            "name": "ダブルターボエネルギ",
+            "date": "2023-01-03",
+            "stock": 11
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25583",
             "price": 200,
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37632",
-            "price": 180,
-            "name": "ダブルターボエネルギ",
-            "date": "2022-12-30",
-            "stock": 56
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37686",
             "price": 170,
             "name": "ダブルターボエネルギ",
@@ -169,27 +185,11 @@
             "stock": 11
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25583",
-            "price": 200,
-            "name": "ダブルターボエネルギ",
-            "date": "2022-12-29",
-            "stock": 53
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37686",
-            "price": 170,
-            "name": "ダブルターボエネルギ",
-            "date": "2022-12-29",
-            "stock": 11
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37632",
             "price": 180,
             "name": "ダブルターボエネルギ",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 56
         }
     ]
