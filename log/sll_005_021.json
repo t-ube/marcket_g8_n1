@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/22774",
             "price": 200,
             "name": "ルカリオVSTAR(",
+            "date": "2023-01-07",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33998",
+            "price": 260,
+            "name": "ルカリオVSTAR0",
+            "date": "2023-01-07",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33637",
+            "price": 280,
+            "name": "ルカリオVSTAR0",
+            "date": "2023-01-07",
+            "stock": 296
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22774",
+            "price": 200,
+            "name": "ルカリオVSTAR(",
             "date": "2023-01-06",
             "stock": 61
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33998",
-            "price": 260,
-            "name": "ルカリオVSTAR0",
-            "date": "2023-01-04",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33637",
             "price": 280,
             "name": "ルカリオVSTAR0",
             "date": "2023-01-04",
             "stock": 295
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33998",
+            "price": 260,
+            "name": "ルカリオVSTAR0",
+            "date": "2023-01-04",
+            "stock": 15
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33637",
-            "price": 280,
-            "name": "ルカリオVSTAR0",
-            "date": "2022-12-31",
-            "stock": 151
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33998",
             "price": 260,
             "name": "ルカリオVSTAR0",
@@ -169,27 +185,11 @@
             "stock": 15
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22774",
-            "price": 200,
-            "name": "ルカリオVSTAR(",
-            "date": "2022-12-30",
-            "stock": 68
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33998",
-            "price": 260,
-            "name": "ルカリオVSTAR0",
-            "date": "2022-12-30",
-            "stock": 15
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33637",
             "price": 280,
             "name": "ルカリオVSTAR0",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 151
         }
     ]

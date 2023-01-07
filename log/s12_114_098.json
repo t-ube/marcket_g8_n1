@@ -2,11 +2,83 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1654836774",
+            "price": 2800,
+            "name": "ワタル SR 114",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1175550152",
+            "price": 1111,
+            "name": "ワタル SR 114",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1404695910",
             "price": 3500,
             "name": "ワタル SR 114",
-            "date": "2023-01-06",
+            "date": "2023-01-07",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1493843111",
+            "price": 2500,
+            "name": "ワタル SR 114",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/165559528",
+            "price": 790,
+            "name": "ワタル SR 114",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2084835165",
+            "price": 1000,
+            "name": "ワタル SR 114",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25609",
+            "price": 1500,
+            "name": "ワタル(SR){サポ",
+            "date": "2023-01-07",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37670",
+            "price": 1290,
+            "name": "ワタル114/098",
+            "date": "2023-01-07",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37616",
+            "price": 1380,
+            "name": "ワタル114/098",
+            "date": "2023-01-07",
+            "stock": 231
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g114-098-S12-B/",
+            "price": 1210,
+            "name": "【ポケカ】ＳＲ◇ワタ",
+            "date": "2023-01-07",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -18,16 +90,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1493843111",
-            "price": 2500,
-            "name": "ワタル SR 114",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/165559528",
-            "price": 790,
+            "link": "/items/2084835165",
+            "price": 1000,
             "name": "ワタル SR 114",
             "date": "2023-01-06",
             "stock": 1
@@ -42,8 +106,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/2084835165",
-            "price": 1000,
+            "link": "/items/165559528",
+            "price": 790,
+            "name": "ワタル SR 114",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1404695910",
+            "price": 3500,
+            "name": "ワタル SR 114",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1493843111",
+            "price": 2500,
             "name": "ワタル SR 114",
             "date": "2023-01-06",
             "stock": 1
@@ -58,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37616",
-            "price": 1380,
-            "name": "ワタル114/098",
-            "date": "2023-01-06",
-            "stock": 219
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37670",
             "price": 1290,
             "name": "ワタル114/098",
             "date": "2023-01-06",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37616",
+            "price": 1380,
+            "name": "ワタル114/098",
+            "date": "2023-01-06",
+            "stock": 219
         },
         {
             "market": "torecolo",
@@ -90,14 +170,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1404695910",
-            "price": 3500,
-            "name": "ワタル SR 114",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1654836774",
             "price": 2800,
             "name": "ワタル SR 114",
@@ -124,6 +196,14 @@
             "market": "magi",
             "link": "/items/165559528",
             "price": 790,
+            "name": "ワタル SR 114",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1404695910",
+            "price": 3500,
             "name": "ワタル SR 114",
             "date": "2023-01-05",
             "stock": 1
@@ -138,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37616",
-            "price": 1380,
-            "name": "ワタル114/098",
-            "date": "2023-01-05",
-            "stock": 211
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37670",
             "price": 1290,
             "name": "ワタル114/098",
             "date": "2023-01-05",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37616",
+            "price": 1380,
+            "name": "ワタル114/098",
+            "date": "2023-01-05",
+            "stock": 211
         },
         {
             "market": "torecolo",
@@ -162,8 +242,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1493843111",
-            "price": 2500,
+            "link": "/items/2084835165",
+            "price": 1000,
             "name": "ワタル SR 114",
             "date": "2023-01-04",
             "stock": 1
@@ -172,14 +252,6 @@
             "market": "magi",
             "link": "/items/1175550152",
             "price": 1111,
-            "name": "ワタル SR 114",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2084835165",
-            "price": 1000,
             "name": "ワタル SR 114",
             "date": "2023-01-04",
             "stock": 1
@@ -204,6 +276,14 @@
             "market": "magi",
             "link": "/items/1654836774",
             "price": 2800,
+            "name": "ワタル SR 114",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1493843111",
+            "price": 2500,
             "name": "ワタル SR 114",
             "date": "2023-01-04",
             "stock": 1
@@ -250,22 +330,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1175550152",
-            "price": 1111,
-            "name": "ワタル SR 114",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2084835165",
-            "price": 1000,
-            "name": "ワタル SR 114",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1493843111",
             "price": 2500,
             "name": "ワタル SR 114",
@@ -282,8 +346,24 @@
         },
         {
             "market": "magi",
+            "link": "/items/2084835165",
+            "price": 1000,
+            "name": "ワタル SR 114",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/165559528",
             "price": 790,
+            "name": "ワタル SR 114",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1175550152",
+            "price": 1111,
             "name": "ワタル SR 114",
             "date": "2023-01-03",
             "stock": 1
@@ -298,19 +378,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37670",
-            "price": 1290,
-            "name": "ワタル114/098",
-            "date": "2023-01-03",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37616",
             "price": 1380,
             "name": "ワタル114/098",
             "date": "2023-01-03",
             "stock": 161
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37670",
+            "price": 1290,
+            "name": "ワタル114/098",
+            "date": "2023-01-03",
+            "stock": 6
         },
         {
             "market": "torecolo",
@@ -322,24 +402,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1493843111",
-            "price": 2500,
-            "name": "ワタル SR 114",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1654836774",
-            "price": 2800,
-            "name": "ワタル SR 114",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/165559528",
-            "price": 790,
+            "link": "/items/2084835165",
+            "price": 1000,
             "name": "ワタル SR 114",
             "date": "2023-01-02",
             "stock": 1
@@ -354,8 +418,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2084835165",
-            "price": 1000,
+            "link": "/items/165559528",
+            "price": 790,
             "name": "ワタル SR 114",
             "date": "2023-01-02",
             "stock": 1
@@ -364,6 +428,22 @@
             "market": "magi",
             "link": "/items/1404695910",
             "price": 3500,
+            "name": "ワタル SR 114",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1493843111",
+            "price": 2500,
+            "name": "ワタル SR 114",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1654836774",
+            "price": 2800,
             "name": "ワタル SR 114",
             "date": "2023-01-02",
             "stock": 1
@@ -402,6 +482,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1493843111",
+            "price": 2500,
+            "name": "ワタル SR 114",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/120825300",
             "price": 699,
             "name": "ワタル SR 114",
@@ -412,14 +500,6 @@
             "market": "magi",
             "link": "/items/1404695910",
             "price": 3500,
-            "name": "ワタル SR 114",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1493843111",
-            "price": 2500,
             "name": "ワタル SR 114",
             "date": "2023-01-01",
             "stock": 1
@@ -490,40 +570,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1654836774",
-            "price": 2800,
-            "name": "ワタル SR 114",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/165559528",
             "price": 790,
-            "name": "ワタル SR 114",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120825300",
-            "price": 699,
-            "name": "ワタル SR 114",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2084835165",
-            "price": 1000,
-            "name": "ワタル SR 114",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1175550152",
-            "price": 1111,
             "name": "ワタル SR 114",
             "date": "2022-12-31",
             "stock": 1
@@ -540,6 +588,38 @@
             "market": "magi",
             "link": "/items/1493843111",
             "price": 2500,
+            "name": "ワタル SR 114",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1175550152",
+            "price": 1111,
+            "name": "ワタル SR 114",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1654836774",
+            "price": 2800,
+            "name": "ワタル SR 114",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2084835165",
+            "price": 1000,
+            "name": "ワタル SR 114",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/120825300",
+            "price": 699,
             "name": "ワタル SR 114",
             "date": "2022-12-31",
             "stock": 1
@@ -574,94 +654,6 @@
             "price": 1210,
             "name": "【ポケカ】ＳＲ◇ワタ",
             "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1404695910",
-            "price": 3500,
-            "name": "ワタル SR 114",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2084835165",
-            "price": 1000,
-            "name": "ワタル SR 114",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120825300",
-            "price": 699,
-            "name": "ワタル SR 114",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1175550152",
-            "price": 1222,
-            "name": "ワタル SR 114",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1654836774",
-            "price": 2800,
-            "name": "ワタル SR 114",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/165559528",
-            "price": 790,
-            "name": "ワタル SR 114",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1493843111",
-            "price": 2500,
-            "name": "ワタル SR 114",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25609",
-            "price": 1500,
-            "name": "ワタル(SR){サポ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37616",
-            "price": 1380,
-            "name": "ワタル114/098",
-            "date": "2022-12-30",
-            "stock": 127
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37670",
-            "price": 1290,
-            "name": "ワタル114/098",
-            "date": "2022-12-30",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g114-098-S12-B/",
-            "price": 1210,
-            "name": "【ポケカ】ＳＲ◇ワタ",
-            "date": "2022-12-30",
             "stock": 2
         }
     ]
