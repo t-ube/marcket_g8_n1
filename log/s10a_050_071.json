@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1080995980",
+            "price": 300,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2102495279",
+            "price": 180,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1036590571",
+            "price": 550,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/846653951",
             "price": 249,
             "name": "かがやくハガネール ",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2050288783",
+            "price": 269,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1128070726",
+            "price": 3900,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/658077694",
+            "price": 150,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/239364829",
+            "price": 130,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23386",
+            "price": 200,
+            "name": "かがやくハガネール(",
+            "date": "2023-01-08",
+            "stock": 223
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35274",
+            "price": 280,
+            "name": "かがやくハガネール0",
+            "date": "2023-01-08",
+            "stock": 118
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35381",
+            "price": 250,
+            "name": "かがやくハガネール0",
+            "date": "2023-01-08",
+            "stock": 11
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g050-071-S10A-B/",
+            "price": 165,
+            "name": "【ポケカ】Ｋ◇かがや",
+            "date": "2023-01-08",
+            "stock": 30
         },
         {
             "market": "magi",
@@ -18,16 +106,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/2102495279",
-            "price": 180,
+            "link": "/items/2050288783",
+            "price": 269,
             "name": "かがやくハガネール ",
             "date": "2023-01-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/239364829",
-            "price": 130,
+            "link": "/items/846653951",
+            "price": 249,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1036590571",
+            "price": 550,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2102495279",
+            "price": 180,
             "name": "かがやくハガネール ",
             "date": "2023-01-07",
             "stock": 1
@@ -42,24 +146,16 @@
         },
         {
             "market": "magi",
+            "link": "/items/239364829",
+            "price": 130,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1128070726",
             "price": 3900,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2050288783",
-            "price": 269,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1036590571",
-            "price": 550,
             "name": "かがやくハガネール ",
             "date": "2023-01-07",
             "stock": 1
@@ -74,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35381",
-            "price": 250,
-            "name": "かがやくハガネール0",
-            "date": "2023-01-07",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35274",
             "price": 280,
             "name": "かがやくハガネール0",
             "date": "2023-01-07",
             "stock": 118
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35381",
+            "price": 250,
+            "name": "かがやくハガネール0",
+            "date": "2023-01-07",
+            "stock": 11
         },
         {
             "market": "torecolo",
@@ -98,24 +194,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1036590571",
-            "price": 550,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/846653951",
             "price": 299,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2050288783",
-            "price": 269,
             "name": "かがやくハガネール ",
             "date": "2023-01-06",
             "stock": 1
@@ -146,8 +226,24 @@
         },
         {
             "market": "magi",
+            "link": "/items/1036590571",
+            "price": 550,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1128070726",
             "price": 3900,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2050288783",
+            "price": 269,
             "name": "かがやくハガネール ",
             "date": "2023-01-06",
             "stock": 1
@@ -162,19 +258,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35274",
-            "price": 280,
-            "name": "かがやくハガネール0",
-            "date": "2023-01-06",
-            "stock": 118
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35381",
             "price": 250,
             "name": "かがやくハガネール0",
             "date": "2023-01-06",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35274",
+            "price": 280,
+            "name": "かがやくハガネール0",
+            "date": "2023-01-06",
+            "stock": 118
         },
         {
             "market": "torecolo",
@@ -186,32 +282,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/846653951",
-            "price": 299,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2050288783",
-            "price": 269,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1128070726",
-            "price": 3900,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2102495279",
-            "price": 180,
+            "link": "/items/239364829",
+            "price": 130,
             "name": "かがやくハガネール ",
             "date": "2023-01-05",
             "stock": 1
@@ -226,8 +298,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/239364829",
-            "price": 130,
+            "link": "/items/2102495279",
+            "price": 180,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1128070726",
+            "price": 3900,
             "name": "かがやくハガネール ",
             "date": "2023-01-05",
             "stock": 1
@@ -236,6 +316,22 @@
             "market": "magi",
             "link": "/items/658077694",
             "price": 150,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/846653951",
+            "price": 299,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2050288783",
+            "price": 269,
             "name": "かがやくハガネール ",
             "date": "2023-01-05",
             "stock": 1
@@ -274,8 +370,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2102495279",
-            "price": 180,
+            "link": "/items/1036590571",
+            "price": 550,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/658077694",
+            "price": 150,
             "name": "かがやくハガネール ",
             "date": "2023-01-04",
             "stock": 1
@@ -298,22 +402,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/658077694",
-            "price": 150,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1036590571",
-            "price": 550,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/846653951",
             "price": 299,
             "name": "かがやくハガネール ",
@@ -324,6 +412,14 @@
             "market": "magi",
             "link": "/items/2050288783",
             "price": 270,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2102495279",
+            "price": 180,
             "name": "かがやくハガネール ",
             "date": "2023-01-04",
             "stock": 1
@@ -338,19 +434,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35381",
-            "price": 250,
-            "name": "かがやくハガネール0",
-            "date": "2023-01-04",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35274",
             "price": 280,
             "name": "かがやくハガネール0",
             "date": "2023-01-04",
             "stock": 121
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35381",
+            "price": 250,
+            "name": "かがやくハガネール0",
+            "date": "2023-01-04",
+            "stock": 11
         },
         {
             "market": "torecolo",
@@ -362,40 +458,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1128070726",
-            "price": 3900,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/239364829",
-            "price": 130,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/846653951",
-            "price": 299,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2050288783",
-            "price": 270,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2102495279",
-            "price": 180,
+            "link": "/items/658077694",
+            "price": 150,
             "name": "かがやくハガネール ",
             "date": "2023-01-03",
             "stock": 1
@@ -410,8 +474,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/658077694",
-            "price": 150,
+            "link": "/items/2102495279",
+            "price": 180,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2050288783",
+            "price": 270,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/239364829",
+            "price": 130,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1128070726",
+            "price": 3900,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/846653951",
+            "price": 299,
             "name": "かがやくハガネール ",
             "date": "2023-01-03",
             "stock": 1
@@ -450,6 +546,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/846653951",
+            "price": 299,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/372835102",
             "price": 100,
             "name": "かがやくハガネール ",
@@ -460,14 +564,6 @@
             "market": "magi",
             "link": "/items/2050288783",
             "price": 270,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/846653951",
-            "price": 299,
             "name": "かがやくハガネール ",
             "date": "2023-01-02",
             "stock": 1
@@ -546,8 +642,48 @@
         },
         {
             "market": "magi",
+            "link": "/items/1128070726",
+            "price": 3900,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2102495279",
+            "price": 180,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/658077694",
             "price": 150,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1036590571",
+            "price": 550,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/239364829",
+            "price": 130,
+            "name": "かがやくハガネール ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/846653951",
+            "price": 299,
             "name": "かがやくハガネール ",
             "date": "2023-01-01",
             "stock": 1
@@ -564,46 +700,6 @@
             "market": "magi",
             "link": "/items/372835102",
             "price": 100,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2102495279",
-            "price": 180,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/239364829",
-            "price": 130,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1036590571",
-            "price": 550,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1128070726",
-            "price": 3900,
-            "name": "かがやくハガネール ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/846653951",
-            "price": 299,
             "name": "かがやくハガネール ",
             "date": "2023-01-01",
             "stock": 1
@@ -638,94 +734,6 @@
             "price": 220,
             "name": "【ポケカ】Ｋ◇かがや",
             "date": "2023-01-01",
-            "stock": 30
-        },
-        {
-            "market": "magi",
-            "link": "/items/1036590571",
-            "price": 550,
-            "name": "かがやくハガネール ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/239364829",
-            "price": 130,
-            "name": "かがやくハガネール ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/846653951",
-            "price": 299,
-            "name": "かがやくハガネール ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2050288783",
-            "price": 271,
-            "name": "かがやくハガネール ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2102495279",
-            "price": 180,
-            "name": "かがやくハガネール ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/658077694",
-            "price": 150,
-            "name": "かがやくハガネール ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1128070726",
-            "price": 3900,
-            "name": "かがやくハガネール ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23386",
-            "price": 200,
-            "name": "かがやくハガネール(",
-            "date": "2022-12-31",
-            "stock": 222
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35381",
-            "price": 250,
-            "name": "かがやくハガネール0",
-            "date": "2022-12-31",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35274",
-            "price": 280,
-            "name": "かがやくハガネール0",
-            "date": "2022-12-31",
-            "stock": 56
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g050-071-S10A-B/",
-            "price": 220,
-            "name": "【ポケカ】Ｋ◇かがや",
-            "date": "2022-12-31",
             "stock": 30
         }
     ]

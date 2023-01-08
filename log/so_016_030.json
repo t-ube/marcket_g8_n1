@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/39060",
+            "price": 730,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37839",
+            "price": 780,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-08",
+            "stock": 26
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25832",
             "price": 600,
@@ -34,14 +50,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/39060",
-            "price": 730,
-            "name": "レックウザVMAX0",
-            "date": "2023-01-06",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37839",
             "price": 780,
             "name": "レックウザVMAX0",
@@ -50,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37839",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/39060",
+            "price": 730,
             "name": "レックウザVMAX0",
-            "date": "2023-01-05",
-            "stock": 28
+            "date": "2023-01-06",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -63,6 +71,14 @@
             "name": "レックウザVMAX0",
             "date": "2023-01-05",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37839",
+            "price": 780,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-05",
+            "stock": 28
         },
         {
             "market": "cardrush",
@@ -98,6 +114,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/39060",
+            "price": 730,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37839",
             "price": 780,
             "name": "レックウザVMAX0",
@@ -109,14 +133,6 @@
             "link": "https://www.cardrush-pokemon.jp/product/39060",
             "price": 730,
             "name": "レックウザVMAX0",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/39060",
-            "price": 730,
-            "name": "レックウザVMAX0",
             "date": "2023-01-01",
             "stock": 2
         },
@@ -127,22 +143,6 @@
             "name": "レックウザVMAX0",
             "date": "2023-01-01",
             "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37839",
-            "price": 780,
-            "name": "レックウザVMAX0",
-            "date": "2022-12-31",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/39060",
-            "price": 730,
-            "name": "レックウザVMAX0",
-            "date": "2022-12-31",
-            "stock": 2
         }
     ]
 }

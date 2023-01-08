@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/25394",
             "price": 1300,
             "name": "ヒスイビリリダマ(P",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37387",
+            "price": 990,
+            "name": "ヒスイビリリダマ30",
+            "date": "2023-01-08",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37304",
+            "price": 1080,
+            "name": "ヒスイビリリダマ30",
+            "date": "2023-01-08",
+            "stock": 60
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25394",
+            "price": 1300,
+            "name": "ヒスイビリリダマ(P",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37387",
-            "price": 990,
-            "name": "ヒスイビリリダマ30",
-            "date": "2023-01-05",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37304",
             "price": 1080,
             "name": "ヒスイビリリダマ30",
             "date": "2023-01-05",
             "stock": 60
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37387",
+            "price": 990,
+            "name": "ヒスイビリリダマ30",
+            "date": "2023-01-05",
+            "stock": 8
         },
         {
             "market": "hareruya2",
@@ -130,6 +154,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37387",
+            "price": 990,
+            "name": "ヒスイビリリダマ30",
+            "date": "2023-01-02",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37304",
             "price": 1080,
             "name": "ヒスイビリリダマ30",
@@ -137,28 +169,12 @@
             "stock": 57
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37387",
-            "price": 990,
-            "name": "ヒスイビリリダマ30",
-            "date": "2023-01-02",
-            "stock": 8
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25394",
             "price": 1300,
             "name": "ヒスイビリリダマ(P",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37387",
-            "price": 990,
-            "name": "ヒスイビリリダマ30",
-            "date": "2023-01-01",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 55
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25394",
-            "price": 1300,
-            "name": "ヒスイビリリダマ(P",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37304",
-            "price": 1080,
-            "name": "ヒスイビリリダマ30",
-            "date": "2022-12-31",
-            "stock": 55
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37387",
             "price": 990,
             "name": "ヒスイビリリダマ30",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 8
         }
     ]

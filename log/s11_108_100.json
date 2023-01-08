@@ -5,6 +5,38 @@
             "link": "/items/1729908988",
             "price": 800,
             "name": "ガラルニャイキングV",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24303",
+            "price": 800,
+            "name": "ガラルニャイキングV",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36375",
+            "price": 780,
+            "name": "ガラルニャイキングV",
+            "date": "2023-01-08",
+            "stock": 92
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36434",
+            "price": 680,
+            "name": "ガラルニャイキングV",
+            "date": "2023-01-08",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/1729908988",
+            "price": 800,
+            "name": "ガラルニャイキングV",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -74,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36375",
-            "price": 780,
-            "name": "ガラルニャイキングV",
-            "date": "2023-01-05",
-            "stock": 87
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36434",
             "price": 680,
             "name": "ガラルニャイキングV",
             "date": "2023-01-05",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36375",
+            "price": 780,
+            "name": "ガラルニャイキングV",
+            "date": "2023-01-05",
+            "stock": 87
         },
         {
             "market": "magi",
@@ -170,14 +202,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36434",
-            "price": 680,
-            "name": "ガラルニャイキングV",
-            "date": "2023-01-01",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36375",
             "price": 780,
             "name": "ガラルニャイキングV",
@@ -185,28 +209,12 @@
             "stock": 60
         },
         {
-            "market": "magi",
-            "link": "/items/1729908988",
-            "price": 800,
-            "name": "ガラルニャイキングV",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36434",
             "price": 680,
             "name": "ガラルニャイキングV",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36375",
-            "price": 780,
-            "name": "ガラルニャイキングV",
-            "date": "2022-12-31",
-            "stock": 60
         }
     ]
 }

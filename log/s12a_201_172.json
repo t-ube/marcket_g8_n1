@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/26340",
             "price": 2400,
             "name": "リオル(AR){闘}",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38862",
+            "price": 1080,
+            "name": "リオル201/172",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38381",
+            "price": 1480,
+            "name": "リオル201/172",
+            "date": "2023-01-08",
+            "stock": 63
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26340",
+            "price": 2400,
+            "name": "リオル(AR){闘}",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -114,34 +138,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38381",
-            "price": 1780,
-            "name": "リオル201/172",
-            "date": "2023-01-01",
-            "stock": 48
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38648",
             "price": 1680,
             "name": "リオル201/172",
             "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26340",
-            "price": 2400,
-            "name": "リオル(AR){闘}",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38648",
-            "price": 1680,
-            "name": "リオル201/172",
-            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -149,8 +149,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/38381",
             "price": 1780,
             "name": "リオル201/172",
-            "date": "2022-12-31",
-            "stock": 34
+            "date": "2023-01-01",
+            "stock": 48
         }
     ]
 }
