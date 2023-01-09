@@ -2,6 +2,30 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1865634893",
+            "price": 48000,
+            "name": "　チャンピオンズフェ",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/87486673",
+            "price": 97800,
+            "name": "チャンピオンズフェス",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36814",
+            "price": 148000,
+            "name": "チャンピオンズフェス",
+            "date": "2023-01-09",
+            "stock": 2
+        },
+        {
+            "market": "magi",
             "link": "/items/87486673",
             "price": 97800,
             "name": "チャンピオンズフェス",
@@ -90,17 +114,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1865634893",
-            "price": 48000,
-            "name": "　チャンピオンズフェ",
+            "link": "/items/87486673",
+            "price": 97800,
+            "name": "チャンピオンズフェス",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/87486673",
-            "price": 97800,
-            "name": "チャンピオンズフェス",
+            "link": "/items/1865634893",
+            "price": 48000,
+            "name": "　チャンピオンズフェ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -110,14 +134,6 @@
             "price": 148000,
             "name": "チャンピオンズフェス",
             "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/87486673",
-            "price": 97800,
-            "name": "チャンピオンズフェス",
-            "date": "2023-01-04",
             "stock": 1
         },
         {
@@ -129,6 +145,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/87486673",
+            "price": 97800,
+            "name": "チャンピオンズフェス",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36814",
             "price": 148000,
@@ -138,17 +162,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/87486673",
-            "price": 97800,
-            "name": "チャンピオンズフェス",
+            "link": "/items/1865634893",
+            "price": 48000,
+            "name": "　チャンピオンズフェ",
             "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1865634893",
-            "price": 48000,
-            "name": "　チャンピオンズフェ",
+            "link": "/items/87486673",
+            "price": 97800,
+            "name": "チャンピオンズフェス",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -162,17 +186,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1865634893",
-            "price": 48000,
-            "name": "　チャンピオンズフェ",
+            "link": "/items/87486673",
+            "price": 97800,
+            "name": "チャンピオンズフェス",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/87486673",
-            "price": 97800,
-            "name": "チャンピオンズフェス",
+            "link": "/items/1865634893",
+            "price": 48000,
+            "name": "　チャンピオンズフェ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -182,30 +206,6 @@
             "price": 148000,
             "name": "チャンピオンズフェス",
             "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/87486673",
-            "price": 97800,
-            "name": "チャンピオンズフェス",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1865634893",
-            "price": 48000,
-            "name": "　チャンピオンズフェ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36814",
-            "price": 148000,
-            "name": "チャンピオンズフェス",
-            "date": "2023-01-01",
             "stock": 1
         }
     ]

@@ -3,6 +3,46 @@
         {
             "market": "magi",
             "link": "/items/1426723217",
+            "price": 1800,
+            "name": "美品！ロストスイーパ",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1821650407",
+            "price": 2000,
+            "name": "ロストスイーパー U",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24321",
+            "price": 2500,
+            "name": "ロストスイーパー(U",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36393",
+            "price": 2180,
+            "name": "ロストスイーパー12",
+            "date": "2023-01-09",
+            "stock": 87
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g126-100-S11-B/",
+            "price": 2200,
+            "name": "【ポケカ】ＵＲ◇ロス",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1426723217",
             "price": 1820,
             "name": "美品！ロストスイーパ",
             "date": "2023-01-08",
@@ -186,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36393",
-            "price": 2180,
-            "name": "ロストスイーパー12",
-            "date": "2023-01-02",
-            "stock": 63
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36452",
             "price": 1880,
             "name": "ロストスイーパー12",
@@ -201,35 +233,11 @@
             "stock": 1
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g126-100-S11-B/",
-            "price": 2200,
-            "name": "【ポケカ】ＵＲ◇ロス",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1821650407",
-            "price": 2000,
-            "name": "ロストスイーパー U",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36452",
-            "price": 1880,
-            "name": "ロストスイーパー12",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36393",
             "price": 2180,
             "name": "ロストスイーパー12",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 63
         },
         {
@@ -237,7 +245,7 @@
             "link": "/shop/g/g126-100-S11-B/",
             "price": 2200,
             "name": "【ポケカ】ＵＲ◇ロス",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
         }
     ]

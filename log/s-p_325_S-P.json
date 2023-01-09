@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37683",
+            "price": 1880,
+            "name": "ルギアVSTAR32",
+            "date": "2023-01-09",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37629",
+            "price": 1980,
+            "name": "ルギアVSTAR32",
+            "date": "2023-01-09",
+            "stock": 36
+        },
+        {
             "market": "magi",
             "link": "/items/2047750756",
             "price": 1699,
@@ -58,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37683",
-            "price": 1880,
-            "name": "ルギアVSTAR32",
-            "date": "2023-01-06",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37629",
             "price": 1980,
             "name": "ルギアVSTAR32",
             "date": "2023-01-06",
             "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37683",
+            "price": 1880,
+            "name": "ルギアVSTAR32",
+            "date": "2023-01-06",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -167,30 +183,6 @@
             "name": "ルギアVSTAR32",
             "date": "2023-01-02",
             "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/2047750756",
-            "price": 1700,
-            "name": "ルギアVSTAR 3",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25580",
-            "price": 2000,
-            "name": "ルギアVSTAR(P",
-            "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37629",
-            "price": 1980,
-            "name": "ルギアVSTAR32",
-            "date": "2023-01-01",
-            "stock": 15
         }
     ]
 }

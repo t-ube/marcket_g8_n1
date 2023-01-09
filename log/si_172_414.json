@@ -5,6 +5,22 @@
             "link": "/items/1110381364",
             "price": 150,
             "name": "エーフィV TD 1",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21775",
+            "price": 200,
+            "name": "エーフィV(D){超",
+            "date": "2023-01-09",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1110381364",
+            "price": 150,
+            "name": "エーフィV TD 1",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -135,22 +151,6 @@
             "name": "エーフィV172/4",
             "date": "2023-01-02",
             "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1110381364",
-            "price": 150,
-            "name": "エーフィV TD 1",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21775",
-            "price": 200,
-            "name": "エーフィV(D){超",
-            "date": "2023-01-01",
-            "stock": 10
         }
     ]
 }

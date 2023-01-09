@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37503",
+            "price": 80,
+            "name": "ギャロップ011/0",
+            "date": "2023-01-09",
+            "stock": 216
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-098-S12-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｒ◇ギャロ",
+            "date": "2023-01-09",
+            "stock": 16
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25491",
             "price": 50,
@@ -174,30 +190,6 @@
             "price": 77,
             "name": "【ポケカ】Ｒ◇ギャロ",
             "date": "2023-01-02",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25491",
-            "price": 50,
-            "name": "ギャロップ(R){炎",
-            "date": "2023-01-01",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37503",
-            "price": 80,
-            "name": "ギャロップ011/0",
-            "date": "2023-01-01",
-            "stock": 277
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-098-S12-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｒ◇ギャロ",
-            "date": "2023-01-01",
             "stock": 19
         }
     ]

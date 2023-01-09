@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17409",
             "price": 300,
             "name": "エースバーンVMAX",
+            "date": "2023-01-09",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19015",
+            "price": 280,
+            "name": "エースバーンVMAX",
+            "date": "2023-01-09",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17409",
+            "price": 300,
+            "name": "エースバーンVMAX",
             "date": "2023-01-08",
             "stock": 5
         },
@@ -71,22 +87,6 @@
             "name": "エースバーンVMAX",
             "date": "2023-01-02",
             "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17409",
-            "price": 300,
-            "name": "エースバーンVMAX",
-            "date": "2023-01-01",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19015",
-            "price": 280,
-            "name": "エースバーンVMAX",
-            "date": "2023-01-01",
-            "stock": 2
         }
     ]
 }

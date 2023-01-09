@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24228",
+            "price": 100,
+            "name": "メリープ(-){雷}",
+            "date": "2023-01-09",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36307",
+            "price": 80,
+            "name": "メリープ002/02",
+            "date": "2023-01-09",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g002-020-SPZ-Y/",
+            "price": 88,
+            "name": "【ポケカ】ミラー仕様",
+            "date": "2023-01-09",
+            "stock": 3
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g002-020-SPZ-Y/",
             "price": 88,
@@ -110,22 +134,6 @@
             "price": 88,
             "name": "【ポケカ】ミラー仕様",
             "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24228",
-            "price": 100,
-            "name": "メリープ(-){雷}",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g002-020-SPZ-Y/",
-            "price": 88,
-            "name": "【ポケカ】ミラー仕様",
-            "date": "2023-01-01",
             "stock": 3
         }
     ]

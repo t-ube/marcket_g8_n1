@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29767",
+            "price": 1530,
+            "name": "ホップ005/S-P",
+            "date": "2023-01-09",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7032",
+            "price": 1780,
+            "name": "ホップ005/S-P",
+            "date": "2023-01-09",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7032",
             "price": 1780,
             "name": "ホップ005/S-P",
@@ -50,6 +66,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29767",
+            "price": 1530,
+            "name": "ホップ005/S-P",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7032",
             "price": 1780,
             "name": "ホップ005/S-P",
@@ -61,22 +85,6 @@
             "link": "https://www.cardrush-pokemon.jp/product/29767",
             "price": 1530,
             "name": "ホップ005/S-P",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7032",
-            "price": 1780,
-            "name": "ホップ005/S-P",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29767",
-            "price": 1530,
-            "name": "ホップ005/S-P",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -85,7 +93,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/7032",
             "price": 1780,
             "name": "ホップ005/S-P",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 2
         }
     ]

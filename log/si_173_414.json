@@ -5,6 +5,30 @@
             "link": "/items/449220312",
             "price": 27000,
             "name": "エーフィVMAX T",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33161",
+            "price": 1680,
+            "name": "エーフィVMAX17",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23413",
+            "price": 1780,
+            "name": "エーフィVMAX17",
+            "date": "2023-01-09",
+            "stock": 50
+        },
+        {
+            "market": "magi",
+            "link": "/items/449220312",
+            "price": 27000,
+            "name": "エーフィVMAX T",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -50,27 +74,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33161",
+            "price": 1680,
+            "name": "エーフィVMAX17",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23413",
             "price": 1780,
             "name": "エーフィVMAX17",
             "date": "2023-01-06",
             "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33161",
-            "price": 1680,
-            "name": "エーフィVMAX17",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33161",
-            "price": 1680,
-            "name": "エーフィVMAX17",
-            "date": "2023-01-05",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -82,11 +98,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23413",
-            "price": 1780,
+            "link": "https://www.cardrush-pokemon.jp/product/33161",
+            "price": 1680,
             "name": "エーフィVMAX17",
-            "date": "2023-01-04",
-            "stock": 40
+            "date": "2023-01-05",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -95,6 +111,14 @@
             "name": "エーフィVMAX17",
             "date": "2023-01-04",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23413",
+            "price": 1780,
+            "name": "エーフィVMAX17",
+            "date": "2023-01-04",
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -114,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23413",
-            "price": 1780,
-            "name": "エーフィVMAX17",
-            "date": "2023-01-02",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33161",
             "price": 1680,
             "name": "エーフィVMAX17",
@@ -129,28 +145,12 @@
             "stock": 5
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21776",
-            "price": 1600,
-            "name": "エーフィVMAX(D",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23413",
             "price": 1780,
             "name": "エーフィVMAX17",
-            "date": "2023-01-01",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33161",
-            "price": 1680,
-            "name": "エーフィVMAX17",
-            "date": "2023-01-01",
-            "stock": 6
+            "date": "2023-01-02",
+            "stock": 40
         }
     ]
 }
