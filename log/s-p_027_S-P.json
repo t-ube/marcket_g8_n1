@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17275",
             "price": 200,
             "name": "ビート(PROMO)",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6840",
+            "price": 120,
+            "name": "ビート027/S-P",
+            "date": "2023-01-10",
+            "stock": 25
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17275",
+            "price": 200,
+            "name": "ビート(PROMO)",
             "date": "2023-01-09",
             "stock": 4
         },
@@ -111,22 +127,6 @@
             "name": "ビート027/S-P",
             "date": "2023-01-03",
             "stock": 25
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17275",
-            "price": 200,
-            "name": "ビート(PROMO)",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6840",
-            "price": 120,
-            "name": "ビート027/S-P",
-            "date": "2023-01-02",
-            "stock": 26
         }
     ]
 }

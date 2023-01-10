@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33113",
+            "price": 40,
+            "name": "ウッウ122/414",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23343",
+            "price": 50,
+            "name": "ウッウ122/414",
+            "date": "2023-01-10",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23343",
             "price": 50,
             "name": "ウッウ122/414",
@@ -62,14 +78,6 @@
             "price": 50,
             "name": "ウッウ122/414",
             "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23343",
-            "price": 50,
-            "name": "ウッウ122/414",
-            "date": "2023-01-02",
             "stock": 7
         }
     ]

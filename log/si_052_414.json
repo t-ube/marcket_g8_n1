@@ -2,16 +2,32 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/484141557",
+            "price": 500,
+            "name": "ブースターVMAX ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1179918676",
             "price": 2666,
             "name": "ブースターVMAX ",
-            "date": "2023-01-09",
+            "date": "2023-01-10",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/484141557",
             "price": 500,
+            "name": "ブースターVMAX ",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1179918676",
+            "price": 2666,
             "name": "ブースターVMAX ",
             "date": "2023-01-09",
             "stock": 1
@@ -26,16 +42,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1179918676",
-            "price": 2666,
+            "link": "/items/484141557",
+            "price": 500,
             "name": "ブースターVMAX ",
             "date": "2023-01-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/484141557",
-            "price": 500,
+            "link": "/items/1179918676",
+            "price": 2666,
             "name": "ブースターVMAX ",
             "date": "2023-01-08",
             "stock": 1
@@ -79,14 +95,6 @@
             "name": "ブースターVMAX0",
             "date": "2023-01-03",
             "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23254",
-            "price": 980,
-            "name": "ブースターVMAX0",
-            "date": "2023-01-02",
-            "stock": 20
         }
     ]
 }

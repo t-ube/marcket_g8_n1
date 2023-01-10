@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/26374",
             "price": 2000,
             "name": "アクロマの実験(SA",
+            "date": "2023-01-10",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38682",
+            "price": 1390,
+            "name": "アクロマの実験235",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38415",
+            "price": 1480,
+            "name": "アクロマの実験235",
+            "date": "2023-01-10",
+            "stock": 159
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26374",
+            "price": 2000,
+            "name": "アクロマの実験(SA",
             "date": "2023-01-09",
             "stock": 4
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38682",
-            "price": 1390,
-            "name": "アクロマの実験235",
-            "date": "2023-01-07",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38415",
             "price": 1480,
             "name": "アクロマの実験235",
             "date": "2023-01-07",
             "stock": 138
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38682",
+            "price": 1390,
+            "name": "アクロマの実験235",
+            "date": "2023-01-07",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -154,43 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38415",
-            "price": 1580,
-            "name": "アクロマの実験235",
-            "date": "2023-01-03",
-            "stock": 116
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38682",
             "price": 1480,
             "name": "アクロマの実験235",
             "date": "2023-01-03",
             "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26374",
-            "price": 2000,
-            "name": "アクロマの実験(SA",
-            "date": "2023-01-02",
-            "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38415",
             "price": 1580,
             "name": "アクロマの実験235",
-            "date": "2023-01-02",
-            "stock": 103
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38682",
-            "price": 1480,
-            "name": "アクロマの実験235",
-            "date": "2023-01-02",
-            "stock": 2
+            "date": "2023-01-03",
+            "stock": 116
         }
     ]
 }

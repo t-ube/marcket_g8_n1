@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/22413",
             "price": 200,
             "name": "ミジュマル(PROM",
+            "date": "2023-01-10",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35172",
+            "price": 250,
+            "name": "ミジュマル276/S",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34328",
+            "price": 280,
+            "name": "ミジュマル276/S",
+            "date": "2023-01-10",
+            "stock": 112
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22413",
+            "price": 200,
+            "name": "ミジュマル(PROM",
             "date": "2023-01-09",
             "stock": 21
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35172",
-            "price": 250,
-            "name": "ミジュマル276/S",
-            "date": "2023-01-07",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34328",
             "price": 280,
             "name": "ミジュマル276/S",
             "date": "2023-01-07",
             "stock": 112
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35172",
+            "price": 250,
+            "name": "ミジュマル276/S",
+            "date": "2023-01-07",
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -191,38 +215,6 @@
             "name": "ミジュマル276/S",
             "date": "2023-01-03",
             "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/556222880",
-            "price": 100,
-            "name": "ミジュマル(PROM",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22413",
-            "price": 200,
-            "name": "ミジュマル(PROM",
-            "date": "2023-01-02",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35172",
-            "price": 250,
-            "name": "ミジュマル276/S",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34328",
-            "price": 280,
-            "name": "ミジュマル276/S",
-            "date": "2023-01-02",
-            "stock": 112
         }
     ]
 }
