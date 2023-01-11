@@ -96,7 +96,7 @@ for exp in expansion.getList():
                 # ログ（CSVとSupabaseに記録する）
                 log_file = './log/'+row['master_id']+'.json'
                 log = marcketPrice.priceLogCsv(dataDir)
-                log.save(df, currentDT.strftime('%Y-%m-%d'))
+                log.save(recordDf, currentDT.strftime('%Y-%m-%d'))
                 log.convert2Json(log_file)
                 batch_logs.append(editor.getCardMarketLog(master_id,log.getList()))
 
