@@ -1,12 +1,44 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1466590571",
+            "price": 74,
+            "name": "【特価】キルリア C",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25120",
+            "price": 100,
+            "name": "キルリア(C){超}",
+            "date": "2023-01-10",
+            "stock": 275
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25174",
             "price": 150,
             "name": "キルリア:ミラー(C",
-            "date": "2023-01-09",
+            "date": "2023-01-10",
             "stock": 213
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36980",
+            "price": 320,
+            "name": "キルリア037/06",
+            "date": "2023-01-10",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36926",
+            "price": 280,
+            "name": "キルリア037/06",
+            "date": "2023-01-10",
+            "stock": 317
         },
         {
             "market": "hareruya2",
@@ -17,12 +49,20 @@
             "stock": 286
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25174",
+            "price": 150,
+            "name": "キルリア:ミラー(C",
+            "date": "2023-01-09",
+            "stock": 213
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37090",
-            "price": 270,
+            "link": "https://www.cardrush-pokemon.jp/product/36926",
+            "price": 280,
             "name": "キルリア037/06",
             "date": "2023-01-09",
-            "stock": 5
+            "stock": 331
         },
         {
             "market": "cardrush",
@@ -34,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36926",
-            "price": 280,
+            "link": "https://www.cardrush-pokemon.jp/product/37090",
+            "price": 270,
             "name": "キルリア037/06",
             "date": "2023-01-09",
-            "stock": 331
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -82,6 +122,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36926",
+            "price": 280,
+            "name": "キルリア037/06",
+            "date": "2023-01-08",
+            "stock": 337
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36980",
             "price": 320,
             "name": "キルリア037/06",
@@ -95,14 +143,6 @@
             "name": "キルリア037/06",
             "date": "2023-01-08",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36926",
-            "price": 280,
-            "name": "キルリア037/06",
-            "date": "2023-01-08",
-            "stock": 337
         },
         {
             "market": "torecolo",
@@ -218,6 +258,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1580758133",
+            "price": 450,
+            "name": "キルリア C 037",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/157800291",
             "price": 285,
             "name": "【特価】キルリア C",
@@ -247,14 +295,6 @@
             "name": "キルリア C 037",
             "date": "2023-01-05",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1580758133",
-            "price": 450,
-            "name": "キルリア C 037",
-            "date": "2023-01-05",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -306,6 +346,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/157800291",
+            "price": 285,
+            "name": "【特価】キルリア C",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2120432795",
             "price": 295,
             "name": "キルリア C 037",
@@ -317,14 +365,6 @@
             "link": "/items/1580758133",
             "price": 450,
             "name": "キルリア C 037",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/157800291",
-            "price": 285,
-            "name": "【特価】キルリア C",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -378,6 +418,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/2120432795",
+            "price": 298,
+            "name": "キルリア C 037",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1865630278",
             "price": 140,
             "name": "【特価】キルリア C",
@@ -417,14 +465,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/2120432795",
-            "price": 298,
-            "name": "キルリア C 037",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25120",
             "price": 100,
@@ -455,78 +495,6 @@
             "name": "キルリア037/06",
             "date": "2023-01-03",
             "stock": 68
-        },
-        {
-            "market": "magi",
-            "link": "/items/441147892",
-            "price": 450,
-            "name": "キルリア(ミラー) ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1580758133",
-            "price": 450,
-            "name": "キルリア C 037",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150342006",
-            "price": 450,
-            "name": "キルリア C 037",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1865630278",
-            "price": 142,
-            "name": "【特価】キルリア C",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/157800291",
-            "price": 292,
-            "name": "【特価】キルリア C",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25174",
-            "price": 150,
-            "name": "キルリア:ミラー(C",
-            "date": "2023-01-02",
-            "stock": 229
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25120",
-            "price": 100,
-            "name": "キルリア(C){超}",
-            "date": "2023-01-02",
-            "stock": 385
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36926",
-            "price": 280,
-            "name": "キルリア037/06",
-            "date": "2023-01-02",
-            "stock": 371
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36980",
-            "price": 320,
-            "name": "キルリア037/06",
-            "date": "2023-01-02",
-            "stock": 71
         }
     ]
 }

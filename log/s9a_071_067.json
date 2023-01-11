@@ -2,10 +2,42 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/888417046",
+            "link": "/items/1027848476",
             "price": 200,
-            "name": "ポケカ　バサギリ　s",
-            "date": "2023-01-09",
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1302171297",
+            "price": 350,
+            "name": "【値下げ2枚】バサギ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/340443490",
+            "price": 1200,
+            "name": "バサギリ  8枚CH",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1675554101",
+            "price": 440,
+            "name": "【2枚】バサギリ C",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/177537484",
+            "price": 500,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-10",
             "stock": 1
         },
         {
@@ -13,6 +45,86 @@
             "link": "/items/2079340489",
             "price": 1100,
             "name": "バサギリV SR 0",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/634459642",
+            "price": 200,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/719385558",
+            "price": 3900,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/888417046",
+            "price": 200,
+            "name": "ポケカ　バサギリ　s",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/419050419",
+            "price": 166,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22820",
+            "price": 150,
+            "name": "バサギリ(CHR){",
+            "date": "2023-01-10",
+            "stock": 238
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33695",
+            "price": 180,
+            "name": "バサギリ071/06",
+            "date": "2023-01-10",
+            "stock": 605
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33788",
+            "price": 170,
+            "name": "バサギリ071/06",
+            "date": "2023-01-10",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g071-067-S9A-B/",
+            "price": 66,
+            "name": "【ポケカ】ＣＨＲ◇バ",
+            "date": "2023-01-10",
+            "stock": 13
+        },
+        {
+            "market": "magi",
+            "link": "/items/2079340489",
+            "price": 1100,
+            "name": "バサギリV SR 0",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1675554101",
+            "price": 440,
+            "name": "【2枚】バサギリ C",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -42,9 +154,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1302171297",
-            "price": 350,
-            "name": "【値下げ2枚】バサギ",
+            "link": "/items/888417046",
+            "price": 200,
+            "name": "ポケカ　バサギリ　s",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -58,9 +170,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1675554101",
-            "price": 440,
-            "name": "【2枚】バサギリ C",
+            "link": "/items/1302171297",
+            "price": 350,
+            "name": "【値下げ2枚】バサギ",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -82,19 +194,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33695",
-            "price": 180,
-            "name": "バサギリ071/06",
-            "date": "2023-01-09",
-            "stock": 605
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33788",
             "price": 170,
             "name": "バサギリ071/06",
             "date": "2023-01-09",
             "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33695",
+            "price": 180,
+            "name": "バサギリ071/06",
+            "date": "2023-01-09",
+            "stock": 605
         },
         {
             "market": "torecolo",
@@ -103,14 +215,6 @@
             "name": "【ポケカ】ＣＨＲ◇バ",
             "date": "2023-01-09",
             "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/1675554101",
-            "price": 440,
-            "name": "【2枚】バサギリ C",
-            "date": "2023-01-08",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -185,6 +289,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1675554101",
+            "price": 440,
+            "name": "【2枚】バサギリ C",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22820",
             "price": 150,
@@ -194,19 +306,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33788",
-            "price": 170,
-            "name": "バサギリ071/06",
-            "date": "2023-01-08",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33695",
             "price": 180,
             "name": "バサギリ071/06",
             "date": "2023-01-08",
             "stock": 605
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33788",
+            "price": 170,
+            "name": "バサギリ071/06",
+            "date": "2023-01-08",
+            "stock": 23
         },
         {
             "market": "torecolo",
@@ -218,19 +330,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/160072200",
-            "price": 200,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/419050419",
             "price": 166,
             "name": "バサギリ CHR 0",
             "date": "2023-01-07",
             "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/160072200",
+            "price": 200,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-07",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -330,22 +442,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1302171297",
-            "price": 350,
-            "name": "【値下げ2枚】バサギ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/634459642",
-            "price": 200,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1675554101",
             "price": 440,
             "name": "【2枚】バサギリ C",
@@ -389,6 +485,22 @@
             "link": "/items/888417046",
             "price": 200,
             "name": "ポケカ　バサギリ　s",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/634459642",
+            "price": 200,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1302171297",
+            "price": 350,
+            "name": "【値下げ2枚】バサギ",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -402,19 +514,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33695",
-            "price": 280,
-            "name": "バサギリ071/06",
-            "date": "2023-01-06",
-            "stock": 607
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33788",
             "price": 260,
             "name": "バサギリ071/06",
             "date": "2023-01-06",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33695",
+            "price": 280,
+            "name": "バサギリ071/06",
+            "date": "2023-01-06",
+            "stock": 607
         },
         {
             "market": "torecolo",
@@ -426,19 +538,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1027848476",
-            "price": 200,
+            "link": "/items/419050419",
+            "price": 166,
             "name": "バサギリ CHR 0",
             "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/634459642",
-            "price": 200,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-05",
-            "stock": 1
+            "stock": 3
         },
         {
             "market": "magi",
@@ -450,11 +554,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/419050419",
-            "price": 166,
+            "link": "/items/634459642",
+            "price": 200,
             "name": "バサギリ CHR 0",
             "date": "2023-01-05",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "magi",
@@ -492,6 +596,14 @@
             "market": "magi",
             "link": "/items/719385558",
             "price": 3900,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027848476",
+            "price": 200,
             "name": "バサギリ CHR 0",
             "date": "2023-01-05",
             "stock": 1
@@ -626,8 +738,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/719385558",
-            "price": 3900,
+            "link": "/items/177537484",
+            "price": 500,
             "name": "バサギリ CHR 0",
             "date": "2023-01-03",
             "stock": 1
@@ -637,6 +749,38 @@
             "link": "/items/888417046",
             "price": 200,
             "name": "ポケカ　バサギリ　s",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1302171297",
+            "price": 350,
+            "name": "【値下げ2枚】バサギ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/634459642",
+            "price": 200,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/419050419",
+            "price": 166,
+            "name": "バサギリ CHR 0",
+            "date": "2023-01-03",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/719385558",
+            "price": 3900,
+            "name": "バサギリ CHR 0",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -655,38 +799,6 @@
             "name": "【2枚】バサギリ C",
             "date": "2023-01-03",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/634459642",
-            "price": 200,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1302171297",
-            "price": 350,
-            "name": "【値下げ2枚】バサギ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/177537484",
-            "price": 500,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/419050419",
-            "price": 166,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-03",
-            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -718,102 +830,6 @@
             "price": 66,
             "name": "【ポケカ】ＣＨＲ◇バ",
             "date": "2023-01-03",
-            "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/719385558",
-            "price": 3900,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1675554101",
-            "price": 440,
-            "name": "【2枚】バサギリ C",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1027848476",
-            "price": 200,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/419050419",
-            "price": 166,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/634459642",
-            "price": 200,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/888417046",
-            "price": 200,
-            "name": "ポケカ　バサギリ　s",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1302171297",
-            "price": 350,
-            "name": "【値下げ2枚】バサギ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/177537484",
-            "price": 500,
-            "name": "バサギリ CHR 0",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22820",
-            "price": 150,
-            "name": "バサギリ(CHR){",
-            "date": "2023-01-02",
-            "stock": 235
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33695",
-            "price": 280,
-            "name": "バサギリ071/06",
-            "date": "2023-01-02",
-            "stock": 545
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33788",
-            "price": 260,
-            "name": "バサギリ071/06",
-            "date": "2023-01-02",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g071-067-S9A-B/",
-            "price": 66,
-            "name": "【ポケカ】ＣＨＲ◇バ",
-            "date": "2023-01-02",
             "stock": 14
         }
     ]

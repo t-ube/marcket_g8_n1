@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23366",
+            "price": 100,
+            "name": "ヒスイゾロアーク(R",
+            "date": "2023-01-10",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35254",
+            "price": 80,
+            "name": "ヒスイゾロアーク03",
+            "date": "2023-01-10",
+            "stock": 84
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g030-071-S10A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｒ◇ヒスイ",
+            "date": "2023-01-10",
+            "stock": 16
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35254",
             "price": 80,
@@ -110,22 +134,6 @@
             "price": 110,
             "name": "【ポケカ】Ｒ◇ヒスイ",
             "date": "2023-01-03",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35254",
-            "price": 80,
-            "name": "ヒスイゾロアーク03",
-            "date": "2023-01-02",
-            "stock": 91
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g030-071-S10A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｒ◇ヒスイ",
-            "date": "2023-01-02",
             "stock": 12
         }
     ]

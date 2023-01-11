@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/26343",
             "price": 3500,
             "name": "ビッパ(AR){無}",
+            "date": "2023-01-10",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38651",
+            "price": 2350,
+            "name": "ビッパ204/172",
+            "date": "2023-01-10",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38384",
+            "price": 2480,
+            "name": "ビッパ204/172",
+            "date": "2023-01-10",
+            "stock": 83
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26343",
+            "price": 3500,
+            "name": "ビッパ(AR){無}",
             "date": "2023-01-09",
             "stock": 2
         },
@@ -154,42 +178,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38384",
-            "price": 2780,
-            "name": "ビッパ204/172",
-            "date": "2023-01-03",
-            "stock": 76
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38651",
             "price": 2630,
             "name": "ビッパ204/172",
             "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657469711",
-            "price": 3000,
-            "name": "ビッパ AR 204",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26343",
-            "price": 3500,
-            "name": "ビッパ(AR){無}",
-            "date": "2023-01-02",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38651",
-            "price": 2630,
-            "name": "ビッパ204/172",
-            "date": "2023-01-02",
             "stock": 1
         },
         {
@@ -197,8 +189,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/38384",
             "price": 2780,
             "name": "ビッパ204/172",
-            "date": "2023-01-02",
-            "stock": 65
+            "date": "2023-01-03",
+            "stock": 76
         }
     ]
 }

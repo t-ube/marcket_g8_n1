@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/179421570",
+            "price": 12390,
+            "name": "ウッウ【P】{226",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1620125445",
             "price": 19000,
             "name": "PSA10 ウッウ ",
-            "date": "2023-01-09",
+            "date": "2023-01-10",
             "stock": 1
         },
         {
@@ -13,6 +21,38 @@
             "link": "/items/1511272733",
             "price": 10479,
             "name": "〔状態A-〕ウッウ【",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21891",
+            "price": 11800,
+            "name": "ウッウ226/S-P",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32443",
+            "price": 9980,
+            "name": "ウッウ226/S-P",
+            "date": "2023-01-10",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/1511272733",
+            "price": 10479,
+            "name": "〔状態A-〕ウッウ【",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1620125445",
+            "price": 19000,
+            "name": "PSA10 ウッウ ",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -138,6 +178,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1511272733",
+            "price": 9954,
+            "name": "〔状態A-〕ウッウ【",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/256485542",
             "price": 17800,
             "name": "PSA10 ウッウ ",
@@ -153,14 +201,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1511272733",
-            "price": 9954,
-            "name": "〔状態A-〕ウッウ【",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32443",
             "price": 9480,
@@ -170,8 +210,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/256485542",
-            "price": 17800,
+            "link": "/items/1620125445",
+            "price": 19000,
             "name": "PSA10 ウッウ ",
             "date": "2023-01-04",
             "stock": 1
@@ -186,8 +226,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1620125445",
-            "price": 19000,
+            "link": "/items/256485542",
+            "price": 17800,
             "name": "PSA10 ウッウ ",
             "date": "2023-01-04",
             "stock": 1
@@ -202,9 +242,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1511272733",
-            "price": 9954,
-            "name": "〔状態A-〕ウッウ【",
+            "link": "/items/1620125445",
+            "price": 19000,
+            "name": "PSA10 ウッウ ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -218,50 +258,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/1620125445",
-            "price": 19000,
-            "name": "PSA10 ウッウ ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32443",
-            "price": 9480,
-            "name": "ウッウ226/S-P",
-            "date": "2023-01-03",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/1780648155",
-            "price": 11340,
-            "name": "ウッウ【P】{226",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1620125445",
-            "price": 19000,
-            "name": "PSA10 ウッウ ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1511272733",
             "price": 9954,
             "name": "〔状態A-〕ウッウ【",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/256485542",
-            "price": 17800,
-            "name": "PSA10 ウッウ ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
@@ -269,16 +269,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/32443",
             "price": 9480,
             "name": "ウッウ226/S-P",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21891",
-            "price": 10800,
-            "name": "ウッウ226/S-P",
-            "date": "2023-01-02",
-            "stock": 1
         }
     ]
 }

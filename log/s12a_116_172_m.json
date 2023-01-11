@@ -2,11 +2,83 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/345221050",
+            "price": 100,
+            "name": "レジドラゴ 116/",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1782934071",
+            "price": 100,
+            "name": "レジドラゴ 116/",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1231288711",
+            "price": 100,
+            "name": "レジドラゴ 116/",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1432939453",
+            "price": 120,
+            "name": "レジドラゴ【-】{1",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1306222296",
             "price": 100,
             "name": "レジドラゴ 116/",
-            "date": "2023-01-09",
+            "date": "2023-01-10",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26139",
+            "price": 50,
+            "name": "レジドラゴ(CP){",
+            "date": "2023-01-10",
+            "stock": 29
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26245",
+            "price": 100,
+            "name": "レジドラゴ:ミラー(",
+            "date": "2023-01-10",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38580",
+            "price": 70,
+            "name": "レジドラゴ116/1",
+            "date": "2023-01-10",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38200",
+            "price": 30,
+            "name": "レジドラゴ116/1",
+            "date": "2023-01-10",
+            "stock": 126
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38306",
+            "price": 80,
+            "name": "レジドラゴ116/1",
+            "date": "2023-01-10",
+            "stock": 620
         },
         {
             "market": "magi",
@@ -18,7 +90,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1231288711",
+            "link": "/items/1306222296",
             "price": 100,
             "name": "レジドラゴ 116/",
             "date": "2023-01-09",
@@ -27,6 +99,14 @@
         {
             "market": "magi",
             "link": "/items/1782934071",
+            "price": 100,
+            "name": "レジドラゴ 116/",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1231288711",
             "price": 100,
             "name": "レジドラゴ 116/",
             "date": "2023-01-09",
@@ -55,22 +135,6 @@
             "name": "レジドラゴ:ミラー(",
             "date": "2023-01-09",
             "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38200",
-            "price": 30,
-            "name": "レジドラゴ116/1",
-            "date": "2023-01-09",
-            "stock": 126
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38306",
-            "price": 80,
-            "name": "レジドラゴ116/1",
-            "date": "2023-01-09",
-            "stock": 597
         },
         {
             "market": "cardrush",
@@ -81,24 +145,24 @@
             "stock": 15
         },
         {
-            "market": "magi",
-            "link": "/items/1432939453",
-            "price": 120,
-            "name": "レジドラゴ【-】{1",
-            "date": "2023-01-08",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38306",
+            "price": 80,
+            "name": "レジドラゴ116/1",
+            "date": "2023-01-09",
+            "stock": 597
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38200",
+            "price": 30,
+            "name": "レジドラゴ116/1",
+            "date": "2023-01-09",
+            "stock": 126
         },
         {
             "market": "magi",
-            "link": "/items/1306222296",
-            "price": 100,
-            "name": "レジドラゴ 116/",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1782934071",
+            "link": "/items/1231288711",
             "price": 100,
             "name": "レジドラゴ 116/",
             "date": "2023-01-08",
@@ -114,19 +178,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/1231288711",
+            "link": "/items/1782934071",
             "price": 100,
             "name": "レジドラゴ 116/",
             "date": "2023-01-08",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26139",
-            "price": 50,
-            "name": "レジドラゴ(CP){",
+            "market": "magi",
+            "link": "/items/1306222296",
+            "price": 100,
+            "name": "レジドラゴ 116/",
             "date": "2023-01-08",
-            "stock": 29
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1432939453",
+            "price": 120,
+            "name": "レジドラゴ【-】{1",
+            "date": "2023-01-08",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -137,12 +209,20 @@
             "stock": 21
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26139",
+            "price": 50,
+            "name": "レジドラゴ(CP){",
+            "date": "2023-01-08",
+            "stock": 29
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38580",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/38200",
+            "price": 30,
             "name": "レジドラゴ116/1",
             "date": "2023-01-08",
-            "stock": 14
+            "stock": 126
         },
         {
             "market": "cardrush",
@@ -154,17 +234,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38200",
-            "price": 30,
+            "link": "https://www.cardrush-pokemon.jp/product/38580",
+            "price": 70,
             "name": "レジドラゴ116/1",
             "date": "2023-01-08",
-            "stock": 126
+            "stock": 14
         },
         {
             "market": "magi",
-            "link": "/items/1432939453",
-            "price": 120,
-            "name": "レジドラゴ【-】{1",
+            "link": "/items/345221050",
+            "price": 100,
+            "name": "レジドラゴ 116/",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -178,9 +258,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/345221050",
-            "price": 100,
-            "name": "レジドラゴ 116/",
+            "link": "/items/1432939453",
+            "price": 120,
+            "name": "レジドラゴ【-】{1",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -202,19 +282,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26139",
-            "price": 50,
-            "name": "レジドラゴ(CP){",
-            "date": "2023-01-07",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26245",
             "price": 100,
             "name": "レジドラゴ:ミラー(",
             "date": "2023-01-07",
             "stock": 21
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26139",
+            "price": 50,
+            "name": "レジドラゴ(CP){",
+            "date": "2023-01-07",
+            "stock": 29
         },
         {
             "market": "cardrush",
@@ -226,19 +306,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38306",
-            "price": 80,
-            "name": "レジドラゴ116/1",
-            "date": "2023-01-07",
-            "stock": 596
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38580",
             "price": 70,
             "name": "レジドラゴ116/1",
             "date": "2023-01-07",
             "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38306",
+            "price": 80,
+            "name": "レジドラゴ116/1",
+            "date": "2023-01-07",
+            "stock": 596
         },
         {
             "market": "magi",
@@ -370,19 +450,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38580",
-            "price": 70,
-            "name": "レジドラゴ116/1",
-            "date": "2023-01-05",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38306",
             "price": 80,
             "name": "レジドラゴ116/1",
             "date": "2023-01-05",
             "stock": 586
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38580",
+            "price": 70,
+            "name": "レジドラゴ116/1",
+            "date": "2023-01-05",
+            "stock": 15
         },
         {
             "market": "cardrush",
@@ -465,20 +545,20 @@
             "stock": 15
         },
         {
-            "market": "magi",
-            "link": "/items/1782934071",
-            "price": 100,
-            "name": "レジドラゴ 116/",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26245",
             "price": 100,
             "name": "レジドラゴ:ミラー(",
             "date": "2023-01-03",
             "stock": 22
+        },
+        {
+            "market": "magi",
+            "link": "/items/1782934071",
+            "price": 100,
+            "name": "レジドラゴ 116/",
+            "date": "2023-01-03",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -526,70 +606,6 @@
             "price": 30,
             "name": "レジドラゴ116/1",
             "date": "2023-01-03",
-            "stock": 128
-        },
-        {
-            "market": "magi",
-            "link": "/items/345221050",
-            "price": 100,
-            "name": "レジドラゴ 116/",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1231288711",
-            "price": 100,
-            "name": "レジドラゴ 116/",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1782934071",
-            "price": 100,
-            "name": "レジドラゴ 116/",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26139",
-            "price": 50,
-            "name": "レジドラゴ(CP){",
-            "date": "2023-01-02",
-            "stock": 32
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26245",
-            "price": 100,
-            "name": "レジドラゴ:ミラー(",
-            "date": "2023-01-02",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38306",
-            "price": 80,
-            "name": "レジドラゴ116/1",
-            "date": "2023-01-02",
-            "stock": 578
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38580",
-            "price": 70,
-            "name": "レジドラゴ116/1",
-            "date": "2023-01-02",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38200",
-            "price": 30,
-            "name": "レジドラゴ116/1",
-            "date": "2023-01-02",
             "stock": 128
         }
     ]
