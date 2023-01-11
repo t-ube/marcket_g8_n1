@@ -3,26 +3,18 @@
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22779",
-            "price": 150,
+            "price": 150.0,
             "name": "クロバットV(D){",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33642",
-            "price": 120,
+            "price": 120.0,
             "name": "クロバットV010/",
             "date": "2023-01-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33642",
-            "price": 120,
-            "name": "クロバットV010/",
-            "date": "2023-01-03",
-            "stock": 5
+            "stock": 2.0
         }
     ]
 }

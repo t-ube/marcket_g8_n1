@@ -3,618 +3,562 @@
         {
             "market": "magi",
             "link": "/items/971138316",
-            "price": 200,
+            "price": 200.0,
             "name": "ソルロック&ルナトー",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1162356106",
-            "price": 100,
-            "name": "No.38 P屋　ル",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/550533387",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/33827697",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/36196519",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/814681995",
+            "price": 25.0,
+            "name": "1枚25円 ルナトー",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/855985538",
-            "price": 120,
+            "price": 120.0,
             "name": "ルナトーン【-】{0",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/814681995",
-            "price": 25,
-            "name": "1枚25円 ルナトー",
+            "link": "/items/1162356106",
+            "price": 100.0,
+            "name": "No.38 P屋　ル",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26079",
-            "price": 50,
-            "name": "ルナトーン(CP){",
-            "date": "2023-01-10",
-            "stock": 88
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26219",
-            "price": 100,
-            "name": "ルナトーン:ミラー(",
-            "date": "2023-01-10",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38140",
-            "price": 30,
-            "name": "ルナトーン056/1",
-            "date": "2023-01-10",
-            "stock": 202
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38280",
-            "price": 80,
-            "name": "ルナトーン056/1",
-            "date": "2023-01-10",
-            "stock": 61
-        },
-        {
-            "market": "magi",
-            "link": "/items/814681995",
-            "price": 25,
-            "name": "1枚25円 ルナトー",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/550533387",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/33827697",
-            "price": 100,
+            "price": 100.0,
+            "name": "ルナトーン 056/",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/550533387",
+            "price": 100.0,
+            "name": "ルナトーン 056/",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26079",
+            "price": 50.0,
+            "name": "ルナトーン(CP){",
+            "date": "2023-01-10",
+            "stock": 88.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26219",
+            "price": 100.0,
+            "name": "ルナトーン:ミラー(",
+            "date": "2023-01-10",
+            "stock": 45.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38280",
+            "price": 80.0,
+            "name": "ルナトーン056/1",
+            "date": "2023-01-10",
+            "stock": 61.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38140",
+            "price": 30.0,
+            "name": "ルナトーン056/1",
+            "date": "2023-01-10",
+            "stock": 202.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/814681995",
+            "price": 25.0,
+            "name": "1枚25円 ルナトー",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/550533387",
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/33827697",
+            "price": 100.0,
+            "name": "ルナトーン 056/",
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/36196519",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/971138316",
-            "price": 200,
+            "price": 200.0,
             "name": "ソルロック&ルナトー",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1162356106",
-            "price": 100,
+            "price": 100.0,
             "name": "No.38 P屋　ル",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/855985538",
-            "price": 120,
+            "price": 120.0,
             "name": "ルナトーン【-】{0",
             "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26079",
-            "price": 50,
-            "name": "ルナトーン(CP){",
-            "date": "2023-01-09",
-            "stock": 88
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26219",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン:ミラー(",
             "date": "2023-01-09",
-            "stock": 45
+            "stock": 45.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26079",
+            "price": 50.0,
+            "name": "ルナトーン(CP){",
+            "date": "2023-01-09",
+            "stock": 88.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38280",
-            "price": 80,
+            "price": 80.0,
             "name": "ルナトーン056/1",
             "date": "2023-01-09",
-            "stock": 61
+            "stock": 61.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38140",
-            "price": 30,
+            "price": 30.0,
             "name": "ルナトーン056/1",
             "date": "2023-01-09",
-            "stock": 212
+            "stock": 212.0
         },
         {
             "market": "magi",
             "link": "/items/855985538",
-            "price": 120,
+            "price": 120.0,
             "name": "ルナトーン【-】{0",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/36196519",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/550533387",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/33827697",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1162356106",
-            "price": 100,
+            "price": 100.0,
             "name": "No.38 P屋　ル",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/971138316",
-            "price": 200,
+            "price": 200.0,
             "name": "ソルロック&ルナトー",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/814681995",
-            "price": 25,
+            "price": 25.0,
             "name": "1枚25円 ルナトー",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26079",
-            "price": 50,
+            "price": 50.0,
             "name": "ルナトーン(CP){",
             "date": "2023-01-08",
-            "stock": 88
+            "stock": 88.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26219",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン:ミラー(",
             "date": "2023-01-08",
-            "stock": 16
+            "stock": 16.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38280",
-            "price": 80,
+            "price": 80.0,
             "name": "ルナトーン056/1",
             "date": "2023-01-08",
-            "stock": 61
+            "stock": 61.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38140",
-            "price": 30,
+            "price": 30.0,
             "name": "ルナトーン056/1",
             "date": "2023-01-08",
-            "stock": 212
-        },
-        {
-            "market": "magi",
-            "link": "/items/1162356106",
-            "price": 100,
-            "name": "No.38 P屋　ル",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/36196519",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/550533387",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/855985538",
-            "price": 120,
-            "name": "ルナトーン【-】{0",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/814681995",
-            "price": 25,
-            "name": "1枚25円 ルナトー",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/33827697",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-07",
-            "stock": 1
+            "stock": 212.0
         },
         {
             "market": "magi",
             "link": "/items/971138316",
-            "price": 200,
+            "price": 200.0,
             "name": "ソルロック&ルナトー",
             "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26079",
-            "price": 50,
-            "name": "ルナトーン(CP){",
-            "date": "2023-01-07",
-            "stock": 88
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26219",
-            "price": 100,
-            "name": "ルナトーン:ミラー(",
-            "date": "2023-01-07",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38280",
-            "price": 80,
-            "name": "ルナトーン056/1",
-            "date": "2023-01-07",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38140",
-            "price": 30,
-            "name": "ルナトーン056/1",
-            "date": "2023-01-07",
-            "stock": 218
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/855985538",
-            "price": 120,
+            "price": 120.0,
             "name": "ルナトーン【-】{0",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/36196519",
-            "price": 100,
+            "link": "/items/814681995",
+            "price": 25.0,
+            "name": "1枚25円 ルナトー",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/33827697",
+            "price": 100.0,
             "name": "ルナトーン 056/",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/550533387",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/33827697",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26219",
-            "price": 100,
-            "name": "ルナトーン:ミラー(",
-            "date": "2023-01-06",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26079",
-            "price": 50,
-            "name": "ルナトーン(CP){",
-            "date": "2023-01-06",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38140",
-            "price": 30,
-            "name": "ルナトーン056/1",
-            "date": "2023-01-06",
-            "stock": 222
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38280",
-            "price": 80,
-            "name": "ルナトーン056/1",
-            "date": "2023-01-06",
-            "stock": 62
+            "link": "/items/1162356106",
+            "price": 100.0,
+            "name": "No.38 P屋　ル",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/36196519",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26079",
+            "price": 50.0,
+            "name": "ルナトーン(CP){",
+            "date": "2023-01-07",
+            "stock": 88.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26219",
+            "price": 100.0,
+            "name": "ルナトーン:ミラー(",
+            "date": "2023-01-07",
+            "stock": 16.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38280",
+            "price": 80.0,
+            "name": "ルナトーン056/1",
+            "date": "2023-01-07",
+            "stock": 62.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38140",
+            "price": 30.0,
+            "name": "ルナトーン056/1",
+            "date": "2023-01-07",
+            "stock": 218.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/550533387",
+            "price": 100.0,
+            "name": "ルナトーン 056/",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/33827697",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/36196519",
+            "price": 100.0,
+            "name": "ルナトーン 056/",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/855985538",
-            "price": 120,
+            "price": 120.0,
+            "name": "ルナトーン【-】{0",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26219",
+            "price": 100.0,
+            "name": "ルナトーン:ミラー(",
+            "date": "2023-01-06",
+            "stock": 16.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26079",
+            "price": 50.0,
+            "name": "ルナトーン(CP){",
+            "date": "2023-01-06",
+            "stock": 88.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38140",
+            "price": 30.0,
+            "name": "ルナトーン056/1",
+            "date": "2023-01-06",
+            "stock": 222.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38280",
+            "price": 80.0,
+            "name": "ルナトーン056/1",
+            "date": "2023-01-06",
+            "stock": 62.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/36196519",
+            "price": 100.0,
+            "name": "ルナトーン 056/",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/33827697",
+            "price": 100.0,
+            "name": "ルナトーン 056/",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/855985538",
+            "price": 120.0,
             "name": "ルナトーン【-】{0",
             "date": "2023-01-05",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/745712585",
-            "price": 120,
+            "price": 120.0,
             "name": "ルナトーン【-】{0",
             "date": "2023-01-05",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/550533387",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26219",
-            "price": 100,
-            "name": "ルナトーン:ミラー(",
-            "date": "2023-01-05",
-            "stock": 16
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26079",
-            "price": 50,
+            "price": 50.0,
             "name": "ルナトーン(CP){",
             "date": "2023-01-05",
-            "stock": 88
+            "stock": 88.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26219",
+            "price": 100.0,
+            "name": "ルナトーン:ミラー(",
+            "date": "2023-01-05",
+            "stock": 16.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38140",
-            "price": 30,
+            "price": 30.0,
             "name": "ルナトーン056/1",
             "date": "2023-01-05",
-            "stock": 222
+            "stock": 222.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38280",
-            "price": 80,
+            "price": 80.0,
             "name": "ルナトーン056/1",
             "date": "2023-01-05",
-            "stock": 66
+            "stock": 66.0
         },
         {
             "market": "magi",
             "link": "/items/745712585",
-            "price": 120,
+            "price": 120.0,
             "name": "ルナトーン【-】{0",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/855985538",
-            "price": 120,
+            "price": 120.0,
             "name": "ルナトーン【-】{0",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/33827697",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/550533387",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/36196519",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン 056/",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26219",
-            "price": 100,
+            "price": 100.0,
             "name": "ルナトーン:ミラー(",
             "date": "2023-01-04",
-            "stock": 16
+            "stock": 16.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26079",
-            "price": 50,
+            "price": 50.0,
             "name": "ルナトーン(CP){",
             "date": "2023-01-04",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38280",
-            "price": 80,
-            "name": "ルナトーン056/1",
-            "date": "2023-01-04",
-            "stock": 67
+            "stock": 88.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38140",
-            "price": 30,
+            "price": 30.0,
             "name": "ルナトーン056/1",
             "date": "2023-01-04",
-            "stock": 223
-        },
-        {
-            "market": "magi",
-            "link": "/items/36196519",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/33827697",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/550533387",
-            "price": 100,
-            "name": "ルナトーン 056/",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26219",
-            "price": 100,
-            "name": "ルナトーン:ミラー(",
-            "date": "2023-01-03",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26079",
-            "price": 50,
-            "name": "ルナトーン(CP){",
-            "date": "2023-01-03",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38140",
-            "price": 30,
-            "name": "ルナトーン056/1",
-            "date": "2023-01-03",
-            "stock": 223
+            "stock": 223.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38280",
-            "price": 80,
+            "price": 80.0,
             "name": "ルナトーン056/1",
-            "date": "2023-01-03",
-            "stock": 68
+            "date": "2023-01-04",
+            "stock": 67.0
         }
     ]
 }

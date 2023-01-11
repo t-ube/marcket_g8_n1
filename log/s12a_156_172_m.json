@@ -3,1066 +3,946 @@
         {
             "market": "magi",
             "link": "/items/2145097890",
-            "price": 37,
+            "price": 37.0,
             "name": "【４枚セット】チェレ",
             "date": "2023-01-10",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/214577706",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1135788807",
-            "price": 300,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397950903",
-            "price": 150,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/243657656",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289348369",
-            "price": 200,
-            "name": "チェレンの気くばり【",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725268461",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-10",
-            "stock": 1
+            "stock": 4.0
         },
         {
             "market": "magi",
             "link": "/items/930663463",
-            "price": 25,
+            "price": 25.0,
             "name": "1枚25円 s12a",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1502008119",
-            "price": 120,
+            "link": "/items/679231113",
+            "price": 300.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1682166982",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657840750",
-            "price": 30,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-10",
-            "stock": 5
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/923067359",
-            "price": 150,
+            "price": 150.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/679231113",
-            "price": 300,
+            "link": "/items/1657840750",
+            "price": 30.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
-            "name": "チェレンの気くばり:",
-            "date": "2023-01-10",
-            "stock": 24
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26179",
-            "price": 50,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-10",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-10",
-            "stock": 118
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38240",
-            "price": 50,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-10",
-            "stock": 396
+            "stock": 5.0
         },
         {
             "market": "magi",
             "link": "/items/1682166982",
-            "price": 100,
+            "price": 100.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-09",
-            "stock": 1
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1502008119",
+            "price": 120.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/214577706",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725268461",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/243657656",
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397950903",
+            "price": 150.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1135788807",
-            "price": 300,
+            "price": 300.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-09",
-            "stock": 1
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/679231113",
-            "price": 300,
+            "link": "/items/1289348369",
+            "price": 200.0,
+            "name": "チェレンの気くばり【",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26270",
+            "price": 100.0,
+            "name": "チェレンの気くばり:",
+            "date": "2023-01-10",
+            "stock": 24.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26179",
+            "price": 50.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-10",
+            "stock": 34.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38331",
+            "price": 80.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-10",
+            "stock": 118.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38240",
+            "price": 50.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-10",
+            "stock": 396.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/214577706",
+            "price": 150.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289348369",
+            "price": 200.0,
+            "name": "チェレンの気くばり【",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725268461",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1502008119",
+            "price": 120.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657840750",
+            "price": 30.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-09",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/243657656",
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2145097890",
-            "price": 37,
+            "price": 37.0,
             "name": "【４枚セット】チェレ",
             "date": "2023-01-09",
-            "stock": 4
+            "stock": 4.0
         },
         {
             "market": "magi",
-            "link": "/items/923067359",
-            "price": 150,
-            "name": "チェレンの気くばり ",
+            "link": "/items/1397950903",
+            "price": 150.0,
+            "name": "チェレンの気くばり(",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/930663463",
-            "price": 25,
+            "price": 25.0,
             "name": "1枚25円 s12a",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1397950903",
-            "price": 150,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/214577706",
-            "price": 150,
+            "link": "/items/923067359",
+            "price": 150.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/243657656",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657840750",
-            "price": 30,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-09",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502008119",
-            "price": 120,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725268461",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289348369",
-            "price": 200,
-            "name": "チェレンの気くばり【",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
-            "name": "チェレンの気くばり:",
-            "date": "2023-01-09",
-            "stock": 24
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26179",
-            "price": 50,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-09",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-09",
-            "stock": 114
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38240",
-            "price": 50,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-09",
-            "stock": 396
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397950903",
-            "price": 150,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2145097890",
-            "price": 37,
-            "name": "【４枚セット】チェレ",
-            "date": "2023-01-08",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502008119",
-            "price": 120,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/243657656",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/679231113",
-            "price": 300,
+            "price": 300.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1135788807",
-            "price": 300,
+            "price": 300.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923067359",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657840750",
-            "price": 30,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 5
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1682166982",
-            "price": 100,
+            "price": 100.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/214577706",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725268461",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289348369",
-            "price": 200,
-            "name": "チェレンの気くばり【",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/930663463",
-            "price": 25,
-            "name": "1枚25円 s12a",
-            "date": "2023-01-08",
-            "stock": 1
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
+            "price": 100.0,
             "name": "チェレンの気くばり:",
-            "date": "2023-01-08",
-            "stock": 7
+            "date": "2023-01-09",
+            "stock": 24.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26179",
-            "price": 50,
+            "price": 50.0,
             "name": "チェレンの気くばり(",
-            "date": "2023-01-08",
-            "stock": 34
+            "date": "2023-01-09",
+            "stock": 34.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38240",
-            "price": 50,
+            "price": 50.0,
             "name": "チェレンの気くばり1",
-            "date": "2023-01-08",
-            "stock": 396
+            "date": "2023-01-09",
+            "stock": 396.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
+            "price": 80.0,
             "name": "チェレンの気くばり1",
+            "date": "2023-01-09",
+            "stock": 114.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/243657656",
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
             "date": "2023-01-08",
-            "stock": 94
-        },
-        {
-            "market": "magi",
-            "link": "/items/725268461",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1682166982",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2145097890",
-            "price": 37,
-            "name": "【４枚セット】チェレ",
-            "date": "2023-01-07",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1135788807",
-            "price": 300,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/679231113",
-            "price": 300,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/930663463",
-            "price": 25,
-            "name": "1枚25円 s12a",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657840750",
-            "price": 30,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289348369",
-            "price": 200,
-            "name": "チェレンの気くばり【",
-            "date": "2023-01-07",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1397950903",
-            "price": 150,
+            "price": 150.0,
             "name": "チェレンの気くばり(",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502008119",
-            "price": 120,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/214577706",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923067359",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/243657656",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26179",
-            "price": 50,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-07",
-            "stock": 34
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
-            "name": "チェレンの気くばり:",
-            "date": "2023-01-07",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38240",
-            "price": 50,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-07",
-            "stock": 397
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-07",
-            "stock": 89
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2145097890",
-            "price": 37,
+            "price": 37.0,
             "name": "【４枚セット】チェレ",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289348369",
-            "price": 200,
-            "name": "チェレンの気くばり【",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/214577706",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 4.0
         },
         {
             "market": "magi",
             "link": "/items/1502008119",
-            "price": 120,
+            "price": 120.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/243657656",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/679231113",
-            "price": 300,
+            "price": 300.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1682166982",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397950903",
-            "price": 150,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923067359",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657840750",
-            "price": 30,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/725268461",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/930663463",
-            "price": 25,
-            "name": "1枚25円 s12a",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1135788807",
-            "price": 300,
+            "price": 300.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
-            "name": "チェレンの気くばり:",
-            "date": "2023-01-06",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26179",
-            "price": 50,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-06",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-06",
-            "stock": 79
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38240",
-            "price": 50,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-06",
-            "stock": 397
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/679231113",
-            "price": 300,
+            "link": "/items/923067359",
+            "price": 150.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657840750",
+            "price": 30.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-08",
+            "stock": 5.0
         },
         {
             "market": "magi",
             "link": "/items/1682166982",
-            "price": 100,
+            "price": 100.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/214577706",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/725268461",
-            "price": 150,
+            "price": 150.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/243657656",
-            "price": 100,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1
+            "link": "/items/1289348369",
+            "price": 200.0,
+            "name": "チェレンの気くばり【",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/930663463",
-            "price": 40,
+            "price": 25.0,
+            "name": "1枚25円 s12a",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26270",
+            "price": 100.0,
+            "name": "チェレンの気くばり:",
+            "date": "2023-01-08",
+            "stock": 7.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26179",
+            "price": 50.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-08",
+            "stock": 34.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38331",
+            "price": 80.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-08",
+            "stock": 94.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38240",
+            "price": 50.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-08",
+            "stock": 396.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725268461",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/243657656",
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/923067359",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/214577706",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1502008119",
+            "price": 120.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397950903",
+            "price": 150.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289348369",
+            "price": 200.0,
+            "name": "チェレンの気くばり【",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657840750",
+            "price": 30.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/930663463",
+            "price": 25.0,
+            "name": "1枚25円 s12a",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/679231113",
+            "price": 300.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1135788807",
+            "price": 300.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2145097890",
+            "price": 37.0,
+            "name": "【４枚セット】チェレ",
+            "date": "2023-01-07",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1682166982",
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26179",
+            "price": 50.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-07",
+            "stock": 34.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26270",
+            "price": 100.0,
+            "name": "チェレンの気くばり:",
+            "date": "2023-01-07",
+            "stock": 7.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38331",
+            "price": 80.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-07",
+            "stock": 89.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38240",
+            "price": 50.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-07",
+            "stock": 397.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2145097890",
+            "price": 37.0,
+            "name": "【４枚セット】チェレ",
+            "date": "2023-01-06",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397950903",
+            "price": 150.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1135788807",
+            "price": 300.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/930663463",
+            "price": 25.0,
+            "name": "1枚25円 s12a",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725268461",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657840750",
+            "price": 30.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/923067359",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289348369",
+            "price": 200.0,
+            "name": "チェレンの気くばり【",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1682166982",
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/679231113",
+            "price": 300.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/243657656",
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1502008119",
+            "price": 120.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/214577706",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26270",
+            "price": 100.0,
+            "name": "チェレンの気くばり:",
+            "date": "2023-01-06",
+            "stock": 7.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26179",
+            "price": 50.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-06",
+            "stock": 34.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38240",
+            "price": 50.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-06",
+            "stock": 397.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38331",
+            "price": 80.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-06",
+            "stock": 79.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397950903",
+            "price": 150.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/679231113",
+            "price": 300.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289348369",
+            "price": 200.0,
+            "name": "チェレンの気くばり【",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1135788807",
+            "price": 300.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1502008119",
+            "price": 120.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/214577706",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/923067359",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/243657656",
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657840750",
+            "price": 30.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2145097890",
+            "price": 37.0,
+            "name": "【４枚セット】チェレ",
+            "date": "2023-01-05",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/930663463",
+            "price": 40.0,
             "name": "1枚40円 s12a",
             "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2145097890",
-            "price": 37,
-            "name": "【４枚セット】チェレ",
-            "date": "2023-01-05",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657840750",
-            "price": 30,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397950903",
-            "price": 150,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923067359",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/214577706",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502008119",
-            "price": 120,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1135788807",
-            "price": 300,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289348369",
-            "price": 200,
-            "name": "チェレンの気くばり【",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26179",
-            "price": 50,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-05",
-            "stock": 34
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
-            "name": "チェレンの気くばり:",
-            "date": "2023-01-05",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38240",
-            "price": 50,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-05",
-            "stock": 400
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-05",
-            "stock": 79
-        },
-        {
-            "market": "magi",
-            "link": "/items/214577706",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657840750",
-            "price": 30,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-04",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/930663463",
-            "price": 40,
-            "name": "1枚40円 s12a",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1135788807",
-            "price": 300,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/679231113",
-            "price": 300,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/725268461",
-            "price": 150,
+            "price": 150.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-04",
-            "stock": 1
+            "date": "2023-01-05",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1682166982",
-            "price": 150,
+            "price": 100.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26179",
+            "price": 50.0,
+            "name": "チェレンの気くばり(",
+            "date": "2023-01-05",
+            "stock": 34.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26270",
+            "price": 100.0,
+            "name": "チェレンの気くばり:",
+            "date": "2023-01-05",
+            "stock": 7.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38331",
+            "price": 80.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-05",
+            "stock": 79.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38240",
+            "price": 50.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-05",
+            "stock": 400.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/214577706",
+            "price": 150.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657840750",
+            "price": 30.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-04",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/930663463",
+            "price": 40.0,
+            "name": "1枚40円 s12a",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1135788807",
+            "price": 300.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/679231113",
+            "price": 300.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725268461",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1682166982",
+            "price": 150.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2145097890",
-            "price": 37,
+            "price": 37.0,
             "name": "【４枚セット】チェレ",
             "date": "2023-01-04",
-            "stock": 4
+            "stock": 4.0
         },
         {
             "market": "magi",
             "link": "/items/243657656",
-            "price": 100,
+            "price": 100.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1502008119",
-            "price": 120,
+            "price": 120.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/923067359",
-            "price": 150,
+            "price": 150.0,
             "name": "チェレンの気くばり ",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1289348369",
-            "price": 200,
+            "price": 200.0,
             "name": "チェレンの気くばり【",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26179",
-            "price": 50,
+            "price": 50.0,
             "name": "チェレンの気くばり(",
             "date": "2023-01-04",
-            "stock": 34
+            "stock": 34.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
+            "price": 100.0,
             "name": "チェレンの気くばり:",
             "date": "2023-01-04",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38240",
-            "price": 50,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-04",
-            "stock": 400
+            "stock": 10.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
+            "price": 80.0,
             "name": "チェレンの気くばり1",
             "date": "2023-01-04",
-            "stock": 80
-        },
-        {
-            "market": "magi",
-            "link": "/items/930663463",
-            "price": 40,
-            "name": "1枚40円 s12a",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/214577706",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923067359",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725268461",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2145097890",
-            "price": 37,
-            "name": "【４枚セット】チェレ",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1682166982",
-            "price": 150,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/679231113",
-            "price": 300,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657840750",
-            "price": 30,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-03",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1135788807",
-            "price": 300,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502008119",
-            "price": 120,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26270",
-            "price": 100,
-            "name": "チェレンの気くばり:",
-            "date": "2023-01-03",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26179",
-            "price": 50,
-            "name": "チェレンの気くばり(",
-            "date": "2023-01-03",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38331",
-            "price": 80,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-03",
-            "stock": 86
+            "stock": 80.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38240",
-            "price": 50,
+            "price": 50.0,
             "name": "チェレンの気くばり1",
-            "date": "2023-01-03",
-            "stock": 400
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38605",
-            "price": 70,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 400.0
         }
     ]
 }

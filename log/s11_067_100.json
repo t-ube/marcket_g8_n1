@@ -3,1066 +3,930 @@
         {
             "market": "magi",
             "link": "/items/932304421",
-            "price": 130,
+            "price": 130.0,
             "name": "ドラピオンVSTAR",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/194900461",
-            "price": 150,
-            "name": "【特価】ドラピオンV",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522670095",
-            "price": 299,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1236587905",
-            "price": 251,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1061826451",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2070080368",
-            "price": 200,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1880190418",
-            "price": 350,
-            "name": "【4枚】ドラピオンV",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1740611492",
-            "price": 450,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/528793889",
-            "price": 399,
+            "price": 399.0,
             "name": "ドラピオンVSTAR",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1223121194",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
+            "link": "/items/194900461",
+            "price": 150.0,
+            "name": "【特価】ドラピオンV",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799420658",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1056939609",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1826611227",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/820788165",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1413791414",
-            "price": 137,
+            "price": 137.0,
             "name": "ドラピオンVSTAR",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24193",
-            "price": 100,
+            "market": "magi",
+            "link": "/items/820788165",
+            "price": 100.0,
             "name": "ドラピオンVSTAR",
             "date": "2023-01-10",
-            "stock": 109
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1826611227",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799420658",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1223121194",
-            "price": 100,
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1056939609",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1740611492",
+            "price": 450.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1880190418",
+            "price": 350.0,
+            "name": "【4枚】ドラピオンV",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2070080368",
+            "price": 200.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1061826451",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1236587905",
+            "price": 251.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/522670095",
+            "price": 299.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24193",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-10",
+            "stock": 109.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/522670095",
+            "price": 299.0,
             "name": "ドラピオンVSTAR",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2070080368",
+            "price": 200.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/194900461",
+            "price": 150.0,
+            "name": "【特価】ドラピオンV",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1413791414",
+            "price": 137.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1236587905",
+            "price": 251.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/528793889",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1061826451",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/820788165",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1880190418",
+            "price": 350.0,
+            "name": "【4枚】ドラピオンV",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799420658",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1056939609",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1826611227",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1740611492",
+            "price": 450.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/932304421",
-            "price": 130,
+            "price": 130.0,
             "name": "ドラピオンVSTAR",
             "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1740611492",
-            "price": 450,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/820788165",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1826611227",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1056939609",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799420658",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1880190418",
-            "price": 350,
-            "name": "【4枚】ドラピオンV",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522670095",
-            "price": 299,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1061826451",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528793889",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1236587905",
-            "price": 251,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1413791414",
-            "price": 137,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/194900461",
-            "price": 150,
-            "name": "【特価】ドラピオンV",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2070080368",
-            "price": 200,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24193",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-09",
-            "stock": 109
-        },
-        {
-            "market": "magi",
-            "link": "/items/820788165",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1740611492",
-            "price": 450,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/932304421",
-            "price": 130,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1826611227",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1056939609",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799420658",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1880190418",
-            "price": 350,
-            "name": "【4枚】ドラピオンV",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/194900461",
-            "price": 150,
-            "name": "【特価】ドラピオンV",
-            "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1223121194",
-            "price": 100,
+            "price": 100.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528793889",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1061826451",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2070080368",
-            "price": 200,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1413791414",
-            "price": 137,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1236587905",
-            "price": 251,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522670095",
-            "price": 299,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 1
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/24193",
-            "price": 100,
+            "price": 100.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-08",
-            "stock": 109
-        },
-        {
-            "market": "magi",
-            "link": "/items/932304421",
-            "price": 130,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1880190418",
-            "price": 350,
-            "name": "【4枚】ドラピオンV",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522670095",
-            "price": 299,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1236587905",
-            "price": 251,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1061826451",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528793889",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1740611492",
-            "price": 450,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799420658",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/820788165",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1826611227",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1413791414",
-            "price": 137,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/194900461",
-            "price": 150,
-            "name": "【特価】ドラピオンV",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-09",
+            "stock": 109.0
         },
         {
             "market": "magi",
             "link": "/items/1223121194",
-            "price": 100,
+            "price": 100.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1056939609",
-            "price": 100,
+            "link": "/items/522670095",
+            "price": 299.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1236587905",
+            "price": 251.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1413791414",
+            "price": 137.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2070080368",
-            "price": 200,
+            "price": 200.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1061826451",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/528793889",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1056939609",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/194900461",
+            "price": 150.0,
+            "name": "【特価】ドラピオンV",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799420658",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/820788165",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1826611227",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/932304421",
+            "price": 130.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1740611492",
+            "price": 450.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1880190418",
+            "price": 350.0,
+            "name": "【4枚】ドラピオンV",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/24193",
-            "price": 100,
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-08",
+            "stock": 109.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799420658",
+            "price": 100.0,
             "name": "ドラピオンVSTAR",
             "date": "2023-01-07",
-            "stock": 109
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2070080368",
+            "price": 200.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1056939609",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223121194",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/194900461",
+            "price": 150.0,
+            "name": "【特価】ドラピオンV",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1413791414",
+            "price": 137.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1826611227",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/820788165",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1740611492",
+            "price": 450.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/528793889",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1061826451",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1236587905",
+            "price": 251.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/522670095",
+            "price": 299.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1880190418",
+            "price": 350.0,
+            "name": "【4枚】ドラピオンV",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/932304421",
+            "price": 130.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24193",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-07",
+            "stock": 109.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36272",
-            "price": 80,
+            "price": 80.0,
             "name": "ドラピオンVSTAR",
             "date": "2023-01-07",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1056939609",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1826611227",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1740611492",
-            "price": 450,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/820788165",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/932304421",
-            "price": 130,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799420658",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1223121194",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2070080368",
-            "price": 200,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522670095",
-            "price": 299,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1413791414",
-            "price": 137,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1236587905",
-            "price": 251,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528793889",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1061826451",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/194900461",
-            "price": 150,
-            "name": "【特価】ドラピオンV",
-            "date": "2023-01-06",
-            "stock": 1
+            "stock": 20.0
         },
         {
             "market": "magi",
             "link": "/items/1880190418",
-            "price": 350,
+            "price": 350.0,
             "name": "【4枚】ドラピオンV",
             "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24193",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 109
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36272",
-            "price": 80,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-06",
-            "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/2070080368",
-            "price": 200,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1413791414",
-            "price": 145,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/932304421",
-            "price": 130,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1826611227",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/194900461",
-            "price": 150,
-            "name": "【特価】ドラピオンV",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1880190418",
-            "price": 350,
-            "name": "【4枚】ドラピオンV",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1740611492",
-            "price": 450,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/522670095",
-            "price": 299,
+            "price": 299.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1223121194",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528793889",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/820788165",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1056939609",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799420658",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1061826451",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1236587905",
-            "price": 251,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24193",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 109
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36272",
-            "price": 80,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-05",
-            "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/1880190418",
-            "price": 350,
-            "name": "【4枚】ドラピオンV",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/932304421",
-            "price": 130,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2070080368",
-            "price": 200,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799420658",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1826611227",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1061826451",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522670095",
-            "price": 299,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1056939609",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1223121194",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1740611492",
-            "price": 450,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1236587905",
-            "price": 251,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/194900461",
-            "price": 150,
+            "price": 150.0,
             "name": "【特価】ドラピオンV",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528793889",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1413791414",
-            "price": 145,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/820788165",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24193",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 109
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36272",
-            "price": 80,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-04",
-            "stock": 22
-        },
-        {
-            "market": "magi",
-            "link": "/items/1880190418",
-            "price": 350,
-            "name": "【4枚】ドラピオンV",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/194900461",
-            "price": 150,
-            "name": "【特価】ドラピオンV",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1826611227",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799420658",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1413791414",
-            "price": 145,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1056939609",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1223121194",
-            "price": 100,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1740611492",
-            "price": 450,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1236587905",
-            "price": 298,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528793889",
-            "price": 399,
-            "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1061826451",
-            "price": 399,
+            "price": 399.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/522670095",
-            "price": 299,
+            "link": "/items/528793889",
+            "price": 399.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1236587905",
+            "price": 251.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1413791414",
+            "price": 137.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1826611227",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2070080368",
-            "price": 200,
+            "price": 200.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799420658",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/932304421",
-            "price": 130,
+            "price": 130.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/820788165",
-            "price": 100,
+            "price": 100.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1740611492",
+            "price": 450.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1056939609",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223121194",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/24193",
-            "price": 100,
+            "price": 100.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 109
+            "date": "2023-01-06",
+            "stock": 109.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36272",
-            "price": 80,
+            "price": 80.0,
             "name": "ドラピオンVSTAR",
-            "date": "2023-01-03",
-            "stock": 17
+            "date": "2023-01-06",
+            "stock": 21.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223121194",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1236587905",
+            "price": 251.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1061826451",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799420658",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1056939609",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/820788165",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/528793889",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/522670095",
+            "price": 299.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1740611492",
+            "price": 450.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1880190418",
+            "price": 350.0,
+            "name": "【4枚】ドラピオンV",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/194900461",
+            "price": 150.0,
+            "name": "【特価】ドラピオンV",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1826611227",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/932304421",
+            "price": 130.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1413791414",
+            "price": 145.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2070080368",
+            "price": 200.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24193",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 109.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36272",
+            "price": 80.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-05",
+            "stock": 21.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223121194",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/820788165",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1413791414",
+            "price": 145.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/528793889",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/194900461",
+            "price": 150.0,
+            "name": "【特価】ドラピオンV",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1236587905",
+            "price": 251.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1740611492",
+            "price": 450.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1826611227",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1056939609",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1061826451",
+            "price": 399.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799420658",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2070080368",
+            "price": 200.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/932304421",
+            "price": 130.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1880190418",
+            "price": 350.0,
+            "name": "【4枚】ドラピオンV",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/522670095",
+            "price": 299.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24193",
+            "price": 100.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 109.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36272",
+            "price": 80.0,
+            "name": "ドラピオンVSTAR",
+            "date": "2023-01-04",
+            "stock": 22.0
         }
     ]
 }

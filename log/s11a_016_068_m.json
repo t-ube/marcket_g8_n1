@@ -3,1090 +3,954 @@
         {
             "market": "magi",
             "link": "/items/1430189727",
-            "price": 150,
+            "price": 150.0,
             "name": "フォッコ C 016",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723488868",
-            "price": 31,
-            "name": "フォッコ C 016",
-            "date": "2023-01-10",
-            "stock": 8
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/974651305",
-            "price": 25,
+            "price": 25.0,
             "name": "フォッコ C 016",
             "date": "2023-01-10",
-            "stock": 12
+            "stock": 12.0
         },
         {
             "market": "magi",
             "link": "/items/709926003",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ(ミラー) ",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1113279095",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1402943223",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/82317050",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/725295493",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1936288405",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1263790416",
-            "price": 100,
+            "price": 100.0,
             "name": "一枚２５円 フォッコ",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1340915900",
-            "price": 25,
+            "price": 25.0,
             "name": "1枚25円 s11a",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25099",
-            "price": 50,
-            "name": "フォッコ(C){炎}",
-            "date": "2023-01-10",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25160",
-            "price": 100,
-            "name": "フォッコ:ミラー(C",
-            "date": "2023-01-10",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36905",
-            "price": 50,
-            "name": "フォッコ016/06",
-            "date": "2023-01-10",
-            "stock": 570
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36966",
-            "price": 80,
-            "name": "フォッコ016/06",
-            "date": "2023-01-10",
-            "stock": 159
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-10",
-            "stock": 54
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-10",
-            "stock": 12
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1723488868",
-            "price": 31,
+            "price": 31.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-09",
-            "stock": 8
+            "date": "2023-01-10",
+            "stock": 8.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25160",
+            "price": 100.0,
+            "name": "フォッコ:ミラー(C",
+            "date": "2023-01-10",
+            "stock": 4.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25099",
+            "price": 50.0,
+            "name": "フォッコ(C){炎}",
+            "date": "2023-01-10",
+            "stock": 7.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36905",
+            "price": 50.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-10",
+            "stock": 570.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36966",
+            "price": 80.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-10",
+            "stock": 159.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-10",
+            "stock": 54.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-BM/",
+            "price": 44.0,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-10",
+            "stock": 12.0
         },
         {
             "market": "magi",
-            "link": "/items/1936288405",
-            "price": 100,
+            "link": "/items/725295493",
+            "price": 100.0,
             "name": "フォッコ C 016",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/82317050",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/974651305",
+            "price": 25.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-09",
+            "stock": 12.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/709926003",
+            "price": 100.0,
+            "name": "フォッコ(ミラー) ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1113279095",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1340915900",
-            "price": 25,
+            "price": 25.0,
             "name": "1枚25円 s11a",
             "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1263790416",
-            "price": 100,
-            "name": "一枚２５円 フォッコ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402943223",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1430189727",
-            "price": 150,
+            "price": 150.0,
             "name": "フォッコ C 016",
             "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725295493",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113279095",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/709926003",
-            "price": 100,
-            "name": "フォッコ(ミラー) ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/974651305",
-            "price": 25,
-            "name": "フォッコ C 016",
-            "date": "2023-01-09",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/82317050",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25099",
-            "price": 50,
-            "name": "フォッコ(C){炎}",
-            "date": "2023-01-09",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25160",
-            "price": 100,
-            "name": "フォッコ:ミラー(C",
-            "date": "2023-01-09",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36966",
-            "price": 80,
-            "name": "フォッコ016/06",
-            "date": "2023-01-09",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36905",
-            "price": 50,
-            "name": "フォッコ016/06",
-            "date": "2023-01-09",
-            "stock": 570
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-09",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-09",
-            "stock": 54
-        },
-        {
-            "market": "magi",
-            "link": "/items/725295493",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/974651305",
-            "price": 25,
-            "name": "フォッコ C 016",
-            "date": "2023-01-08",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/82317050",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113279095",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723488868",
-            "price": 31,
-            "name": "フォッコ C 016",
-            "date": "2023-01-08",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1430189727",
-            "price": 150,
-            "name": "フォッコ C 016",
-            "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1402943223",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-08",
-            "stock": 1
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1263790416",
-            "price": 100,
+            "price": 100.0,
             "name": "一枚２５円 フォッコ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1340915900",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2023-01-08",
-            "stock": 1
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1936288405",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/709926003",
-            "price": 100,
-            "name": "フォッコ(ミラー) ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25160",
-            "price": 100,
-            "name": "フォッコ:ミラー(C",
-            "date": "2023-01-08",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25099",
-            "price": 50,
-            "name": "フォッコ(C){炎}",
-            "date": "2023-01-08",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36966",
-            "price": 80,
-            "name": "フォッコ016/06",
-            "date": "2023-01-08",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36905",
-            "price": 50,
-            "name": "フォッコ016/06",
-            "date": "2023-01-08",
-            "stock": 570
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-08",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-08",
-            "stock": 54
-        },
-        {
-            "market": "magi",
-            "link": "/items/1936288405",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402943223",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/82317050",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/974651305",
-            "price": 25,
-            "name": "フォッコ C 016",
-            "date": "2023-01-07",
-            "stock": 12
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1723488868",
-            "price": 31,
+            "price": 31.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-07",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/709926003",
-            "price": 100,
-            "name": "フォッコ(ミラー) ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113279095",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1263790416",
-            "price": 100,
-            "name": "一枚２５円 フォッコ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1340915900",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1430189727",
-            "price": 150,
-            "name": "フォッコ C 016",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725295493",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25160",
-            "price": 100,
-            "name": "フォッコ:ミラー(C",
-            "date": "2023-01-07",
-            "stock": 4
+            "date": "2023-01-09",
+            "stock": 8.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25099",
-            "price": 50,
+            "price": 50.0,
             "name": "フォッコ(C){炎}",
-            "date": "2023-01-07",
-            "stock": 7
+            "date": "2023-01-09",
+            "stock": 7.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36905",
-            "price": 50,
-            "name": "フォッコ016/06",
-            "date": "2023-01-07",
-            "stock": 570
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25160",
+            "price": 100.0,
+            "name": "フォッコ:ミラー(C",
+            "date": "2023-01-09",
+            "stock": 4.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36966",
-            "price": 80,
+            "price": 80.0,
             "name": "フォッコ016/06",
-            "date": "2023-01-07",
-            "stock": 159
+            "date": "2023-01-09",
+            "stock": 159.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36905",
+            "price": 50.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-09",
+            "stock": 570.0
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g016-068-S11A-BM/",
-            "price": 44,
+            "price": 44.0,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-07",
-            "stock": 12
+            "date": "2023-01-09",
+            "stock": 12.0
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g016-068-S11A-B/",
-            "price": 33,
+            "price": 33.0,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-07",
-            "stock": 54
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723488868",
-            "price": 31,
-            "name": "フォッコ C 016",
-            "date": "2023-01-06",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/709926003",
-            "price": 100,
-            "name": "フォッコ(ミラー) ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/82317050",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725295493",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1936288405",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/974651305",
-            "price": 25,
-            "name": "フォッコ C 016",
-            "date": "2023-01-06",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/1340915900",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1430189727",
-            "price": 150,
-            "name": "フォッコ C 016",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-09",
+            "stock": 54.0
         },
         {
             "market": "magi",
             "link": "/items/1402943223",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113279095",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1263790416",
-            "price": 100,
-            "name": "一枚２５円 フォッコ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25099",
-            "price": 50,
-            "name": "フォッコ(C){炎}",
-            "date": "2023-01-06",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25160",
-            "price": 100,
-            "name": "フォッコ:ミラー(C",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36966",
-            "price": 80,
-            "name": "フォッコ016/06",
-            "date": "2023-01-06",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36905",
-            "price": 50,
-            "name": "フォッコ016/06",
-            "date": "2023-01-06",
-            "stock": 570
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-06",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-06",
-            "stock": 54
-        },
-        {
-            "market": "magi",
-            "link": "/items/974651305",
-            "price": 25,
-            "name": "フォッコ C 016",
-            "date": "2023-01-05",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/1430189727",
-            "price": 150,
-            "name": "フォッコ C 016",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1263790416",
-            "price": 100,
-            "name": "一枚２５円 フォッコ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1340915900",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725295493",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402943223",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/709926003",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ(ミラー) ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113279095",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/82317050",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1936288405",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723488868",
-            "price": 31,
-            "name": "フォッコ C 016",
-            "date": "2023-01-05",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25160",
-            "price": 100,
-            "name": "フォッコ:ミラー(C",
-            "date": "2023-01-05",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25099",
-            "price": 50,
-            "name": "フォッコ(C){炎}",
-            "date": "2023-01-05",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36905",
-            "price": 50,
-            "name": "フォッコ016/06",
-            "date": "2023-01-05",
-            "stock": 572
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36966",
-            "price": 80,
-            "name": "フォッコ016/06",
-            "date": "2023-01-05",
-            "stock": 159
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-05",
-            "stock": 54
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-05",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/1936288405",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-04",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1340915900",
-            "price": 25,
+            "price": 25.0,
             "name": "1枚25円 s11a",
-            "date": "2023-01-04",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1263790416",
-            "price": 100,
+            "price": 100.0,
             "name": "一枚２５円 フォッコ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1430189727",
-            "price": 150,
-            "name": "フォッコ C 016",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113279095",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723488868",
-            "price": 31,
-            "name": "フォッコ C 016",
-            "date": "2023-01-04",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/974651305",
-            "price": 25,
-            "name": "フォッコ C 016",
-            "date": "2023-01-04",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402943223",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725295493",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-04",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/82317050",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/709926003",
-            "price": 100,
-            "name": "フォッコ(ミラー) ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25099",
-            "price": 50,
-            "name": "フォッコ(C){炎}",
-            "date": "2023-01-04",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25160",
-            "price": 100,
-            "name": "フォッコ:ミラー(C",
-            "date": "2023-01-04",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36966",
-            "price": 80,
-            "name": "フォッコ016/06",
-            "date": "2023-01-04",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36905",
-            "price": 50,
-            "name": "フォッコ016/06",
-            "date": "2023-01-04",
-            "stock": 572
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-04",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-04",
-            "stock": 54
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1430189727",
-            "price": 150,
+            "price": 150.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723488868",
+            "price": 31.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-08",
+            "stock": 8.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1113279095",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725295493",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/974651305",
+            "price": 25.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-08",
+            "stock": 12.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25160",
+            "price": 100.0,
+            "name": "フォッコ:ミラー(C",
+            "date": "2023-01-08",
+            "stock": 4.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25099",
+            "price": 50.0,
+            "name": "フォッコ(C){炎}",
+            "date": "2023-01-08",
+            "stock": 7.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36966",
+            "price": 80.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-08",
+            "stock": 159.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36905",
+            "price": 50.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-08",
+            "stock": 570.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-BM/",
+            "price": 44.0,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-08",
+            "stock": 12.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-08",
+            "stock": 54.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725295493",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1430189727",
+            "price": 150.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1340915900",
-            "price": 25,
+            "price": 25.0,
             "name": "1枚25円 s11a",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/725295493",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/709926003",
-            "price": 100,
-            "name": "フォッコ(ミラー) ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402943223",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/82317050",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1263790416",
-            "price": 100,
+            "price": 100.0,
             "name": "一枚２５円 フォッコ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1936288405",
-            "price": 100,
-            "name": "フォッコ C 016",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/974651305",
-            "price": 25,
-            "name": "フォッコ C 016",
-            "date": "2023-01-03",
-            "stock": 12
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1113279095",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/709926003",
+            "price": 100.0,
+            "name": "フォッコ(ミラー) ",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1723488868",
-            "price": 31,
+            "price": 31.0,
             "name": "フォッコ C 016",
-            "date": "2023-01-03",
-            "stock": 8
+            "date": "2023-01-07",
+            "stock": 8.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/974651305",
+            "price": 25.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-07",
+            "stock": 12.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/82317050",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402943223",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1936288405",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25160",
-            "price": 100,
+            "price": 100.0,
             "name": "フォッコ:ミラー(C",
-            "date": "2023-01-03",
-            "stock": 7
+            "date": "2023-01-07",
+            "stock": 4.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25099",
-            "price": 50,
+            "price": 50.0,
             "name": "フォッコ(C){炎}",
-            "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36966",
-            "price": 80,
-            "name": "フォッコ016/06",
-            "date": "2023-01-03",
-            "stock": 159
+            "date": "2023-01-07",
+            "stock": 7.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36905",
-            "price": 50,
+            "price": 50.0,
             "name": "フォッコ016/06",
-            "date": "2023-01-03",
-            "stock": 574
+            "date": "2023-01-07",
+            "stock": 570.0
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g016-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-03",
-            "stock": 54
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36966",
+            "price": 80.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-07",
+            "stock": 159.0
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g016-068-S11A-BM/",
-            "price": 44,
+            "price": 44.0,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-03",
-            "stock": 12
+            "date": "2023-01-07",
+            "stock": 12.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-07",
+            "stock": 54.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1340915900",
+            "price": 25.0,
+            "name": "1枚25円 s11a",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1263790416",
+            "price": 100.0,
+            "name": "一枚２５円 フォッコ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1113279095",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402943223",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1430189727",
+            "price": 150.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723488868",
+            "price": 31.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-06",
+            "stock": 8.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/974651305",
+            "price": 25.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-06",
+            "stock": 12.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725295493",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/82317050",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/709926003",
+            "price": 100.0,
+            "name": "フォッコ(ミラー) ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1936288405",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25099",
+            "price": 50.0,
+            "name": "フォッコ(C){炎}",
+            "date": "2023-01-06",
+            "stock": 7.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25160",
+            "price": 100.0,
+            "name": "フォッコ:ミラー(C",
+            "date": "2023-01-06",
+            "stock": 4.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36966",
+            "price": 80.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-06",
+            "stock": 159.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36905",
+            "price": 50.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-06",
+            "stock": 570.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-BM/",
+            "price": 44.0,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-06",
+            "stock": 12.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-06",
+            "stock": 54.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/709926003",
+            "price": 100.0,
+            "name": "フォッコ(ミラー) ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723488868",
+            "price": 31.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-05",
+            "stock": 8.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1936288405",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/82317050",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1113279095",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402943223",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725295493",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1340915900",
+            "price": 25.0,
+            "name": "1枚25円 s11a",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1263790416",
+            "price": 100.0,
+            "name": "一枚２５円 フォッコ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1430189727",
+            "price": 150.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/974651305",
+            "price": 25.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-05",
+            "stock": 12.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25160",
+            "price": 100.0,
+            "name": "フォッコ:ミラー(C",
+            "date": "2023-01-05",
+            "stock": 4.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25099",
+            "price": 50.0,
+            "name": "フォッコ(C){炎}",
+            "date": "2023-01-05",
+            "stock": 7.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36905",
+            "price": 50.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-05",
+            "stock": 572.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36966",
+            "price": 80.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-05",
+            "stock": 159.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-05",
+            "stock": 54.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-BM/",
+            "price": 44.0,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-05",
+            "stock": 12.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/974651305",
+            "price": 25.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-04",
+            "stock": 12.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/709926003",
+            "price": 100.0,
+            "name": "フォッコ(ミラー) ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/82317050",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/725295493",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402943223",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1430189727",
+            "price": 150.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723488868",
+            "price": 31.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-04",
+            "stock": 8.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1263790416",
+            "price": 100.0,
+            "name": "一枚２５円 フォッコ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1340915900",
+            "price": 25.0,
+            "name": "1枚25円 s11a",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1936288405",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1113279095",
+            "price": 100.0,
+            "name": "フォッコ C 016",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25099",
+            "price": 50.0,
+            "name": "フォッコ(C){炎}",
+            "date": "2023-01-04",
+            "stock": 7.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25160",
+            "price": 100.0,
+            "name": "フォッコ:ミラー(C",
+            "date": "2023-01-04",
+            "stock": 4.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36966",
+            "price": 80.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-04",
+            "stock": 159.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36905",
+            "price": 50.0,
+            "name": "フォッコ016/06",
+            "date": "2023-01-04",
+            "stock": 572.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-BM/",
+            "price": 44.0,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-04",
+            "stock": 12.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-068-S11A-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-04",
+            "stock": 54.0
         }
     ]
 }

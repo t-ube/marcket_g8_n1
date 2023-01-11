@@ -3,1122 +3,970 @@
         {
             "market": "magi",
             "link": "/items/145671040",
-            "price": 6804,
+            "price": 6804.0,
             "name": "〔状態A-〕シンオウ",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/369315569",
-            "price": 8499,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/695627158",
-            "price": 6000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/310778387",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116149348",
-            "price": 7950,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1226633938",
-            "price": 7400,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/643399202",
-            "price": 16666,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489890750",
-            "price": 7150,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1001295724",
-            "price": 9000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1956956324",
-            "price": 18926,
+            "price": 18926.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397108278",
-            "price": 8888,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/804474999",
-            "price": 7715,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024128967",
-            "price": 7600,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/128292856",
-            "price": 7375,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2034632677",
-            "price": 7000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2113093676",
-            "price": 7800,
+            "price": 7800.0,
             "name": "プレゼント×10  ",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2034632677",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/128292856",
+            "price": 7375.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024128967",
+            "price": 7600.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/804474999",
+            "price": 7715.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397108278",
+            "price": 8888.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/369315569",
+            "price": 8499.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001295724",
+            "price": 9000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/643399202",
+            "price": 16666.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226633938",
+            "price": 7400.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/116149348",
+            "price": 7950.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/310778387",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/695627158",
+            "price": 6000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/489890750",
+            "price": 7150.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26386",
-            "price": 7000,
+            "price": 7000.0,
             "name": "シンオウの仲間たち(",
             "date": "2023-01-10",
-            "stock": 3
+            "stock": 3.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38694",
-            "price": 6480,
+            "price": 6480.0,
             "name": "シンオウの仲間たち2",
             "date": "2023-01-10",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/489890750",
-            "price": 7150,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1226633938",
-            "price": 7400,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/643399202",
-            "price": 16666,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024128967",
-            "price": 8000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/804474999",
-            "price": 7715,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397108278",
-            "price": 8888,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2113093676",
-            "price": 7800,
-            "name": "プレゼント×10  ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1956956324",
-            "price": 18931,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/128292856",
-            "price": 7380,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
+            "stock": 2.0
         },
         {
             "market": "magi",
             "link": "/items/695627158",
-            "price": 6000,
+            "price": 6000.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/116149348",
+            "price": 7950.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/310778387",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001295724",
+            "price": 9000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1960280737",
+            "price": 6500.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/369315569",
+            "price": 8499.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2034632677",
-            "price": 7000,
+            "price": 7000.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/369315569",
-            "price": 8499,
+            "link": "/items/128292856",
+            "price": 7380.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1960280737",
-            "price": 6500,
+            "link": "/items/2113093676",
+            "price": 7800.0,
+            "name": "プレゼント×10  ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397108278",
+            "price": 8888.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1001295724",
-            "price": 9000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/310778387",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116149348",
-            "price": 7950,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26386",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-09",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1001295724",
-            "price": 9000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1226633938",
-            "price": 7400,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1956956324",
-            "price": 18931,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024128967",
-            "price": 8000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/804474999",
-            "price": 7793,
+            "price": 7715.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024128967",
+            "price": 8000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/643399202",
+            "price": 16666.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226633938",
+            "price": 7400.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1956956324",
+            "price": 18931.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/489890750",
+            "price": 7150.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26386",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-09",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/489890750",
+            "price": 7150.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397108278",
+            "price": 8888.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/128292856",
+            "price": 7380.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/116149348",
+            "price": 7950.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/643399202",
+            "price": 16666.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1960280737",
+            "price": 6500.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/369315569",
+            "price": 8499.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2113093676",
+            "price": 7800.0,
+            "name": "プレゼント×10  ",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/310778387",
-            "price": 7000,
+            "price": 7000.0,
             "name": "シンオウの仲間たち(",
             "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/695627158",
-            "price": 6000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1367860155",
-            "price": 6000,
+            "price": 6000.0,
             "name": "ポケモンカード　シン",
             "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116149348",
-            "price": 7950,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2113093676",
-            "price": 7800,
-            "name": "プレゼント×10  ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397108278",
-            "price": 8888,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/128292856",
-            "price": 7380,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489890750",
-            "price": 7150,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/643399202",
-            "price": 16666,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1960280737",
-            "price": 6500,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/369315569",
-            "price": 8499,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26386",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-08",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/804474999",
-            "price": 7793,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2113093676",
-            "price": 7800,
-            "name": "プレゼント×10  ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397108278",
-            "price": 8888,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489890750",
-            "price": 7150,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1001295724",
-            "price": 9000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1226633938",
-            "price": 7400,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/643399202",
-            "price": 16666,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116149348",
-            "price": 7950,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1956956324",
-            "price": 18935,
+            "price": 18931.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/369315569",
-            "price": 8499,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/128292856",
-            "price": 7384,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/994173516",
-            "price": 6804,
-            "name": "シンオウの仲間たち【",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/310778387",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/695627158",
-            "price": 6000,
+            "price": 6000.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226633938",
+            "price": 7400.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001295724",
+            "price": 9000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1024128967",
-            "price": 8000,
+            "price": 8000.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1960280737",
-            "price": 6500,
+            "link": "/items/804474999",
+            "price": 7793.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26386",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-08",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/369315569",
+            "price": 8499.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-07",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/605696592",
-            "price": 5019,
+            "price": 5019.0,
             "name": "〔状態B〕シンオウの",
             "date": "2023-01-07",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1960280737",
+            "price": 6500.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024128967",
+            "price": 8000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/695627158",
+            "price": 6000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/310778387",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/994173516",
+            "price": 6804.0,
+            "name": "シンオウの仲間たち【",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/128292856",
+            "price": 7384.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1956956324",
+            "price": 18935.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/116149348",
+            "price": 7950.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/643399202",
+            "price": 16666.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001295724",
+            "price": 9000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/489890750",
+            "price": 7150.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397108278",
+            "price": 8888.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2113093676",
+            "price": 7800.0,
+            "name": "プレゼント×10  ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/804474999",
+            "price": 7793.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226633938",
+            "price": 7400.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26386",
-            "price": 7000,
+            "price": 7000.0,
             "name": "シンオウの仲間たち(",
             "date": "2023-01-07",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38427",
-            "price": 6480,
-            "name": "シンオウの仲間たち2",
-            "date": "2023-01-07",
-            "stock": 1
+            "stock": 5.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38908",
-            "price": 4780,
+            "price": 4780.0,
             "name": "シンオウの仲間たち2",
             "date": "2023-01-07",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/804474999",
-            "price": 7793,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/643399202",
-            "price": 16666,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/128292856",
-            "price": 7387,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024128967",
-            "price": 8000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397108278",
-            "price": 8888,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2113093676",
-            "price": 7800,
-            "name": "プレゼント×10  ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1226633938",
-            "price": 7400,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/369315569",
-            "price": 8499,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/310778387",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1960280737",
-            "price": 7000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1956956324",
-            "price": 18938,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489890750",
-            "price": 7150,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116149348",
-            "price": 7950,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1001295724",
-            "price": 9000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26386",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-06",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1956956324",
-            "price": 18941,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397108278",
-            "price": 8888,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/804474999",
-            "price": 7872,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/310778387",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1001295724",
-            "price": 9000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1226633938",
-            "price": 7400,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1547739095",
-            "price": 6804,
-            "name": "シンオウの仲間たち【",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2113093676",
-            "price": 7800,
-            "name": "プレゼント×10  ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024128967",
-            "price": 8000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116149348",
-            "price": 7950,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/369315569",
-            "price": 8798,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/128292856",
-            "price": 7390,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/643399202",
-            "price": 16666,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1960280737",
-            "price": 7000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489890750",
-            "price": 7150,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26386",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-05",
-            "stock": 8
+            "stock": 5.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38427",
-            "price": 6480,
+            "price": 6480.0,
+            "name": "シンオウの仲間たち2",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/804474999",
+            "price": 7793.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/310778387",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/643399202",
+            "price": 16666.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001295724",
+            "price": 9000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/116149348",
+            "price": 7950.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1956956324",
+            "price": 18938.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1960280737",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/489890750",
+            "price": 7150.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/369315569",
+            "price": 8499.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226633938",
+            "price": 7400.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2113093676",
+            "price": 7800.0,
+            "name": "プレゼント×10  ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397108278",
+            "price": 8888.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024128967",
+            "price": 8000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/128292856",
+            "price": 7387.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26386",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-06",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024128967",
+            "price": 8000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/489890750",
+            "price": 7150.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1960280737",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/643399202",
+            "price": 16666.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/128292856",
+            "price": 7390.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/369315569",
+            "price": 8798.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/116149348",
+            "price": 7950.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001295724",
+            "price": 9000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2113093676",
+            "price": 7800.0,
+            "name": "プレゼント×10  ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1547739095",
+            "price": 6804.0,
+            "name": "シンオウの仲間たち【",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226633938",
+            "price": 7400.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/310778387",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/804474999",
+            "price": 7872.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397108278",
+            "price": 8888.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1956956324",
+            "price": 18941.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26386",
+            "price": 7000.0,
+            "name": "シンオウの仲間たち(",
+            "date": "2023-01-05",
+            "stock": 8.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38427",
+            "price": 6480.0,
             "name": "シンオウの仲間たち2",
             "date": "2023-01-05",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1956956324",
-            "price": 18944,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/310778387",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1226633938",
-            "price": 7400,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2113093676",
-            "price": 7800,
-            "name": "プレゼント×10  ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/804474999",
-            "price": 7872,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1960280737",
-            "price": 7000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489890750",
-            "price": 7150,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116149348",
-            "price": 7950,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
+            "stock": 9.0
         },
         {
             "market": "magi",
             "link": "/items/643399202",
-            "price": 16666,
+            "price": 16666.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024128967",
-            "price": 8000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1397108278",
-            "price": 8888,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1547739095",
-            "price": 6804,
-            "name": "シンオウの仲間たち【",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/369315569",
-            "price": 8798,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1001295724",
-            "price": 9000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/128292856",
-            "price": 7393,
+            "price": 7393.0,
             "name": "シンオウの仲間たち ",
             "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26386",
-            "price": 7000,
-            "name": "シンオウの仲間たち(",
-            "date": "2023-01-04",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38427",
-            "price": 6480,
-            "name": "シンオウの仲間たち2",
-            "date": "2023-01-04",
-            "stock": 9
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1397108278",
-            "price": 8888,
+            "link": "/items/1001295724",
+            "price": 9000.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1960280737",
-            "price": 7000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/369315569",
-            "price": 8798,
+            "price": 8798.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1547739095",
+            "price": 6804.0,
+            "name": "シンオウの仲間たち【",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1397108278",
+            "price": 8888.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024128967",
+            "price": 8000.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1226633938",
-            "price": 7400,
+            "price": 7400.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489890750",
-            "price": 7150,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/970587910",
-            "price": 6970,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/643399202",
-            "price": 16666,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/128292856",
-            "price": 7399,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1547739095",
-            "price": 6804,
-            "name": "シンオウの仲間たち【",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1001295724",
-            "price": 9000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/116149348",
-            "price": 7950,
+            "price": 7950.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1521122997",
-            "price": 8800,
+            "link": "/items/489890750",
+            "price": 7150.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1956956324",
-            "price": 18950,
+            "link": "/items/1960280737",
+            "price": 7000.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/804474999",
-            "price": 7872,
+            "price": 7872.0,
             "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2113093676",
-            "price": 7800,
+            "price": 7800.0,
             "name": "プレゼント×10  ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024128967",
-            "price": 8000,
-            "name": "シンオウの仲間たち ",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/310778387",
-            "price": 7000,
+            "price": 7000.0,
             "name": "シンオウの仲間たち(",
-            "date": "2023-01-03",
-            "stock": 1
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1956956324",
+            "price": 18944.0,
+            "name": "シンオウの仲間たち ",
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26386",
-            "price": 7000,
+            "price": 7000.0,
             "name": "シンオウの仲間たち(",
-            "date": "2023-01-03",
-            "stock": 7
+            "date": "2023-01-04",
+            "stock": 9.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38427",
-            "price": 6480,
+            "price": 6480.0,
             "name": "シンオウの仲間たち2",
-            "date": "2023-01-03",
-            "stock": 30
+            "date": "2023-01-04",
+            "stock": 9.0
         }
     ]
 }

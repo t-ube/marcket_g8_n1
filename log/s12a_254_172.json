@@ -3,1034 +3,914 @@
         {
             "market": "magi",
             "link": "/items/1710866007",
-            "price": 500,
+            "price": 500.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723200308",
-            "price": 600,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/920439807",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/140656863",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150778249",
-            "price": 280,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254641133",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/332652764",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1427047060",
-            "price": 1400,
+            "price": 1400.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/415443902",
-            "price": 300,
+            "link": "/items/1723200308",
+            "price": 600.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323034801",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1078291548",
-            "price": 948,
-            "name": "基本雷エネルギー(S",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/163178322",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1871817715",
-            "price": 350,
+            "price": 350.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-10",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1078291548",
+            "price": 948.0,
+            "name": "基本雷エネルギー(S",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/323034801",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/415443902",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/163178322",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/332652764",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/254641133",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150778249",
+            "price": 280.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/140656863",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/920439807",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26393",
-            "price": 400,
+            "price": 400.0,
             "name": "基本雷エネルギー:S",
             "date": "2023-01-10",
-            "stock": 36
+            "stock": 36.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38701",
-            "price": 350,
+            "price": 350.0,
             "name": "基本雷エネルギー25",
             "date": "2023-01-10",
-            "stock": 7
+            "stock": 7.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38434",
-            "price": 380,
+            "price": 380.0,
             "name": "基本雷エネルギー25",
             "date": "2023-01-10",
-            "stock": 250
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150778249",
-            "price": 280,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1710866007",
-            "price": 500,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1871817715",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/920439807",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/140656863",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427047060",
-            "price": 1400,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323034801",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
+            "stock": 250.0
         },
         {
             "market": "magi",
             "link": "/items/254641133",
-            "price": 300,
+            "price": 300.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/163178322",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1078291548",
+            "price": 948.0,
+            "name": "基本雷エネルギー(S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/415443902",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723200308",
+            "price": 600.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/332652764",
-            "price": 300,
+            "price": 300.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723200308",
-            "price": 600,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/415443902",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1078291548",
-            "price": 948,
-            "name": "基本雷エネルギー(S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/163178322",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26393",
-            "price": 400,
-            "name": "基本雷エネルギー:S",
-            "date": "2023-01-09",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38434",
-            "price": 380,
-            "name": "基本雷エネルギー25",
-            "date": "2023-01-09",
-            "stock": 225
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427047060",
-            "price": 1400,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1871817715",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1078291548",
-            "price": 948,
-            "name": "基本雷エネルギー(S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/415443902",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723200308",
-            "price": 600,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/163178322",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254641133",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/140656863",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/920439807",
-            "price": 300,
+            "price": 300.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/2109273002",
-            "price": 230,
+            "link": "/items/323034801",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427047060",
+            "price": 1400.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/140656863",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1871817715",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710866007",
+            "price": 500.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150778249",
+            "price": 280.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26393",
+            "price": 400.0,
+            "name": "基本雷エネルギー:S",
+            "date": "2023-01-09",
+            "stock": 46.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38434",
+            "price": 380.0,
+            "name": "基本雷エネルギー25",
+            "date": "2023-01-09",
+            "stock": 225.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/920439807",
+            "price": 300.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/323034801",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150778249",
+            "price": 280.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710866007",
+            "price": 500.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/332652764",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1595232470",
-            "price": 230,
+            "price": 230.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/332652764",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1710866007",
-            "price": 500,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150778249",
-            "price": 280,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323034801",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26393",
-            "price": 400,
-            "name": "基本雷エネルギー:S",
-            "date": "2023-01-08",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38434",
-            "price": 380,
-            "name": "基本雷エネルギー25",
-            "date": "2023-01-08",
-            "stock": 249
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150778249",
-            "price": 280,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254641133",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/415443902",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/163178322",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1078291548",
-            "price": 948,
-            "name": "基本雷エネルギー(S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323034801",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1710866007",
-            "price": 500,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723200308",
-            "price": 600,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/332652764",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/2109273002",
-            "price": 240,
+            "price": 230.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/920439807",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427047060",
-            "price": 1400,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/140656863",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595232470",
-            "price": 240,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1871817715",
-            "price": 350,
+            "price": 350.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26393",
-            "price": 400,
-            "name": "基本雷エネルギー:S",
-            "date": "2023-01-07",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38434",
-            "price": 380,
-            "name": "基本雷エネルギー25",
-            "date": "2023-01-07",
-            "stock": 202
+            "market": "magi",
+            "link": "/items/140656863",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/163178322",
-            "price": 350,
+            "price": 350.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254641133",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427047060",
-            "price": 1400,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/332652764",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1078291548",
-            "price": 960,
-            "name": "基本雷エネルギー(S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1710866007",
-            "price": 500,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1871817715",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1723200308",
-            "price": 600,
+            "price": 600.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595232470",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323034801",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150778249",
-            "price": 280,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/920439807",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/140656863",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/415443902",
-            "price": 300,
+            "price": 300.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2109273002",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26393",
-            "price": 400,
-            "name": "基本雷エネルギー:S",
-            "date": "2023-01-06",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38434",
-            "price": 380,
-            "name": "基本雷エネルギー25",
-            "date": "2023-01-06",
-            "stock": 197
-        },
-        {
-            "market": "magi",
-            "link": "/items/2109273002",
-            "price": 290,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323034801",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/140656863",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1078291548",
-            "price": 960,
+            "price": 948.0,
             "name": "基本雷エネルギー(S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150778249",
-            "price": 280,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/163178322",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1871817715",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1710866007",
-            "price": 500,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/920439807",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723200308",
-            "price": 600,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/415443902",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254641133",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1427047060",
-            "price": 1400,
+            "price": 1400.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595232470",
-            "price": 290,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/332652764",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26393",
-            "price": 400,
-            "name": "基本雷エネルギー:S",
-            "date": "2023-01-05",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38434",
-            "price": 380,
-            "name": "基本雷エネルギー25",
-            "date": "2023-01-05",
-            "stock": 186
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/254641133",
-            "price": 300,
+            "price": 300.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-04",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/163178322",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-04",
-            "stock": 1
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26393",
+            "price": 400.0,
+            "name": "基本雷エネルギー:S",
+            "date": "2023-01-08",
+            "stock": 47.0
         },
         {
-            "market": "magi",
-            "link": "/items/1710866007",
-            "price": 500,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/140656863",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323034801",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-04",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38434",
+            "price": 380.0,
+            "name": "基本雷エネルギー25",
+            "date": "2023-01-08",
+            "stock": 249.0
         },
         {
             "market": "magi",
             "link": "/items/332652764",
-            "price": 300,
+            "price": 300.0,
             "name": "基本雷エネルギー S",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723200308",
-            "price": 600,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-04",
-            "stock": 1
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1871817715",
-            "price": 350,
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1595232470",
+            "price": 240.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/140656863",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427047060",
+            "price": 1400.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/920439807",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109273002",
+            "price": 240.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/163178322",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723200308",
+            "price": 600.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710866007",
+            "price": 500.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/323034801",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1078291548",
+            "price": 948.0,
+            "name": "基本雷エネルギー(S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/415443902",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/254641133",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150778249",
+            "price": 280.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26393",
+            "price": 400.0,
+            "name": "基本雷エネルギー:S",
+            "date": "2023-01-07",
+            "stock": 47.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38434",
+            "price": 380.0,
+            "name": "基本雷エネルギー25",
+            "date": "2023-01-07",
+            "stock": 202.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/163178322",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/254641133",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427047060",
+            "price": 1400.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/332652764",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1078291548",
+            "price": 960.0,
+            "name": "基本雷エネルギー(S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710866007",
+            "price": 500.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1871817715",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723200308",
+            "price": 600.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1595232470",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/323034801",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150778249",
+            "price": 280.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/920439807",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/140656863",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/415443902",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109273002",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26393",
+            "price": 400.0,
+            "name": "基本雷エネルギー:S",
+            "date": "2023-01-06",
+            "stock": 66.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38434",
+            "price": 380.0,
+            "name": "基本雷エネルギー25",
+            "date": "2023-01-06",
+            "stock": 197.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109273002",
+            "price": 290.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/323034801",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/140656863",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1078291548",
+            "price": 960.0,
+            "name": "基本雷エネルギー(S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150778249",
+            "price": 280.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/163178322",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1871817715",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710866007",
+            "price": 500.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/920439807",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723200308",
+            "price": 600.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/415443902",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/254641133",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427047060",
+            "price": 1400.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1595232470",
+            "price": 290.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/332652764",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26393",
+            "price": 400.0,
+            "name": "基本雷エネルギー:S",
+            "date": "2023-01-05",
+            "stock": 66.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38434",
+            "price": 380.0,
+            "name": "基本雷エネルギー25",
+            "date": "2023-01-05",
+            "stock": 186.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/254641133",
+            "price": 300.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/163178322",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710866007",
+            "price": 500.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/140656863",
+            "price": 250.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/323034801",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/332652764",
+            "price": 300.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723200308",
+            "price": 600.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1871817715",
+            "price": 350.0,
+            "name": "基本雷エネルギー S",
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1217406640",
-            "price": 270,
+            "price": 270.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1427047060",
-            "price": 1400,
+            "price": 1400.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1078291548",
-            "price": 960,
+            "price": 960.0,
             "name": "基本雷エネルギー(S",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/415443902",
-            "price": 300,
+            "price": 300.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1150778249",
-            "price": 280,
+            "price": 280.0,
             "name": "基本雷エネルギー S",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26393",
-            "price": 400,
+            "price": 400.0,
             "name": "基本雷エネルギー:S",
             "date": "2023-01-04",
-            "stock": 66
+            "stock": 66.0
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38434",
-            "price": 380,
+            "price": 380.0,
             "name": "基本雷エネルギー25",
             "date": "2023-01-04",
-            "stock": 228
-        },
-        {
-            "market": "magi",
-            "link": "/items/163178322",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1710866007",
-            "price": 500,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1078291548",
-            "price": 960,
-            "name": "基本雷エネルギー(S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/415443902",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/140656863",
-            "price": 250,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/332652764",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150778249",
-            "price": 280,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254641133",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723200308",
-            "price": 600,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323034801",
-            "price": 300,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1871817715",
-            "price": 350,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427047060",
-            "price": 1400,
-            "name": "基本雷エネルギー S",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26393",
-            "price": 400,
-            "name": "基本雷エネルギー:S",
-            "date": "2023-01-03",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38701",
-            "price": 350,
-            "name": "基本雷エネルギー25",
-            "date": "2023-01-03",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38434",
-            "price": 380,
-            "name": "基本雷エネルギー25",
-            "date": "2023-01-03",
-            "stock": 271
+            "stock": 228.0
         }
     ]
 }
