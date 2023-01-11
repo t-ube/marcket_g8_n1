@@ -1,6 +1,46 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/741593777",
+            "price": 750.0,
+            "name": "ジンダイ HR 12",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25615",
+            "price": 900.0,
+            "name": "ジンダイ(HR){サ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37676",
+            "price": 730.0,
+            "name": "ジンダイ120/09",
+            "date": "2023-01-11",
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37622",
+            "price": 780.0,
+            "name": "ジンダイ120/09",
+            "date": "2023-01-11",
+            "stock": 101.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g120-098-S12-B/",
+            "price": 770.0,
+            "name": "【ポケカ】ＨＲ◇ジン",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25615",
             "price": 900.0,
@@ -42,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37676",
-            "price": 730.0,
-            "name": "ジンダイ120/09",
-            "date": "2023-01-09",
-            "stock": 2.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37622",
             "price": 780.0,
             "name": "ジンダイ120/09",
             "date": "2023-01-09",
             "stock": 100.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37676",
+            "price": 730.0,
+            "name": "ジンダイ120/09",
+            "date": "2023-01-09",
+            "stock": 2.0
         },
         {
             "market": "torecolo",
@@ -138,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37622",
-            "price": 780.0,
-            "name": "ジンダイ120/09",
-            "date": "2023-01-06",
-            "stock": 120.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37676",
             "price": 730.0,
             "name": "ジンダイ120/09",
             "date": "2023-01-06",
             "stock": 4.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37622",
+            "price": 780.0,
+            "name": "ジンダイ120/09",
+            "date": "2023-01-06",
+            "stock": 120.0
         },
         {
             "market": "torecolo",
@@ -162,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37622",
-            "price": 780.0,
-            "name": "ジンダイ120/09",
-            "date": "2023-01-05",
-            "stock": 120.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37676",
             "price": 730.0,
             "name": "ジンダイ120/09",
             "date": "2023-01-05",
             "stock": 4.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37622",
+            "price": 780.0,
+            "name": "ジンダイ120/09",
+            "date": "2023-01-05",
+            "stock": 120.0
         },
         {
             "market": "torecolo",

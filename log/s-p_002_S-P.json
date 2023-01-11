@@ -2,17 +2,65 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1479633333",
+            "price": 4179.0,
+            "name": "〔状態A-〕シブヤの",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/642305242",
             "price": 5754.0,
             "name": "シブヤのピカチュウ【",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17248",
+            "price": 5500.0,
+            "name": "シブヤのピカチュウ(",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/8054",
+            "price": 2480.0,
+            "name": "シブヤのピカチュウ0",
+            "date": "2023-01-11",
+            "stock": 130.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29463",
+            "price": 3980.0,
+            "name": "シブヤのピカチュウ0",
+            "date": "2023-01-11",
+            "stock": 34.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6574",
+            "price": 5480.0,
+            "name": "シブヤのピカチュウ0",
+            "date": "2023-01-11",
+            "stock": 30.0
         },
         {
             "market": "magi",
             "link": "/items/1479633333",
             "price": 4179.0,
             "name": "〔状態A-〕シブヤの",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/642305242",
+            "price": 5754.0,
+            "name": "シブヤのピカチュウ【",
             "date": "2023-01-10",
             "stock": 1.0
         },
@@ -26,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6574",
-            "price": 5480.0,
+            "link": "https://www.cardrush-pokemon.jp/product/8054",
+            "price": 2480.0,
             "name": "シブヤのピカチュウ0",
             "date": "2023-01-10",
-            "stock": 30.0
+            "stock": 130.0
         },
         {
             "market": "cardrush",
@@ -42,25 +90,25 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8054",
-            "price": 2480.0,
+            "link": "https://www.cardrush-pokemon.jp/product/6574",
+            "price": 5480.0,
             "name": "シブヤのピカチュウ0",
             "date": "2023-01-10",
-            "stock": 130.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1479633333",
-            "price": 4179.0,
-            "name": "〔状態A-〕シブヤの",
-            "date": "2023-01-09",
-            "stock": 1.0
+            "stock": 30.0
         },
         {
             "market": "magi",
             "link": "/items/642305242",
             "price": 5754.0,
             "name": "シブヤのピカチュウ【",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479633333",
+            "price": 4179.0,
+            "name": "〔状態A-〕シブヤの",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -74,6 +122,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/8054",
+            "price": 2480.0,
+            "name": "シブヤのピカチュウ0",
+            "date": "2023-01-09",
+            "stock": 130.0
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6574",
             "price": 5480.0,
             "name": "シブヤのピカチュウ0",
@@ -89,26 +145,18 @@
             "stock": 34.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8054",
-            "price": 2480.0,
-            "name": "シブヤのピカチュウ0",
-            "date": "2023-01-09",
-            "stock": 130.0
+            "market": "magi",
+            "link": "/items/642305242",
+            "price": 5754.0,
+            "name": "シブヤのピカチュウ【",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1479633333",
             "price": 4179.0,
             "name": "〔状態A-〕シブヤの",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/642305242",
-            "price": 5754.0,
-            "name": "シブヤのピカチュウ【",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -122,11 +170,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8054",
-            "price": 2480.0,
+            "link": "https://www.cardrush-pokemon.jp/product/6574",
+            "price": 5480.0,
             "name": "シブヤのピカチュウ0",
             "date": "2023-01-08",
-            "stock": 130.0
+            "stock": 29.0
         },
         {
             "market": "cardrush",
@@ -138,19 +186,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6574",
-            "price": 5480.0,
+            "link": "https://www.cardrush-pokemon.jp/product/8054",
+            "price": 2480.0,
             "name": "シブヤのピカチュウ0",
             "date": "2023-01-08",
-            "stock": 29.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1479633333",
-            "price": 4179.0,
-            "name": "〔状態A-〕シブヤの",
-            "date": "2023-01-07",
-            "stock": 1.0
+            "stock": 130.0
         },
         {
             "market": "magi",
@@ -161,20 +201,20 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/1479633333",
+            "price": 4179.0,
+            "name": "〔状態A-〕シブヤの",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17248",
             "price": 5500.0,
             "name": "シブヤのピカチュウ(",
             "date": "2023-01-07",
             "stock": 4.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6574",
-            "price": 5480.0,
-            "name": "シブヤのピカチュウ0",
-            "date": "2023-01-07",
-            "stock": 29.0
         },
         {
             "market": "cardrush",
@@ -193,18 +233,26 @@
             "stock": 34.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6574",
+            "price": 5480.0,
+            "name": "シブヤのピカチュウ0",
+            "date": "2023-01-07",
+            "stock": 29.0
+        },
+        {
             "market": "magi",
-            "link": "/items/642305242",
-            "price": 5754.0,
-            "name": "シブヤのピカチュウ【",
+            "link": "/items/1479633333",
+            "price": 4179.0,
+            "name": "〔状態A-〕シブヤの",
             "date": "2023-01-06",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1479633333",
-            "price": 4179.0,
-            "name": "〔状態A-〕シブヤの",
+            "link": "/items/642305242",
+            "price": 5754.0,
+            "name": "シブヤのピカチュウ【",
             "date": "2023-01-06",
             "stock": 1.0
         },
@@ -290,17 +338,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/642305242",
-            "price": 5754.0,
-            "name": "シブヤのピカチュウ【",
+            "link": "/items/1479633333",
+            "price": 4179.0,
+            "name": "〔状態A-〕シブヤの",
             "date": "2023-01-04",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1479633333",
-            "price": 4179.0,
-            "name": "〔状態A-〕シブヤの",
+            "link": "/items/642305242",
+            "price": 5754.0,
+            "name": "シブヤのピカチュウ【",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -314,19 +362,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29463",
-            "price": 3980.0,
-            "name": "シブヤのピカチュウ0",
-            "date": "2023-01-04",
-            "stock": 23.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/8054",
             "price": 2480.0,
             "name": "シブヤのピカチュウ0",
             "date": "2023-01-04",
             "stock": 130.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29463",
+            "price": 3980.0,
+            "name": "シブヤのピカチュウ0",
+            "date": "2023-01-04",
+            "stock": 23.0
         },
         {
             "market": "cardrush",

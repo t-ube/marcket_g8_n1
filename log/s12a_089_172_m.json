@@ -2,10 +2,90 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1717685255",
+            "price": 100.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1671364965",
+            "price": 155.0,
+            "name": "レパルダス(CP){",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2053171243",
+            "price": 220.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1765090574",
+            "price": 220.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1634494394",
             "price": 240.0,
             "name": "レパルダス【-】{0",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1570425865",
+            "price": 199.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26233",
+            "price": 150.0,
+            "name": "レパルダス:ミラー(",
+            "date": "2023-01-11",
+            "stock": 35.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26112",
+            "price": 50.0,
+            "name": "レパルダス(CP){",
+            "date": "2023-01-11",
+            "stock": 29.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38568",
+            "price": 110.0,
+            "name": "レパルダス089/1",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38294",
+            "price": 120.0,
+            "name": "レパルダス089/1",
+            "date": "2023-01-11",
+            "stock": 273.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38173",
+            "price": 80.0,
+            "name": "レパルダス089/1",
+            "date": "2023-01-11",
             "stock": 1.0
         },
         {
@@ -18,8 +98,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/2053171243",
-            "price": 220.0,
+            "link": "/items/1634494394",
+            "price": 240.0,
+            "name": "レパルダス【-】{0",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1570425865",
+            "price": 199.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717685255",
+            "price": 100.0,
             "name": "レパルダス 089/",
             "date": "2023-01-10",
             "stock": 1.0
@@ -34,27 +130,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1717685255",
-            "price": 100.0,
+            "link": "/items/2053171243",
+            "price": 220.0,
             "name": "レパルダス 089/",
             "date": "2023-01-10",
             "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1570425865",
-            "price": 199.0,
-            "name": "レパルダス 089/",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26112",
-            "price": 50.0,
-            "name": "レパルダス(CP){",
-            "date": "2023-01-10",
-            "stock": 29.0
         },
         {
             "market": "hareruya2",
@@ -65,12 +145,20 @@
             "stock": 35.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26112",
+            "price": 50.0,
+            "name": "レパルダス(CP){",
+            "date": "2023-01-10",
+            "stock": 29.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38173",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38568",
+            "price": 110.0,
             "name": "レパルダス089/1",
             "date": "2023-01-10",
-            "stock": 1.0
+            "stock": 3.0
         },
         {
             "market": "cardrush",
@@ -82,33 +170,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38568",
-            "price": 110.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38173",
+            "price": 80.0,
             "name": "レパルダス089/1",
             "date": "2023-01-10",
-            "stock": 3.0
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1717685255",
             "price": 100.0,
             "name": "レパルダス 089/",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1765090574",
-            "price": 220.0,
-            "name": "レパルダス 089/",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1634494394",
-            "price": 240.0,
-            "name": "レパルダス【-】{0",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -122,9 +194,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1671364965",
-            "price": 155.0,
-            "name": "レパルダス(CP){",
+            "link": "/items/1765090574",
+            "price": 220.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1634494394",
+            "price": 240.0,
+            "name": "レパルダス【-】{0",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -137,12 +217,12 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26233",
-            "price": 150.0,
-            "name": "レパルダス:ミラー(",
+            "market": "magi",
+            "link": "/items/1671364965",
+            "price": 155.0,
+            "name": "レパルダス(CP){",
             "date": "2023-01-09",
-            "stock": 35.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -153,12 +233,20 @@
             "stock": 29.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26233",
+            "price": 150.0,
+            "name": "レパルダス:ミラー(",
+            "date": "2023-01-09",
+            "stock": 35.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38568",
-            "price": 110.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38173",
+            "price": 80.0,
             "name": "レパルダス089/1",
             "date": "2023-01-09",
-            "stock": 2.0
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -170,10 +258,18 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38173",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38568",
+            "price": 110.0,
             "name": "レパルダス089/1",
             "date": "2023-01-09",
+            "stock": 2.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1570425865",
+            "price": 200.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-08",
             "stock": 1.0
         },
         {
@@ -186,9 +282,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/493827231",
-            "price": 220.0,
+            "link": "/items/1717685255",
+            "price": 100.0,
             "name": "レパルダス 089/",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1671364965",
+            "price": 155.0,
+            "name": "レパルダス(CP){",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -202,30 +306,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1671364965",
-            "price": 155.0,
-            "name": "レパルダス(CP){",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1570425865",
-            "price": 200.0,
-            "name": "レパルダス 089/",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717685255",
-            "price": 100.0,
-            "name": "レパルダス 089/",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1765090574",
             "price": 220.0,
             "name": "レパルダス 089/",
@@ -233,12 +313,12 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26112",
-            "price": 50.0,
-            "name": "レパルダス(CP){",
+            "market": "magi",
+            "link": "/items/493827231",
+            "price": 220.0,
+            "name": "レパルダス 089/",
             "date": "2023-01-08",
-            "stock": 29.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -249,12 +329,20 @@
             "stock": 14.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26112",
+            "price": 50.0,
+            "name": "レパルダス(CP){",
+            "date": "2023-01-08",
+            "stock": 29.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38568",
-            "price": 110.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38173",
+            "price": 80.0,
             "name": "レパルダス089/1",
             "date": "2023-01-08",
-            "stock": 2.0
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -266,19 +354,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38173",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38568",
+            "price": 110.0,
             "name": "レパルダス089/1",
             "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1671364965",
-            "price": 155.0,
-            "name": "レパルダス(CP){",
-            "date": "2023-01-07",
-            "stock": 1.0
+            "stock": 2.0
         },
         {
             "market": "magi",
@@ -290,33 +370,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1570425865",
-            "price": 200.0,
-            "name": "レパルダス 089/",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717685255",
-            "price": 100.0,
-            "name": "レパルダス 089/",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2053171243",
-            "price": 220.0,
-            "name": "レパルダス 089/",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/493827231",
-            "price": 220.0,
-            "name": "レパルダス 089/",
+            "link": "/items/1634494394",
+            "price": 240.0,
+            "name": "レパルダス【-】{0",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -330,19 +386,43 @@
         },
         {
             "market": "magi",
-            "link": "/items/1634494394",
-            "price": 240.0,
-            "name": "レパルダス【-】{0",
+            "link": "/items/493827231",
+            "price": 220.0,
+            "name": "レパルダス 089/",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26112",
-            "price": 50.0,
+            "market": "magi",
+            "link": "/items/2053171243",
+            "price": 220.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717685255",
+            "price": 100.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1570425865",
+            "price": 200.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1671364965",
+            "price": 155.0,
             "name": "レパルダス(CP){",
             "date": "2023-01-07",
-            "stock": 29.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -353,12 +433,20 @@
             "stock": 15.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26112",
+            "price": 50.0,
+            "name": "レパルダス(CP){",
+            "date": "2023-01-07",
+            "stock": 29.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38173",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38568",
+            "price": 110.0,
             "name": "レパルダス089/1",
             "date": "2023-01-07",
-            "stock": 1.0
+            "stock": 2.0
         },
         {
             "market": "cardrush",
@@ -370,11 +458,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38568",
-            "price": 110.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38173",
+            "price": 80.0,
             "name": "レパルダス089/1",
             "date": "2023-01-07",
-            "stock": 2.0
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717685255",
+            "price": 100.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -420,14 +516,6 @@
             "market": "magi",
             "link": "/items/493827231",
             "price": 220.0,
-            "name": "レパルダス 089/",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717685255",
-            "price": 100.0,
             "name": "レパルダス 089/",
             "date": "2023-01-06",
             "stock": 1.0
@@ -474,16 +562,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1717685255",
-            "price": 100.0,
+            "link": "/items/493827231",
+            "price": 220.0,
             "name": "レパルダス 089/",
             "date": "2023-01-05",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/493827231",
-            "price": 220.0,
+            "link": "/items/1717685255",
+            "price": 100.0,
             "name": "レパルダス 089/",
             "date": "2023-01-05",
             "stock": 1.0
@@ -543,6 +631,14 @@
             "name": "レパルダス(CP){",
             "date": "2023-01-05",
             "stock": 29.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38568",
+            "price": 110.0,
+            "name": "レパルダス089/1",
+            "date": "2023-01-05",
+            "stock": 2.0
         },
         {
             "market": "cardrush",
@@ -561,18 +657,10 @@
             "stock": 1.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38568",
-            "price": 110.0,
-            "name": "レパルダス089/1",
-            "date": "2023-01-05",
-            "stock": 2.0
-        },
-        {
             "market": "magi",
-            "link": "/items/1717685255",
-            "price": 100.0,
-            "name": "レパルダス 089/",
+            "link": "/items/1634494394",
+            "price": 240.0,
+            "name": "レパルダス【-】{0",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -586,16 +674,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1634494394",
-            "price": 240.0,
-            "name": "レパルダス【-】{0",
+            "link": "/items/192546643",
+            "price": 100.0,
+            "name": "レパルダス 089/",
             "date": "2023-01-04",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/493827231",
-            "price": 220.0,
+            "link": "/items/1717685255",
+            "price": 100.0,
             "name": "レパルダス 089/",
             "date": "2023-01-04",
             "stock": 1.0
@@ -610,6 +698,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/493827231",
+            "price": 220.0,
+            "name": "レパルダス 089/",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1671364965",
             "price": 155.0,
             "name": "レパルダス(CP){",
@@ -617,12 +713,12 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/192546643",
-            "price": 100.0,
-            "name": "レパルダス 089/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26112",
+            "price": 50.0,
+            "name": "レパルダス(CP){",
             "date": "2023-01-04",
-            "stock": 1.0
+            "stock": 29.0
         },
         {
             "market": "hareruya2",
@@ -633,12 +729,20 @@
             "stock": 15.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26112",
-            "price": 50.0,
-            "name": "レパルダス(CP){",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38568",
+            "price": 110.0,
+            "name": "レパルダス089/1",
             "date": "2023-01-04",
-            "stock": 29.0
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38173",
+            "price": 80.0,
+            "name": "レパルダス089/1",
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -647,22 +751,6 @@
             "name": "レパルダス089/1",
             "date": "2023-01-04",
             "stock": 237.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38173",
-            "price": 80.0,
-            "name": "レパルダス089/1",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38568",
-            "price": 110.0,
-            "name": "レパルダス089/1",
-            "date": "2023-01-04",
-            "stock": 2.0
         }
     ]
 }

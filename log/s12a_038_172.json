@@ -2,11 +2,83 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1767124160",
+            "price": 250.0,
+            "name": "ライコウV RR 0",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1093643955",
+            "price": 103.0,
+            "name": "ライコウV(RR){",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1968835258",
+            "price": 150.0,
+            "name": "ライコウV RR 0",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1469502973",
+            "price": 100.0,
+            "name": "ライコウV【RR】{",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/669470603",
             "price": 120.0,
             "name": "ライコウV RR 0",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1745705664",
+            "price": 120.0,
+            "name": "ライコウV RR 0",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26061",
+            "price": 200.0,
+            "name": "ライコウV(RR){",
+            "date": "2023-01-11",
+            "stock": 182.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38455",
+            "price": 70.0,
+            "name": "ライコウV038/1",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38122",
+            "price": 80.0,
+            "name": "ライコウV038/1",
+            "date": "2023-01-11",
+            "stock": 386.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/39033",
+            "price": 50.0,
+            "name": "ライコウV038/1",
+            "date": "2023-01-11",
+            "stock": 3.0
         },
         {
             "market": "magi",
@@ -18,23 +90,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1093643955",
-            "price": 103.0,
-            "name": "ライコウV(RR){",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1767124160",
-            "price": 250.0,
-            "name": "ライコウV RR 0",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1745705664",
+            "link": "/items/669470603",
             "price": 120.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-10",
@@ -49,6 +105,30 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/1745705664",
+            "price": 120.0,
+            "name": "ライコウV RR 0",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1767124160",
+            "price": 250.0,
+            "name": "ライコウV RR 0",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1093643955",
+            "price": 103.0,
+            "name": "ライコウV(RR){",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26061",
             "price": 200.0,
@@ -58,11 +138,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38122",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/39033",
+            "price": 50.0,
             "name": "ライコウV038/1",
             "date": "2023-01-10",
-            "stock": 370.0
+            "stock": 11.0
         },
         {
             "market": "cardrush",
@@ -74,16 +154,24 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/39033",
-            "price": 50.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38122",
+            "price": 80.0,
             "name": "ライコウV038/1",
             "date": "2023-01-10",
-            "stock": 11.0
+            "stock": 370.0
         },
         {
             "market": "magi",
             "link": "/items/669470603",
             "price": 120.0,
+            "name": "ライコウV RR 0",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1968835258",
+            "price": 150.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-09",
             "stock": 1.0
@@ -101,14 +189,6 @@
             "link": "/items/1469502973",
             "price": 100.0,
             "name": "ライコウV【RR】{",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1968835258",
-            "price": 150.0,
-            "name": "ライコウV RR 0",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -135,6 +215,14 @@
             "name": "ライコウV(RR){",
             "date": "2023-01-09",
             "stock": 182.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38122",
+            "price": 80.0,
+            "name": "ライコウV038/1",
+            "date": "2023-01-09",
+            "stock": 351.0
         },
         {
             "market": "cardrush",
@@ -153,33 +241,9 @@
             "stock": 15.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38122",
-            "price": 80.0,
-            "name": "ライコウV038/1",
-            "date": "2023-01-09",
-            "stock": 351.0
-        },
-        {
             "market": "magi",
-            "link": "/items/1093643955",
-            "price": 103.0,
-            "name": "ライコウV(RR){",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1968835258",
-            "price": 150.0,
-            "name": "ライコウV RR 0",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/669470603",
-            "price": 120.0,
+            "link": "/items/1767124160",
+            "price": 250.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-08",
             "stock": 1.0
@@ -194,17 +258,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/1767124160",
-            "price": 250.0,
+            "link": "/items/1469502973",
+            "price": 100.0,
+            "name": "ライコウV【RR】{",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/669470603",
+            "price": 120.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-08",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1469502973",
-            "price": 100.0,
-            "name": "ライコウV【RR】{",
+            "link": "/items/1968835258",
+            "price": 150.0,
+            "name": "ライコウV RR 0",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1093643955",
+            "price": 103.0,
+            "name": "ライコウV(RR){",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -242,16 +322,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1469502973",
+            "link": "/items/1745705664",
             "price": 120.0,
-            "name": "ライコウV【RR】{",
+            "name": "ライコウV RR 0",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1968835258",
-            "price": 150.0,
+            "link": "/items/1767124160",
+            "price": 250.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-07",
             "stock": 1.0
@@ -266,17 +346,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1767124160",
-            "price": 250.0,
+            "link": "/items/1968835258",
+            "price": 150.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1745705664",
+            "link": "/items/1469502973",
             "price": 120.0,
-            "name": "ライコウV RR 0",
+            "name": "ライコウV【RR】{",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -290,6 +370,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38122",
+            "price": 80.0,
+            "name": "ライコウV038/1",
+            "date": "2023-01-07",
+            "stock": 378.0
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/39033",
             "price": 50.0,
             "name": "ライコウV038/1",
@@ -297,12 +385,12 @@
             "stock": 5.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38122",
-            "price": 80.0,
-            "name": "ライコウV038/1",
-            "date": "2023-01-07",
-            "stock": 378.0
+            "market": "magi",
+            "link": "/items/1093643955",
+            "price": 103.0,
+            "name": "ライコウV(RR){",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -341,14 +429,6 @@
             "link": "/items/1745705664",
             "price": 120.0,
             "name": "ライコウV RR 0",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1093643955",
-            "price": 103.0,
-            "name": "ライコウV(RR){",
             "date": "2023-01-06",
             "stock": 1.0
         },
@@ -378,14 +458,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1968835258",
-            "price": 150.0,
-            "name": "ライコウV RR 0",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1767124160",
             "price": 250.0,
             "name": "ライコウV RR 0",
@@ -394,17 +466,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/669470603",
-            "price": 120.0,
+            "link": "/items/1968835258",
+            "price": 150.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-05",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1093643955",
-            "price": 103.0,
-            "name": "ライコウV(RR){",
+            "link": "/items/1745705664",
+            "price": 120.0,
+            "name": "ライコウV RR 0",
             "date": "2023-01-05",
             "stock": 1.0
         },
@@ -418,7 +490,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1745705664",
+            "link": "/items/1093643955",
+            "price": 103.0,
+            "name": "ライコウV(RR){",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/669470603",
             "price": 120.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-05",
@@ -434,14 +514,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38122",
-            "price": 80.0,
-            "name": "ライコウV038/1",
-            "date": "2023-01-05",
-            "stock": 343.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/39033",
             "price": 50.0,
             "name": "ライコウV038/1",
@@ -449,8 +521,32 @@
             "stock": 23.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38122",
+            "price": 80.0,
+            "name": "ライコウV038/1",
+            "date": "2023-01-05",
+            "stock": 343.0
+        },
+        {
             "market": "magi",
-            "link": "/items/1745705664",
+            "link": "/items/1469502973",
+            "price": 120.0,
+            "name": "ライコウV【RR】{",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1093643955",
+            "price": 103.0,
+            "name": "ライコウV(RR){",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/669470603",
             "price": 120.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-04",
@@ -466,17 +562,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1093643955",
-            "price": 103.0,
-            "name": "ライコウV(RR){",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1469502973",
+            "link": "/items/1745705664",
             "price": 120.0,
-            "name": "ライコウV【RR】{",
+            "name": "ライコウV RR 0",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -484,14 +572,6 @@
             "market": "magi",
             "link": "/items/1767124160",
             "price": 250.0,
-            "name": "ライコウV RR 0",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/669470603",
-            "price": 120.0,
             "name": "ライコウV RR 0",
             "date": "2023-01-04",
             "stock": 1.0

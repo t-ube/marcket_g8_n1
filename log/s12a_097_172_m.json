@@ -2,11 +2,75 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1849894530",
+            "price": 100.0,
+            "name": "レジスチル 097/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1728083147",
+            "price": 200.0,
+            "name": "レジスチル(CP){",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1902048958",
+            "price": 100.0,
+            "name": "レジスチル:ミラー(",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/556779863",
             "price": 100.0,
             "name": "レジスチル 097/",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26239",
+            "price": 100.0,
+            "name": "レジスチル:ミラー(",
+            "date": "2023-01-11",
+            "stock": 51.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26120",
+            "price": 50.0,
+            "name": "レジスチル(CP){",
+            "date": "2023-01-11",
+            "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38574",
+            "price": 70.0,
+            "name": "レジスチル097/1",
+            "date": "2023-01-11",
+            "stock": 9.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38300",
+            "price": 80.0,
+            "name": "レジスチル097/1",
+            "date": "2023-01-11",
+            "stock": 515.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38181",
+            "price": 30.0,
+            "name": "レジスチル097/1",
+            "date": "2023-01-11",
+            "stock": 172.0
         },
         {
             "market": "magi",
@@ -18,7 +82,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1849894530",
+            "link": "/items/556779863",
             "price": 100.0,
             "name": "レジスチル 097/",
             "date": "2023-01-10",
@@ -33,12 +97,12 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26239",
+            "market": "magi",
+            "link": "/items/1849894530",
             "price": 100.0,
-            "name": "レジスチル:ミラー(",
+            "name": "レジスチル 097/",
             "date": "2023-01-10",
-            "stock": 51.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -49,12 +113,20 @@
             "stock": 35.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26239",
+            "price": 100.0,
+            "name": "レジスチル:ミラー(",
+            "date": "2023-01-10",
+            "stock": 51.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38300",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38181",
+            "price": 30.0,
             "name": "レジスチル097/1",
             "date": "2023-01-10",
-            "stock": 516.0
+            "stock": 173.0
         },
         {
             "market": "cardrush",
@@ -66,17 +138,25 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38181",
-            "price": 30.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38300",
+            "price": 80.0,
             "name": "レジスチル097/1",
             "date": "2023-01-10",
-            "stock": 173.0
+            "stock": 516.0
         },
         {
             "market": "magi",
             "link": "/items/1849894530",
             "price": 100.0,
             "name": "レジスチル 097/",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1902048958",
+            "price": 100.0,
+            "name": "レジスチル:ミラー(",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -93,14 +173,6 @@
             "link": "/items/556779863",
             "price": 100.0,
             "name": "レジスチル 097/",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1902048958",
-            "price": 100.0,
-            "name": "レジスチル:ミラー(",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -146,22 +218,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1849894530",
-            "price": 100.0,
-            "name": "レジスチル 097/",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1902048958",
-            "price": 100.0,
-            "name": "レジスチル:ミラー(",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1728083147",
             "price": 200.0,
             "name": "レジスチル(CP){",
@@ -173,6 +229,22 @@
             "link": "/items/556779863",
             "price": 100.0,
             "name": "レジスチル 097/",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1849894530",
+            "price": 100.0,
+            "name": "レジスチル 097/",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1902048958",
+            "price": 100.0,
+            "name": "レジスチル:ミラー(",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -218,23 +290,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1902048958",
-            "price": 100.0,
-            "name": "レジスチル:ミラー(",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/556779863",
-            "price": 100.0,
-            "name": "レジスチル 097/",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1849894530",
             "price": 100.0,
             "name": "レジスチル 097/",
             "date": "2023-01-07",
@@ -249,12 +305,20 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26120",
-            "price": 50.0,
-            "name": "レジスチル(CP){",
+            "market": "magi",
+            "link": "/items/1849894530",
+            "price": 100.0,
+            "name": "レジスチル 097/",
             "date": "2023-01-07",
-            "stock": 36.0
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1902048958",
+            "price": 100.0,
+            "name": "レジスチル:ミラー(",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -265,12 +329,20 @@
             "stock": 14.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26120",
+            "price": 50.0,
+            "name": "レジスチル(CP){",
+            "date": "2023-01-07",
+            "stock": 36.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38181",
-            "price": 30.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38574",
+            "price": 70.0,
             "name": "レジスチル097/1",
             "date": "2023-01-07",
-            "stock": 176.0
+            "stock": 7.0
         },
         {
             "market": "cardrush",
@@ -282,11 +354,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38574",
-            "price": 70.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38181",
+            "price": 30.0,
             "name": "レジスチル097/1",
             "date": "2023-01-07",
-            "stock": 7.0
+            "stock": 176.0
         },
         {
             "market": "magi",
@@ -322,19 +394,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26239",
-            "price": 100.0,
-            "name": "レジスチル:ミラー(",
-            "date": "2023-01-06",
-            "stock": 14.0
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26120",
             "price": 50.0,
             "name": "レジスチル(CP){",
             "date": "2023-01-06",
             "stock": 36.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26239",
+            "price": 100.0,
+            "name": "レジスチル:ミラー(",
+            "date": "2023-01-06",
+            "stock": 14.0
         },
         {
             "market": "cardrush",
@@ -362,6 +434,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1728083147",
+            "price": 200.0,
+            "name": "レジスチル(CP){",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1849894530",
             "price": 100.0,
             "name": "レジスチル 097/",
@@ -378,27 +458,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1728083147",
-            "price": 200.0,
-            "name": "レジスチル(CP){",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/556779863",
             "price": 100.0,
             "name": "レジスチル 097/",
             "date": "2023-01-05",
             "stock": 1.0
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26239",
-            "price": 100.0,
-            "name": "レジスチル:ミラー(",
-            "date": "2023-01-05",
-            "stock": 14.0
         },
         {
             "market": "hareruya2",
@@ -409,12 +473,20 @@
             "stock": 36.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26239",
+            "price": 100.0,
+            "name": "レジスチル:ミラー(",
+            "date": "2023-01-05",
+            "stock": 14.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38574",
-            "price": 70.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38300",
+            "price": 80.0,
             "name": "レジスチル097/1",
             "date": "2023-01-05",
-            "stock": 7.0
+            "stock": 480.0
         },
         {
             "market": "cardrush",
@@ -426,25 +498,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38300",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38574",
+            "price": 70.0,
             "name": "レジスチル097/1",
             "date": "2023-01-05",
-            "stock": 480.0
+            "stock": 7.0
         },
         {
             "market": "magi",
-            "link": "/items/1902048958",
+            "link": "/items/1849894530",
             "price": 100.0,
-            "name": "レジスチル:ミラー(",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1728083147",
-            "price": 200.0,
-            "name": "レジスチル(CP){",
+            "name": "レジスチル 097/",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -458,9 +522,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1849894530",
+            "link": "/items/1728083147",
+            "price": 200.0,
+            "name": "レジスチル(CP){",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1902048958",
             "price": 100.0,
-            "name": "レジスチル 097/",
+            "name": "レジスチル:ミラー(",
             "date": "2023-01-04",
             "stock": 1.0
         },

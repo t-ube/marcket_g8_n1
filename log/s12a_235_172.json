@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1636429224",
+            "price": 1000.0,
+            "name": "アクロマの実験 SA",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38682",
+            "price": 1290.0,
+            "name": "アクロマの実験235",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38415",
+            "price": 1380.0,
+            "name": "アクロマの実験235",
+            "date": "2023-01-11",
+            "stock": 161.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26374",
             "price": 2000.0,
@@ -34,19 +58,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38682",
-            "price": 1390.0,
-            "name": "アクロマの実験235",
-            "date": "2023-01-09",
-            "stock": 2.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38415",
             "price": 1480.0,
             "name": "アクロマの実験235",
             "date": "2023-01-09",
             "stock": 152.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38682",
+            "price": 1390.0,
+            "name": "アクロマの実験235",
+            "date": "2023-01-09",
+            "stock": 2.0
         },
         {
             "market": "hareruya2",
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38682",
-            "price": 1390.0,
-            "name": "アクロマの実験235",
-            "date": "2023-01-08",
-            "stock": 2.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38415",
             "price": 1480.0,
             "name": "アクロマの実験235",
             "date": "2023-01-08",
             "stock": 150.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38682",
+            "price": 1390.0,
+            "name": "アクロマの実験235",
+            "date": "2023-01-08",
+            "stock": 2.0
         },
         {
             "market": "hareruya2",
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38415",
-            "price": 1480.0,
-            "name": "アクロマの実験235",
-            "date": "2023-01-05",
-            "stock": 120.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38682",
             "price": 1390.0,
             "name": "アクロマの実験235",
             "date": "2023-01-05",
             "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38415",
+            "price": 1480.0,
+            "name": "アクロマの実験235",
+            "date": "2023-01-05",
+            "stock": 120.0
         },
         {
             "market": "hareruya2",

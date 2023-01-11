@@ -2,11 +2,67 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/462446463",
+            "price": 1000.0,
+            "name": "[レジ系セット]レジ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1277737951",
+            "price": 74.0,
+            "name": "レジギガス R 05",
+            "date": "2023-01-11",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/157308521",
+            "price": 326.0,
+            "name": "レジギガス R 05",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1384594705",
+            "price": 201.0,
+            "name": "レジギガス R 05",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1304424954",
             "price": 200.0,
             "name": "レジギガス R 05",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22984",
+            "price": 50.0,
+            "name": "レジギガス(R){無",
+            "date": "2023-01-11",
+            "stock": 445.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34655",
+            "price": 50.0,
+            "name": "レジギガス054/0",
+            "date": "2023-01-11",
+            "stock": 404.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g054-067-S10D-B/",
+            "price": 110.0,
+            "name": "【ポケカ】Ｒ◇レジギ",
+            "date": "2023-01-11",
+            "stock": 47.0
         },
         {
             "market": "magi",
@@ -18,11 +74,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1277737951",
-            "price": 74.0,
+            "link": "/items/1304424954",
+            "price": 200.0,
             "name": "レジギガス R 05",
             "date": "2023-01-10",
-            "stock": 4.0
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1384594705",
+            "price": 201.0,
+            "name": "レジギガス R 05",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -34,11 +98,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1384594705",
-            "price": 201.0,
+            "link": "/items/1277737951",
+            "price": 74.0,
             "name": "レジギガス R 05",
             "date": "2023-01-10",
-            "stock": 1.0
+            "stock": 4.0
         },
         {
             "market": "hareruya2",
@@ -66,9 +130,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000.0,
-            "name": "[レジ系セット]レジ",
+            "link": "/items/1384594705",
+            "price": 201.0,
+            "name": "レジギガス R 05",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1304424954",
+            "price": 200.0,
+            "name": "レジギガス R 05",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -82,17 +154,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1384594705",
-            "price": 201.0,
-            "name": "レジギガス R 05",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1304424954",
-            "price": 200.0,
-            "name": "レジギガス R 05",
+            "link": "/items/462446463",
+            "price": 1000.0,
+            "name": "[レジ系セット]レジ",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -127,6 +191,14 @@
             "name": "【ポケカ】Ｒ◇レジギ",
             "date": "2023-01-09",
             "stock": 47.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1304424954",
+            "price": 200.0,
+            "name": "レジギガス R 05",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -161,14 +233,6 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/1304424954",
-            "price": 200.0,
-            "name": "レジギガス R 05",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22984",
             "price": 50.0,
@@ -194,14 +258,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000.0,
-            "name": "[レジ系セット]レジ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1277737951",
             "price": 74.0,
             "name": "レジギガス R 05",
@@ -213,6 +269,14 @@
             "link": "/items/157308521",
             "price": 330.0,
             "name": "レジギガス R 05",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/462446463",
+            "price": 1000.0,
+            "name": "[レジ系セット]レジ",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -258,19 +322,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/157308521",
-            "price": 330.0,
-            "name": "レジギガス R 05",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1277737951",
             "price": 74.0,
             "name": "レジギガス R 05",
             "date": "2023-01-06",
             "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/157308521",
+            "price": 330.0,
+            "name": "レジギガス R 05",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -322,11 +386,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1277737951",
-            "price": 74.0,
+            "link": "/items/1384594705",
+            "price": 203.0,
             "name": "レジギガス R 05",
             "date": "2023-01-05",
-            "stock": 4.0
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/462446463",
+            "price": 1000.0,
+            "name": "[レジ系セット]レジ",
+            "date": "2023-01-05",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -346,19 +418,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000.0,
-            "name": "[レジ系セット]レジ",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1384594705",
-            "price": 203.0,
+            "link": "/items/1277737951",
+            "price": 74.0,
             "name": "レジギガス R 05",
             "date": "2023-01-05",
-            "stock": 1.0
+            "stock": 4.0
         },
         {
             "market": "hareruya2",
@@ -386,17 +450,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/157308521",
-            "price": 334.0,
+            "link": "/items/1304424954",
+            "price": 200.0,
             "name": "レジギガス R 05",
             "date": "2023-01-04",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1384594705",
-            "price": 206.0,
-            "name": "レジギガス R 05",
+            "link": "/items/462446463",
+            "price": 1000.0,
+            "name": "[レジ系セット]レジ",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -410,16 +474,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/462446463",
-            "price": 1000.0,
-            "name": "[レジ系セット]レジ",
+            "link": "/items/1384594705",
+            "price": 206.0,
+            "name": "レジギガス R 05",
             "date": "2023-01-04",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1304424954",
-            "price": 200.0,
+            "link": "/items/157308521",
+            "price": 334.0,
             "name": "レジギガス R 05",
             "date": "2023-01-04",
             "stock": 1.0

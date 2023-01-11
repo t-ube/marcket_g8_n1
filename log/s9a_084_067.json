@@ -2,11 +2,75 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/468688435",
+            "price": 4900.0,
+            "name": "ガブリアスV 084",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/658557983",
+            "price": 5754.0,
+            "name": "〔状態A-〕ガブリア",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1877675131",
+            "price": 6279.0,
+            "name": "ガブリアスV【CSR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/571987405",
             "price": 4704.0,
             "name": "〔状態B〕ガブリアス",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/877216746",
+            "price": 4000.0,
+            "name": "ガブリアスV CSR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22833",
+            "price": 6500.0,
+            "name": "ガブリアスV(CSR",
+            "date": "2023-01-11",
+            "stock": 5.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33801",
+            "price": 5480.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-11",
+            "stock": 30.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33894",
+            "price": 4480.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33708",
+            "price": 5980.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-11",
+            "stock": 35.0
         },
         {
             "market": "magi",
@@ -18,9 +82,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/468688435",
-            "price": 4900.0,
-            "name": "ガブリアスV 084",
+            "link": "/items/571987405",
+            "price": 4704.0,
+            "name": "〔状態B〕ガブリアス",
             "date": "2023-01-10",
             "stock": 1.0
         },
@@ -33,12 +97,36 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/468688435",
+            "price": 4900.0,
+            "name": "ガブリアスV 084",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22833",
             "price": 6500.0,
             "name": "ガブリアスV(CSR",
             "date": "2023-01-10",
             "stock": 5.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33801",
+            "price": 5480.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-10",
+            "stock": 30.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33894",
+            "price": 4480.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -49,30 +137,6 @@
             "stock": 37.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33894",
-            "price": 4480.0,
-            "name": "ガブリアスV084/",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33801",
-            "price": 5480.0,
-            "name": "ガブリアスV084/",
-            "date": "2023-01-10",
-            "stock": 30.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/658557983",
-            "price": 5754.0,
-            "name": "〔状態A-〕ガブリア",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
             "market": "magi",
             "link": "/items/468688435",
             "price": 4900.0,
@@ -85,6 +149,14 @@
             "link": "/items/571987405",
             "price": 4704.0,
             "name": "〔状態B〕ガブリアス",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/658557983",
+            "price": 5754.0,
+            "name": "〔状態A-〕ガブリア",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -106,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33801",
-            "price": 5480.0,
-            "name": "ガブリアスV084/",
-            "date": "2023-01-09",
-            "stock": 30.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33708",
             "price": 5980.0,
             "name": "ガブリアスV084/",
@@ -126,6 +190,22 @@
             "price": 4480.0,
             "name": "ガブリアスV084/",
             "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33801",
+            "price": 5480.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-09",
+            "stock": 30.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/658557983",
+            "price": 5754.0,
+            "name": "〔状態A-〕ガブリア",
+            "date": "2023-01-08",
             "stock": 1.0
         },
         {
@@ -161,28 +241,12 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/658557983",
-            "price": 5754.0,
-            "name": "〔状態A-〕ガブリア",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22833",
             "price": 6500.0,
             "name": "ガブリアスV(CSR",
             "date": "2023-01-08",
             "stock": 5.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33708",
-            "price": 5980.0,
-            "name": "ガブリアスV084/",
-            "date": "2023-01-08",
-            "stock": 36.0
         },
         {
             "market": "cardrush",
@@ -201,8 +265,16 @@
             "stock": 1.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33708",
+            "price": 5980.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-08",
+            "stock": 36.0
+        },
+        {
             "market": "magi",
-            "link": "/items/468688435",
+            "link": "/items/208701383",
             "price": 4900.0,
             "name": "ガブリアスV 084",
             "date": "2023-01-07",
@@ -218,17 +290,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1877675131",
-            "price": 6279.0,
-            "name": "ガブリアスV【CSR",
+            "link": "/items/468688435",
+            "price": 4900.0,
+            "name": "ガブリアスV 084",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/208701383",
-            "price": 4900.0,
-            "name": "ガブリアスV 084",
+            "link": "/items/1877675131",
+            "price": 6279.0,
+            "name": "ガブリアスV【CSR",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -242,19 +314,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33801",
-            "price": 5480.0,
-            "name": "ガブリアスV084/",
-            "date": "2023-01-07",
-            "stock": 30.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33708",
             "price": 5980.0,
             "name": "ガブリアスV084/",
             "date": "2023-01-07",
             "stock": 36.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33801",
+            "price": 5480.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-07",
+            "stock": 30.0
         },
         {
             "market": "magi",
@@ -298,6 +370,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33801",
+            "price": 5480.0,
+            "name": "ガブリアスV084/",
+            "date": "2023-01-06",
+            "stock": 30.0
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33708",
             "price": 5980.0,
             "name": "ガブリアスV084/",
@@ -305,12 +385,12 @@
             "stock": 37.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33801",
-            "price": 5480.0,
-            "name": "ガブリアスV084/",
-            "date": "2023-01-06",
-            "stock": 30.0
+            "market": "magi",
+            "link": "/items/468688435",
+            "price": 4900.0,
+            "name": "ガブリアスV 084",
+            "date": "2023-01-05",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -353,12 +433,12 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/468688435",
-            "price": 4900.0,
-            "name": "ガブリアスV 084",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33708",
+            "price": 5980.0,
+            "name": "ガブリアスV084/",
             "date": "2023-01-05",
-            "stock": 1.0
+            "stock": 47.0
         },
         {
             "market": "cardrush",
@@ -369,18 +449,26 @@
             "stock": 29.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33708",
-            "price": 5980.0,
-            "name": "ガブリアスV084/",
-            "date": "2023-01-05",
-            "stock": 47.0
+            "market": "magi",
+            "link": "/items/1877675131",
+            "price": 6279.0,
+            "name": "ガブリアスV【CSR",
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/208701383",
+            "link": "/items/468688435",
             "price": 4900.0,
             "name": "ガブリアスV 084",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/658557983",
+            "price": 5754.0,
+            "name": "〔状態A-〕ガブリア",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -394,25 +482,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/658557983",
-            "price": 5754.0,
-            "name": "〔状態A-〕ガブリア",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/468688435",
+            "link": "/items/208701383",
             "price": 4900.0,
             "name": "ガブリアスV 084",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1877675131",
-            "price": 6279.0,
-            "name": "ガブリアスV【CSR",
             "date": "2023-01-04",
             "stock": 1.0
         },

@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/413031922",
+            "price": 120.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/858011427",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/647474793",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/62745737",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/183310420",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/184684736",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1880159287",
+            "price": 139.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/892234854",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1105236782",
             "price": 100.0,
             "name": "ジンダイ U 094",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25574",
+            "price": 50.0,
+            "name": "ジンダイ(U){サポ",
+            "date": "2023-01-11",
+            "stock": 27.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37586",
+            "price": 80.0,
+            "name": "ジンダイ094/09",
+            "date": "2023-01-11",
+            "stock": 211.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g094-098-S12-B/",
+            "price": 88.0,
+            "name": "【ポケカ】Ｕ◇ジンダ",
+            "date": "2023-01-11",
+            "stock": 18.0
         },
         {
             "market": "magi",
@@ -18,7 +106,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/647474793",
+            "link": "/items/1105236782",
             "price": 100.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-10",
@@ -26,7 +114,31 @@
         },
         {
             "market": "magi",
-            "link": "/items/62745737",
+            "link": "/items/183310420",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/892234854",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1880159287",
+            "price": 139.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/184684736",
             "price": 100.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-10",
@@ -42,7 +154,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/184684736",
+            "link": "/items/62745737",
             "price": 100.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-10",
@@ -50,23 +162,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1880159287",
-            "price": 139.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/892234854",
-            "price": 200.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/183310420",
+            "link": "/items/647474793",
             "price": 100.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-10",
@@ -106,6 +202,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/647474793",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/183310420",
             "price": 100.0,
             "name": "ジンダイ U 094",
@@ -116,22 +220,6 @@
             "market": "magi",
             "link": "/items/413031922",
             "price": 120.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/647474793",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/892234854",
-            "price": 200.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-09",
             "stock": 1.0
@@ -154,7 +242,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1105236782",
+            "link": "/items/184684736",
             "price": 100.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-09",
@@ -162,7 +250,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/184684736",
+            "link": "/items/892234854",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1105236782",
             "price": 100.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-09",
@@ -202,7 +298,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/858011427",
+            "link": "/items/184684736",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/892234854",
             "price": 200.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-08",
@@ -220,38 +324,6 @@
             "market": "magi",
             "link": "/items/647474793",
             "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/892234854",
-            "price": 200.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/184684736",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/183310420",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/413031922",
-            "price": 120.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-08",
             "stock": 1.0
@@ -265,6 +337,30 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/413031922",
+            "price": 120.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/183310420",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/858011427",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25574",
             "price": 50.0,
@@ -287,6 +383,62 @@
             "name": "【ポケカ】Ｕ◇ジンダ",
             "date": "2023-01-08",
             "stock": 18.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/892234854",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1105236782",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/183310420",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/184684736",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/647474793",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/858011427",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/62745737",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -305,62 +457,6 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/62745737",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/858011427",
-            "price": 200.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/647474793",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/184684736",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/183310420",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1105236782",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/892234854",
-            "price": 200.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25574",
             "price": 50.0,
@@ -383,6 +479,14 @@
             "name": "【ポケカ】Ｕ◇ジンダ",
             "date": "2023-01-07",
             "stock": 18.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/62745737",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -442,14 +546,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/62745737",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/413031922",
             "price": 120.0,
             "name": "ジンダイ U 094",
@@ -479,6 +575,14 @@
             "name": "【ポケカ】Ｕ◇ジンダ",
             "date": "2023-01-06",
             "stock": 18.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/858011427",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-05",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -492,14 +596,6 @@
             "market": "magi",
             "link": "/items/413031922",
             "price": 120.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/858011427",
-            "price": 200.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-05",
             "stock": 1.0
@@ -578,7 +674,23 @@
         },
         {
             "market": "magi",
+            "link": "/items/1880159287",
+            "price": 147.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/858011427",
+            "price": 200.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/892234854",
             "price": 200.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-04",
@@ -594,39 +706,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1105236782",
-            "price": 100.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1880159287",
-            "price": 147.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/892234854",
-            "price": 200.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/413031922",
-            "price": 120.0,
-            "name": "ジンダイ U 094",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/183310420",
+            "link": "/items/62745737",
             "price": 100.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-04",
@@ -642,7 +722,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/62745737",
+            "link": "/items/1105236782",
+            "price": 100.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/413031922",
+            "price": 120.0,
+            "name": "ジンダイ U 094",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/183310420",
             "price": 100.0,
             "name": "ジンダイ U 094",
             "date": "2023-01-04",

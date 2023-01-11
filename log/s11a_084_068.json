@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1256427485",
+            "price": 8000.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/652130963",
+            "price": 5999.0,
+            "name": "【美品】ジャローダV",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/242789213",
+            "price": 6370.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1531522586",
+            "price": 6370.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1337505788",
+            "price": 17700.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/176242639",
+            "price": 5754.0,
+            "name": "ジャローダV【CSR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112859586",
+            "price": 4704.0,
+            "name": "〔状態A-〕ジャロー",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/590016162",
             "price": 5800.0,
             "name": "【美品】ジャローダV",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2050141299",
+            "price": 6370.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25213",
+            "price": 5500.0,
+            "name": "ジャローダV(CSR",
+            "date": "2023-01-11",
+            "stock": 9.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37129",
+            "price": 4480.0,
+            "name": "ジャローダV084/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37023",
+            "price": 5480.0,
+            "name": "ジャローダV084/",
+            "date": "2023-01-11",
+            "stock": 25.0
         },
         {
             "market": "magi",
@@ -18,24 +106,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1337505788",
-            "price": 17700.0,
-            "name": "ジャローダV CSR",
+            "link": "/items/590016162",
+            "price": 5800.0,
+            "name": "【美品】ジャローダV",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1531522586",
-            "price": 6375.0,
-            "name": "ジャローダV CSR",
+            "link": "/items/1112859586",
+            "price": 4704.0,
+            "name": "〔状態A-〕ジャロー",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/242789213",
-            "price": 6375.0,
+            "link": "/items/1256427485",
+            "price": 8000.0,
             "name": "ジャローダV CSR",
             "date": "2023-01-10",
             "stock": 1.0
@@ -50,17 +138,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/1256427485",
-            "price": 8000.0,
+            "link": "/items/242789213",
+            "price": 6375.0,
             "name": "ジャローダV CSR",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1112859586",
-            "price": 4704.0,
-            "name": "〔状態A-〕ジャロー",
+            "link": "/items/1531522586",
+            "price": 6375.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1337505788",
+            "price": 17700.0,
+            "name": "ジャローダV CSR",
             "date": "2023-01-10",
             "stock": 1.0
         },
@@ -74,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37129",
-            "price": 4480.0,
-            "name": "ジャローダV084/",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37023",
             "price": 5480.0,
             "name": "ジャローダV084/",
@@ -89,9 +177,25 @@
             "stock": 27.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37129",
+            "price": 4480.0,
+            "name": "ジャローダV084/",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
             "market": "magi",
-            "link": "/items/1337505788",
-            "price": 17700.0,
+            "link": "/items/652130963",
+            "price": 5999.0,
+            "name": "【美品】ジャローダV",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/242789213",
+            "price": 6380.0,
             "name": "ジャローダV CSR",
             "date": "2023-01-09",
             "stock": 1.0
@@ -106,17 +210,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1531522586",
-            "price": 6380.0,
+            "link": "/items/1337505788",
+            "price": 17700.0,
             "name": "ジャローダV CSR",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/242789213",
-            "price": 6380.0,
-            "name": "ジャローダV CSR",
+            "link": "/items/176242639",
+            "price": 5754.0,
+            "name": "ジャローダV【CSR",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -130,17 +234,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/652130963",
-            "price": 5999.0,
-            "name": "【美品】ジャローダV",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/176242639",
-            "price": 5754.0,
-            "name": "ジャローダV【CSR",
+            "link": "/items/1531522586",
+            "price": 6380.0,
+            "name": "ジャローダV CSR",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -170,6 +266,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/652130963",
+            "price": 5999.0,
+            "name": "【美品】ジャローダV",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/176242639",
             "price": 5754.0,
             "name": "ジャローダV【CSR",
@@ -213,14 +317,6 @@
             "link": "/items/1112859586",
             "price": 4704.0,
             "name": "〔状態A-〕ジャロー",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/652130963",
-            "price": 5999.0,
-            "name": "【美品】ジャローダV",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -242,19 +338,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37023",
-            "price": 5480.0,
-            "name": "ジャローダV084/",
-            "date": "2023-01-08",
-            "stock": 34.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37129",
             "price": 4480.0,
             "name": "ジャローダV084/",
             "date": "2023-01-08",
             "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37023",
+            "price": 5480.0,
+            "name": "ジャローダV084/",
+            "date": "2023-01-08",
+            "stock": 34.0
         },
         {
             "market": "magi",
@@ -274,33 +370,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1112859586",
-            "price": 4704.0,
-            "name": "〔状態A-〕ジャロー",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1531522586",
-            "price": 6384.0,
-            "name": "ジャローダV CSR",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/652130963",
-            "price": 5999.0,
-            "name": "【美品】ジャローダV",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/242789213",
-            "price": 6384.0,
-            "name": "ジャローダV CSR",
+            "link": "/items/176242639",
+            "price": 5754.0,
+            "name": "ジャローダV【CSR",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -314,9 +386,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/176242639",
-            "price": 5754.0,
-            "name": "ジャローダV【CSR",
+            "link": "/items/242789213",
+            "price": 6384.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1531522586",
+            "price": 6384.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112859586",
+            "price": 4704.0,
+            "name": "〔状態A-〕ジャロー",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/652130963",
+            "price": 5999.0,
+            "name": "【美品】ジャローダV",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -330,14 +426,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37023",
-            "price": 5480.0,
-            "name": "ジャローダV084/",
-            "date": "2023-01-07",
-            "stock": 35.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37129",
             "price": 4480.0,
             "name": "ジャローダV084/",
@@ -345,18 +433,26 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/652130963",
-            "price": 5999.0,
-            "name": "【美品】ジャローダV",
-            "date": "2023-01-06",
-            "stock": 1.0
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37023",
+            "price": 5480.0,
+            "name": "ジャローダV084/",
+            "date": "2023-01-07",
+            "stock": 35.0
         },
         {
             "market": "magi",
             "link": "/items/1508689152",
             "price": 4900.0,
             "name": "ジャローダV CSR",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/652130963",
+            "price": 5999.0,
+            "name": "【美品】ジャローダV",
             "date": "2023-01-06",
             "stock": 1.0
         },
@@ -418,8 +514,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1256427485",
-            "price": 8000.0,
+            "link": "/items/652130963",
+            "price": 5999.0,
+            "name": "【美品】ジャローダV",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/242789213",
+            "price": 6390.0,
             "name": "ジャローダV CSR",
             "date": "2023-01-05",
             "stock": 1.0
@@ -466,16 +570,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/652130963",
-            "price": 5999.0,
-            "name": "【美品】ジャローダV",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/242789213",
-            "price": 6390.0,
+            "link": "/items/1256427485",
+            "price": 8000.0,
             "name": "ジャローダV CSR",
             "date": "2023-01-05",
             "stock": 1.0
@@ -490,14 +586,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37023",
-            "price": 5480.0,
-            "name": "ジャローダV084/",
-            "date": "2023-01-05",
-            "stock": 45.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37129",
             "price": 4480.0,
             "name": "ジャローダV084/",
@@ -505,33 +593,33 @@
             "stock": 1.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37023",
+            "price": 5480.0,
+            "name": "ジャローダV084/",
+            "date": "2023-01-05",
+            "stock": 45.0
+        },
+        {
             "market": "magi",
-            "link": "/items/652130963",
-            "price": 5999.0,
-            "name": "【美品】ジャローダV",
+            "link": "/items/1205446924",
+            "price": 4704.0,
+            "name": "〔状態A-〕ジャロー",
             "date": "2023-01-04",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/242789213",
+            "link": "/items/176242639",
+            "price": 5754.0,
+            "name": "ジャローダV【CSR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1531522586",
             "price": 6394.0,
-            "name": "ジャローダV CSR",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1337505788",
-            "price": 17700.0,
-            "name": "ジャローダV CSR",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1508689152",
-            "price": 4900.0,
             "name": "ジャローダV CSR",
             "date": "2023-01-04",
             "stock": 1.0
@@ -546,7 +634,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/1531522586",
+            "link": "/items/1508689152",
+            "price": 4900.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1337505788",
+            "price": 17700.0,
+            "name": "ジャローダV CSR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/242789213",
             "price": 6394.0,
             "name": "ジャローダV CSR",
             "date": "2023-01-04",
@@ -554,17 +658,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/176242639",
-            "price": 5754.0,
-            "name": "ジャローダV【CSR",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1205446924",
-            "price": 4704.0,
-            "name": "〔状態A-〕ジャロー",
+            "link": "/items/652130963",
+            "price": 5999.0,
+            "name": "【美品】ジャローダV",
             "date": "2023-01-04",
             "stock": 1.0
         },

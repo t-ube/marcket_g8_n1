@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17232",
+            "price": 100.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17208",
+            "price": 50.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-11",
+            "stock": 16.0
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22403",
             "price": 200.0,
             "name": "ポケモンキャッチャー",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 33.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6798",
+            "price": 80.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-11",
+            "stock": 59.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6663",
+            "price": 120.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-11",
+            "stock": 12.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g018-024-SA-BR/",
+            "price": 77.0,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2023-01-11",
+            "stock": 4.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g018-024-SA-BRM/",
+            "price": 110.0,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2023-01-11",
+            "stock": 6.0
         },
         {
             "market": "hareruya2",
@@ -18,19 +66,19 @@
         },
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22403",
+            "price": 200.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-10",
+            "stock": 33.0
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17208",
             "price": 50.0,
             "name": "ポケモンキャッチャー",
             "date": "2023-01-10",
             "stock": 16.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6663",
-            "price": 120.0,
-            "name": "ポケモンキャッチャー",
-            "date": "2023-01-10",
-            "stock": 12.0
         },
         {
             "market": "cardrush",
@@ -41,12 +89,12 @@
             "stock": 59.0
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g018-024-SA-BR/",
-            "price": 77.0,
-            "name": "【ポケカ】ＳＳ）通常",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6663",
+            "price": 120.0,
+            "name": "ポケモンキャッチャー",
             "date": "2023-01-10",
-            "stock": 4.0
+            "stock": 12.0
         },
         {
             "market": "torecolo",
@@ -57,12 +105,12 @@
             "stock": 6.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17232",
-            "price": 100.0,
-            "name": "ポケモンキャッチャー",
-            "date": "2023-01-09",
-            "stock": 1.0
+            "market": "torecolo",
+            "link": "/shop/g/g018-024-SA-BR/",
+            "price": 77.0,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2023-01-10",
+            "stock": 4.0
         },
         {
             "market": "hareruya2",
@@ -81,6 +129,14 @@
             "stock": 16.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17232",
+            "price": 100.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6798",
             "price": 80.0,
@@ -114,11 +170,11 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22403",
-            "price": 200.0,
+            "link": "https://www.hareruya2.com/product/17208",
+            "price": 50.0,
             "name": "ポケモンキャッチャー",
             "date": "2023-01-08",
-            "stock": 33.0
+            "stock": 16.0
         },
         {
             "market": "hareruya2",
@@ -130,19 +186,11 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17208",
-            "price": 50.0,
+            "link": "https://www.hareruya2.com/product/22403",
+            "price": 200.0,
             "name": "ポケモンキャッチャー",
             "date": "2023-01-08",
-            "stock": 16.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6663",
-            "price": 120.0,
-            "name": "ポケモンキャッチャー",
-            "date": "2023-01-08",
-            "stock": 12.0
+            "stock": 33.0
         },
         {
             "market": "cardrush",
@@ -153,12 +201,12 @@
             "stock": 59.0
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g018-024-SA-BRM/",
-            "price": 110.0,
-            "name": "【ポケカ】ＳＳ）ミラ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6663",
+            "price": 120.0,
+            "name": "ポケモンキャッチャー",
             "date": "2023-01-08",
-            "stock": 6.0
+            "stock": 12.0
         },
         {
             "market": "torecolo",
@@ -167,6 +215,14 @@
             "name": "【ポケカ】ＳＳ）通常",
             "date": "2023-01-08",
             "stock": 4.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g018-024-SA-BRM/",
+            "price": 110.0,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2023-01-08",
+            "stock": 6.0
         },
         {
             "market": "hareruya2",
@@ -194,19 +250,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6798",
-            "price": 80.0,
-            "name": "ポケモンキャッチャー",
-            "date": "2023-01-07",
-            "stock": 59.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6663",
             "price": 120.0,
             "name": "ポケモンキャッチャー",
             "date": "2023-01-07",
             "stock": 12.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6798",
+            "price": 80.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-07",
+            "stock": 59.0
         },
         {
             "market": "torecolo",
@@ -226,19 +282,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22403",
-            "price": 200.0,
-            "name": "ポケモンキャッチャー",
-            "date": "2023-01-06",
-            "stock": 33.0
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17232",
             "price": 100.0,
             "name": "ポケモンキャッチャー",
             "date": "2023-01-06",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22403",
+            "price": 200.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-06",
+            "stock": 33.0
         },
         {
             "market": "hareruya2",
@@ -266,19 +322,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g018-024-SA-BR/",
-            "price": 77.0,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2023-01-06",
-            "stock": 4.0
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g018-024-SA-BRM/",
             "price": 110.0,
             "name": "【ポケカ】ＳＳ）ミラ",
             "date": "2023-01-06",
             "stock": 6.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g018-024-SA-BR/",
+            "price": 77.0,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2023-01-06",
+            "stock": 4.0
         },
         {
             "market": "hareruya2",
@@ -306,6 +362,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6663",
+            "price": 120.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-05",
+            "stock": 12.0
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6798",
             "price": 80.0,
             "name": "ポケモンキャッチャー",
@@ -313,12 +377,12 @@
             "stock": 59.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6663",
-            "price": 120.0,
-            "name": "ポケモンキャッチャー",
+            "market": "torecolo",
+            "link": "/shop/g/g018-024-SA-BR/",
+            "price": 77.0,
+            "name": "【ポケカ】ＳＳ）通常",
             "date": "2023-01-05",
-            "stock": 12.0
+            "stock": 4.0
         },
         {
             "market": "torecolo",
@@ -329,12 +393,20 @@
             "stock": 6.0
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g018-024-SA-BR/",
-            "price": 77.0,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2023-01-05",
-            "stock": 4.0
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17232",
+            "price": 100.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22403",
+            "price": 200.0,
+            "name": "ポケモンキャッチャー",
+            "date": "2023-01-04",
+            "stock": 33.0
         },
         {
             "market": "hareruya2",
@@ -345,20 +417,12 @@
             "stock": 16.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22403",
-            "price": 200.0,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6663",
+            "price": 120.0,
             "name": "ポケモンキャッチャー",
             "date": "2023-01-04",
-            "stock": 33.0
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17232",
-            "price": 100.0,
-            "name": "ポケモンキャッチャー",
-            "date": "2023-01-04",
-            "stock": 1.0
+            "stock": 12.0
         },
         {
             "market": "cardrush",
@@ -367,14 +431,6 @@
             "name": "ポケモンキャッチャー",
             "date": "2023-01-04",
             "stock": 59.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6663",
-            "price": 120.0,
-            "name": "ポケモンキャッチャー",
-            "date": "2023-01-04",
-            "stock": 12.0
         },
         {
             "market": "torecolo",

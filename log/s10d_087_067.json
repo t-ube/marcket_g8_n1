@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1374497362",
+            "price": 9999.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/12875165",
+            "price": 5280.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/605889741",
+            "price": 3800.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/564480597",
+            "price": 18500.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/884647572",
+            "price": 4080.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1906874646",
+            "price": 4179.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/924259697",
+            "price": 3600.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/260048685",
             "price": 3444.0,
             "name": "〔状態A-〕トレッキ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23097",
+            "price": 4000.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34845",
+            "price": 3280.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34755",
+            "price": 3980.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-11",
+            "stock": 17.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g087-067-S10D-B/",
+            "price": 4620.0,
+            "name": "【ポケカ】ＵＲ◇トレ",
+            "date": "2023-01-11",
+            "stock": 2.0
         },
         {
             "market": "magi",
@@ -18,32 +106,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1906874646",
-            "price": 4179.0,
-            "name": "トレッキングシューズ",
+            "link": "/items/260048685",
+            "price": 3444.0,
+            "name": "〔状態A-〕トレッキ",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/884647572",
-            "price": 4080.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/564480597",
-            "price": 18500.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/605889741",
-            "price": 3800.0,
+            "link": "/items/1374497362",
+            "price": 9999.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-10",
             "stock": 1.0
@@ -58,8 +130,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1374497362",
-            "price": 9999.0,
+            "link": "/items/605889741",
+            "price": 3800.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/564480597",
+            "price": 18500.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/884647572",
+            "price": 4080.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1906874646",
+            "price": 4179.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-10",
             "stock": 1.0
@@ -74,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34845",
-            "price": 3280.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-10",
-            "stock": 2.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34755",
             "price": 3980.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-10",
             "stock": 18.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34845",
+            "price": 3280.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-10",
+            "stock": 2.0
         },
         {
             "market": "torecolo",
@@ -98,16 +194,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/260048685",
-            "price": 3444.0,
-            "name": "〔状態A-〕トレッキ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/924259697",
-            "price": 3600.0,
+            "link": "/items/1374497362",
+            "price": 9999.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-09",
             "stock": 1.0
@@ -122,6 +210,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/260048685",
+            "price": 3444.0,
+            "name": "〔状態A-〕トレッキ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/605889741",
+            "price": 3800.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/884647572",
             "price": 4080.0,
             "name": "トレッキングシューズ",
@@ -130,16 +234,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1374497362",
-            "price": 9999.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/605889741",
-            "price": 3800.0,
+            "link": "/items/924259697",
+            "price": 3600.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-09",
             "stock": 1.0
@@ -194,6 +290,30 @@
         },
         {
             "market": "magi",
+            "link": "/items/1374497362",
+            "price": 9999.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/12875165",
+            "price": 5280.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/924259697",
+            "price": 3600.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/564480597",
             "price": 18500.0,
             "name": "トレッキングシューズ",
@@ -228,30 +348,6 @@
             "market": "magi",
             "link": "/items/605889741",
             "price": 3800.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/12875165",
-            "price": 5280.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1374497362",
-            "price": 9999.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/924259697",
-            "price": 3600.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-08",
             "stock": 1.0
@@ -290,24 +386,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/924259697",
-            "price": 3600.0,
+            "link": "/items/1374497362",
+            "price": 9999.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/564480597",
-            "price": 18500.0,
+            "link": "/items/605889741",
+            "price": 3800.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1906874646",
-            "price": 4179.0,
+            "link": "/items/12875165",
+            "price": 5280.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/884647572",
+            "price": 4080.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-07",
             "stock": 1.0
@@ -322,32 +426,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/884647572",
-            "price": 4080.0,
+            "link": "/items/1906874646",
+            "price": 4179.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/12875165",
-            "price": 5280.0,
+            "link": "/items/924259697",
+            "price": 3600.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/605889741",
-            "price": 3800.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1374497362",
-            "price": 9999.0,
+            "link": "/items/564480597",
+            "price": 18500.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-07",
             "stock": 1.0
@@ -362,14 +458,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34755",
-            "price": 3980.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-07",
-            "stock": 14.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34845",
             "price": 3280.0,
             "name": "トレッキングシューズ",
@@ -377,11 +465,27 @@
             "stock": 2.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34755",
+            "price": 3980.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-07",
+            "stock": 14.0
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g087-067-S10D-B/",
             "price": 4620.0,
             "name": "【ポケカ】ＵＲ◇トレ",
             "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/605889741",
+            "price": 3800.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-06",
             "stock": 1.0
         },
         {
@@ -428,14 +532,6 @@
             "market": "magi",
             "link": "/items/924259697",
             "price": 3600.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/605889741",
-            "price": 3800.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-06",
             "stock": 1.0
@@ -466,6 +562,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/564480597",
+            "price": 18500.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/12875165",
             "price": 5280.0,
             "name": "トレッキングシューズ",
@@ -490,16 +594,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/564480597",
-            "price": 18500.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/605889741",
-            "price": 3800.0,
+            "link": "/items/884647572",
+            "price": 4080.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-05",
             "stock": 1.0
@@ -514,8 +610,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/884647572",
-            "price": 4080.0,
+            "link": "/items/605889741",
+            "price": 3800.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-05",
             "stock": 1.0
@@ -546,40 +642,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/884647572",
-            "price": 4080.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/924259697",
-            "price": 3600.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1906874646",
-            "price": 4179.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/564480597",
-            "price": 18500.0,
-            "name": "トレッキングシューズ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/605889741",
-            "price": 3800.0,
+            "link": "/items/12875165",
+            "price": 5280.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-04",
             "stock": 1.0
@@ -594,8 +658,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/12875165",
-            "price": 5280.0,
+            "link": "/items/605889741",
+            "price": 3800.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/564480597",
+            "price": 18500.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1906874646",
+            "price": 4179.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/924259697",
+            "price": 3600.0,
+            "name": "トレッキングシューズ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/884647572",
+            "price": 4080.0,
             "name": "トレッキングシューズ",
             "date": "2023-01-04",
             "stock": 1.0

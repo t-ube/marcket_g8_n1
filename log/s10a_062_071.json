@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/457240125",
+            "price": 200.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/21316928",
+            "price": 650.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1063725003",
+            "price": 749.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/439488866",
+            "price": 125.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-11",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1469171804",
+            "price": 450.0,
+            "name": "【値下げ4枚】ヒスイ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1422823033",
+            "price": 400.0,
+            "name": "【値下げ2枚】ヒスイ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/810601359",
+            "price": 460.0,
+            "name": "【値下げ4枚】ヒスイ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557265303",
+            "price": 100.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/241242553",
             "price": 450.0,
             "name": "ヒスイゾロアークVS",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23398",
+            "price": 100.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-11",
+            "stock": 32.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35286",
+            "price": 80.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-11",
+            "stock": 254.0
         },
         {
             "market": "magi",
@@ -18,40 +98,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1469171804",
+            "link": "/items/241242553",
             "price": 450.0,
-            "name": "【値下げ4枚】ヒスイ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/439488866",
-            "price": 125.0,
-            "name": "ヒスイゾロアークVS",
-            "date": "2023-01-10",
-            "stock": 4.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/810601359",
-            "price": 460.0,
-            "name": "【値下げ4枚】ヒスイ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/21316928",
-            "price": 650.0,
             "name": "ヒスイゾロアークVS",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/457240125",
-            "price": 200.0,
+            "link": "/items/1063725003",
+            "price": 749.0,
             "name": "ヒスイゾロアークVS",
             "date": "2023-01-10",
             "stock": 1.0
@@ -66,9 +122,41 @@
         },
         {
             "market": "magi",
-            "link": "/items/1063725003",
-            "price": 749.0,
+            "link": "/items/457240125",
+            "price": 200.0,
             "name": "ヒスイゾロアークVS",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/21316928",
+            "price": 650.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/810601359",
+            "price": 460.0,
+            "name": "【値下げ4枚】ヒスイ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/439488866",
+            "price": 125.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-10",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1469171804",
+            "price": 450.0,
+            "name": "【値下げ4枚】ヒスイ",
             "date": "2023-01-10",
             "stock": 1.0
         },
@@ -90,9 +178,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1469171804",
-            "price": 450.0,
-            "name": "【値下げ4枚】ヒスイ",
+            "link": "/items/439488866",
+            "price": 125.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-09",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557265303",
+            "price": 100.0,
+            "name": "ヒスイゾロアークVS",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -106,16 +202,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1422823033",
-            "price": 400.0,
-            "name": "【値下げ2枚】ヒスイ",
+            "link": "/items/1469171804",
+            "price": 450.0,
+            "name": "【値下げ4枚】ヒスイ",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1557265303",
-            "price": 100.0,
+            "link": "/items/21316928",
+            "price": 650.0,
             "name": "ヒスイゾロアークVS",
             "date": "2023-01-09",
             "stock": 1.0
@@ -130,17 +226,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/439488866",
-            "price": 125.0,
-            "name": "ヒスイゾロアークVS",
-            "date": "2023-01-09",
-            "stock": 4.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/21316928",
-            "price": 650.0,
-            "name": "ヒスイゾロアークVS",
+            "link": "/items/1422823033",
+            "price": 400.0,
+            "name": "【値下げ2枚】ヒスイ",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -178,6 +266,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/1063725003",
+            "price": 749.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557265303",
+            "price": 100.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/439488866",
             "price": 125.0,
             "name": "ヒスイゾロアークVS",
@@ -218,33 +322,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/241242553",
-            "price": 450.0,
-            "name": "ヒスイゾロアークVS",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1557265303",
-            "price": 100.0,
-            "name": "ヒスイゾロアークVS",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1063725003",
-            "price": 749.0,
-            "name": "ヒスイゾロアークVS",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1422823033",
             "price": 400.0,
             "name": "【値下げ2枚】ヒスイ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/241242553",
+            "price": 450.0,
+            "name": "ヒスイゾロアークVS",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -274,16 +362,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1557265303",
-            "price": 100.0,
+            "link": "/items/21316928",
+            "price": 650.0,
             "name": "ヒスイゾロアークVS",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/241242553",
-            "price": 450.0,
+            "link": "/items/439488866",
+            "price": 125.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-07",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/810601359",
+            "price": 470.0,
+            "name": "【値下げ4枚】ヒスイ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1063725003",
+            "price": 749.0,
             "name": "ヒスイゾロアークVS",
             "date": "2023-01-07",
             "stock": 1.0
@@ -298,41 +402,25 @@
         },
         {
             "market": "magi",
+            "link": "/items/241242553",
+            "price": 450.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557265303",
+            "price": 100.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1422823033",
             "price": 400.0,
             "name": "【値下げ2枚】ヒスイ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1063725003",
-            "price": 749.0,
-            "name": "ヒスイゾロアークVS",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/810601359",
-            "price": 470.0,
-            "name": "【値下げ4枚】ヒスイ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/439488866",
-            "price": 125.0,
-            "name": "ヒスイゾロアークVS",
-            "date": "2023-01-07",
-            "stock": 4.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/21316928",
-            "price": 650.0,
-            "name": "ヒスイゾロアークVS",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -354,6 +442,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1557265303",
+            "price": 100.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/241242553",
             "price": 450.0,
             "name": "ヒスイゾロアークVS",
@@ -365,14 +461,6 @@
             "link": "/items/1469171804",
             "price": 450.0,
             "name": "【値下げ4枚】ヒスイ",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1557265303",
-            "price": 100.0,
-            "name": "ヒスイゾロアークVS",
             "date": "2023-01-06",
             "stock": 1.0
         },
@@ -442,6 +530,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1422823033",
+            "price": 400.0,
+            "name": "【値下げ2枚】ヒスイ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/439488866",
             "price": 125.0,
             "name": "ヒスイゾロアークVS",
@@ -477,14 +573,6 @@
             "link": "/items/241242553",
             "price": 450.0,
             "name": "ヒスイゾロアークVS",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1422823033",
-            "price": 400.0,
-            "name": "【値下げ2枚】ヒスイ",
             "date": "2023-01-05",
             "stock": 1.0
         },
@@ -538,6 +626,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/1063725003",
+            "price": 749.0,
+            "name": "ヒスイゾロアークVS",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1422823033",
+            "price": 400.0,
+            "name": "【値下げ2枚】ヒスイ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/241242553",
             "price": 450.0,
             "name": "ヒスイゾロアークVS",
@@ -588,22 +692,6 @@
             "market": "magi",
             "link": "/items/1557265303",
             "price": 100.0,
-            "name": "ヒスイゾロアークVS",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1422823033",
-            "price": 400.0,
-            "name": "【値下げ2枚】ヒスイ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1063725003",
-            "price": 749.0,
             "name": "ヒスイゾロアークVS",
             "date": "2023-01-04",
             "stock": 1.0

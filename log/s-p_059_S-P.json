@@ -2,17 +2,65 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1678842976",
+            "price": 20790.0,
+            "name": "〔状態A-〕イエッサ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/144073020",
+            "price": 19800.0,
+            "name": "イエッサンV 059",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1011691901",
             "price": 14490.0,
             "name": "〔状態B〕イエッサン",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17373",
+            "price": 23000.0,
+            "name": "イエッサンV(PRO",
+            "date": "2023-01-11",
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14923",
+            "price": 13800.0,
+            "name": "イエッサンV059/",
+            "date": "2023-01-11",
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30445",
+            "price": 19800.0,
+            "name": "イエッサンV059/",
+            "date": "2023-01-11",
+            "stock": 6.0
         },
         {
             "market": "magi",
             "link": "/items/1678842976",
             "price": 20790.0,
             "name": "〔状態A-〕イエッサ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1011691901",
+            "price": 14490.0,
+            "name": "〔状態B〕イエッサン",
             "date": "2023-01-10",
             "stock": 1.0
         },
@@ -31,6 +79,14 @@
             "name": "イエッサンV(PRO",
             "date": "2023-01-10",
             "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14923",
+            "price": 13800.0,
+            "name": "イエッサンV059/",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -41,18 +97,10 @@
             "stock": 6.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14923",
-            "price": 13800.0,
-            "name": "イエッサンV059/",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
             "market": "magi",
-            "link": "/items/1011691901",
-            "price": 14490.0,
-            "name": "〔状態B〕イエッサン",
+            "link": "/items/1678842976",
+            "price": 20790.0,
+            "name": "〔状態A-〕イエッサ",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -66,9 +114,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1678842976",
-            "price": 20790.0,
-            "name": "〔状態A-〕イエッサ",
+            "link": "/items/1011691901",
+            "price": 14490.0,
+            "name": "〔状態B〕イエッサン",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -98,9 +146,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1011691901",
-            "price": 14490.0,
-            "name": "〔状態B〕イエッサン",
+            "link": "/items/144073020",
+            "price": 19800.0,
+            "name": "イエッサンV 059",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -114,9 +162,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/144073020",
-            "price": 19800.0,
-            "name": "イエッサンV 059",
+            "link": "/items/1011691901",
+            "price": 14490.0,
+            "name": "〔状態B〕イエッサン",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -130,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14923",
-            "price": 13800.0,
-            "name": "イエッサンV059/",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30445",
             "price": 19800.0,
             "name": "イエッサンV059/",
@@ -145,10 +185,18 @@
             "stock": 5.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14923",
+            "price": 13800.0,
+            "name": "イエッサンV059/",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
             "market": "magi",
-            "link": "/items/1678842976",
-            "price": 20790.0,
-            "name": "〔状態A-〕イエッサ",
+            "link": "/items/1011691901",
+            "price": 14490.0,
+            "name": "〔状態B〕イエッサン",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -162,9 +210,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1011691901",
-            "price": 14490.0,
-            "name": "〔状態B〕イエッサン",
+            "link": "/items/1678842976",
+            "price": 20790.0,
+            "name": "〔状態A-〕イエッサ",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -194,6 +242,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1678842976",
+            "price": 20790.0,
+            "name": "〔状態A-〕イエッサ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1011691901",
             "price": 14490.0,
             "name": "〔状態B〕イエッサン",
@@ -205,14 +261,6 @@
             "link": "/items/144073020",
             "price": 19800.0,
             "name": "イエッサンV 059",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1678842976",
-            "price": 20790.0,
-            "name": "〔状態A-〕イエッサ",
             "date": "2023-01-06",
             "stock": 1.0
         },
@@ -238,30 +286,6 @@
             "price": 13800.0,
             "name": "イエッサンV059/",
             "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1011691901",
-            "price": 14490.0,
-            "name": "〔状態B〕イエッサン",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/144073020",
-            "price": 19800.0,
-            "name": "イエッサンV 059",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1678842976",
-            "price": 20790.0,
-            "name": "〔状態A-〕イエッサ",
-            "date": "2023-01-05",
             "stock": 1.0
         },
         {
@@ -273,6 +297,30 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/1678842976",
+            "price": 20790.0,
+            "name": "〔状態A-〕イエッサ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1011691901",
+            "price": 14490.0,
+            "name": "〔状態B〕イエッサン",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/144073020",
+            "price": 19800.0,
+            "name": "イエッサンV 059",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17373",
             "price": 23000.0,
@@ -282,11 +330,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30445",
-            "price": 19800.0,
+            "link": "https://www.cardrush-pokemon.jp/product/14658",
+            "price": 23800.0,
             "name": "イエッサンV059/",
             "date": "2023-01-05",
-            "stock": 5.0
+            "stock": 2.0
         },
         {
             "market": "cardrush",
@@ -298,17 +346,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14658",
-            "price": 23800.0,
+            "link": "https://www.cardrush-pokemon.jp/product/30445",
+            "price": 19800.0,
             "name": "イエッサンV059/",
             "date": "2023-01-05",
-            "stock": 2.0
+            "stock": 5.0
         },
         {
             "market": "magi",
-            "link": "/items/144073020",
-            "price": 19800.0,
-            "name": "イエッサンV 059",
+            "link": "/items/1188931332",
+            "price": 24990.0,
+            "name": "イエッサンV【P】{",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -322,9 +370,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1188931332",
-            "price": 24990.0,
-            "name": "イエッサンV【P】{",
+            "link": "/items/144073020",
+            "price": 19800.0,
+            "name": "イエッサンV 059",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -338,19 +386,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30445",
-            "price": 19800.0,
-            "name": "イエッサンV059/",
-            "date": "2023-01-04",
-            "stock": 5.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14658",
             "price": 23800.0,
             "name": "イエッサンV059/",
             "date": "2023-01-04",
             "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30445",
+            "price": 19800.0,
+            "name": "イエッサンV059/",
+            "date": "2023-01-04",
+            "stock": 5.0
         }
     ]
 }

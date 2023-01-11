@@ -2,10 +2,138 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/324447823",
+            "price": 150.0,
+            "name": "キバナ【-】{151",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/149942821",
+            "price": 100.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1813600197",
+            "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/948545338",
+            "price": 150.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1745901606",
+            "price": 180.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/201661766",
+            "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1259026465",
+            "price": 25.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-11",
+            "stock": 6.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/543812117",
+            "price": 200.0,
+            "name": "キバナ【-】{151",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/717450631",
+            "price": 300.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/50709728",
             "price": 250.0,
             "name": "キバナ 151/17",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/595964230",
+            "price": 25.0,
+            "name": "1枚25円 キバナ ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2105241654",
+            "price": 250.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26174",
+            "price": 50.0,
+            "name": "キバナ(CP){サポ",
+            "date": "2023-01-11",
+            "stock": 30.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26266",
+            "price": 100.0,
+            "name": "キバナ:ミラー(CP",
+            "date": "2023-01-11",
+            "stock": 43.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38235",
+            "price": 50.0,
+            "name": "キバナ151/172",
+            "date": "2023-01-11",
+            "stock": 199.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38327",
+            "price": 80.0,
+            "name": "キバナ151/172",
+            "date": "2023-01-11",
+            "stock": 219.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38601",
+            "price": 70.0,
+            "name": "キバナ151/172",
+            "date": "2023-01-11",
             "stock": 1.0
         },
         {
@@ -15,6 +143,38 @@
             "name": "キバナ 151/17",
             "date": "2023-01-10",
             "stock": 6.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/50709728",
+            "price": 250.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/201661766",
+            "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/948545338",
+            "price": 150.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/149942821",
+            "price": 100.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -34,16 +194,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/948545338",
-            "price": 150.0,
+            "link": "/items/595964230",
+            "price": 25.0,
+            "name": "1枚25円 キバナ ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/717450631",
+            "price": 300.0,
             "name": "キバナ 151/17",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1745901606",
-            "price": 180.0,
+            "link": "/items/2105241654",
+            "price": 250.0,
             "name": "キバナ 151/17",
             "date": "2023-01-10",
             "stock": 1.0
@@ -58,51 +226,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/2105241654",
-            "price": 250.0,
+            "link": "/items/1745901606",
+            "price": 180.0,
             "name": "キバナ 151/17",
             "date": "2023-01-10",
             "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/717450631",
-            "price": 300.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/595964230",
-            "price": 25.0,
-            "name": "1枚25円 キバナ ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/201661766",
-            "price": 130.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/149942821",
-            "price": 100.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26266",
-            "price": 100.0,
-            "name": "キバナ:ミラー(CP",
-            "date": "2023-01-10",
-            "stock": 43.0
         },
         {
             "market": "hareruya2",
@@ -113,12 +241,20 @@
             "stock": 31.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26266",
+            "price": 100.0,
+            "name": "キバナ:ミラー(CP",
+            "date": "2023-01-10",
+            "stock": 43.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38327",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38601",
+            "price": 70.0,
             "name": "キバナ151/172",
             "date": "2023-01-10",
-            "stock": 213.0
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -130,17 +266,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38601",
-            "price": 70.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38327",
+            "price": 80.0,
             "name": "キバナ151/172",
             "date": "2023-01-10",
-            "stock": 1.0
+            "stock": 213.0
         },
         {
             "market": "magi",
-            "link": "/items/324447823",
-            "price": 150.0,
-            "name": "キバナ【-】{151",
+            "link": "/items/1745901606",
+            "price": 180.0,
+            "name": "キバナ 151/17",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -154,6 +290,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/543812117",
+            "price": 200.0,
+            "name": "キバナ【-】{151",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/948545338",
             "price": 150.0,
             "name": "キバナ 151/17",
@@ -162,17 +306,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1745901606",
-            "price": 180.0,
-            "name": "キバナ 151/17",
+            "link": "/items/324447823",
+            "price": 150.0,
+            "name": "キバナ【-】{151",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/543812117",
-            "price": 200.0,
-            "name": "キバナ【-】{151",
+            "link": "/items/201661766",
+            "price": 130.0,
+            "name": "キバナ 151/17",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -204,14 +348,6 @@
             "market": "magi",
             "link": "/items/2105241654",
             "price": 250.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/201661766",
-            "price": 130.0,
             "name": "キバナ 151/17",
             "date": "2023-01-09",
             "stock": 1.0
@@ -250,14 +386,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38327",
-            "price": 80.0,
-            "name": "キバナ151/172",
-            "date": "2023-01-09",
-            "stock": 210.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38235",
             "price": 50.0,
             "name": "キバナ151/172",
@@ -265,36 +393,12 @@
             "stock": 205.0
         },
         {
-            "market": "magi",
-            "link": "/items/595964230",
-            "price": 25.0,
-            "name": "1枚25円 キバナ ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/543812117",
-            "price": 200.0,
-            "name": "キバナ【-】{151",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/948545338",
-            "price": 150.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2105241654",
-            "price": 250.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-08",
-            "stock": 1.0
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38327",
+            "price": 80.0,
+            "name": "キバナ151/172",
+            "date": "2023-01-09",
+            "stock": 210.0
         },
         {
             "market": "magi",
@@ -314,8 +418,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/149942821",
-            "price": 100.0,
+            "link": "/items/543812117",
+            "price": 200.0,
+            "name": "キバナ【-】{151",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/595964230",
+            "price": 25.0,
+            "name": "1枚25円 キバナ ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1813600197",
+            "price": 130.0,
             "name": "キバナ 151/17",
             "date": "2023-01-08",
             "stock": 1.0
@@ -330,9 +450,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/1813600197",
-            "price": 130.0,
+            "link": "/items/948545338",
+            "price": 150.0,
             "name": "キバナ 151/17",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/149942821",
+            "price": 100.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/324447823",
+            "price": 150.0,
+            "name": "キバナ【-】{151",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -346,19 +482,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/324447823",
-            "price": 150.0,
-            "name": "キバナ【-】{151",
+            "link": "/items/2105241654",
+            "price": 250.0,
+            "name": "キバナ 151/17",
             "date": "2023-01-08",
             "stock": 1.0
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26174",
-            "price": 50.0,
-            "name": "キバナ(CP){サポ",
-            "date": "2023-01-08",
-            "stock": 36.0
         },
         {
             "market": "hareruya2",
@@ -369,12 +497,12 @@
             "stock": 9.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38327",
-            "price": 80.0,
-            "name": "キバナ151/172",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26174",
+            "price": 50.0,
+            "name": "キバナ(CP){サポ",
             "date": "2023-01-08",
-            "stock": 197.0
+            "stock": 36.0
         },
         {
             "market": "cardrush",
@@ -385,20 +513,12 @@
             "stock": 213.0
         },
         {
-            "market": "magi",
-            "link": "/items/2105241654",
-            "price": 250.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/595964230",
-            "price": 25.0,
-            "name": "1枚25円 キバナ ",
-            "date": "2023-01-07",
-            "stock": 1.0
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38327",
+            "price": 80.0,
+            "name": "キバナ151/172",
+            "date": "2023-01-08",
+            "stock": 197.0
         },
         {
             "market": "magi",
@@ -410,48 +530,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1259026465",
-            "price": 25.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-07",
-            "stock": 6.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1813600197",
-            "price": 130.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/543812117",
-            "price": 200.0,
-            "name": "キバナ【-】{151",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/948545338",
-            "price": 150.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/149942821",
-            "price": 100.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/201661766",
-            "price": 130.0,
+            "link": "/items/1745901606",
+            "price": 180.0,
             "name": "キバナ 151/17",
             "date": "2023-01-07",
             "stock": 1.0
@@ -466,8 +546,64 @@
         },
         {
             "market": "magi",
-            "link": "/items/1745901606",
-            "price": 180.0,
+            "link": "/items/201661766",
+            "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/149942821",
+            "price": 100.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/948545338",
+            "price": 150.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/543812117",
+            "price": 200.0,
+            "name": "キバナ【-】{151",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1813600197",
+            "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1259026465",
+            "price": 25.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-07",
+            "stock": 6.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/595964230",
+            "price": 25.0,
+            "name": "1枚25円 キバナ ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2105241654",
+            "price": 250.0,
             "name": "キバナ 151/17",
             "date": "2023-01-07",
             "stock": 1.0
@@ -490,6 +626,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38235",
+            "price": 50.0,
+            "name": "キバナ151/172",
+            "date": "2023-01-07",
+            "stock": 215.0
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38327",
             "price": 80.0,
             "name": "キバナ151/172",
@@ -497,12 +641,12 @@
             "stock": 191.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38235",
-            "price": 50.0,
-            "name": "キバナ151/172",
-            "date": "2023-01-07",
-            "stock": 215.0
+            "market": "magi",
+            "link": "/items/717450631",
+            "price": 300.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -514,40 +658,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1259026465",
-            "price": 25.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-06",
-            "stock": 6.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2105241654",
-            "price": 250.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1745901606",
-            "price": 180.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/948545338",
-            "price": 150.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/201661766",
             "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1813600197",
+            "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/149942821",
+            "price": 100.0,
             "name": "キバナ 151/17",
             "date": "2023-01-06",
             "stock": 1.0
@@ -562,14 +690,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/149942821",
-            "price": 100.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/543812117",
             "price": 200.0,
             "name": "キバナ【-】{151",
@@ -578,19 +698,35 @@
         },
         {
             "market": "magi",
-            "link": "/items/1813600197",
-            "price": 130.0,
+            "link": "/items/948545338",
+            "price": 150.0,
             "name": "キバナ 151/17",
             "date": "2023-01-06",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/717450631",
-            "price": 300.0,
+            "link": "/items/1745901606",
+            "price": 180.0,
             "name": "キバナ 151/17",
             "date": "2023-01-06",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2105241654",
+            "price": 250.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1259026465",
+            "price": 25.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-06",
+            "stock": 6.0
         },
         {
             "market": "hareruya2",
@@ -626,6 +762,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1813600197",
+            "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/948545338",
             "price": 150.0,
             "name": "キバナ 151/17",
@@ -661,14 +805,6 @@
             "link": "/items/324447823",
             "price": 150.0,
             "name": "キバナ【-】{151",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1813600197",
-            "price": 130.0,
-            "name": "キバナ 151/17",
             "date": "2023-01-05",
             "stock": 1.0
         },
@@ -746,6 +882,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/717450631",
+            "price": 300.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1813600197",
+            "price": 130.0,
+            "name": "キバナ 151/17",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1259026465",
             "price": 25.0,
             "name": "キバナ 151/17",
@@ -817,20 +969,12 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/717450631",
-            "price": 300.0,
-            "name": "キバナ 151/17",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26174",
+            "price": 50.0,
+            "name": "キバナ(CP){サポ",
             "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1813600197",
-            "price": 130.0,
-            "name": "キバナ 151/17",
-            "date": "2023-01-04",
-            "stock": 1.0
+            "stock": 45.0
         },
         {
             "market": "hareruya2",
@@ -841,12 +985,12 @@
             "stock": 10.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26174",
-            "price": 50.0,
-            "name": "キバナ(CP){サポ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38327",
+            "price": 80.0,
+            "name": "キバナ151/172",
             "date": "2023-01-04",
-            "stock": 45.0
+            "stock": 186.0
         },
         {
             "market": "cardrush",
@@ -855,14 +999,6 @@
             "name": "キバナ151/172",
             "date": "2023-01-04",
             "stock": 219.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38327",
-            "price": 80.0,
-            "name": "キバナ151/172",
-            "date": "2023-01-04",
-            "stock": 186.0
         }
     ]
 }

@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1523726051",
+            "price": 899.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1338805567",
+            "price": 877.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/2080935251",
             "price": 900.0,
             "name": "ザマゼンタV SAR",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1406969859",
+            "price": 750.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/993238342",
+            "price": 777.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1515386126",
+            "price": 750.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/21621468",
+            "price": 600.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/706079684",
+            "price": 750.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26371",
+            "price": 900.0,
+            "name": "ザマゼンタV(SAR",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38893",
+            "price": 580.0,
+            "name": "ザマゼンタV232/",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38412",
+            "price": 780.0,
+            "name": "ザマゼンタV232/",
+            "date": "2023-01-11",
+            "stock": 246.0
         },
         {
             "market": "magi",
@@ -18,32 +98,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1523726051",
-            "price": 899.0,
+            "link": "/items/2080935251",
+            "price": 900.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1447236051",
-            "price": 1000.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/21621468",
-            "price": 600.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1515386126",
-            "price": 780.0,
+            "link": "/items/1406969859",
+            "price": 750.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-10",
             "stock": 1.0
@@ -58,8 +122,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1406969859",
-            "price": 750.0,
+            "link": "/items/1515386126",
+            "price": 780.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/21621468",
+            "price": 600.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1447236051",
+            "price": 1000.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1523726051",
+            "price": 899.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-10",
             "stock": 1.0
@@ -74,14 +162,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38412",
-            "price": 880.0,
-            "name": "ザマゼンタV232/",
-            "date": "2023-01-10",
-            "stock": 237.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38893",
             "price": 680.0,
             "name": "ザマゼンタV232/",
@@ -89,9 +169,17 @@
             "stock": 3.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38412",
+            "price": 880.0,
+            "name": "ザマゼンタV232/",
+            "date": "2023-01-10",
+            "stock": 237.0
+        },
+        {
             "market": "magi",
-            "link": "/items/1515386126",
-            "price": 780.0,
+            "link": "/items/1338805567",
+            "price": 877.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-09",
             "stock": 1.0
@@ -106,6 +194,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/2080935251",
+            "price": 900.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1523726051",
             "price": 899.0,
             "name": "ザマゼンタV SAR",
@@ -114,16 +210,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1338805567",
-            "price": 877.0,
+            "link": "/items/1515386126",
+            "price": 780.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/2080935251",
-            "price": 900.0,
+            "link": "/items/1447236051",
+            "price": 1000.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-09",
             "stock": 1.0
@@ -140,14 +236,6 @@
             "market": "magi",
             "link": "/items/993238342",
             "price": 777.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1447236051",
-            "price": 1000.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-09",
             "stock": 1.0
@@ -178,8 +266,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1515386126",
-            "price": 780.0,
+            "link": "/items/1406969859",
+            "price": 750.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1338805567",
+            "price": 877.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-08",
             "stock": 1.0
@@ -194,32 +290,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1406969859",
-            "price": 750.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2080935251",
-            "price": 900.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1447236051",
-            "price": 1000.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1523726051",
-            "price": 899.0,
+            "link": "/items/1515386126",
+            "price": 780.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-08",
             "stock": 1.0
@@ -234,8 +306,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1338805567",
-            "price": 877.0,
+            "link": "/items/2080935251",
+            "price": 900.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1523726051",
+            "price": 899.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1447236051",
+            "price": 1000.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-08",
             "stock": 1.0
@@ -247,14 +335,6 @@
             "name": "ザマゼンタV(SAR",
             "date": "2023-01-08",
             "stock": 1.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38893",
-            "price": 680.0,
-            "name": "ザマゼンタV232/",
-            "date": "2023-01-08",
-            "stock": 3.0
         },
         {
             "market": "cardrush",
@@ -265,20 +345,12 @@
             "stock": 225.0
         },
         {
-            "market": "magi",
-            "link": "/items/21621468",
-            "price": 600.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1515386126",
-            "price": 780.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-07",
-            "stock": 1.0
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38893",
+            "price": 680.0,
+            "name": "ザマゼンタV232/",
+            "date": "2023-01-08",
+            "stock": 3.0
         },
         {
             "market": "magi",
@@ -290,24 +362,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1338805567",
-            "price": 877.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2080935251",
-            "price": 900.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1406969859",
-            "price": 750.0,
+            "link": "/items/1447236051",
+            "price": 1000.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-07",
             "stock": 1.0
@@ -322,8 +378,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/1447236051",
-            "price": 1000.0,
+            "link": "/items/1406969859",
+            "price": 750.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2080935251",
+            "price": 900.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1338805567",
+            "price": 877.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1515386126",
+            "price": 780.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/21621468",
+            "price": 600.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-07",
             "stock": 1.0
@@ -333,6 +421,14 @@
             "link": "https://www.hareruya2.com/product/26371",
             "price": 900.0,
             "name": "ザマゼンタV(SAR",
+            "date": "2023-01-07",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38893",
+            "price": 680.0,
+            "name": "ザマゼンタV232/",
             "date": "2023-01-07",
             "stock": 3.0
         },
@@ -345,12 +441,12 @@
             "stock": 210.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38893",
-            "price": 680.0,
-            "name": "ザマゼンタV232/",
-            "date": "2023-01-07",
-            "stock": 3.0
+            "market": "magi",
+            "link": "/items/21621468",
+            "price": 600.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -404,14 +500,6 @@
             "market": "magi",
             "link": "/items/1447236051",
             "price": 1000.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/21621468",
-            "price": 600.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-06",
             "stock": 1.0
@@ -434,6 +522,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1523726051",
+            "price": 899.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1515386126",
             "price": 780.0,
             "name": "ザマゼンタV SAR",
@@ -460,14 +556,6 @@
             "market": "magi",
             "link": "/items/21621468",
             "price": 600.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1523726051",
-            "price": 899.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-05",
             "stock": 1.0
@@ -522,6 +610,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1406969859",
+            "price": 750.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1515386126",
             "price": 780.0,
             "name": "ザマゼンタV SAR",
@@ -532,6 +628,14 @@
             "market": "magi",
             "link": "/items/1447236051",
             "price": 1000.0,
+            "name": "ザマゼンタV SAR",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/993238342",
+            "price": 777.0,
             "name": "ザマゼンタV SAR",
             "date": "2023-01-04",
             "stock": 1.0
@@ -562,22 +666,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/993238342",
-            "price": 777.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1406969859",
-            "price": 750.0,
-            "name": "ザマゼンタV SAR",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/2080935251",
             "price": 900.0,
             "name": "ザマゼンタV SAR",
@@ -594,19 +682,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38679",
-            "price": 830.0,
-            "name": "ザマゼンタV232/",
-            "date": "2023-01-04",
-            "stock": 7.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38412",
             "price": 880.0,
             "name": "ザマゼンタV232/",
             "date": "2023-01-04",
             "stock": 191.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38679",
+            "price": 830.0,
+            "name": "ザマゼンタV232/",
+            "date": "2023-01-04",
+            "stock": 7.0
         }
     ]
 }

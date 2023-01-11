@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1100557353",
+            "price": 550.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1449291190",
+            "price": 650.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/167540100",
+            "price": 590.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/944964499",
+            "price": 1100.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/228064656",
+            "price": 650.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054235074",
+            "price": 500.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/870160742",
+            "price": 500.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1246287380",
             "price": 450.0,
             "name": "ブリガロンV SR ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25594",
+            "price": 700.0,
+            "name": "ブリガロンV(SR)",
+            "date": "2023-01-11",
+            "stock": 4.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37655",
+            "price": 730.0,
+            "name": "ブリガロンV099/",
+            "date": "2023-01-11",
+            "stock": 64.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37601",
+            "price": 780.0,
+            "name": "ブリガロンV099/",
+            "date": "2023-01-11",
+            "stock": 228.0
         },
         {
             "market": "magi",
@@ -18,32 +98,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2054235074",
-            "price": 500.0,
+            "link": "/items/1246287380",
+            "price": 450.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/228064656",
-            "price": 650.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/944964499",
-            "price": 1100.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/167540100",
-            "price": 590.0,
+            "link": "/items/1100557353",
+            "price": 550.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-10",
             "stock": 1.0
@@ -58,8 +122,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1100557353",
-            "price": 550.0,
+            "link": "/items/167540100",
+            "price": 590.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/944964499",
+            "price": 1100.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/228064656",
+            "price": 650.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054235074",
+            "price": 500.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-10",
             "stock": 1.0
@@ -71,14 +159,6 @@
             "name": "ブリガロンV(SR)",
             "date": "2023-01-10",
             "stock": 4.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37601",
-            "price": 780.0,
-            "name": "ブリガロンV099/",
-            "date": "2023-01-10",
-            "stock": 228.0
         },
         {
             "market": "cardrush",
@@ -89,9 +169,17 @@
             "stock": 64.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37601",
+            "price": 780.0,
+            "name": "ブリガロンV099/",
+            "date": "2023-01-10",
+            "stock": 228.0
+        },
+        {
             "market": "magi",
-            "link": "/items/2054235074",
-            "price": 500.0,
+            "link": "/items/167540100",
+            "price": 590.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-09",
             "stock": 1.0
@@ -106,6 +194,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1449291190",
+            "price": 650.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/228064656",
             "price": 650.0,
             "name": "ブリガロンV SR ",
@@ -114,16 +210,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/167540100",
-            "price": 590.0,
+            "link": "/items/2054235074",
+            "price": 500.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1449291190",
-            "price": 650.0,
+            "link": "/items/944964499",
+            "price": 1100.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-09",
             "stock": 1.0
@@ -140,14 +236,6 @@
             "market": "magi",
             "link": "/items/870160742",
             "price": 500.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/944964499",
-            "price": 1100.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-09",
             "stock": 1.0
@@ -178,8 +266,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1100557353",
-            "price": 550.0,
+            "link": "/items/1246287380",
+            "price": 450.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1449291190",
+            "price": 650.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-08",
             "stock": 1.0
@@ -194,32 +290,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1246287380",
-            "price": 450.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/944964499",
-            "price": 1100.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2054235074",
-            "price": 500.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/870160742",
-            "price": 500.0,
+            "link": "/items/1100557353",
+            "price": 550.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-08",
             "stock": 1.0
@@ -234,8 +306,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1449291190",
-            "price": 650.0,
+            "link": "/items/944964499",
+            "price": 1100.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/870160742",
+            "price": 500.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054235074",
+            "price": 500.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-08",
             "stock": 1.0
@@ -247,14 +335,6 @@
             "name": "ブリガロンV(SR)",
             "date": "2023-01-08",
             "stock": 4.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37655",
-            "price": 730.0,
-            "name": "ブリガロンV099/",
-            "date": "2023-01-08",
-            "stock": 53.0
         },
         {
             "market": "cardrush",
@@ -265,20 +345,12 @@
             "stock": 216.0
         },
         {
-            "market": "magi",
-            "link": "/items/167540100",
-            "price": 590.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/944964499",
-            "price": 1100.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-07",
-            "stock": 1.0
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37655",
+            "price": 730.0,
+            "name": "ブリガロンV099/",
+            "date": "2023-01-08",
+            "stock": 53.0
         },
         {
             "market": "magi",
@@ -290,24 +362,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1246287380",
-            "price": 450.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/228064656",
+            "link": "/items/1449291190",
             "price": 650.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2054235074",
-            "price": 500.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-07",
             "stock": 1.0
@@ -322,8 +378,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/1449291190",
+            "link": "/items/2054235074",
+            "price": 500.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/228064656",
             "price": 650.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1246287380",
+            "price": 450.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/944964499",
+            "price": 1100.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/167540100",
+            "price": 590.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-07",
             "stock": 1.0
@@ -338,6 +426,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37601",
+            "price": 780.0,
+            "name": "ブリガロンV099/",
+            "date": "2023-01-07",
+            "stock": 215.0
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37655",
             "price": 730.0,
             "name": "ブリガロンV099/",
@@ -345,12 +441,12 @@
             "stock": 53.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37601",
-            "price": 780.0,
-            "name": "ブリガロンV099/",
-            "date": "2023-01-07",
-            "stock": 215.0
+            "market": "magi",
+            "link": "/items/228064656",
+            "price": 650.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -404,14 +500,6 @@
             "market": "magi",
             "link": "/items/1100557353",
             "price": 550.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/228064656",
-            "price": 650.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-06",
             "stock": 1.0
@@ -442,6 +530,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/870160742",
+            "price": 500.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1100557353",
             "price": 550.0,
             "name": "ブリガロンV SR ",
@@ -459,14 +555,6 @@
         {
             "market": "magi",
             "link": "/items/2054235074",
-            "price": 500.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/870160742",
             "price": 500.0,
             "name": "ブリガロンV SR ",
             "date": "2023-01-05",
@@ -530,6 +618,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/1100557353",
+            "price": 550.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1449291190",
+            "price": 650.0,
+            "name": "ブリガロンV SR ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/167540100",
             "price": 590.0,
             "name": "ブリガロンV SR ",
@@ -570,22 +674,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1100557353",
-            "price": 550.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1449291190",
-            "price": 650.0,
-            "name": "ブリガロンV SR ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/944964499",
             "price": 1100.0,
             "name": "ブリガロンV SR ",
@@ -602,19 +690,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37655",
-            "price": 730.0,
-            "name": "ブリガロンV099/",
-            "date": "2023-01-04",
-            "stock": 52.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37601",
             "price": 780.0,
             "name": "ブリガロンV099/",
             "date": "2023-01-04",
             "stock": 184.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37655",
+            "price": 730.0,
+            "name": "ブリガロンV099/",
+            "date": "2023-01-04",
+            "stock": 52.0
         }
     ]
 }

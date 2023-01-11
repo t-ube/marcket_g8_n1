@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2039403017",
+            "price": 150.0,
+            "name": "ガラルファイヤーV ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925677269",
+            "price": 100.0,
+            "name": "ガラルファイヤーV ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/776580406",
+            "price": 100.0,
+            "name": "ガラルファイヤーV ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1769146485",
             "price": 100.0,
             "name": "ガラルファイヤーV ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21853",
+            "price": 100.0,
+            "name": "ガラルファイヤーV(",
+            "date": "2023-01-11",
+            "stock": 25.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33203",
+            "price": 70.0,
+            "name": "ガラルファイヤーV2",
+            "date": "2023-01-11",
+            "stock": 5.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23512",
+            "price": 80.0,
+            "name": "ガラルファイヤーV2",
+            "date": "2023-01-11",
+            "stock": 145.0
         },
         {
             "market": "magi",
@@ -18,7 +66,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/776580406",
+            "link": "/items/1769146485",
             "price": 100.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-10",
@@ -33,20 +81,20 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/776580406",
+            "price": 100.0,
+            "name": "ガラルファイヤーV ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21853",
             "price": 100.0,
             "name": "ガラルファイヤーV(",
             "date": "2023-01-10",
             "stock": 25.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23512",
-            "price": 80.0,
-            "name": "ガラルファイヤーV2",
-            "date": "2023-01-10",
-            "stock": 145.0
         },
         {
             "market": "cardrush",
@@ -57,8 +105,16 @@
             "stock": 5.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23512",
+            "price": 80.0,
+            "name": "ガラルファイヤーV2",
+            "date": "2023-01-10",
+            "stock": 145.0
+        },
+        {
             "market": "magi",
-            "link": "/items/1925677269",
+            "link": "/items/776580406",
             "price": 100.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-09",
@@ -82,7 +138,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/776580406",
+            "link": "/items/1925677269",
             "price": 100.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-09",
@@ -95,6 +151,14 @@
             "name": "ガラルファイヤーV(",
             "date": "2023-01-09",
             "stock": 25.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23512",
+            "price": 80.0,
+            "name": "ガラルファイヤーV2",
+            "date": "2023-01-09",
+            "stock": 145.0
         },
         {
             "market": "cardrush",
@@ -105,16 +169,16 @@
             "stock": 5.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23512",
-            "price": 80.0,
-            "name": "ガラルファイヤーV2",
-            "date": "2023-01-09",
-            "stock": 145.0
+            "market": "magi",
+            "link": "/items/1925677269",
+            "price": 100.0,
+            "name": "ガラルファイヤーV ",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1769146485",
+            "link": "/items/776580406",
             "price": 100.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-08",
@@ -130,15 +194,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/776580406",
-            "price": 100.0,
-            "name": "ガラルファイヤーV ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1925677269",
+            "link": "/items/1769146485",
             "price": 100.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-08",
@@ -164,14 +220,6 @@
             "market": "magi",
             "link": "/items/776580406",
             "price": 100.0,
-            "name": "ガラルファイヤーV ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2039403017",
-            "price": 150.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-07",
             "stock": 1.0
@@ -193,6 +241,14 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/2039403017",
+            "price": 150.0,
+            "name": "ガラルファイヤーV ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21853",
             "price": 250.0,
@@ -210,8 +266,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1925677269",
-            "price": 100.0,
+            "link": "/items/2039403017",
+            "price": 150.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-06",
             "stock": 1.0
@@ -226,8 +282,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2039403017",
-            "price": 150.0,
+            "link": "/items/1925677269",
+            "price": 100.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-06",
             "stock": 1.0
@@ -250,8 +306,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2039403017",
-            "price": 150.0,
+            "link": "/items/1925677269",
+            "price": 100.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-05",
             "stock": 1.0
@@ -266,8 +322,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1925677269",
-            "price": 100.0,
+            "link": "/items/2039403017",
+            "price": 150.0,
             "name": "ガラルファイヤーV ",
             "date": "2023-01-05",
             "stock": 1.0

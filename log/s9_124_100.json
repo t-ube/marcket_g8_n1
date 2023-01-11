@@ -2,11 +2,51 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2023813462",
+            "price": 690.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1546649234",
             "price": 1000.0,
             "name": "ハマナのバックアップ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22358",
+            "price": 1000.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24463",
+            "price": 730.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24436",
+            "price": 880.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-11",
+            "stock": 39.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g124-100-S9-B/",
+            "price": 770.0,
+            "name": "【ポケカ】ＨＲ◇ハマ",
+            "date": "2023-01-11",
+            "stock": 5.0
         },
         {
             "market": "magi",
@@ -17,9 +57,25 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/1546649234",
+            "price": 1000.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22358",
             "price": 1000.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-10",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24463",
+            "price": 730.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-10",
             "stock": 3.0
@@ -33,14 +89,6 @@
             "stock": 38.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24463",
-            "price": 730.0,
-            "name": "ハマナのバックアップ",
-            "date": "2023-01-10",
-            "stock": 3.0
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g124-100-S9-B/",
             "price": 770.0,
@@ -50,16 +98,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2023813462",
-            "price": 690.0,
+            "link": "/items/1546649234",
+            "price": 1000.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1546649234",
-            "price": 1000.0,
+            "link": "/items/2023813462",
+            "price": 690.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-09",
             "stock": 1.0
@@ -98,16 +146,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1546649234",
-            "price": 1000.0,
+            "link": "/items/2023813462",
+            "price": 690.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-08",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/2023813462",
-            "price": 690.0,
+            "link": "/items/1546649234",
+            "price": 1000.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-08",
             "stock": 1.0
@@ -122,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24463",
-            "price": 730.0,
-            "name": "ハマナのバックアップ",
-            "date": "2023-01-08",
-            "stock": 3.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24436",
             "price": 880.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-08",
             "stock": 22.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24463",
+            "price": 730.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-08",
+            "stock": 3.0
         },
         {
             "market": "torecolo",
@@ -146,16 +194,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1546649234",
-            "price": 1000.0,
+            "link": "/items/2023813462",
+            "price": 690.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/2023813462",
-            "price": 690.0,
+            "link": "/items/1546649234",
+            "price": 1000.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-07",
             "stock": 1.0
@@ -170,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24436",
-            "price": 880.0,
-            "name": "ハマナのバックアップ",
-            "date": "2023-01-07",
-            "stock": 22.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24463",
             "price": 730.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-07",
             "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24436",
+            "price": 880.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-07",
+            "stock": 22.0
         },
         {
             "market": "torecolo",
@@ -194,16 +242,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1546649234",
-            "price": 1000.0,
+            "link": "/items/2023813462",
+            "price": 700.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-06",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/2023813462",
-            "price": 700.0,
+            "link": "/items/1546649234",
+            "price": 1000.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-06",
             "stock": 1.0
@@ -290,16 +338,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1546649234",
-            "price": 1000.0,
+            "link": "/items/2023813462",
+            "price": 700.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-04",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/2023813462",
-            "price": 700.0,
+            "link": "/items/1546649234",
+            "price": 1000.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-04",
             "stock": 1.0
@@ -314,19 +362,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24463",
-            "price": 730.0,
-            "name": "ハマナのバックアップ",
-            "date": "2023-01-04",
-            "stock": 2.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24436",
             "price": 880.0,
             "name": "ハマナのバックアップ",
             "date": "2023-01-04",
             "stock": 10.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24463",
+            "price": 730.0,
+            "name": "ハマナのバックアップ",
+            "date": "2023-01-04",
+            "stock": 2.0
         },
         {
             "market": "torecolo",

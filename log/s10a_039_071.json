@@ -2,10 +2,66 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1299742378",
+            "price": 100.0,
+            "name": "グライガー★進化ライ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/705940075",
             "price": 100.0,
             "name": "グライガー★進化ライ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23435",
+            "price": 50.0,
+            "name": "グライオン:ミラー(",
+            "date": "2023-01-11",
+            "stock": 43.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23375",
+            "price": 50.0,
+            "name": "グライオン(U){闘",
+            "date": "2023-01-11",
+            "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35323",
+            "price": 50.0,
+            "name": "グライオン039/0",
+            "date": "2023-01-11",
+            "stock": 101.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35263",
+            "price": 30.0,
+            "name": "グライオン039/0",
+            "date": "2023-01-11",
+            "stock": 148.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g039-071-S10A-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2023-01-11",
+            "stock": 4.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g039-071-S10A-BM/",
+            "price": 50.0,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2023-01-11",
             "stock": 1.0
         },
         {
@@ -17,12 +73,12 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23375",
-            "price": 50.0,
-            "name": "グライオン(U){闘",
+            "market": "magi",
+            "link": "/items/705940075",
+            "price": 100.0,
+            "name": "グライガー★進化ライ",
             "date": "2023-01-10",
-            "stock": 35.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -33,12 +89,12 @@
             "stock": 43.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35263",
-            "price": 30.0,
-            "name": "グライオン039/0",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23375",
+            "price": 50.0,
+            "name": "グライオン(U){闘",
             "date": "2023-01-10",
-            "stock": 148.0
+            "stock": 35.0
         },
         {
             "market": "cardrush",
@@ -49,12 +105,12 @@
             "stock": 101.0
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g039-071-S10A-BM/",
-            "price": 50.0,
-            "name": "【ポケカ】Ｕ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35263",
+            "price": 30.0,
+            "name": "グライオン039/0",
             "date": "2023-01-10",
-            "stock": 1.0
+            "stock": 148.0
         },
         {
             "market": "torecolo",
@@ -63,6 +119,14 @@
             "name": "【ポケカ】Ｕ）通常仕",
             "date": "2023-01-10",
             "stock": 4.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g039-071-S10A-BM/",
+            "price": 50.0,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -82,19 +146,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23435",
-            "price": 50.0,
-            "name": "グライオン:ミラー(",
-            "date": "2023-01-09",
-            "stock": 43.0
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23375",
             "price": 50.0,
             "name": "グライオン(U){闘",
             "date": "2023-01-09",
             "stock": 35.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23435",
+            "price": 50.0,
+            "name": "グライオン:ミラー(",
+            "date": "2023-01-09",
+            "stock": 43.0
         },
         {
             "market": "cardrush",
@@ -194,14 +258,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1299742378",
-            "price": 100.0,
-            "name": "グライガー★進化ライ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/705940075",
             "price": 100.0,
             "name": "グライガー★進化ライ",
@@ -209,12 +265,12 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23435",
-            "price": 50.0,
-            "name": "グライオン:ミラー(",
+            "market": "magi",
+            "link": "/items/1299742378",
+            "price": 100.0,
+            "name": "グライガー★進化ライ",
             "date": "2023-01-07",
-            "stock": 43.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -225,12 +281,12 @@
             "stock": 35.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35323",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23435",
             "price": 50.0,
-            "name": "グライオン039/0",
+            "name": "グライオン:ミラー(",
             "date": "2023-01-07",
-            "stock": 101.0
+            "stock": 43.0
         },
         {
             "market": "cardrush",
@@ -241,12 +297,12 @@
             "stock": 148.0
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g039-071-S10A-BM/",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35323",
             "price": 50.0,
-            "name": "【ポケカ】Ｕ）ミラー",
+            "name": "グライオン039/0",
             "date": "2023-01-07",
-            "stock": 1.0
+            "stock": 101.0
         },
         {
             "market": "torecolo",
@@ -255,6 +311,14 @@
             "name": "【ポケカ】Ｕ）通常仕",
             "date": "2023-01-07",
             "stock": 4.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g039-071-S10A-BM/",
+            "price": 50.0,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -287,6 +351,14 @@
             "name": "グライオン:ミラー(",
             "date": "2023-01-06",
             "stock": 43.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35323",
+            "price": 50.0,
+            "name": "グライオン039/0",
+            "date": "2023-01-06",
+            "stock": 101.0
         },
         {
             "market": "cardrush",
@@ -297,14 +369,6 @@
             "stock": 149.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35323",
-            "price": 50.0,
-            "name": "グライオン039/0",
-            "date": "2023-01-06",
-            "stock": 101.0
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g039-071-S10A-B/",
             "price": 33.0,
@@ -354,14 +418,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35323",
-            "price": 50.0,
-            "name": "グライオン039/0",
-            "date": "2023-01-05",
-            "stock": 101.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35263",
             "price": 30.0,
             "name": "グライオン039/0",
@@ -369,12 +425,12 @@
             "stock": 149.0
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g039-071-S10A-B/",
-            "price": 33.0,
-            "name": "【ポケカ】Ｕ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35323",
+            "price": 50.0,
+            "name": "グライオン039/0",
             "date": "2023-01-05",
-            "stock": 4.0
+            "stock": 101.0
         },
         {
             "market": "torecolo",
@@ -385,8 +441,16 @@
             "stock": 1.0
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g039-071-S10A-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2023-01-05",
+            "stock": 4.0
+        },
+        {
             "market": "magi",
-            "link": "/items/705940075",
+            "link": "/items/1299742378",
             "price": 100.0,
             "name": "グライガー★進化ライ",
             "date": "2023-01-04",
@@ -394,7 +458,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1299742378",
+            "link": "/items/705940075",
             "price": 100.0,
             "name": "グライガー★進化ライ",
             "date": "2023-01-04",
@@ -418,19 +482,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35323",
-            "price": 50.0,
-            "name": "グライオン039/0",
-            "date": "2023-01-04",
-            "stock": 101.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35263",
             "price": 30.0,
             "name": "グライオン039/0",
             "date": "2023-01-04",
             "stock": 149.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35323",
+            "price": 50.0,
+            "name": "グライオン039/0",
+            "date": "2023-01-04",
+            "stock": 101.0
         },
         {
             "market": "torecolo",

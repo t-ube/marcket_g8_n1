@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/367023023",
+            "price": 200.0,
+            "name": "フシギダネ C 00",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/55300711",
+            "price": 100.0,
+            "name": "フシギダネ C 00",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/880739589",
+            "price": 100.0,
+            "name": "フシギダネ C 00",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1630617508",
             "price": 25.0,
             "name": "フシギダネ C 00",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 4.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23729",
+            "price": 50.0,
+            "name": "フシギダネ(C){草",
+            "date": "2023-01-11",
+            "stock": 15.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35727",
+            "price": 50.0,
+            "name": "フシギダネ001/0",
+            "date": "2023-01-11",
+            "stock": 149.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-071-S10B-B/",
+            "price": 33.0,
+            "name": "【ポケカ】Ｃ◇フシギ",
+            "date": "2023-01-11",
+            "stock": 57.0
         },
         {
             "market": "magi",
@@ -18,7 +66,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/880739589",
+            "link": "/items/1630617508",
+            "price": 25.0,
+            "name": "フシギダネ C 00",
+            "date": "2023-01-10",
+            "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/55300711",
             "price": 100.0,
             "name": "フシギダネ C 00",
             "date": "2023-01-10",
@@ -26,7 +82,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/55300711",
+            "link": "/items/880739589",
             "price": 100.0,
             "name": "フシギダネ C 00",
             "date": "2023-01-10",
@@ -66,6 +122,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/55300711",
+            "price": 100.0,
+            "name": "フシギダネ C 00",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1630617508",
             "price": 25.0,
             "name": "フシギダネ C 00",
@@ -76,14 +140,6 @@
             "market": "magi",
             "link": "/items/367023023",
             "price": 200.0,
-            "name": "フシギダネ C 00",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/55300711",
-            "price": 100.0,
             "name": "フシギダネ C 00",
             "date": "2023-01-09",
             "stock": 1.0
@@ -114,19 +170,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/55300711",
+            "link": "/items/880739589",
             "price": 100.0,
             "name": "フシギダネ C 00",
             "date": "2023-01-08",
             "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1630617508",
-            "price": 25.0,
-            "name": "フシギダネ C 00",
-            "date": "2023-01-08",
-            "stock": 4.0
         },
         {
             "market": "magi",
@@ -146,11 +194,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/880739589",
+            "link": "/items/55300711",
             "price": 100.0,
             "name": "フシギダネ C 00",
             "date": "2023-01-08",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1630617508",
+            "price": 25.0,
+            "name": "フシギダネ C 00",
+            "date": "2023-01-08",
+            "stock": 4.0
         },
         {
             "market": "hareruya2",
@@ -178,14 +234,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1268604943",
-            "price": 180.0,
-            "name": "フシギダネC 001",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1630617508",
             "price": 25.0,
             "name": "フシギダネ C 00",
@@ -194,8 +242,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/367023023",
-            "price": 200.0,
+            "link": "/items/880739589",
+            "price": 100.0,
             "name": "フシギダネ C 00",
             "date": "2023-01-07",
             "stock": 1.0
@@ -210,9 +258,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/880739589",
-            "price": 100.0,
+            "link": "/items/367023023",
+            "price": 200.0,
             "name": "フシギダネ C 00",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1268604943",
+            "price": 180.0,
+            "name": "フシギダネC 001",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -306,14 +362,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/880739589",
-            "price": 100.0,
-            "name": "フシギダネ C 00",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1630617508",
             "price": 25.0,
             "name": "フシギダネ C 00",
@@ -322,9 +370,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/55300711",
+            "link": "/items/880739589",
             "price": 100.0,
             "name": "フシギダネ C 00",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1268604943",
+            "price": 180.0,
+            "name": "フシギダネC 001",
             "date": "2023-01-05",
             "stock": 1.0
         },
@@ -338,9 +394,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1268604943",
-            "price": 180.0,
-            "name": "フシギダネC 001",
+            "link": "/items/55300711",
+            "price": 100.0,
+            "name": "フシギダネ C 00",
             "date": "2023-01-05",
             "stock": 1.0
         },
@@ -370,14 +426,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/880739589",
-            "price": 100.0,
-            "name": "フシギダネ C 00",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/55300711",
             "price": 100.0,
             "name": "フシギダネ C 00",
@@ -394,8 +442,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/367023023",
-            "price": 200.0,
+            "link": "/items/880739589",
+            "price": 100.0,
             "name": "フシギダネ C 00",
             "date": "2023-01-04",
             "stock": 1.0
@@ -407,6 +455,14 @@
             "name": "フシギダネ C 00",
             "date": "2023-01-04",
             "stock": 4.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/367023023",
+            "price": 200.0,
+            "name": "フシギダネ C 00",
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "hareruya2",

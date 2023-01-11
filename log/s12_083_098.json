@@ -2,11 +2,107 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/749226838",
+            "price": 647.0,
+            "name": "アーケオス(R){無",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/621438518",
+            "price": 999.0,
+            "name": "アーケオス R 08",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/767370231",
+            "price": 570.0,
+            "name": "【特価2枚】アーケオ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/341806695",
+            "price": 378.0,
+            "name": "アーケオス【R】{0",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/321009256",
+            "price": 200.0,
+            "name": "プライマルターボアー",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/324870188",
+            "price": 400.0,
+            "name": "アーケオス(R){無",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/190605541",
+            "price": 599.0,
+            "name": "アーケオス R 08",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/106031204",
             "price": 500.0,
             "name": "アーケオス R 08",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25563",
+            "price": 400.0,
+            "name": "アーケオス(R){無",
+            "date": "2023-01-11",
+            "stock": 67.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37652",
+            "price": 300.0,
+            "name": "アーケオス083/0",
+            "date": "2023-01-11",
+            "stock": 9.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37755",
+            "price": 220.0,
+            "name": "アーケオス083/0",
+            "date": "2023-01-11",
+            "stock": 16.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37575",
+            "price": 320.0,
+            "name": "アーケオス083/0",
+            "date": "2023-01-11",
+            "stock": 234.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g083-098-S12-B/",
+            "price": 330.0,
+            "name": "【ポケカ】Ｒ◇アーケ",
+            "date": "2023-01-11",
+            "stock": 45.0
         },
         {
             "market": "magi",
@@ -18,33 +114,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/190605541",
-            "price": 599.0,
+            "link": "/items/106031204",
+            "price": 500.0,
             "name": "アーケオス R 08",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/324870188",
-            "price": 400.0,
-            "name": "アーケオス(R){無",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/321009256",
-            "price": 200.0,
-            "name": "プライマルターボアー",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/341806695",
-            "price": 378.0,
-            "name": "アーケオス【R】{0",
+            "link": "/items/621438518",
+            "price": 999.0,
+            "name": "アーケオス R 08",
             "date": "2023-01-10",
             "stock": 1.0
         },
@@ -58,8 +138,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/621438518",
-            "price": 999.0,
+            "link": "/items/341806695",
+            "price": 378.0,
+            "name": "アーケオス【R】{0",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/321009256",
+            "price": 200.0,
+            "name": "プライマルターボアー",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/324870188",
+            "price": 400.0,
+            "name": "アーケオス(R){無",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/190605541",
+            "price": 599.0,
             "name": "アーケオス R 08",
             "date": "2023-01-10",
             "stock": 1.0
@@ -74,11 +178,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37575",
-            "price": 320.0,
+            "link": "https://www.cardrush-pokemon.jp/product/37755",
+            "price": 220.0,
             "name": "アーケオス083/0",
             "date": "2023-01-10",
-            "stock": 234.0
+            "stock": 18.0
         },
         {
             "market": "cardrush",
@@ -90,11 +194,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37755",
-            "price": 220.0,
+            "link": "https://www.cardrush-pokemon.jp/product/37575",
+            "price": 320.0,
             "name": "アーケオス083/0",
             "date": "2023-01-10",
-            "stock": 18.0
+            "stock": 234.0
         },
         {
             "market": "torecolo",
@@ -106,9 +210,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/341806695",
-            "price": 378.0,
-            "name": "アーケオス【R】{0",
+            "link": "/items/324870188",
+            "price": 400.0,
+            "name": "アーケオス(R){無",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -122,6 +226,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/321009256",
+            "price": 200.0,
+            "name": "プライマルターボアー",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/190605541",
             "price": 599.0,
             "name": "アーケオス R 08",
@@ -130,17 +242,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/324870188",
-            "price": 400.0,
-            "name": "アーケオス(R){無",
+            "link": "/items/341806695",
+            "price": 378.0,
+            "name": "アーケオス【R】{0",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/321009256",
-            "price": 200.0,
-            "name": "プライマルターボアー",
+            "link": "/items/767370231",
+            "price": 580.0,
+            "name": "【特価2枚】アーケオ",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -157,14 +269,6 @@
             "link": "/items/749226838",
             "price": 647.0,
             "name": "アーケオス(R){無",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/767370231",
-            "price": 580.0,
-            "name": "【特価2枚】アーケオ",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -186,19 +290,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37652",
-            "price": 300.0,
-            "name": "アーケオス083/0",
-            "date": "2023-01-09",
-            "stock": 13.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37755",
             "price": 220.0,
             "name": "アーケオス083/0",
             "date": "2023-01-09",
             "stock": 9.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37652",
+            "price": 300.0,
+            "name": "アーケオス083/0",
+            "date": "2023-01-09",
+            "stock": 13.0
         },
         {
             "market": "torecolo",
@@ -210,9 +314,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/190605541",
-            "price": 600.0,
-            "name": "アーケオス R 08",
+            "link": "/items/341806695",
+            "price": 420.0,
+            "name": "アーケオス【R】{0",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -226,9 +330,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/341806695",
-            "price": 420.0,
-            "name": "アーケオス【R】{0",
+            "link": "/items/321009256",
+            "price": 200.0,
+            "name": "プライマルターボアー",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/190605541",
+            "price": 600.0,
+            "name": "アーケオス R 08",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/621438518",
+            "price": 999.0,
+            "name": "アーケオス R 08",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -236,6 +356,14 @@
             "market": "magi",
             "link": "/items/324870188",
             "price": 400.0,
+            "name": "アーケオス(R){無",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/749226838",
+            "price": 647.0,
             "name": "アーケオス(R){無",
             "date": "2023-01-08",
             "stock": 1.0
@@ -249,30 +377,6 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/749226838",
-            "price": 647.0,
-            "name": "アーケオス(R){無",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/621438518",
-            "price": 999.0,
-            "name": "アーケオス R 08",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/321009256",
-            "price": 200.0,
-            "name": "プライマルターボアー",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25563",
             "price": 400.0,
@@ -282,11 +386,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37755",
-            "price": 220.0,
+            "link": "https://www.cardrush-pokemon.jp/product/37652",
+            "price": 300.0,
             "name": "アーケオス083/0",
             "date": "2023-01-08",
-            "stock": 14.0
+            "stock": 13.0
         },
         {
             "market": "cardrush",
@@ -298,11 +402,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37652",
-            "price": 300.0,
+            "link": "https://www.cardrush-pokemon.jp/product/37755",
+            "price": 220.0,
             "name": "アーケオス083/0",
             "date": "2023-01-08",
-            "stock": 13.0
+            "stock": 14.0
         },
         {
             "market": "torecolo",
@@ -314,24 +418,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/321009256",
-            "price": 200.0,
-            "name": "プライマルターボアー",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/767370231",
-            "price": 580.0,
-            "name": "【特価2枚】アーケオ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/621438518",
             "price": 999.0,
+            "name": "アーケオス R 08",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/749226838",
+            "price": 647.0,
+            "name": "アーケオス(R){無",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/324870188",
+            "price": 400.0,
+            "name": "アーケオス(R){無",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/190605541",
+            "price": 600.0,
+            "name": "アーケオス R 08",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/492627382",
+            "price": 370.0,
             "name": "アーケオス R 08",
             "date": "2023-01-07",
             "stock": 1.0
@@ -346,33 +466,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/492627382",
-            "price": 370.0,
-            "name": "アーケオス R 08",
+            "link": "/items/767370231",
+            "price": 580.0,
+            "name": "【特価2枚】アーケオ",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/190605541",
-            "price": 600.0,
-            "name": "アーケオス R 08",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/324870188",
-            "price": 400.0,
-            "name": "アーケオス(R){無",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/749226838",
-            "price": 647.0,
-            "name": "アーケオス(R){無",
+            "link": "/items/321009256",
+            "price": 200.0,
+            "name": "プライマルターボアー",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -383,6 +487,14 @@
             "name": "アーケオス(R){無",
             "date": "2023-01-07",
             "stock": 74.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37575",
+            "price": 320.0,
+            "name": "アーケオス083/0",
+            "date": "2023-01-07",
+            "stock": 247.0
         },
         {
             "market": "cardrush",
@@ -399,14 +511,6 @@
             "name": "アーケオス083/0",
             "date": "2023-01-07",
             "stock": 13.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37575",
-            "price": 320.0,
-            "name": "アーケオス083/0",
-            "date": "2023-01-07",
-            "stock": 247.0
         },
         {
             "market": "torecolo",
@@ -514,6 +618,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/341806695",
+            "price": 420.0,
+            "name": "アーケオス【R】{0",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/749226838",
             "price": 647.0,
             "name": "アーケオス(R){無",
@@ -541,14 +653,6 @@
             "link": "/items/321009256",
             "price": 200.0,
             "name": "プライマルターボアー",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/341806695",
-            "price": 420.0,
-            "name": "アーケオス【R】{0",
             "date": "2023-01-05",
             "stock": 1.0
         },
@@ -610,6 +714,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/324870188",
+            "price": 400.0,
+            "name": "アーケオス(R){無",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/341806695",
+            "price": 420.0,
+            "name": "アーケオス【R】{0",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1254431664",
             "price": 444.0,
             "name": "アーケオス R 08",
@@ -666,22 +786,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/324870188",
-            "price": 400.0,
-            "name": "アーケオス(R){無",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/341806695",
-            "price": 420.0,
-            "name": "アーケオス【R】{0",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1882918436",
             "price": 1193.0,
             "name": "アーケオス R 08",
@@ -698,11 +802,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37575",
-            "price": 320.0,
+            "link": "https://www.cardrush-pokemon.jp/product/37652",
+            "price": 300.0,
             "name": "アーケオス083/0",
             "date": "2023-01-04",
-            "stock": 276.0
+            "stock": 6.0
         },
         {
             "market": "cardrush",
@@ -714,11 +818,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37652",
-            "price": 300.0,
+            "link": "https://www.cardrush-pokemon.jp/product/37575",
+            "price": 320.0,
             "name": "アーケオス083/0",
             "date": "2023-01-04",
-            "stock": 6.0
+            "stock": 276.0
         },
         {
             "market": "torecolo",

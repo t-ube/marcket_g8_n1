@@ -2,11 +2,43 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1897300180",
+            "price": 1200.0,
+            "name": "ポケモンカード チェ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/152838853",
             "price": 588.0,
             "name": "チェレンの気くばり ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24454",
+            "price": 830.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-11",
+            "stock": 40.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24427",
+            "price": 980.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-11",
+            "stock": 156.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g115-100-S9-B/",
+            "price": 880.0,
+            "name": "【ポケカ】ＳＲ◇チェ",
+            "date": "2023-01-11",
+            "stock": 3.0
         },
         {
             "market": "magi",
@@ -17,12 +49,12 @@
             "stock": 1.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24427",
-            "price": 980.0,
-            "name": "チェレンの気くばり1",
+            "market": "magi",
+            "link": "/items/152838853",
+            "price": 588.0,
+            "name": "チェレンの気くばり ",
             "date": "2023-01-10",
-            "stock": 155.0
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -31,6 +63,14 @@
             "name": "チェレンの気くばり1",
             "date": "2023-01-10",
             "stock": 42.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24427",
+            "price": 980.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-10",
+            "stock": 155.0
         },
         {
             "market": "torecolo",
@@ -42,17 +82,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/152838853",
-            "price": 588.0,
-            "name": "チェレンの気くばり ",
+            "link": "/items/1897300180",
+            "price": 1200.0,
+            "name": "ポケモンカード チェ",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1897300180",
-            "price": 1200.0,
-            "name": "ポケモンカード チェ",
+            "link": "/items/152838853",
+            "price": 588.0,
+            "name": "チェレンの気くばり ",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -82,14 +122,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/152838853",
-            "price": 588.0,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1897300180",
             "price": 1200.0,
             "name": "ポケモンカード チェ",
@@ -97,12 +129,12 @@
             "stock": 1.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24427",
-            "price": 980.0,
-            "name": "チェレンの気くばり1",
+            "market": "magi",
+            "link": "/items/152838853",
+            "price": 588.0,
+            "name": "チェレンの気くばり ",
             "date": "2023-01-08",
-            "stock": 144.0
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -113,12 +145,28 @@
             "stock": 42.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24427",
+            "price": 980.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-08",
+            "stock": 144.0
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g115-100-S9-B/",
             "price": 880.0,
             "name": "【ポケカ】ＳＲ◇チェ",
             "date": "2023-01-08",
             "stock": 3.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1897300180",
+            "price": 1200.0,
+            "name": "ポケモンカード チェ",
+            "date": "2023-01-07",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -129,12 +177,12 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/1897300180",
-            "price": 1200.0,
-            "name": "ポケモンカード チェ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24427",
+            "price": 980.0,
+            "name": "チェレンの気くばり1",
             "date": "2023-01-07",
-            "stock": 1.0
+            "stock": 168.0
         },
         {
             "market": "cardrush",
@@ -145,20 +193,28 @@
             "stock": 34.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24427",
-            "price": 980.0,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-07",
-            "stock": 168.0
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g115-100-S9-B/",
             "price": 880.0,
             "name": "【ポケカ】ＳＲ◇チェ",
             "date": "2023-01-07",
             "stock": 3.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1897300180",
+            "price": 1200.0,
+            "name": "ポケモンカード チェ",
+            "date": "2023-01-06",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/908020101",
+            "price": 500.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -169,20 +225,12 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/1897300180",
-            "price": 1200.0,
-            "name": "ポケモンカード チェ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24454",
+            "price": 830.0,
+            "name": "チェレンの気くばり1",
             "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/908020101",
-            "price": 500.0,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-06",
-            "stock": 1.0
+            "stock": 33.0
         },
         {
             "market": "cardrush",
@@ -193,36 +241,12 @@
             "stock": 168.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24454",
-            "price": 830.0,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-06",
-            "stock": 33.0
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g115-100-S9-B/",
             "price": 880.0,
             "name": "【ポケカ】ＳＲ◇チェ",
             "date": "2023-01-06",
             "stock": 3.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/908020101",
-            "price": 500.0,
-            "name": "チェレンの気くばり ",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1897300180",
-            "price": 1200.0,
-            "name": "ポケモンカード チェ",
-            "date": "2023-01-05",
-            "stock": 1.0
         },
         {
             "market": "magi",
@@ -234,6 +258,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/1897300180",
+            "price": 1200.0,
+            "name": "ポケモンカード チェ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/908020101",
+            "price": 500.0,
+            "name": "チェレンの気くばり ",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/152838853",
             "price": 588.0,
             "name": "チェレンの気くばり ",
@@ -242,19 +282,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24427",
-            "price": 980.0,
-            "name": "チェレンの気くばり1",
-            "date": "2023-01-05",
-            "stock": 167.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24454",
             "price": 830.0,
             "name": "チェレンの気くばり1",
             "date": "2023-01-05",
             "stock": 33.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24427",
+            "price": 980.0,
+            "name": "チェレンの気くばり1",
+            "date": "2023-01-05",
+            "stock": 167.0
         },
         {
             "market": "torecolo",

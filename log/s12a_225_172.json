@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1305623913",
+            "price": 750.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/222278877",
+            "price": 1111.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/514634632",
             "price": 1100.0,
             "name": "ザシアンV SAR ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1450291192",
+            "price": 899.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/787672916",
+            "price": 750.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1701414163",
+            "price": 1100.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/445318346",
+            "price": 800.0,
+            "name": "【割引あり】ザシアン",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755260347",
+            "price": 850.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26364",
+            "price": 1200.0,
+            "name": "ザシアンV(SAR)",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38672",
+            "price": 830.0,
+            "name": "ザシアンV225/1",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38405",
+            "price": 880.0,
+            "name": "ザシアンV225/1",
+            "date": "2023-01-11",
+            "stock": 117.0
         },
         {
             "market": "magi",
@@ -18,40 +98,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1450291192",
-            "price": 899.0,
+            "link": "/items/514634632",
+            "price": 1100.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/787672916",
-            "price": 750.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/222278877",
-            "price": 1111.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/445318346",
-            "price": 800.0,
-            "name": "【割引あり】ザシアン",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1755260347",
-            "price": 850.0,
+            "link": "/items/1701414163",
+            "price": 1100.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-10",
             "stock": 1.0
@@ -66,8 +122,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/1701414163",
-            "price": 1100.0,
+            "link": "/items/1755260347",
+            "price": 850.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/445318346",
+            "price": 800.0,
+            "name": "【割引あり】ザシアン",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/222278877",
+            "price": 1111.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/787672916",
+            "price": 750.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1450291192",
+            "price": 899.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-10",
             "stock": 1.0
@@ -79,14 +167,6 @@
             "name": "ザシアンV(SAR)",
             "date": "2023-01-10",
             "stock": 6.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38405",
-            "price": 880.0,
-            "name": "ザシアンV225/1",
-            "date": "2023-01-10",
-            "stock": 118.0
         },
         {
             "market": "cardrush",
@@ -97,10 +177,26 @@
             "stock": 5.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38405",
+            "price": 880.0,
+            "name": "ザシアンV225/1",
+            "date": "2023-01-10",
+            "stock": 118.0
+        },
+        {
             "market": "magi",
             "link": "/items/445318346",
             "price": 800.0,
             "name": "【割引あり】ザシアン",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/787672916",
+            "price": 750.0,
+            "name": "ザシアンV SAR ",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -116,22 +212,6 @@
             "market": "magi",
             "link": "/items/1450291192",
             "price": 899.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/787672916",
-            "price": 750.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1849161773",
-            "price": 2000.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-09",
             "stock": 1.0
@@ -154,16 +234,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/514634632",
-            "price": 1100.0,
+            "link": "/items/222278877",
+            "price": 1111.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-09",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/222278877",
-            "price": 1111.0,
+            "link": "/items/1849161773",
+            "price": 2000.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/514634632",
+            "price": 1100.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-09",
             "stock": 1.0
@@ -178,19 +266,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38672",
-            "price": 830.0,
-            "name": "ザシアンV225/1",
-            "date": "2023-01-09",
-            "stock": 3.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38405",
             "price": 880.0,
             "name": "ザシアンV225/1",
             "date": "2023-01-09",
             "stock": 141.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38672",
+            "price": 830.0,
+            "name": "ザシアンV225/1",
+            "date": "2023-01-09",
+            "stock": 3.0
         },
         {
             "market": "magi",
@@ -202,9 +290,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/222278877",
-            "price": 1111.0,
+            "link": "/items/1849161773",
+            "price": 2000.0,
             "name": "ザシアンV SAR ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/445318346",
+            "price": 800.0,
+            "name": "【割引あり】ザシアン",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -226,24 +322,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/445318346",
-            "price": 800.0,
-            "name": "【割引あり】ザシアン",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1849161773",
-            "price": 2000.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/787672916",
-            "price": 750.0,
+            "link": "/items/1701414163",
+            "price": 1100.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-08",
             "stock": 1.0
@@ -258,8 +338,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1701414163",
-            "price": 1100.0,
+            "link": "/items/787672916",
+            "price": 750.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/222278877",
+            "price": 1111.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-08",
             "stock": 1.0
@@ -269,14 +357,6 @@
             "link": "https://www.hareruya2.com/product/26364",
             "price": 1200.0,
             "name": "ザシアンV(SAR)",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38672",
-            "price": 830.0,
-            "name": "ザシアンV225/1",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -289,6 +369,70 @@
             "stock": 138.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38672",
+            "price": 830.0,
+            "name": "ザシアンV225/1",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1849161773",
+            "price": 2000.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/514634632",
+            "price": 1100.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1450291192",
+            "price": 899.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1305623913",
+            "price": 750.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1701414163",
+            "price": 1100.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/787672916",
+            "price": 750.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/445318346",
+            "price": 800.0,
+            "name": "【割引あり】ザシアン",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
             "market": "magi",
             "link": "/items/1755260347",
             "price": 850.0,
@@ -305,74 +449,10 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/445318346",
-            "price": 800.0,
-            "name": "【割引あり】ザシアン",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/787672916",
-            "price": 750.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1701414163",
-            "price": 1100.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1305623913",
-            "price": 750.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1450291192",
-            "price": 899.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/514634632",
-            "price": 1100.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1849161773",
-            "price": 2000.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26364",
             "price": 1200.0,
             "name": "ザシアンV(SAR)",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38672",
-            "price": 830.0,
-            "name": "ザシアンV225/1",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -383,6 +463,22 @@
             "name": "ザシアンV225/1",
             "date": "2023-01-07",
             "stock": 118.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38672",
+            "price": 830.0,
+            "name": "ザシアンV225/1",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/514634632",
+            "price": 1100.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-06",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -436,14 +532,6 @@
             "market": "magi",
             "link": "/items/194940387",
             "price": 777.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-06",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/514634632",
-            "price": 1100.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-06",
             "stock": 1.0
@@ -490,16 +578,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/194940387",
-            "price": 777.0,
+            "link": "/items/1849161773",
+            "price": 2000.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-05",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1849161773",
-            "price": 2000.0,
+            "link": "/items/194940387",
+            "price": 777.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-05",
             "stock": 1.0
@@ -570,14 +658,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38672",
-            "price": 830.0,
-            "name": "ザシアンV225/1",
-            "date": "2023-01-05",
-            "stock": 3.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38405",
             "price": 880.0,
             "name": "ザシアンV225/1",
@@ -585,20 +665,12 @@
             "stock": 112.0
         },
         {
-            "market": "magi",
-            "link": "/items/1305623913",
-            "price": 1300.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1701414163",
-            "price": 1100.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-04",
-            "stock": 1.0
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38672",
+            "price": 830.0,
+            "name": "ザシアンV225/1",
+            "date": "2023-01-05",
+            "stock": 3.0
         },
         {
             "market": "magi",
@@ -612,6 +684,38 @@
             "market": "magi",
             "link": "/items/787672916",
             "price": 750.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1305623913",
+            "price": 1300.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/514634632",
+            "price": 1100.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1849161773",
+            "price": 2000.0,
+            "name": "ザシアンV SAR ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1701414163",
+            "price": 1100.0,
             "name": "ザシアンV SAR ",
             "date": "2023-01-04",
             "stock": 1.0
@@ -633,22 +737,6 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/1849161773",
-            "price": 2000.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/514634632",
-            "price": 1100.0,
-            "name": "ザシアンV SAR ",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26364",
             "price": 1200.0,
@@ -658,19 +746,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38405",
-            "price": 880.0,
-            "name": "ザシアンV225/1",
-            "date": "2023-01-04",
-            "stock": 119.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38672",
             "price": 830.0,
             "name": "ザシアンV225/1",
             "date": "2023-01-04",
             "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38405",
+            "price": 880.0,
+            "name": "ザシアンV225/1",
+            "date": "2023-01-04",
+            "stock": 119.0
         }
     ]
 }

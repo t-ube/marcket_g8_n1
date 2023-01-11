@@ -2,11 +2,99 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/8638109",
+            "price": 100.0,
+            "name": "チルタリス 104/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2050585992",
+            "price": 100.0,
+            "name": "チルタリス 104/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363874828",
+            "price": 100.0,
+            "name": "チルタリス【-】{1",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/615048910",
+            "price": 200.0,
+            "name": "チルタリス 104/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/285381121",
+            "price": 150.0,
+            "name": "【特価】チルタリス ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1631903988",
+            "price": 200.0,
+            "name": "チルタリス【-】{1",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/946317421",
             "price": 100.0,
             "name": "チルタリス【-】{1",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26241",
+            "price": 100.0,
+            "name": "チルタリス:ミラー(",
+            "date": "2023-01-11",
+            "stock": 20.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26127",
+            "price": 50.0,
+            "name": "チルタリス(CP){",
+            "date": "2023-01-11",
+            "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38576",
+            "price": 70.0,
+            "name": "チルタリス104/1",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38302",
+            "price": 80.0,
+            "name": "チルタリス104/1",
+            "date": "2023-01-11",
+            "stock": 215.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38188",
+            "price": 50.0,
+            "name": "チルタリス104/1",
+            "date": "2023-01-11",
+            "stock": 425.0
         },
         {
             "market": "magi",
@@ -18,16 +106,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/8638109",
+            "link": "/items/946317421",
             "price": 100.0,
-            "name": "チルタリス 104/",
+            "name": "チルタリス【-】{1",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/2050585992",
-            "price": 100.0,
+            "link": "/items/285381121",
+            "price": 150.0,
+            "name": "【特価】チルタリス ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/615048910",
+            "price": 200.0,
             "name": "チルタリス 104/",
             "date": "2023-01-10",
             "stock": 1.0
@@ -42,27 +138,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/615048910",
-            "price": 200.0,
+            "link": "/items/2050585992",
+            "price": 100.0,
             "name": "チルタリス 104/",
             "date": "2023-01-10",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/285381121",
-            "price": 150.0,
-            "name": "【特価】チルタリス ",
+            "link": "/items/8638109",
+            "price": 100.0,
+            "name": "チルタリス 104/",
             "date": "2023-01-10",
             "stock": 1.0
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26241",
-            "price": 100.0,
-            "name": "チルタリス:ミラー(",
-            "date": "2023-01-10",
-            "stock": 20.0
         },
         {
             "market": "hareruya2",
@@ -73,12 +161,20 @@
             "stock": 35.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26241",
+            "price": 100.0,
+            "name": "チルタリス:ミラー(",
+            "date": "2023-01-10",
+            "stock": 20.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38188",
-            "price": 50.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38576",
+            "price": 70.0,
             "name": "チルタリス104/1",
             "date": "2023-01-10",
-            "stock": 420.0
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -90,16 +186,24 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38576",
-            "price": 70.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38188",
+            "price": 50.0,
             "name": "チルタリス104/1",
             "date": "2023-01-10",
-            "stock": 1.0
+            "stock": 420.0
         },
         {
             "market": "magi",
             "link": "/items/1631903988",
             "price": 200.0,
+            "name": "チルタリス【-】{1",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/946317421",
+            "price": 100.0,
             "name": "チルタリス【-】{1",
             "date": "2023-01-09",
             "stock": 1.0
@@ -122,22 +226,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/946317421",
-            "price": 100.0,
-            "name": "チルタリス【-】{1",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/285381121",
-            "price": 150.0,
-            "name": "【特価】チルタリス ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/1363874828",
             "price": 100.0,
             "name": "チルタリス【-】{1",
@@ -153,12 +241,12 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26127",
-            "price": 50.0,
-            "name": "チルタリス(CP){",
+            "market": "magi",
+            "link": "/items/285381121",
+            "price": 150.0,
+            "name": "【特価】チルタリス ",
             "date": "2023-01-09",
-            "stock": 35.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -167,6 +255,30 @@
             "name": "チルタリス:ミラー(",
             "date": "2023-01-09",
             "stock": 20.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26127",
+            "price": 50.0,
+            "name": "チルタリス(CP){",
+            "date": "2023-01-09",
+            "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38188",
+            "price": 50.0,
+            "name": "チルタリス104/1",
+            "date": "2023-01-09",
+            "stock": 418.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38576",
+            "price": 70.0,
+            "name": "チルタリス104/1",
+            "date": "2023-01-09",
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -177,22 +289,6 @@
             "stock": 195.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38576",
-            "price": 70.0,
-            "name": "チルタリス104/1",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38188",
-            "price": 50.0,
-            "name": "チルタリス104/1",
-            "date": "2023-01-09",
-            "stock": 418.0
-        },
-        {
             "market": "magi",
             "link": "/items/285381121",
             "price": 150.0,
@@ -202,9 +298,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1363874828",
+            "link": "/items/946317421",
             "price": 100.0,
             "name": "チルタリス【-】{1",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2050585992",
+            "price": 100.0,
+            "name": "チルタリス 104/",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -226,22 +330,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2050585992",
-            "price": 100.0,
-            "name": "チルタリス 104/",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/946317421",
-            "price": 100.0,
-            "name": "チルタリス【-】{1",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/615048910",
             "price": 200.0,
             "name": "チルタリス 104/",
@@ -249,12 +337,12 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26127",
-            "price": 50.0,
-            "name": "チルタリス(CP){",
+            "market": "magi",
+            "link": "/items/1363874828",
+            "price": 100.0,
+            "name": "チルタリス【-】{1",
             "date": "2023-01-08",
-            "stock": 35.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -265,12 +353,20 @@
             "stock": 20.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38188",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26127",
             "price": 50.0,
+            "name": "チルタリス(CP){",
+            "date": "2023-01-08",
+            "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38576",
+            "price": 70.0,
             "name": "チルタリス104/1",
             "date": "2023-01-08",
-            "stock": 418.0
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -282,23 +378,47 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38576",
-            "price": 70.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38188",
+            "price": 50.0,
             "name": "チルタリス104/1",
             "date": "2023-01-08",
-            "stock": 1.0
+            "stock": 418.0
         },
         {
             "market": "magi",
-            "link": "/items/285381121",
-            "price": 150.0,
-            "name": "【特価】チルタリス ",
+            "link": "/items/1363874828",
+            "price": 100.0,
+            "name": "チルタリス【-】{1",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/1363874828",
+            "link": "/items/615048910",
+            "price": 200.0,
+            "name": "チルタリス 104/",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/8638109",
+            "price": 100.0,
+            "name": "チルタリス 104/",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1631903988",
+            "price": 200.0,
+            "name": "チルタリス【-】{1",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/946317421",
             "price": 100.0,
             "name": "チルタリス【-】{1",
             "date": "2023-01-07",
@@ -314,33 +434,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/946317421",
-            "price": 100.0,
-            "name": "チルタリス【-】{1",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1631903988",
-            "price": 200.0,
-            "name": "チルタリス【-】{1",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/8638109",
-            "price": 100.0,
-            "name": "チルタリス 104/",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/615048910",
-            "price": 200.0,
-            "name": "チルタリス 104/",
+            "link": "/items/285381121",
+            "price": 150.0,
+            "name": "【特価】チルタリス ",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -362,11 +458,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38188",
-            "price": 50.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38576",
+            "price": 70.0,
             "name": "チルタリス104/1",
             "date": "2023-01-07",
-            "stock": 419.0
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -378,11 +474,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38576",
-            "price": 70.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38188",
+            "price": 50.0,
             "name": "チルタリス104/1",
             "date": "2023-01-07",
-            "stock": 1.0
+            "stock": 419.0
         },
         {
             "market": "magi",
@@ -482,6 +578,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/615048910",
+            "price": 200.0,
+            "name": "チルタリス 104/",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1363874828",
             "price": 100.0,
             "name": "チルタリス【-】{1",
@@ -492,14 +596,6 @@
             "market": "magi",
             "link": "/items/8638109",
             "price": 100.0,
-            "name": "チルタリス 104/",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/615048910",
-            "price": 200.0,
             "name": "チルタリス 104/",
             "date": "2023-01-05",
             "stock": 1.0
@@ -551,6 +647,14 @@
             "name": "チルタリス(CP){",
             "date": "2023-01-05",
             "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38188",
+            "price": 50.0,
+            "name": "チルタリス104/1",
+            "date": "2023-01-05",
+            "stock": 417.0
         },
         {
             "market": "cardrush",
@@ -569,18 +673,26 @@
             "stock": 1.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38188",
-            "price": 50.0,
-            "name": "チルタリス104/1",
-            "date": "2023-01-05",
-            "stock": 417.0
+            "market": "magi",
+            "link": "/items/615048910",
+            "price": 200.0,
+            "name": "チルタリス 104/",
+            "date": "2023-01-04",
+            "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/1363874828",
             "price": 100.0,
             "name": "チルタリス【-】{1",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/8638109",
+            "price": 100.0,
+            "name": "チルタリス 104/",
             "date": "2023-01-04",
             "stock": 1.0
         },
@@ -602,22 +714,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/615048910",
-            "price": 200.0,
-            "name": "チルタリス 104/",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/8638109",
-            "price": 100.0,
-            "name": "チルタリス 104/",
-            "date": "2023-01-04",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/2050585992",
             "price": 100.0,
             "name": "チルタリス 104/",
@@ -634,14 +730,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26127",
-            "price": 50.0,
-            "name": "チルタリス(CP){",
-            "date": "2023-01-04",
-            "stock": 35.0
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26241",
             "price": 100.0,
             "name": "チルタリス:ミラー(",
@@ -649,12 +737,20 @@
             "stock": 20.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26127",
+            "price": 50.0,
+            "name": "チルタリス(CP){",
+            "date": "2023-01-04",
+            "stock": 35.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38302",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38188",
+            "price": 50.0,
             "name": "チルタリス104/1",
             "date": "2023-01-04",
-            "stock": 184.0
+            "stock": 417.0
         },
         {
             "market": "cardrush",
@@ -666,11 +762,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38188",
-            "price": 50.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38302",
+            "price": 80.0,
             "name": "チルタリス104/1",
             "date": "2023-01-04",
-            "stock": 417.0
+            "stock": 184.0
         }
     ]
 }

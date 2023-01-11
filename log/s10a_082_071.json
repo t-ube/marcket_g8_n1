@@ -5,13 +5,45 @@
             "link": "/items/1536390426",
             "price": 880.0,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
         },
         {
             "market": "magi",
             "link": "/items/667783149",
             "price": 680.0,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35420",
+            "price": 680.0,
+            "name": "ヒスイヌメルゴンV0",
+            "date": "2023-01-11",
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35361",
+            "price": 780.0,
+            "name": "ヒスイヌメルゴンV0",
+            "date": "2023-01-11",
+            "stock": 123.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/667783149",
+            "price": 680.0,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1536390426",
+            "price": 880.0,
             "name": "ヒスイヌメルゴンV ",
             "date": "2023-01-10",
             "stock": 1.0
@@ -162,16 +194,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1341021035",
-            "price": 492.0,
+            "link": "/items/667783149",
+            "price": 680.0,
             "name": "ヒスイヌメルゴンV ",
             "date": "2023-01-05",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/667783149",
-            "price": 680.0,
+            "link": "/items/1341021035",
+            "price": 492.0,
             "name": "ヒスイヌメルゴンV ",
             "date": "2023-01-05",
             "stock": 1.0
@@ -186,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35361",
-            "price": 780.0,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2023-01-05",
-            "stock": 110.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35420",
             "price": 680.0,
             "name": "ヒスイヌメルゴンV0",
             "date": "2023-01-05",
             "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35361",
+            "price": 780.0,
+            "name": "ヒスイヌメルゴンV0",
+            "date": "2023-01-05",
+            "stock": 110.0
         },
         {
             "market": "magi",

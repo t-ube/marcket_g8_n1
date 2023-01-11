@@ -2,11 +2,67 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/514164452",
+            "price": 650.0,
+            "name": "レジエレキV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1770514797",
+            "price": 950.0,
+            "name": "レジエレキV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/744906450",
+            "price": 943.0,
+            "name": "レジエレキV(SR)",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1101571669",
             "price": 930.0,
             "name": "レジエレキV SR ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/483957003",
+            "price": 700.0,
+            "name": "レジエレキV SR ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25596",
+            "price": 1000.0,
+            "name": "レジエレキV(SR)",
+            "date": "2023-01-11",
+            "stock": 22.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37657",
+            "price": 730.0,
+            "name": "レジエレキV101/",
+            "date": "2023-01-11",
+            "stock": 19.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37603",
+            "price": 780.0,
+            "name": "レジエレキV101/",
+            "date": "2023-01-11",
+            "stock": 205.0
         },
         {
             "market": "magi",
@@ -18,8 +74,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1770514797",
-            "price": 950.0,
+            "link": "/items/1101571669",
+            "price": 930.0,
             "name": "レジエレキV SR ",
             "date": "2023-01-10",
             "stock": 1.0
@@ -29,6 +85,14 @@
             "link": "/items/744906450",
             "price": 943.0,
             "name": "レジエレキV(SR)",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1770514797",
+            "price": 950.0,
+            "name": "レジエレキV SR ",
             "date": "2023-01-10",
             "stock": 1.0
         },
@@ -42,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37657",
-            "price": 730.0,
-            "name": "レジエレキV101/",
-            "date": "2023-01-10",
-            "stock": 19.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37603",
             "price": 780.0,
             "name": "レジエレキV101/",
@@ -57,36 +113,12 @@
             "stock": 204.0
         },
         {
-            "market": "magi",
-            "link": "/items/1101571669",
-            "price": 950.0,
-            "name": "レジエレキV SR ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/514164452",
-            "price": 650.0,
-            "name": "レジエレキV SR ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1770514797",
-            "price": 950.0,
-            "name": "レジエレキV SR ",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/744906450",
-            "price": 943.0,
-            "name": "レジエレキV(SR)",
-            "date": "2023-01-09",
-            "stock": 1.0
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37657",
+            "price": 730.0,
+            "name": "レジエレキV101/",
+            "date": "2023-01-10",
+            "stock": 19.0
         },
         {
             "market": "magi",
@@ -97,6 +129,38 @@
             "stock": 1.0
         },
         {
+            "market": "magi",
+            "link": "/items/1770514797",
+            "price": 950.0,
+            "name": "レジエレキV SR ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1101571669",
+            "price": 950.0,
+            "name": "レジエレキV SR ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/744906450",
+            "price": 943.0,
+            "name": "レジエレキV(SR)",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/514164452",
+            "price": 650.0,
+            "name": "レジエレキV SR ",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25596",
             "price": 1000.0,
@@ -119,6 +183,22 @@
             "name": "レジエレキV101/",
             "date": "2023-01-09",
             "stock": 19.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2012321258",
+            "price": 570.0,
+            "name": "レジエレキV SR ",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/744906450",
+            "price": 943.0,
+            "name": "レジエレキV(SR)",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -140,22 +220,6 @@
             "market": "magi",
             "link": "/items/1101571669",
             "price": 980.0,
-            "name": "レジエレキV SR ",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/744906450",
-            "price": 943.0,
-            "name": "レジエレキV(SR)",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/2012321258",
-            "price": 570.0,
             "name": "レジエレキV SR ",
             "date": "2023-01-08",
             "stock": 1.0
@@ -186,8 +250,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/514164452",
-            "price": 650.0,
+            "link": "/items/2012321258",
+            "price": 570.0,
             "name": "レジエレキV SR ",
             "date": "2023-01-07",
             "stock": 1.0
@@ -202,17 +266,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/744906450",
-            "price": 943.0,
-            "name": "レジエレキV(SR)",
+            "link": "/items/514164452",
+            "price": 650.0,
+            "name": "レジエレキV SR ",
             "date": "2023-01-07",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/2012321258",
-            "price": 570.0,
-            "name": "レジエレキV SR ",
+            "link": "/items/744906450",
+            "price": 943.0,
+            "name": "レジエレキV(SR)",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -226,14 +290,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37603",
-            "price": 780.0,
-            "name": "レジエレキV101/",
-            "date": "2023-01-07",
-            "stock": 177.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37657",
             "price": 730.0,
             "name": "レジエレキV101/",
@@ -241,6 +297,14 @@
             "stock": 13.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37603",
+            "price": 780.0,
+            "name": "レジエレキV101/",
+            "date": "2023-01-07",
+            "stock": 177.0
+        },
+        {
             "market": "magi",
             "link": "/items/744906450",
             "price": 943.0,
@@ -298,6 +362,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/744906450",
+            "price": 943.0,
+            "name": "レジエレキV(SR)",
+            "date": "2023-01-05",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/1770514797",
             "price": 950.0,
             "name": "レジエレキV SR ",
@@ -309,14 +381,6 @@
             "link": "/items/514164452",
             "price": 650.0,
             "name": "レジエレキV SR ",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/744906450",
-            "price": 943.0,
-            "name": "レジエレキV(SR)",
             "date": "2023-01-05",
             "stock": 1.0
         },
@@ -338,14 +402,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37657",
-            "price": 730.0,
-            "name": "レジエレキV101/",
-            "date": "2023-01-05",
-            "stock": 16.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37603",
             "price": 780.0,
             "name": "レジエレキV101/",
@@ -353,17 +409,17 @@
             "stock": 162.0
         },
         {
-            "market": "magi",
-            "link": "/items/744906450",
-            "price": 943.0,
-            "name": "レジエレキV(SR)",
-            "date": "2023-01-04",
-            "stock": 1.0
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37657",
+            "price": 730.0,
+            "name": "レジエレキV101/",
+            "date": "2023-01-05",
+            "stock": 16.0
         },
         {
             "market": "magi",
-            "link": "/items/514164452",
-            "price": 650.0,
+            "link": "/items/2012321258",
+            "price": 570.0,
             "name": "レジエレキV SR ",
             "date": "2023-01-04",
             "stock": 1.0
@@ -378,9 +434,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2012321258",
-            "price": 570.0,
+            "link": "/items/514164452",
+            "price": 650.0,
             "name": "レジエレキV SR ",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/744906450",
+            "price": 943.0,
+            "name": "レジエレキV(SR)",
             "date": "2023-01-04",
             "stock": 1.0
         },

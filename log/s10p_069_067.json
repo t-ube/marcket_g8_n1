@@ -2,11 +2,43 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/905998377",
+            "price": 2500.0,
+            "name": "スピアーV SR 0",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1547460796",
+            "price": 380.0,
+            "name": "スピアーV SR 0",
+            "date": "2023-01-11",
+            "stock": 5.0
+        },
+        {
+            "market": "magi",
             "link": "/items/2021297900",
             "price": 2000.0,
             "name": "スピアーV SR 0",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23102",
+            "price": 3000.0,
+            "name": "スピアーV:SA(S",
+            "date": "2023-01-11",
+            "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34758",
+            "price": 2980.0,
+            "name": "スピアーV069/0",
+            "date": "2023-01-11",
+            "stock": 106.0
         },
         {
             "market": "magi",
@@ -15,6 +47,14 @@
             "name": "スピアーV SR 0",
             "date": "2023-01-10",
             "stock": 5.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/2021297900",
+            "price": 2000.0,
+            "name": "スピアーV SR 0",
+            "date": "2023-01-10",
+            "stock": 1.0
         },
         {
             "market": "magi",
@@ -34,6 +74,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34848",
+            "price": 2480.0,
+            "name": "スピアーV069/0",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34758",
             "price": 2980.0,
             "name": "スピアーV069/0",
@@ -41,11 +89,11 @@
             "stock": 98.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34848",
-            "price": 2480.0,
-            "name": "スピアーV069/0",
-            "date": "2023-01-10",
+            "market": "magi",
+            "link": "/items/905998377",
+            "price": 2500.0,
+            "name": "スピアーV SR 0",
+            "date": "2023-01-09",
             "stock": 1.0
         },
         {
@@ -55,14 +103,6 @@
             "name": "スピアーV SR 0",
             "date": "2023-01-09",
             "stock": 5.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/905998377",
-            "price": 2500.0,
-            "name": "スピアーV SR 0",
-            "date": "2023-01-09",
-            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -90,19 +130,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1547460796",
-            "price": 400.0,
-            "name": "スピアーV SR 0",
-            "date": "2023-01-08",
-            "stock": 5.0
-        },
-        {
-            "market": "magi",
             "link": "/items/905998377",
             "price": 2500.0,
             "name": "スピアーV SR 0",
             "date": "2023-01-08",
             "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1547460796",
+            "price": 400.0,
+            "name": "スピアーV SR 0",
+            "date": "2023-01-08",
+            "stock": 5.0
         },
         {
             "market": "hareruya2",
@@ -111,6 +151,14 @@
             "name": "スピアーV:SA(S",
             "date": "2023-01-08",
             "stock": 5.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34848",
+            "price": 2480.0,
+            "name": "スピアーV069/0",
+            "date": "2023-01-08",
+            "stock": 1.0
         },
         {
             "market": "cardrush",
@@ -121,14 +169,6 @@
             "stock": 77.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34848",
-            "price": 2480.0,
-            "name": "スピアーV069/0",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
             "market": "magi",
             "link": "/items/905998377",
             "price": 2500.0,
@@ -141,14 +181,6 @@
             "link": "https://www.hareruya2.com/product/23102",
             "price": 3000.0,
             "name": "スピアーV:SA(S",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34848",
-            "price": 2480.0,
-            "name": "スピアーV069/0",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -161,6 +193,14 @@
             "stock": 76.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34848",
+            "price": 2480.0,
+            "name": "スピアーV069/0",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
             "market": "magi",
             "link": "/items/905998377",
             "price": 2500.0,
@@ -170,17 +210,17 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26502",
-            "price": 14000.0,
-            "name": "【PSA10】スピア",
+            "link": "https://www.hareruya2.com/product/23102",
+            "price": 3000.0,
+            "name": "スピアーV:SA(S",
             "date": "2023-01-06",
             "stock": 1.0
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23102",
-            "price": 3000.0,
-            "name": "スピアーV:SA(S",
+            "link": "https://www.hareruya2.com/product/26502",
+            "price": 14000.0,
+            "name": "【PSA10】スピア",
             "date": "2023-01-06",
             "stock": 1.0
         },
@@ -202,17 +242,17 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26502",
-            "price": 14000.0,
-            "name": "【PSA10】スピア",
+            "link": "https://www.hareruya2.com/product/23102",
+            "price": 3000.0,
+            "name": "スピアーV:SA(S",
             "date": "2023-01-05",
             "stock": 1.0
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23102",
-            "price": 3000.0,
-            "name": "スピアーV:SA(S",
+            "link": "https://www.hareruya2.com/product/26502",
+            "price": 14000.0,
+            "name": "【PSA10】スピア",
             "date": "2023-01-05",
             "stock": 1.0
         },

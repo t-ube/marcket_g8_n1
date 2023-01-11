@@ -2,17 +2,65 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/213223507",
+            "price": 600.0,
+            "name": "デンボク SR 08",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/235124533",
             "price": 650.0,
             "name": "【割引あり】デンボク",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22831",
+            "price": 900.0,
+            "name": "デンボク(SR){サ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33799",
+            "price": 680.0,
+            "name": "デンボク082/06",
+            "date": "2023-01-11",
+            "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33706",
+            "price": 780.0,
+            "name": "デンボク082/06",
+            "date": "2023-01-11",
+            "stock": 128.0
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g082-067-S9A-B/",
+            "price": 770.0,
+            "name": "【ポケカ】ＳＲ◇デン",
+            "date": "2023-01-11",
+            "stock": 5.0
         },
         {
             "market": "magi",
             "link": "/items/213223507",
             "price": 600.0,
             "name": "デンボク SR 08",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/235124533",
+            "price": 650.0,
+            "name": "【割引あり】デンボク",
             "date": "2023-01-10",
             "stock": 1.0
         },
@@ -26,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33706",
-            "price": 780.0,
-            "name": "デンボク082/06",
-            "date": "2023-01-10",
-            "stock": 128.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33799",
             "price": 680.0,
             "name": "デンボク082/06",
             "date": "2023-01-10",
             "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33706",
+            "price": 780.0,
+            "name": "デンボク082/06",
+            "date": "2023-01-10",
+            "stock": 128.0
         },
         {
             "market": "torecolo",
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33706",
-            "price": 780.0,
-            "name": "デンボク082/06",
-            "date": "2023-01-09",
-            "stock": 128.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33799",
             "price": 680.0,
             "name": "デンボク082/06",
             "date": "2023-01-09",
             "stock": 35.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33706",
+            "price": 780.0,
+            "name": "デンボク082/06",
+            "date": "2023-01-09",
+            "stock": 128.0
         },
         {
             "market": "torecolo",
@@ -98,17 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/213223507",
-            "price": 600.0,
-            "name": "デンボク SR 08",
+            "link": "/items/235124533",
+            "price": 650.0,
+            "name": "【割引あり】デンボク",
             "date": "2023-01-08",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/235124533",
-            "price": 650.0,
-            "name": "【割引あり】デンボク",
+            "link": "/items/213223507",
+            "price": 600.0,
+            "name": "デンボク SR 08",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -119,14 +167,6 @@
             "name": "デンボク(SR){サ",
             "date": "2023-01-08",
             "stock": 1.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33799",
-            "price": 680.0,
-            "name": "デンボク082/06",
-            "date": "2023-01-08",
-            "stock": 26.0
         },
         {
             "market": "cardrush",
@@ -135,6 +175,14 @@
             "name": "デンボク082/06",
             "date": "2023-01-08",
             "stock": 120.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33799",
+            "price": 680.0,
+            "name": "デンボク082/06",
+            "date": "2023-01-08",
+            "stock": 26.0
         },
         {
             "market": "torecolo",
@@ -194,17 +242,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/235124533",
-            "price": 650.0,
-            "name": "【割引あり】デンボク",
+            "link": "/items/213223507",
+            "price": 600.0,
+            "name": "デンボク SR 08",
             "date": "2023-01-06",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/213223507",
-            "price": 600.0,
-            "name": "デンボク SR 08",
+            "link": "/items/235124533",
+            "price": 650.0,
+            "name": "【割引あり】デンボク",
             "date": "2023-01-06",
             "stock": 1.0
         },
@@ -218,19 +266,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33799",
-            "price": 680.0,
-            "name": "デンボク082/06",
-            "date": "2023-01-06",
-            "stock": 19.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33706",
             "price": 780.0,
             "name": "デンボク082/06",
             "date": "2023-01-06",
             "stock": 146.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33799",
+            "price": 680.0,
+            "name": "デンボク082/06",
+            "date": "2023-01-06",
+            "stock": 19.0
         },
         {
             "market": "torecolo",
@@ -242,17 +290,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/235124533",
-            "price": 650.0,
-            "name": "【割引あり】デンボク",
+            "link": "/items/213223507",
+            "price": 600.0,
+            "name": "デンボク SR 08",
             "date": "2023-01-05",
             "stock": 1.0
         },
         {
             "market": "magi",
-            "link": "/items/213223507",
-            "price": 600.0,
-            "name": "デンボク SR 08",
+            "link": "/items/235124533",
+            "price": 650.0,
+            "name": "【割引あり】デンボク",
             "date": "2023-01-05",
             "stock": 1.0
         },

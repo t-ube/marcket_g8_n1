@@ -2,6 +2,86 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/151080779",
+            "price": 100.0,
+            "name": "レジロック 075/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1179150909",
+            "price": 100.0,
+            "name": "レジロック 075/",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265518758",
+            "price": 100.0,
+            "name": "レジロック【-】{0",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/701565493",
+            "price": 100.0,
+            "name": "No.40 P屋　レ",
+            "date": "2023-01-11",
+            "stock": 1.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26227",
+            "price": 100.0,
+            "name": "レジロック:ミラー(",
+            "date": "2023-01-11",
+            "stock": 38.0
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26098",
+            "price": 50.0,
+            "name": "レジロック(CP){",
+            "date": "2023-01-11",
+            "stock": 37.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38562",
+            "price": 70.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-11",
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38288",
+            "price": 80.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-11",
+            "stock": 513.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38159",
+            "price": 30.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-11",
+            "stock": 124.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/151080779",
+            "price": 100.0,
+            "name": "レジロック 075/",
+            "date": "2023-01-10",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
             "link": "/items/701565493",
             "price": 100.0,
             "name": "No.40 P屋　レ",
@@ -10,7 +90,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/151080779",
+            "link": "/items/1179150909",
             "price": 100.0,
             "name": "レジロック 075/",
             "date": "2023-01-10",
@@ -25,22 +105,6 @@
             "stock": 1.0
         },
         {
-            "market": "magi",
-            "link": "/items/1179150909",
-            "price": 100.0,
-            "name": "レジロック 075/",
-            "date": "2023-01-10",
-            "stock": 1.0
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26098",
-            "price": 50.0,
-            "name": "レジロック(CP){",
-            "date": "2023-01-10",
-            "stock": 37.0
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26227",
             "price": 100.0,
@@ -49,20 +113,12 @@
             "stock": 38.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38159",
-            "price": 30.0,
-            "name": "レジロック075/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26098",
+            "price": 50.0,
+            "name": "レジロック(CP){",
             "date": "2023-01-10",
-            "stock": 124.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38562",
-            "price": 70.0,
-            "name": "レジロック075/1",
-            "date": "2023-01-10",
-            "stock": 2.0
+            "stock": 37.0
         },
         {
             "market": "cardrush",
@@ -73,10 +129,34 @@
             "stock": 514.0
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38562",
+            "price": 70.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-10",
+            "stock": 2.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38159",
+            "price": 30.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-10",
+            "stock": 124.0
+        },
+        {
             "market": "magi",
             "link": "/items/1265518758",
             "price": 120.0,
             "name": "レジロック【-】{0",
+            "date": "2023-01-09",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1179150909",
+            "price": 100.0,
+            "name": "レジロック 075/",
             "date": "2023-01-09",
             "stock": 1.0
         },
@@ -91,14 +171,6 @@
         {
             "market": "magi",
             "link": "/items/151080779",
-            "price": 100.0,
-            "name": "レジロック 075/",
-            "date": "2023-01-09",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1179150909",
             "price": 100.0,
             "name": "レジロック 075/",
             "date": "2023-01-09",
@@ -146,22 +218,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1179150909",
-            "price": 100.0,
-            "name": "レジロック 075/",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1265518758",
-            "price": 120.0,
-            "name": "レジロック【-】{0",
-            "date": "2023-01-08",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/701565493",
             "price": 100.0,
             "name": "No.40 P屋　レ",
@@ -173,6 +229,22 @@
             "link": "/items/151080779",
             "price": 100.0,
             "name": "レジロック 075/",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1179150909",
+            "price": 100.0,
+            "name": "レジロック 075/",
+            "date": "2023-01-08",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265518758",
+            "price": 120.0,
+            "name": "レジロック【-】{0",
             "date": "2023-01-08",
             "stock": 1.0
         },
@@ -191,6 +263,22 @@
             "name": "レジロック:ミラー(",
             "date": "2023-01-08",
             "stock": 12.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38288",
+            "price": 80.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-08",
+            "stock": 508.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38159",
+            "price": 30.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-08",
+            "stock": 124.0
         },
         {
             "market": "cardrush",
@@ -201,34 +289,10 @@
             "stock": 2.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38159",
-            "price": 30.0,
-            "name": "レジロック075/1",
-            "date": "2023-01-08",
-            "stock": 124.0
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38288",
-            "price": 80.0,
-            "name": "レジロック075/1",
-            "date": "2023-01-08",
-            "stock": 508.0
-        },
-        {
             "market": "magi",
-            "link": "/items/1179150909",
+            "link": "/items/151080779",
             "price": 100.0,
             "name": "レジロック 075/",
-            "date": "2023-01-07",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/1265518758",
-            "price": 120.0,
-            "name": "レジロック【-】{0",
             "date": "2023-01-07",
             "stock": 1.0
         },
@@ -242,7 +306,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/151080779",
+            "link": "/items/1265518758",
+            "price": 120.0,
+            "name": "レジロック【-】{0",
+            "date": "2023-01-07",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/1179150909",
             "price": 100.0,
             "name": "レジロック 075/",
             "date": "2023-01-07",
@@ -266,19 +338,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38159",
-            "price": 30.0,
-            "name": "レジロック075/1",
-            "date": "2023-01-07",
-            "stock": 124.0
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38562",
             "price": 70.0,
             "name": "レジロック075/1",
             "date": "2023-01-07",
             "stock": 3.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38159",
+            "price": 30.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-07",
+            "stock": 124.0
         },
         {
             "market": "cardrush",
@@ -314,14 +386,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26227",
-            "price": 100.0,
-            "name": "レジロック:ミラー(",
-            "date": "2023-01-06",
-            "stock": 12.0
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26098",
             "price": 50.0,
             "name": "レジロック(CP){",
@@ -329,12 +393,12 @@
             "stock": 37.0
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38562",
-            "price": 70.0,
-            "name": "レジロック075/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26227",
+            "price": 100.0,
+            "name": "レジロック:ミラー(",
             "date": "2023-01-06",
-            "stock": 3.0
+            "stock": 12.0
         },
         {
             "market": "cardrush",
@@ -343,6 +407,14 @@
             "name": "レジロック075/1",
             "date": "2023-01-06",
             "stock": 124.0
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38562",
+            "price": 70.0,
+            "name": "レジロック075/1",
+            "date": "2023-01-06",
+            "stock": 3.0
         },
         {
             "market": "cardrush",
@@ -362,14 +434,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1265518758",
-            "price": 120.0,
-            "name": "レジロック【-】{0",
-            "date": "2023-01-05",
-            "stock": 1.0
-        },
-        {
-            "market": "magi",
             "link": "/items/151080779",
             "price": 100.0,
             "name": "レジロック 075/",
@@ -377,12 +441,12 @@
             "stock": 1.0
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26227",
-            "price": 100.0,
-            "name": "レジロック:ミラー(",
+            "market": "magi",
+            "link": "/items/1265518758",
+            "price": 120.0,
+            "name": "レジロック【-】{0",
             "date": "2023-01-05",
-            "stock": 12.0
+            "stock": 1.0
         },
         {
             "market": "hareruya2",
@@ -393,12 +457,20 @@
             "stock": 37.0
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26227",
+            "price": 100.0,
+            "name": "レジロック:ミラー(",
+            "date": "2023-01-05",
+            "stock": 12.0
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38288",
-            "price": 80.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38562",
+            "price": 70.0,
             "name": "レジロック075/1",
             "date": "2023-01-05",
-            "stock": 510.0
+            "stock": 3.0
         },
         {
             "market": "cardrush",
@@ -410,19 +482,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38562",
-            "price": 70.0,
+            "link": "https://www.cardrush-pokemon.jp/product/38288",
+            "price": 80.0,
             "name": "レジロック075/1",
             "date": "2023-01-05",
-            "stock": 3.0
-        },
-        {
-            "market": "magi",
-            "link": "/items/151080779",
-            "price": 100.0,
-            "name": "レジロック 075/",
-            "date": "2023-01-04",
-            "stock": 1.0
+            "stock": 510.0
         },
         {
             "market": "magi",
@@ -435,6 +499,14 @@
         {
             "market": "magi",
             "link": "/items/1179150909",
+            "price": 100.0,
+            "name": "レジロック 075/",
+            "date": "2023-01-04",
+            "stock": 1.0
+        },
+        {
+            "market": "magi",
+            "link": "/items/151080779",
             "price": 100.0,
             "name": "レジロック 075/",
             "date": "2023-01-04",
