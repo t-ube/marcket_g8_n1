@@ -60,10 +60,10 @@ for exp in expansion.getList():
             print('skip:'+row['name'])
             continue
         if row['is_mirror'] == 'TRUE':
-            print('skip:'+row['name'])
+            print('skip:'+row['name']+' '+row['master_id'])
             continue
         if row['master_id'] in updated_id_list:
-            print('skip:'+row['name'])
+            print('skip:'+row['name']+' '+row['master_id'])
             continue 
 
         dataDir = './data/marcket/'+row['master_id']
