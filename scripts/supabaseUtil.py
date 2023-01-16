@@ -73,6 +73,9 @@ class batchWriter:
         except postgrest.exceptions.APIError as e:
             print("postgrest.exceptions.APIError")
             print(e.args)
+            print('Begin error data')
+            print(batch_item)
+            print('End error data')
 
 # card_market_raw の読み取り用
 class marketRawReader:
@@ -93,6 +96,21 @@ class marketRawUpdatedIndexReader:
     def read(self, supabase:Client):
         try:
             data = supabase.table("card_market_raw_updated_index").select("master_id_list").execute()
+            if len(data.data) == 0:
+                return []
+            if data.data[0]['master_id_list'] == None:
+                return []
+            return data.data[0]['master_id_list'].split(',')
+        except httpx.ReadTimeout as e:
+            print("httpx.ReadTimeout")
+            print(e.args)
+        except postgrest.exceptions.APIError as e:
+            print("postgrest.exceptions.APIError")
+            print(e.args)
+        return []
+    def readEx(self, supabase:Client):
+        try:
+            data = supabase.table("kinkyu_card_market_raw_updated_index").select("master_id_list").execute()
             if len(data.data) == 0:
                 return []
             if data.data[0]['master_id_list'] == None:
