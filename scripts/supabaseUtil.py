@@ -64,6 +64,7 @@ class batchWriter:
     def write(self, supabase:Client, table_name:str, batch_item):
         try:
             supabase.table(table_name).upsert(batch_item).execute()
+            return True
         except httpx.ReadTimeout as e:
             print("httpx.ReadTimeout")
             print(e.args)
@@ -76,6 +77,7 @@ class batchWriter:
             print('Begin error data')
             print(batch_item)
             print('End error data')
+        return False
 
 # card_market_raw の読み取り用
 class marketRawReader:

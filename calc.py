@@ -91,6 +91,8 @@ for exp in expansion.getList():
                 if len(records) > 0:
                     recordDf = recordDf.sort_values(by=['datetime'], ascending=False) 
                     recordDf = recordDf[~recordDf.duplicated(subset=['market','date','name','link'],keep='first')]
+                else:
+                    recordDf = pd.DataFrame(columns=['market','link','price','name','date','datetime','stock'])
                 #print(recordDf)
                 dataDir = './data/marcket/'+master_id
                 if os.path.exists(dataDir) == False:
@@ -135,7 +137,8 @@ for exp in expansion.getList():
                 backup.delete(1)
             #print(batch_results)
             #print(batch_logs)
-            writer.write(supabase, "card_market_result", batch_results)
-            writer.write(supabase, "card_market_log", batch_logs)
+            result1 = writer.write(supabase, "card_market_result", batch_results)
+            result2 = writer.write(supabase, "card_market_log", batch_logs)
             # 削除
-            cleaner.delete(supabase,batch)
+            if result1 == True and result2 == True:
+                cleaner.delete(supabase,batch)
