@@ -47,7 +47,7 @@ for exp in expansion.getList():
         print('Write log no.:'+str(i))
         # 日次記録をファイルに書き込む
         for master_id in batch:
-            dataDir = './data/market/'+master_id
+            dataDir = './data/marcket/'+master_id
             if os.path.exists(dataDir) == False:
                 Path(dataDir).mkdir(parents=True, exist_ok=True)
             dailyCsv = marcketPrice.dailyPriceIOCSV(dataDir)
