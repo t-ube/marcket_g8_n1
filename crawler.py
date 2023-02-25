@@ -52,11 +52,11 @@ batch_master_id = []
 for exp in expansion.getList():
     print('check:'+exp)
     dfExp = pd.read_csv('./data/card/'+exp+'.csv', header=0, encoding='utf_8_sig')
-    if time.time() - start > 480:
+    if time.time() - start > 420:
         break
 
     for index, row in dfExp.iterrows():
-        if time.time() - start > 480:
+        if time.time() - start > 420:
             break
         if pd.isnull(row['master_id']):
             print('skip:'+row['name'])
