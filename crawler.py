@@ -1,6 +1,7 @@
 import os
 from selenium import webdriver
-import chromedriver_binary
+from webdriver_manager.chrome import ChromeDriverManager
+import requests
 import socket
 import time
 import pandas as pd
@@ -24,8 +25,11 @@ service_key: str = os.environ.get("SUPABASE_SERVICE_KEY")
 supabase: Client = create_client(url, key)
 supabase.postgrest.auth(service_key)
 
+#get_driver = GetChromeDriver()
+#get_driver.install()
+res = requests.get('https://chromedriver.storage.googleapis.com/LATEST_RELEASE')
+driver = webdriver.Chrome(ChromeDriverManager(res.text).install())
 
-driver = webdriver.Chrome()
 wrapper = wrap.seleniumDriverWrapper()
 wrapper.begin(driver)
 cardrushBot = cardrush.cardrushCsvBot()
